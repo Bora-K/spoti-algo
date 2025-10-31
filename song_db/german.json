@@ -1,0 +1,802 @@
+{
+    "17 Worte": {
+        "artists": "Thees Uhlmann",
+        "energy": 92.8,
+        "length": 227,
+        "name": "17 Worte",
+        "pop": 0,
+        "valence": 63.5
+    },
+    "36 Grad": {
+        "artists": "2raumwohnung",
+        "energy": 69.5,
+        "length": 231,
+        "name": "36 Grad",
+        "pop": 0,
+        "valence": 75.3
+    },
+    "A Little Party Never Killed Nobody (All We Got)": {
+        "artists": "Fergie",
+        "energy": 61.9,
+        "length": 241,
+        "name": "A Little Party Never Killed Nobody (All We Got)",
+        "pop": 64,
+        "valence": 51.6
+    },
+    "Alkohol": {
+        "artists": "Herbert Gr\u00f6nemeyer",
+        "energy": 79.4,
+        "length": 270,
+        "name": "Alkohol",
+        "pop": 0,
+        "valence": 97.1
+    },
+    "Amsterdam - 2010 Vollgas-Party-Mix": {
+        "artists": "Axel Fischer",
+        "energy": 99.2,
+        "length": 240,
+        "name": "Amsterdam - 2010 Vollgas-Party-Mix",
+        "pop": 42,
+        "valence": 66.3
+    },
+    "Anita": {
+        "artists": "Costa Cordalis",
+        "energy": 89.2,
+        "length": 187,
+        "name": "Anita",
+        "pop": 45,
+        "valence": 92.1
+    },
+    "Arbeit nervt": {
+        "artists": "Deichkind",
+        "energy": 56.4,
+        "length": 199,
+        "name": "Arbeit nervt",
+        "pop": 0,
+        "valence": 39.1
+    },
+    "Atemlos durch die Nacht": {
+        "artists": "Helene Fischer",
+        "energy": 73.8,
+        "length": 219,
+        "name": "Atemlos durch die Nacht",
+        "pop": 0,
+        "valence": 85.6
+    },
+    "Aufstehn! (feat. CeeLo Green)": {
+        "artists": "Seeed",
+        "energy": 83.0,
+        "length": 231,
+        "name": "Aufstehn! (feat. CeeLo Green)",
+        "pop": 33,
+        "valence": 87.3
+    },
+    "Baby du riechst": {
+        "artists": "257ers",
+        "energy": 91.4,
+        "length": 235,
+        "name": "Baby du riechst",
+        "pop": 0,
+        "valence": 47.4
+    },
+    "Baby, du siehst gut aus!": {
+        "artists": "Bakkushan",
+        "energy": 96.6,
+        "length": 188,
+        "name": "Baby, du siehst gut aus!",
+        "pop": 52,
+        "valence": 50.9
+    },
+    "Back in Time - featured in \"Men In Black 3\"": {
+        "artists": "Pitbull",
+        "energy": 91.0,
+        "length": 207,
+        "name": "Back in Time - featured in \"Men In Black 3\"",
+        "pop": 44,
+        "valence": 74.7
+    },
+    "Bella Vita - DJ Antoine vs Mad Mark 2k13 Radio Edit": {
+        "artists": "DJ Antoine",
+        "energy": 84.4,
+        "length": 204,
+        "name": "Bella Vita - DJ Antoine vs Mad Mark 2k13 Radio Edit",
+        "pop": 31,
+        "valence": 56.3
+    },
+    "Berlin City Girl": {
+        "artists": "Culcha Candela",
+        "energy": 81.4,
+        "length": 226,
+        "name": "Berlin City Girl",
+        "pop": 0,
+        "valence": 80.8
+    },
+    "Beweg dein Arsch": {
+        "artists": "Sido",
+        "energy": 65.4,
+        "length": 208,
+        "name": "Beweg dein Arsch",
+        "pop": 22,
+        "valence": 51.8
+    },
+    "Dancing in London - David May Radio Mix": {
+        "artists": "Patrick Miller",
+        "energy": 93.1,
+        "length": 208,
+        "name": "Dancing in London - David May Radio Mix",
+        "pop": 39,
+        "valence": 66.6
+    },
+    "Der Himmel brennt": {
+        "artists": "Wolfgang Petry",
+        "energy": 81.0,
+        "length": 203,
+        "name": "Der Himmel brennt",
+        "pop": 0,
+        "valence": 85.3
+    },
+    "Der Himmel soll warten - Unplugged Version": {
+        "artists": "Sido",
+        "energy": 90.6,
+        "length": 236,
+        "name": "Der Himmel soll warten - Unplugged Version",
+        "pop": 26,
+        "valence": 74.1
+    },
+    "Der letzte Tag": {
+        "artists": "Peter Fox",
+        "energy": 83.3,
+        "length": 223,
+        "name": "Der letzte Tag",
+        "pop": 60,
+        "valence": 81.7
+    },
+    "Diamonds": {
+        "artists": "Rihanna",
+        "energy": 67.4,
+        "length": 225,
+        "name": "Diamonds",
+        "pop": 0,
+        "valence": 36.9
+    },
+    "Diese Zwei": {
+        "artists": "Eko Fresh",
+        "energy": 74.5,
+        "length": 209,
+        "name": "Diese Zwei",
+        "pop": 0,
+        "valence": 72.1
+    },
+    "Don't Wake Me Up": {
+        "artists": "Chris Brown",
+        "energy": 69.1,
+        "length": 222,
+        "name": "Don't Wake Me Up",
+        "pop": 0,
+        "valence": 20.6
+    },
+    "Ein Jahr (Es geht voran)": {
+        "artists": "Fehlfarben",
+        "energy": 55.1,
+        "length": 175,
+        "name": "Ein Jahr (Es geht voran)",
+        "pop": 7,
+        "valence": 87.4
+    },
+    "Ein Kompliment - MTV Unplugged In New York": {
+        "artists": "Sportfreunde Stiller",
+        "energy": 76.1,
+        "length": 263,
+        "name": "Ein Kompliment - MTV Unplugged In New York",
+        "pop": 0,
+        "valence": 78.5
+    },
+    "Eines Tages": {
+        "artists": "AZAD",
+        "energy": 59.4,
+        "length": 221,
+        "name": "Eines Tages",
+        "pop": 0,
+        "valence": 23.4
+    },
+    "Einst\u00fcrzen Neubauen": {
+        "artists": "Max Herre",
+        "energy": 79.6,
+        "length": 197,
+        "name": "Einst\u00fcrzen Neubauen",
+        "pop": 18,
+        "valence": 79.5
+    },
+    "Feel This Moment (feat. Christina Aguilera)": {
+        "artists": "Pitbull",
+        "energy": 75.8,
+        "length": 230,
+        "name": "Feel This Moment (feat. Christina Aguilera)",
+        "pop": 56,
+        "valence": 53.1
+    },
+    "Friends": {
+        "artists": "Aura Dione",
+        "energy": 95.6,
+        "length": 222,
+        "name": "Friends",
+        "pop": 0,
+        "valence": 68.4
+    },
+    "F\u00fcchse": {
+        "artists": "Beginner",
+        "energy": 55.6,
+        "length": 275,
+        "name": "F\u00fcchse",
+        "pop": 52,
+        "valence": 59.9
+    },
+    "F\u00fcr immer und dich": {
+        "artists": "Jan Delay",
+        "energy": 26.9,
+        "length": 275,
+        "name": "F\u00fcr immer und dich",
+        "pop": 0,
+        "valence": 13.5
+    },
+    "Gambling Man - New Shorter Radio Edit, 12/04/2011": {
+        "artists": "The Overtones",
+        "energy": 83.8,
+        "length": 193,
+        "name": "Gambling Man - New Shorter Radio Edit, 12/04/2011",
+        "pop": 35,
+        "valence": 93.8
+    },
+    "Glasklar / Herzgl\u00fcht (feat. Yasha & Miss Platnum)": {
+        "artists": "Marteria",
+        "energy": 55.4,
+        "length": 369,
+        "name": "Glasklar / Herzgl\u00fcht (feat. Yasha & Miss Platnum)",
+        "pop": 31,
+        "valence": 23.9
+    },
+    "Halt dein Maul": {
+        "artists": "Sido",
+        "energy": 74.5,
+        "length": 201,
+        "name": "Halt dein Maul",
+        "pop": 26,
+        "valence": 93.5
+    },
+    "Halt dich an mir fest (feat. Marta Jandov\u00e1) - Duett Version": {
+        "artists": "Revolverheld",
+        "energy": 80.7,
+        "length": 211,
+        "name": "Halt dich an mir fest (feat. Marta Jandov\u00e1) - Duett Version",
+        "pop": 57,
+        "valence": 38.7
+    },
+    "Hol doch die Polizei": {
+        "artists": "Sido",
+        "energy": 75.4,
+        "length": 164,
+        "name": "Hol doch die Polizei",
+        "pop": 45,
+        "valence": 72.8
+    },
+    "Hungriges Herz": {
+        "artists": "Mia.",
+        "energy": 77.2,
+        "length": 261,
+        "name": "Hungriges Herz",
+        "pop": 48,
+        "valence": 96.0
+    },
+    "I'm All Yours": {
+        "artists": "Jay Sean",
+        "energy": 88.6,
+        "length": 219,
+        "name": "I'm All Yours",
+        "pop": 0,
+        "valence": 66.9
+    },
+    "Ich & meine Maske": {
+        "artists": "Sido",
+        "energy": 55.6,
+        "length": 240,
+        "name": "Ich & meine Maske",
+        "pop": 0,
+        "valence": 62.6
+    },
+    "Ich bin wie du": {
+        "artists": "Marianne Rosenberg",
+        "energy": 77.5,
+        "length": 218,
+        "name": "Ich bin wie du",
+        "pop": 48,
+        "valence": 59.1
+    },
+    "Ich hab\u00b4 getr\u00e4umt von Dir - Remastered": {
+        "artists": "Matthias Reim",
+        "energy": 80.6,
+        "length": 204,
+        "name": "Ich hab\u00b4 getr\u00e4umt von Dir - Remastered",
+        "pop": 0,
+        "valence": 70.2
+    },
+    "Ich werd' die Welt ver\u00e4ndern": {
+        "artists": "Revolverheld",
+        "energy": 91.2,
+        "length": 187,
+        "name": "Ich werd' die Welt ver\u00e4ndern",
+        "pop": 0,
+        "valence": 56.9
+    },
+    "Im Garten von Gettis": {
+        "artists": "Philipp Poisel",
+        "energy": 57.0,
+        "length": 209,
+        "name": "Im Garten von Gettis",
+        "pop": 0,
+        "valence": 62.2
+    },
+    "Irgendwie, irgendwo, irgendwann": {
+        "artists": "Nena",
+        "energy": 74.0,
+        "length": 249,
+        "name": "Irgendwie, irgendwo, irgendwann",
+        "pop": 0,
+        "valence": 56.8
+    },
+    "Jeder Tag zuviel": {
+        "artists": "Max Herre",
+        "energy": 81.2,
+        "length": 286,
+        "name": "Jeder Tag zuviel",
+        "pop": 19,
+        "valence": 82.1
+    },
+    "Jemanden wie dich": {
+        "artists": "Johannes Oerding",
+        "energy": 78.5,
+        "length": 235,
+        "name": "Jemanden wie dich",
+        "pop": 32,
+        "valence": 40.5
+    },
+    "Kein Liebeslied": {
+        "artists": "Kraftklub",
+        "energy": 61.3,
+        "length": 258,
+        "name": "Kein Liebeslied",
+        "pop": 61,
+        "valence": 67.5
+    },
+    "Keine wie du": {
+        "artists": "Laith Al-Deen",
+        "energy": 60.6,
+        "length": 181,
+        "name": "Keine wie du",
+        "pop": 19,
+        "valence": 60.9
+    },
+    "Lena.": {
+        "artists": "Pur",
+        "energy": 93.2,
+        "length": 270,
+        "name": "Lena.",
+        "pop": 0,
+        "valence": 88.3
+    },
+    "Let Me Love You (Until You Learn To Love Yourself)": {
+        "artists": "Ne-Yo",
+        "energy": 68.3,
+        "length": 254,
+        "name": "Let Me Love You (Until You Learn To Love Yourself)",
+        "pop": 0,
+        "valence": 29.9
+    },
+    "Levels - Radio Edit": {
+        "artists": "Avicii",
+        "energy": 88.1,
+        "length": 200,
+        "name": "Levels - Radio Edit",
+        "pop": 1,
+        "valence": 41.5
+    },
+    "Liebe ist meine Rebellion - Radio Version": {
+        "artists": "Frida Gold",
+        "energy": 74.4,
+        "length": 213,
+        "name": "Liebe ist meine Rebellion - Radio Version",
+        "pop": 37,
+        "valence": 59.9
+    },
+    "Liebes Lied": {
+        "artists": "Beginner",
+        "energy": 52.0,
+        "length": 254,
+        "name": "Liebes Lied",
+        "pop": 52,
+        "valence": 62.6
+    },
+    "Liebesbrief": {
+        "artists": "Thomas D",
+        "energy": 65.0,
+        "length": 332,
+        "name": "Liebesbrief",
+        "pop": 38,
+        "valence": 50.9
+    },
+    "Locked out of Heaven": {
+        "artists": "Bruno Mars",
+        "energy": 69.8,
+        "length": 233,
+        "name": "Locked out of Heaven",
+        "pop": 46,
+        "valence": 86.7
+    },
+    "Mambo": {
+        "artists": "Herbert Gr\u00f6nemeyer",
+        "energy": 88.8,
+        "length": 169,
+        "name": "Mambo",
+        "pop": 52,
+        "valence": 83.6
+    },
+    "Mehr davon": {
+        "artists": "Tim Bendzko",
+        "energy": 38.9,
+        "length": 213,
+        "name": "Mehr davon",
+        "pop": 23,
+        "valence": 64.0
+    },
+    "Meine Soldaten": {
+        "artists": "Maxim",
+        "energy": 84.6,
+        "length": 206,
+        "name": "Meine Soldaten",
+        "pop": 34,
+        "valence": 60.4
+    },
+    "Mit dir (feat. Joy Denalane)": {
+        "artists": "Freundeskreis",
+        "energy": 59.5,
+        "length": 281,
+        "name": "Mit dir (feat. Joy Denalane)",
+        "pop": 46,
+        "valence": 51.8
+    },
+    "Neue Bugatti": {
+        "artists": "Summer Cem",
+        "energy": 71.2,
+        "length": 183,
+        "name": "Neue Bugatti",
+        "pop": 0,
+        "valence": 58.5
+    },
+    "Neue M\u00e4nner braucht das Land": {
+        "artists": "Ina Deter Band",
+        "energy": 79.4,
+        "length": 228,
+        "name": "Neue M\u00e4nner braucht das Land",
+        "pop": 0,
+        "valence": 81.5
+    },
+    "Next To Me": {
+        "artists": "Emeli Sand\u00e9",
+        "energy": 81.0,
+        "length": 197,
+        "name": "Next To Me",
+        "pop": 58,
+        "valence": 39.1
+    },
+    "November": {
+        "artists": "Juli",
+        "energy": 56.7,
+        "length": 178,
+        "name": "November",
+        "pop": 0,
+        "valence": 31.7
+    },
+    "Ohne Dich (schlaf' ich heut Nacht nicht ein)": {
+        "artists": "M\u00fcnchener Freiheit",
+        "energy": 75.0,
+        "length": 246,
+        "name": "Ohne Dich (schlaf' ich heut Nacht nicht ein)",
+        "pop": 51,
+        "valence": 33.0
+    },
+    "Ohne dich": {
+        "artists": "Selig",
+        "energy": 33.6,
+        "length": 312,
+        "name": "Ohne dich",
+        "pop": 26,
+        "valence": 28.9
+    },
+    "Pflaster": {
+        "artists": "Ich + Ich",
+        "energy": 87.3,
+        "length": 204,
+        "name": "Pflaster",
+        "pop": 0,
+        "valence": 39.7
+    },
+    "Rack City": {
+        "artists": "Tyga",
+        "energy": 33.0,
+        "length": 209,
+        "name": "Rack City",
+        "pop": 0,
+        "valence": 25.1
+    },
+    "Rayos De Sol (feat. Henry Mendez) - Original Mix": {
+        "artists": "Jos\u00e9 de Rico",
+        "energy": 87.2,
+        "length": 232,
+        "name": "Rayos De Sol (feat. Henry Mendez) - Original Mix",
+        "pop": 0,
+        "valence": 88.2
+    },
+    "Remmidemmi (Yippie Yippie Yeah)": {
+        "artists": "Deichkind",
+        "energy": 59.9,
+        "length": 281,
+        "name": "Remmidemmi (Yippie Yippie Yeah)",
+        "pop": 0,
+        "valence": 30.8
+    },
+    "Rodeo": {
+        "artists": "Sido feat. Peter Fox (SEEED)",
+        "energy": 58.5,
+        "length": 195,
+        "name": "Rodeo",
+        "pop": 0,
+        "valence": 55.1
+    },
+    "Royals": {
+        "artists": "Lorde",
+        "energy": 42.8,
+        "length": 190,
+        "name": "Royals",
+        "pop": 82,
+        "valence": 33.7
+    },
+    "Sag einfach ja": {
+        "artists": "Tim Bendzko",
+        "energy": 73.1,
+        "length": 175,
+        "name": "Sag einfach ja",
+        "pop": 39,
+        "valence": 91.1
+    },
+    "Schatz, du Arschloch!": {
+        "artists": "Weekend",
+        "energy": 73.7,
+        "length": 178,
+        "name": "Schatz, du Arschloch!",
+        "pop": 0,
+        "valence": 93.3
+    },
+    "Scream & Shout": {
+        "artists": "will.i.am",
+        "energy": 61.6,
+        "length": 284,
+        "name": "Scream & Shout",
+        "pop": 0,
+        "valence": 47.3
+    },
+    "She Makes Me Go (feat. Sean Paul) - Radio Edit": {
+        "artists": "Arash",
+        "energy": 90.4,
+        "length": 179,
+        "name": "She Makes Me Go (feat. Sean Paul) - Radio Edit",
+        "pop": 52,
+        "valence": 46.8
+    },
+    "Sky and Sand": {
+        "artists": "Paul Kalkbrenner",
+        "energy": 32.9,
+        "length": 230,
+        "name": "Sky and Sand",
+        "pop": 0,
+        "valence": 52.6
+    },
+    "Slow It Down": {
+        "artists": "Amy Macdonald",
+        "energy": 89.6,
+        "length": 233,
+        "name": "Slow It Down",
+        "pop": 0,
+        "valence": 49.9
+    },
+    "So cool bist du nicht (feat. Lisa Who)": {
+        "artists": "Madsen",
+        "energy": 51.0,
+        "length": 245,
+        "name": "So cool bist du nicht (feat. Lisa Who)",
+        "pop": 36,
+        "valence": 25.5
+    },
+    "So soll es bleiben - Single Edit": {
+        "artists": "Ich + Ich",
+        "energy": 85.6,
+        "length": 223,
+        "name": "So soll es bleiben - Single Edit",
+        "pop": 0,
+        "valence": 39.6
+    },
+    "Sonderzug nach Pankow": {
+        "artists": "Udo Lindenberg & Das Panik-Orchester",
+        "energy": 85.9,
+        "length": 214,
+        "name": "Sonderzug nach Pankow",
+        "pop": 46,
+        "valence": 92.4
+    },
+    "Stadt": {
+        "artists": "Cassandra Steen",
+        "energy": 78.0,
+        "length": 185,
+        "name": "Stadt",
+        "pop": 61,
+        "valence": 76.2
+    },
+    "Sternenhimmel": {
+        "artists": "Hubert Kah",
+        "energy": 83.3,
+        "length": 185,
+        "name": "Sternenhimmel",
+        "pop": 0,
+        "valence": 95.5
+    },
+    "Stimmen im Wind": {
+        "artists": "Juliane Werding",
+        "energy": 81.0,
+        "length": 260,
+        "name": "Stimmen im Wind",
+        "pop": 32,
+        "valence": 57.3
+    },
+    "Tage Wie Diese": {
+        "artists": "Studio Allstars",
+        "energy": 32.2,
+        "length": 272,
+        "name": "Tage Wie Diese",
+        "pop": 13,
+        "valence": 25.9
+    },
+    "The Monster": {
+        "artists": "Eminem",
+        "energy": 85.0,
+        "length": 250,
+        "name": "The Monster",
+        "pop": 0,
+        "valence": 56.7
+    },
+    "Und es war Sommer": {
+        "artists": "Peter Maffay",
+        "energy": 43.7,
+        "length": 246,
+        "name": "Und es war Sommer",
+        "pop": 0,
+        "valence": 49.8
+    },
+    "Unter die Haut (feat. Cassandra Steen)": {
+        "artists": "Tim Bendzko",
+        "energy": 65.3,
+        "length": 238,
+        "name": "Unter die Haut (feat. Cassandra Steen)",
+        "pop": 22,
+        "valence": 36.3
+    },
+    "Up In The Air": {
+        "artists": "Thirty Seconds To Mars",
+        "energy": 82.6,
+        "length": 277,
+        "name": "Up In The Air",
+        "pop": 0,
+        "valence": 42.2
+    },
+    "Verschwende mich": {
+        "artists": "OK KID",
+        "energy": 87.6,
+        "length": 224,
+        "name": "Verschwende mich",
+        "pop": 40,
+        "valence": 33.7
+    },
+    "Vier Leben": {
+        "artists": "Bosse",
+        "energy": 53.1,
+        "length": 238,
+        "name": "Vier Leben",
+        "pop": 27,
+        "valence": 43.0
+    },
+    "Wahnsinn": {
+        "artists": "Wolfgang Petry",
+        "energy": 81.9,
+        "length": 224,
+        "name": "Wahnsinn",
+        "pop": 0,
+        "valence": 94.7
+    },
+    "Was soll das": {
+        "artists": "Herbert Gr\u00f6nemeyer",
+        "energy": 92.2,
+        "length": 288,
+        "name": "Was soll das",
+        "pop": 45,
+        "valence": 98.3
+    },
+    "Weinst Du": {
+        "artists": "Echt",
+        "energy": 49.0,
+        "length": 252,
+        "name": "Weinst Du",
+        "pop": 50,
+        "valence": 21.7
+    },
+    "Wenn jetzt Sommer w\u00e4r": {
+        "artists": "Pohlmann.",
+        "energy": 52.9,
+        "length": 225,
+        "name": "Wenn jetzt Sommer w\u00e4r",
+        "pop": 52,
+        "valence": 54.0
+    },
+    "Wide Awake": {
+        "artists": "Katy Perry",
+        "energy": 68.3,
+        "length": 221,
+        "name": "Wide Awake",
+        "pop": 72,
+        "valence": 57.5
+    },
+    "Wild Ones (feat. Sia)": {
+        "artists": "Flo Rida",
+        "energy": 88.9,
+        "length": 234,
+        "name": "Wild Ones (feat. Sia)",
+        "pop": 56,
+        "valence": 45.0
+    },
+    "Wo f\u00e4ngt dein Himmel an": {
+        "artists": "Philipp Poisel",
+        "energy": 57.3,
+        "length": 273,
+        "name": "Wo f\u00e4ngt dein Himmel an",
+        "pop": 0,
+        "valence": 65.0
+    },
+    "Wunder": {
+        "artists": "Andreas Bourani",
+        "energy": 75.9,
+        "length": 250,
+        "name": "Wunder",
+        "pop": 0,
+        "valence": 24.3
+    },
+    "Wundersch\u00f6ne Frau": {
+        "artists": "Alligatoah",
+        "energy": 88.4,
+        "length": 223,
+        "name": "Wundersch\u00f6ne Frau",
+        "pop": 0,
+        "valence": 79.8
+    },
+    "Young, Wild & Free (feat. Bruno Mars)": {
+        "artists": "Snoop Dogg",
+        "energy": 65.5,
+        "length": 207,
+        "name": "Young, Wild & Free (feat. Bruno Mars)",
+        "pop": 80,
+        "valence": 53.1
+    },
+    "Zeig mir wie du tanzt": {
+        "artists": "Frida Gold",
+        "energy": 90.5,
+        "length": 245,
+        "name": "Zeig mir wie du tanzt",
+        "pop": 14,
+        "valence": 68.0
+    }
+}

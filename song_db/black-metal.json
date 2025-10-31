@@ -1,0 +1,802 @@
+{
+    "Alt Lys Er Svunnet Hen": {
+        "artists": "Dimmu Borgir",
+        "energy": 88.1,
+        "length": 368,
+        "name": "Alt Lys Er Svunnet Hen",
+        "pop": 32,
+        "valence": 14.0
+    },
+    "An Eternal Kingdom of Fire": {
+        "artists": "Judas Iscariot",
+        "energy": 96.3,
+        "length": 476,
+        "name": "An Eternal Kingdom of Fire",
+        "pop": 23,
+        "valence": 3.74
+    },
+    "Antarctica": {
+        "artists": "Immortal",
+        "energy": 96.3,
+        "length": 431,
+        "name": "Antarctica",
+        "pop": 0,
+        "valence": 6.08
+    },
+    "As The Eternity Opens": {
+        "artists": "Immortal",
+        "energy": 97.0,
+        "length": 331,
+        "name": "As The Eternity Opens",
+        "pop": 27,
+        "valence": 3.91
+    },
+    "Astral Blood": {
+        "artists": "Wolves In The Throne Room",
+        "energy": 91.6,
+        "length": 616,
+        "name": "Astral Blood",
+        "pop": 19,
+        "valence": 5.73
+    },
+    "At The Fathomless Depths": {
+        "artists": "Dissection",
+        "energy": 42.1,
+        "length": 116,
+        "name": "At The Fathomless Depths",
+        "pop": 0,
+        "valence": 52.9
+    },
+    "Atomic Chapel": {
+        "artists": "1349",
+        "energy": 91.9,
+        "length": 391,
+        "name": "Atomic Chapel",
+        "pop": 0,
+        "valence": 4.31
+    },
+    "Beyond The Great Vast Forest": {
+        "artists": "Emperor",
+        "energy": 89.5,
+        "length": 361,
+        "name": "Beyond The Great Vast Forest",
+        "pop": 0,
+        "valence": 21.8
+    },
+    "Black Lava": {
+        "artists": "Satyricon",
+        "energy": 82.8,
+        "length": 872,
+        "name": "Black Lava",
+        "pop": 18,
+        "valence": 27.8
+    },
+    "Blant soelv & gull i moerket": {
+        "artists": "Taake",
+        "energy": 99.0,
+        "length": 416,
+        "name": "Blant soelv & gull i moerket",
+        "pop": 0,
+        "valence": 3.2
+    },
+    "Blodhemn": {
+        "artists": "Enslaved",
+        "energy": 97.2,
+        "length": 333,
+        "name": "Blodhemn",
+        "pop": 10,
+        "valence": 3.97
+    },
+    "Broderskapets Ring": {
+        "artists": "Dimmu Borgir",
+        "energy": 96.0,
+        "length": 331,
+        "name": "Broderskapets Ring",
+        "pop": 0,
+        "valence": 19.0
+    },
+    "Canadian Metal": {
+        "artists": "Darkthrone",
+        "energy": 98.5,
+        "length": 281,
+        "name": "Canadian Metal",
+        "pop": 0,
+        "valence": 10.5
+    },
+    "Channelling The Power Of Souls Into A New God": {
+        "artists": "Burzum",
+        "energy": 31.6,
+        "length": 240,
+        "name": "Channelling The Power Of Souls Into A New God",
+        "pop": 0,
+        "valence": 19.6
+    },
+    "Chosen By No One": {
+        "artists": "Nachtmystium",
+        "energy": 97.3,
+        "length": 422,
+        "name": "Chosen By No One",
+        "pop": 0,
+        "valence": 7.21
+    },
+    "Cleansing Fire": {
+        "artists": "Gorgoroth",
+        "energy": 98.6,
+        "length": 193,
+        "name": "Cleansing Fire",
+        "pop": 0,
+        "valence": 8.79
+    },
+    "Cosmic Keys To My Creations And Times": {
+        "artists": "Emperor",
+        "energy": 96.4,
+        "length": 366,
+        "name": "Cosmic Keys To My Creations And Times",
+        "pop": 0,
+        "valence": 3.85
+    },
+    "De Underjordiske": {
+        "artists": "Darkthrone",
+        "energy": 99.2,
+        "length": 194,
+        "name": "De Underjordiske",
+        "pop": 0,
+        "valence": 3.59
+    },
+    "Deathcrush - Live in Leipzig": {
+        "artists": "Mayhem",
+        "energy": 99.6,
+        "length": 279,
+        "name": "Deathcrush - Live in Leipzig",
+        "pop": 0,
+        "valence": 1.8
+    },
+    "Declaration Of Hate": {
+        "artists": "Dark Funeral",
+        "energy": 97.7,
+        "length": 322,
+        "name": "Declaration Of Hate",
+        "pop": 0,
+        "valence": 3.56
+    },
+    "Demonoir": {
+        "artists": "1349",
+        "energy": 76.9,
+        "length": 387,
+        "name": "Demonoir",
+        "pop": 0,
+        "valence": 25.6
+    },
+    "Der Tod Wuotans": {
+        "artists": "Burzum",
+        "energy": 31.3,
+        "length": 403,
+        "name": "Der Tod Wuotans",
+        "pop": 29,
+        "valence": 3.97
+    },
+    "Devil's Blood": {
+        "artists": "Watain",
+        "energy": 96.9,
+        "length": 354,
+        "name": "Devil's Blood",
+        "pop": 0,
+        "valence": 7.1
+    },
+    "Dodsferd": {
+        "artists": "Dimmu Borgir",
+        "energy": 97.4,
+        "length": 330,
+        "name": "Dodsferd",
+        "pop": 21,
+        "valence": 6.07
+    },
+    "Dream Of A Dead Sun": {
+        "artists": "ColdWorld",
+        "energy": 28.4,
+        "length": 455,
+        "name": "Dream Of A Dead Sun",
+        "pop": 0,
+        "valence": 3.34
+    },
+    "Dreams Of Blood And Iron": {
+        "artists": "Marduk",
+        "energy": 94.7,
+        "length": 380,
+        "name": "Dreams Of Blood And Iron",
+        "pop": 0,
+        "valence": 34.0
+    },
+    "Ecailles de lune - Part 1": {
+        "artists": "Alcest",
+        "energy": 74.3,
+        "length": 592,
+        "name": "Ecailles de lune - Part 1",
+        "pop": 0,
+        "valence": 14.1
+    },
+    "Empty": {
+        "artists": "Emperor",
+        "energy": 95.7,
+        "length": 256,
+        "name": "Empty",
+        "pop": 0,
+        "valence": 3.96
+    },
+    "En As I Dype Skogen": {
+        "artists": "Darkthrone",
+        "energy": 99.9,
+        "length": 302,
+        "name": "En As I Dype Skogen",
+        "pop": 0,
+        "valence": 1.96
+    },
+    "Equimanthorn": {
+        "artists": "Bathory",
+        "energy": 99.4,
+        "length": 220,
+        "name": "Equimanthorn",
+        "pop": 0,
+        "valence": 3.57
+    },
+    "Escape": {
+        "artists": "ColdWorld",
+        "energy": 38.9,
+        "length": 455,
+        "name": "Escape",
+        "pop": 0,
+        "valence": 3.24
+    },
+    "From Subterranean Throne Profound": {
+        "artists": "Marduk",
+        "energy": 97.4,
+        "length": 467,
+        "name": "From Subterranean Throne Profound",
+        "pop": 0,
+        "valence": 3.94
+    },
+    "Funeral Procession": {
+        "artists": "Gorgoroth",
+        "energy": 95.1,
+        "length": 181,
+        "name": "Funeral Procession",
+        "pop": 0,
+        "valence": 3.94
+    },
+    "Galgvidr": {
+        "artists": "Burzum",
+        "energy": 31.9,
+        "length": 433,
+        "name": "Galgvidr",
+        "pop": 18,
+        "valence": 13.3
+    },
+    "Glittertind": {
+        "artists": "Dimmu Borgir",
+        "energy": 93.8,
+        "length": 313,
+        "name": "Glittertind",
+        "pop": 0,
+        "valence": 7.43
+    },
+    "God Of Forbidden Light": {
+        "artists": "Dissection",
+        "energy": 87.0,
+        "length": 222,
+        "name": "God Of Forbidden Light",
+        "pop": 0,
+        "valence": 70.3
+    },
+    "Goddess Of Sodomy": {
+        "artists": "Dark Funeral",
+        "energy": 97.6,
+        "length": 252,
+        "name": "Goddess Of Sodomy",
+        "pop": 0,
+        "valence": 3.83
+    },
+    "Gypsy": {
+        "artists": "Emperor",
+        "energy": 96.6,
+        "length": 176,
+        "name": "Gypsy",
+        "pop": 0,
+        "valence": 7.35
+    },
+    "Harvest": {
+        "artists": "Naglfar",
+        "energy": 85.1,
+        "length": 430,
+        "name": "Harvest",
+        "pop": 0,
+        "valence": 11.1
+    },
+    "Her Ghost In The Fog": {
+        "artists": "Cradle Of Filth",
+        "energy": 99.6,
+        "length": 385,
+        "name": "Her Ghost In The Fog",
+        "pop": 0,
+        "valence": 3.81
+    },
+    "Hordalands Doedskvad part III": {
+        "artists": "Taake",
+        "energy": 83.7,
+        "length": 376,
+        "name": "Hordalands Doedskvad part III",
+        "pop": 0,
+        "valence": 11.1
+    },
+    "Hordalands Doedskvad part V": {
+        "artists": "Taake",
+        "energy": 87.2,
+        "length": 364,
+        "name": "Hordalands Doedskvad part V",
+        "pop": 0,
+        "valence": 3.61
+    },
+    "Hunnerkongens Sorgsvarte Ferd Over Steppene": {
+        "artists": "Dimmu Borgir",
+        "energy": 88.1,
+        "length": 202,
+        "name": "Hunnerkongens Sorgsvarte Ferd Over Steppene",
+        "pop": 0,
+        "valence": 16.2
+    },
+    "Immortality Passion": {
+        "artists": "Satyricon",
+        "energy": 94.1,
+        "length": 500,
+        "name": "Immortality Passion",
+        "pop": 0,
+        "valence": 8.83
+    },
+    "In Death's Embrace": {
+        "artists": "Dimmu Borgir",
+        "energy": 90.4,
+        "length": 342,
+        "name": "In Death's Embrace",
+        "pop": 0,
+        "valence": 16.4
+    },
+    "Ineffable King Of Darkness": {
+        "artists": "Dark Funeral",
+        "energy": 52.0,
+        "length": 218,
+        "name": "Ineffable King Of Darkness",
+        "pop": 0,
+        "valence": 2.98
+    },
+    "Inn I Evighetens Morke - / Part 1": {
+        "artists": "Dimmu Borgir",
+        "energy": 61.7,
+        "length": 325,
+        "name": "Inn I Evighetens Morke - / Part 1",
+        "pop": 0,
+        "valence": 7.2
+    },
+    "Inno A Satana": {
+        "artists": "Emperor",
+        "energy": 91.2,
+        "length": 289,
+        "name": "Inno A Satana",
+        "pop": 0,
+        "valence": 6.26
+    },
+    "Internal Winter": {
+        "artists": "1349",
+        "energy": 98.4,
+        "length": 461,
+        "name": "Internal Winter",
+        "pop": 0,
+        "valence": 3.92
+    },
+    "Into Second Death": {
+        "artists": "Marduk",
+        "energy": 98.3,
+        "length": 311,
+        "name": "Into Second Death",
+        "pop": 0,
+        "valence": 3.57
+    },
+    "Intro: Twilight Dimension": {
+        "artists": "Darkthrone",
+        "energy": 27.2,
+        "length": 47,
+        "name": "Intro: Twilight Dimension",
+        "pop": 0,
+        "valence": 17.0
+    },
+    "King Antichrist": {
+        "artists": "Dark Funeral",
+        "energy": 97.7,
+        "length": 280,
+        "name": "King Antichrist",
+        "pop": 0,
+        "valence": 3.51
+    },
+    "Kiss of Death": {
+        "artists": "Watain",
+        "energy": 87.4,
+        "length": 466,
+        "name": "Kiss of Death",
+        "pop": 0,
+        "valence": 12.6
+    },
+    "Knokkelmann": {
+        "artists": "Carpathian Forest",
+        "energy": 92.1,
+        "length": 222,
+        "name": "Knokkelmann",
+        "pop": 0,
+        "valence": 28.1
+    },
+    "Life's Emblem": {
+        "artists": "Marduk",
+        "energy": 98.6,
+        "length": 295,
+        "name": "Life's Emblem",
+        "pop": 0,
+        "valence": 6.16
+    },
+    "Live Like an Angel": {
+        "artists": "Venom",
+        "energy": 94.2,
+        "length": 238,
+        "name": "Live Like an Angel",
+        "pop": 0,
+        "valence": 5.95
+    },
+    "L\u00e5t Oss Ta Allt Fr\u00e5n Varandra": {
+        "artists": "Shining",
+        "energy": 90.5,
+        "length": 365,
+        "name": "L\u00e5t Oss Ta Allt Fr\u00e5n Varandra",
+        "pop": 36,
+        "valence": 4.14
+    },
+    "Malice Through the Looking Glass": {
+        "artists": "Cradle Of Filth",
+        "energy": 63.8,
+        "length": 331,
+        "name": "Malice Through the Looking Glass",
+        "pop": 32,
+        "valence": 26.4
+    },
+    "Manannan": {
+        "artists": "Absu",
+        "energy": 99.8,
+        "length": 399,
+        "name": "Manannan",
+        "pop": 19,
+        "valence": 3.55
+    },
+    "Materialized In Stone": {
+        "artists": "Marduk",
+        "energy": 98.8,
+        "length": 309,
+        "name": "Materialized In Stone",
+        "pop": 0,
+        "valence": 10.9
+    },
+    "Motpol": {
+        "artists": "Taake",
+        "energy": 69.8,
+        "length": 312,
+        "name": "Motpol",
+        "pop": 0,
+        "valence": 30.5
+    },
+    "Nexion 218": {
+        "artists": "Dissection",
+        "energy": 71.7,
+        "length": 92,
+        "name": "Nexion 218",
+        "pop": 0,
+        "valence": 18.0
+    },
+    "Now, Diabolical": {
+        "artists": "Satyricon",
+        "energy": 95.9,
+        "length": 331,
+        "name": "Now, Diabolical",
+        "pop": 0,
+        "valence": 27.2
+    },
+    "Ode": {
+        "artists": "Bathory",
+        "energy": 89.6,
+        "length": 387,
+        "name": "Ode",
+        "pop": 0,
+        "valence": 22.7
+    },
+    "Once Emperor": {
+        "artists": "Burzum",
+        "energy": 98.9,
+        "length": 374,
+        "name": "Once Emperor",
+        "pop": 0,
+        "valence": 2.87
+    },
+    "Ora Pro Nobis Lucifer": {
+        "artists": "Behemoth",
+        "energy": 98.6,
+        "length": 335,
+        "name": "Ora Pro Nobis Lucifer",
+        "pop": 0,
+        "valence": 5.91
+    },
+    "Path to Vanir": {
+        "artists": "Enslaved",
+        "energy": 79.9,
+        "length": 265,
+        "name": "Path to Vanir",
+        "pop": 20,
+        "valence": 23.5
+    },
+    "Puzzles ov Flesh": {
+        "artists": "Watain",
+        "energy": 97.8,
+        "length": 343,
+        "name": "Puzzles ov Flesh",
+        "pop": 0,
+        "valence": 5.46
+    },
+    "Ridicule Swarm": {
+        "artists": "Enslaved",
+        "energy": 94.9,
+        "length": 379,
+        "name": "Ridicule Swarm",
+        "pop": 17,
+        "valence": 15.5
+    },
+    "Satanic Black Devotion": {
+        "artists": "Sargeist",
+        "energy": 99.8,
+        "length": 341,
+        "name": "Satanic Black Devotion",
+        "pop": 30,
+        "valence": 3.19
+    },
+    "Sons of northern darkness": {
+        "artists": "Immortal",
+        "energy": 95.1,
+        "length": 285,
+        "name": "Sons of northern darkness",
+        "pop": 0,
+        "valence": 16.1
+    },
+    "Spell Of Destruction": {
+        "artists": "Burzum",
+        "energy": 56.0,
+        "length": 299,
+        "name": "Spell Of Destruction",
+        "pop": 0,
+        "valence": 19.5
+    },
+    "Sworn - Revamped by Ulver": {
+        "artists": "Emperor",
+        "energy": 99.8,
+        "length": 340,
+        "name": "Sworn - Revamped by Ulver",
+        "pop": 0,
+        "valence": 3.85
+    },
+    "Sympozium": {
+        "artists": "Dimmu Borgir",
+        "energy": 92.6,
+        "length": 314,
+        "name": "Sympozium",
+        "pop": 0,
+        "valence": 26.7
+    },
+    "Temptation": {
+        "artists": "Cradle Of Filth",
+        "energy": 92.5,
+        "length": 228,
+        "name": "Temptation",
+        "pop": 46,
+        "valence": 59.3
+    },
+    "The Burial Mound Of King Hydnes": {
+        "artists": "Windir",
+        "energy": 93.6,
+        "length": 397,
+        "name": "The Burial Mound Of King Hydnes",
+        "pop": 0,
+        "valence": 12.4
+    },
+    "The Claws of Time": {
+        "artists": "Darkthrone",
+        "energy": 86.7,
+        "length": 423,
+        "name": "The Claws of Time",
+        "pop": 0,
+        "valence": 5.4
+    },
+    "The Darkness That Embraces Me": {
+        "artists": "Immortal",
+        "energy": 95.6,
+        "length": 278,
+        "name": "The Darkness That Embraces Me",
+        "pop": 25,
+        "valence": 18.3
+    },
+    "The Golden Walls Of Heaven": {
+        "artists": "Bathory",
+        "energy": 97.0,
+        "length": 323,
+        "name": "The Golden Walls Of Heaven",
+        "pop": 0,
+        "valence": 3.74
+    },
+    "The Rite of Our Cross": {
+        "artists": "Satyricon",
+        "energy": 93.0,
+        "length": 346,
+        "name": "The Rite of Our Cross",
+        "pop": 0,
+        "valence": 21.4
+    },
+    "The Secrets Of The Black Arts": {
+        "artists": "Dark Funeral",
+        "energy": 95.0,
+        "length": 221,
+        "name": "The Secrets Of The Black Arts",
+        "pop": 0,
+        "valence": 3.94
+    },
+    "The Sighting Is a Portent of Doom": {
+        "artists": "Carach Angren",
+        "energy": 88.9,
+        "length": 248,
+        "name": "The Sighting Is a Portent of Doom",
+        "pop": 0,
+        "valence": 7.13
+    },
+    "The Struggle": {
+        "artists": "Windir",
+        "energy": 97.0,
+        "length": 397,
+        "name": "The Struggle",
+        "pop": 0,
+        "valence": 36.9
+    },
+    "Through the Halls of Eternity": {
+        "artists": "Immortal",
+        "energy": 99.7,
+        "length": 216,
+        "name": "Through the Halls of Eternity",
+        "pop": 22,
+        "valence": 1.7
+    },
+    "Tomhet": {
+        "artists": "Burzum",
+        "energy": 2.91,
+        "length": 852,
+        "name": "Tomhet",
+        "pop": 33,
+        "valence": 3.83
+    },
+    "Tonight in Flames": {
+        "artists": "Cradle Of Filth",
+        "energy": 94.3,
+        "length": 356,
+        "name": "Tonight in Flames",
+        "pop": 29,
+        "valence": 45.2
+    },
+    "Too Old Too Cold": {
+        "artists": "Darkthrone",
+        "energy": 99.7,
+        "length": 181,
+        "name": "Too Old Too Cold",
+        "pop": 0,
+        "valence": 3.97
+    },
+    "Total Destruction": {
+        "artists": "Bathory",
+        "energy": 97.1,
+        "length": 231,
+        "name": "Total Destruction",
+        "pop": 0,
+        "valence": 27.0
+    },
+    "Tuistos Herz": {
+        "artists": "Burzum",
+        "energy": 30.5,
+        "length": 373,
+        "name": "Tuistos Herz",
+        "pop": 27,
+        "valence": 3.56
+    },
+    "Turn the Sign of the Microcosm (Snu Mikrokosmos' Tegn)": {
+        "artists": "Burzum",
+        "energy": 90.2,
+        "length": 590,
+        "name": "Turn the Sign of the Microcosm (Snu Mikrokosmos' Tegn)",
+        "pop": 15,
+        "valence": 4.46
+    },
+    "Tyster P\u00e5 Gud": {
+        "artists": "Darkthrone",
+        "energy": 99.6,
+        "length": 189,
+        "name": "Tyster P\u00e5 Gud",
+        "pop": 0,
+        "valence": 3.98
+    },
+    "Unearthly Kingdom": {
+        "artists": "Immortal",
+        "energy": 87.5,
+        "length": 511,
+        "name": "Unearthly Kingdom",
+        "pop": 0,
+        "valence": 9.33
+    },
+    "Unhallowed": {
+        "artists": "Dissection",
+        "energy": 96.7,
+        "length": 449,
+        "name": "Unhallowed",
+        "pop": 0,
+        "valence": 3.6
+    },
+    "Velg bort livet": {
+        "artists": "Taake",
+        "energy": 81.1,
+        "length": 638,
+        "name": "Velg bort livet",
+        "pop": 0,
+        "valence": 3.8
+    },
+    "Vredesbyrd": {
+        "artists": "Dimmu Borgir",
+        "energy": 95.6,
+        "length": 285,
+        "name": "Vredesbyrd",
+        "pop": 0,
+        "valence": 9.88
+    },
+    "War": {
+        "artists": "Bathory",
+        "energy": 64.3,
+        "length": 136,
+        "name": "War",
+        "pop": 0,
+        "valence": 24.8
+    },
+    "Wound Upon Wound": {
+        "artists": "Gorgoroth",
+        "energy": 88.5,
+        "length": 211,
+        "name": "Wound Upon Wound",
+        "pop": 0,
+        "valence": 14.6
+    },
+    "Yttligare Ett Steg N\u00e4rmare Total J\u00e4vla Utfrysning": {
+        "artists": "Shining",
+        "energy": 84.0,
+        "length": 383,
+        "name": "Yttligare Ett Steg N\u00e4rmare Total J\u00e4vla Utfrysning",
+        "pop": 30,
+        "valence": 25.8
+    },
+    "vi. Keilohesten": {
+        "artists": "Burzum",
+        "energy": 91.7,
+        "length": 345,
+        "name": "vi. Keilohesten",
+        "pop": 26,
+        "valence": 5.3
+    },
+    "\u00d8deleggelse og Undergang": {
+        "artists": "Gorgoroth",
+        "energy": 97.3,
+        "length": 268,
+        "name": "\u00d8deleggelse og Undergang",
+        "pop": 0,
+        "valence": 3.65
+    }
+}

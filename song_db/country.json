@@ -1,0 +1,802 @@
+{
+    "A Little Dive Bar in Dahlonega": {
+        "artists": "Ashley McBryde",
+        "energy": 47.9,
+        "length": 209,
+        "name": "A Little Dive Bar in Dahlonega",
+        "pop": 57,
+        "valence": 57.1
+    },
+    "Achy Breaky Heart": {
+        "artists": "Billy Ray Cyrus",
+        "energy": 56.3,
+        "length": 203,
+        "name": "Achy Breaky Heart",
+        "pop": 71,
+        "valence": 96.1
+    },
+    "All I Want To Do": {
+        "artists": "Sugarland",
+        "energy": 72.5,
+        "length": 213,
+        "name": "All I Want To Do",
+        "pop": 58,
+        "valence": 75.9
+    },
+    "Almost Over You (feat. Randy Houser)": {
+        "artists": "Jessie James Decker",
+        "energy": 89.2,
+        "length": 211,
+        "name": "Almost Over You (feat. Randy Houser)",
+        "pop": 43,
+        "valence": 26.4
+    },
+    "Alright": {
+        "artists": "Darius Rucker",
+        "energy": 80.6,
+        "length": 232,
+        "name": "Alright",
+        "pop": 73,
+        "valence": 71.1
+    },
+    "Amarillo By Morning": {
+        "artists": "George Strait",
+        "energy": 36.1,
+        "length": 173,
+        "name": "Amarillo By Morning",
+        "pop": 74,
+        "valence": 62.1
+    },
+    "Anymore": {
+        "artists": "Travis Tritt",
+        "energy": 34.8,
+        "length": 227,
+        "name": "Anymore",
+        "pop": 58,
+        "valence": 30.5
+    },
+    "Are You Gonna Kiss Me Or Not": {
+        "artists": "Thompson Square",
+        "energy": 70.1,
+        "length": 185,
+        "name": "Are You Gonna Kiss Me Or Not",
+        "pop": 69,
+        "valence": 61.3
+    },
+    "Ballad Of A Southern Man": {
+        "artists": "Whiskey Myers",
+        "energy": 55.9,
+        "length": 220,
+        "name": "Ballad Of A Southern Man",
+        "pop": 0,
+        "valence": 37.8
+    },
+    "Bartender (Sittin' At A Bar)": {
+        "artists": "Rehab",
+        "energy": 71.1,
+        "length": 219,
+        "name": "Bartender (Sittin' At A Bar)",
+        "pop": 59,
+        "valence": 62.9
+    },
+    "Believe": {
+        "artists": "Brooks & Dunn",
+        "energy": 22.3,
+        "length": 339,
+        "name": "Believe",
+        "pop": 0,
+        "valence": 21.1
+    },
+    "Blowing Smoke (feat. DJ KO)": {
+        "artists": "Taylor Ray Holbrook",
+        "energy": 78.5,
+        "length": 187,
+        "name": "Blowing Smoke (feat. DJ KO)",
+        "pop": 40,
+        "valence": 35.7
+    },
+    "Born Ready": {
+        "artists": "Steve Moakler",
+        "energy": 65.5,
+        "length": 219,
+        "name": "Born Ready",
+        "pop": 0,
+        "valence": 45.9
+    },
+    "Born to Love You": {
+        "artists": "LANCO",
+        "energy": 90.2,
+        "length": 230,
+        "name": "Born to Love You",
+        "pop": 60,
+        "valence": 81.0
+    },
+    "Break Up In A Small Town": {
+        "artists": "Sam Hunt",
+        "energy": 77.6,
+        "length": 230,
+        "name": "Break Up In A Small Town",
+        "pop": 71,
+        "valence": 43.4
+    },
+    "Break Up in the End": {
+        "artists": "Cole Swindell",
+        "energy": 37.2,
+        "length": 200,
+        "name": "Break Up in the End",
+        "pop": 64,
+        "valence": 25.7
+    },
+    "Burning House": {
+        "artists": "Cam",
+        "energy": 25.3,
+        "length": 231,
+        "name": "Burning House",
+        "pop": 68,
+        "valence": 45.7
+    },
+    "California": {
+        "artists": "Eric Ethridge",
+        "energy": 85.9,
+        "length": 196,
+        "name": "California",
+        "pop": 0,
+        "valence": 77.2
+    },
+    "Check Yes Or No": {
+        "artists": "George Strait",
+        "energy": 52.4,
+        "length": 201,
+        "name": "Check Yes Or No",
+        "pop": 75,
+        "valence": 69.0
+    },
+    "Cleaning This Gun (Come On In Boy)": {
+        "artists": "Rodney Atkins",
+        "energy": 79.8,
+        "length": 227,
+        "name": "Cleaning This Gun (Come On In Boy)",
+        "pop": 58,
+        "valence": 67.7
+    },
+    "Come A Little Closer": {
+        "artists": "Dierks Bentley",
+        "energy": 57.0,
+        "length": 282,
+        "name": "Come A Little Closer",
+        "pop": 57,
+        "valence": 36.8
+    },
+    "Country Club": {
+        "artists": "Travis Tritt",
+        "energy": 57.0,
+        "length": 191,
+        "name": "Country Club",
+        "pop": 59,
+        "valence": 76.0
+    },
+    "Country State Of Mind": {
+        "artists": "Hank Williams, Jr.",
+        "energy": 62.6,
+        "length": 238,
+        "name": "Country State Of Mind",
+        "pop": 58,
+        "valence": 65.0
+    },
+    "Crash and Burn": {
+        "artists": "Thomas Rhett",
+        "energy": 78.1,
+        "length": 191,
+        "name": "Crash and Burn",
+        "pop": 69,
+        "valence": 84.1
+    },
+    "Craving You": {
+        "artists": "Thomas Rhett",
+        "energy": 83.9,
+        "length": 224,
+        "name": "Craving You",
+        "pop": 66,
+        "valence": 52.6
+    },
+    "Cruise": {
+        "artists": "Florida Georgia Line",
+        "energy": 94.8,
+        "length": 209,
+        "name": "Cruise",
+        "pop": 76,
+        "valence": 87.8
+    },
+    "Die A Happy Man": {
+        "artists": "Thomas Rhett",
+        "energy": 38.9,
+        "length": 227,
+        "name": "Die A Happy Man",
+        "pop": 77,
+        "valence": 40.0
+    },
+    "Do I Make You Wanna": {
+        "artists": "Billy Currington",
+        "energy": 74.7,
+        "length": 234,
+        "name": "Do I Make You Wanna",
+        "pop": 68,
+        "valence": 52.1
+    },
+    "Doing It to Country Songs (feat. The Oak Ridge Boys) - Recorded at Sound Stage Nashville": {
+        "artists": "Blake Shelton",
+        "energy": 76.1,
+        "length": 178,
+        "name": "Doing It to Country Songs (feat. The Oak Ridge Boys) - Recorded at Sound Stage Nashville",
+        "pop": 30,
+        "valence": 81.0
+    },
+    "Drunk On A Plane": {
+        "artists": "Dierks Bentley",
+        "energy": 73.0,
+        "length": 254,
+        "name": "Drunk On A Plane",
+        "pop": 73,
+        "valence": 66.0
+    },
+    "From Where I'm Standing": {
+        "artists": "Curtis Grimes",
+        "energy": 68.5,
+        "length": 192,
+        "name": "From Where I'm Standing",
+        "pop": 0,
+        "valence": 49.0
+    },
+    "Gettin' You Home": {
+        "artists": "Chris Young",
+        "energy": 67.8,
+        "length": 212,
+        "name": "Gettin' You Home",
+        "pop": 70,
+        "valence": 53.1
+    },
+    "Gimmie That Girl": {
+        "artists": "Joe Nichols",
+        "energy": 90.0,
+        "length": 185,
+        "name": "Gimmie That Girl",
+        "pop": 61,
+        "valence": 67.5
+    },
+    "Girl Crush": {
+        "artists": "Little Big Town",
+        "energy": 22.5,
+        "length": 193,
+        "name": "Girl Crush",
+        "pop": 71,
+        "valence": 35.5
+    },
+    "Give It Away": {
+        "artists": "George Strait",
+        "energy": 64.6,
+        "length": 209,
+        "name": "Give It Away",
+        "pop": 69,
+        "valence": 61.3
+    },
+    "Gone": {
+        "artists": "Montgomery Gentry",
+        "energy": 90.1,
+        "length": 250,
+        "name": "Gone",
+        "pop": 54,
+        "valence": 58.1
+    },
+    "Hell On The Heart": {
+        "artists": "Eric Church",
+        "energy": 89.0,
+        "length": 165,
+        "name": "Hell On The Heart",
+        "pop": 0,
+        "valence": 92.8
+    },
+    "Hold You Back": {
+        "artists": "Ryan Hurd",
+        "energy": 62.9,
+        "length": 214,
+        "name": "Hold You Back",
+        "pop": 40,
+        "valence": 64.5
+    },
+    "Holdin' Her": {
+        "artists": "Chris Janson",
+        "energy": 57.4,
+        "length": 245,
+        "name": "Holdin' Her",
+        "pop": 46,
+        "valence": 38.7
+    },
+    "I Am A Man Of Constant Sorrow - From \u201cO Brother, Where Art Thou\u201d Soundtrack / Radio Station Version": {
+        "artists": "The Soggy Bottom Boys",
+        "energy": 30.8,
+        "length": 190,
+        "name": "I Am A Man Of Constant Sorrow - From \u201cO Brother, Where Art Thou\u201d Soundtrack / Radio Station Version",
+        "pop": 0,
+        "valence": 72.1
+    },
+    "I Can Only Imagine": {
+        "artists": "MercyMe",
+        "energy": 61.2,
+        "length": 248,
+        "name": "I Can Only Imagine",
+        "pop": 0,
+        "valence": 13.3
+    },
+    "I Don't Need Your Rockin' Chair - Version w/special guests": {
+        "artists": "Mark Chesnutt",
+        "energy": 58.9,
+        "length": 169,
+        "name": "I Don't Need Your Rockin' Chair - Version w/special guests",
+        "pop": 62,
+        "valence": 69.6
+    },
+    "I Got the Boy": {
+        "artists": "Jana Kramer",
+        "energy": 56.9,
+        "length": 201,
+        "name": "I Got the Boy",
+        "pop": 60,
+        "valence": 36.1
+    },
+    "I Want to Know What Love Is": {
+        "artists": "Kenny Chesney",
+        "energy": 84.8,
+        "length": 301,
+        "name": "I Want to Know What Love Is",
+        "pop": 43,
+        "valence": 36.4
+    },
+    "I'll Name the Dogs": {
+        "artists": "Blake Shelton",
+        "energy": 87.0,
+        "length": 184,
+        "name": "I'll Name the Dogs",
+        "pop": 64,
+        "valence": 76.3
+    },
+    "If I'm Bein' honest": {
+        "artists": "Chase Rice",
+        "energy": 51.4,
+        "length": 207,
+        "name": "If I'm Bein' honest",
+        "pop": 0,
+        "valence": 47.3
+    },
+    "In the Blood": {
+        "artists": "John Mayer",
+        "energy": 65.5,
+        "length": 244,
+        "name": "In the Blood",
+        "pop": 64,
+        "valence": 51.8
+    },
+    "International Harvester": {
+        "artists": "Craig Morgan",
+        "energy": 83.7,
+        "length": 229,
+        "name": "International Harvester",
+        "pop": 65,
+        "valence": 34.8
+    },
+    "It All Started With a Beer - Single Version": {
+        "artists": "Frankie Ballard",
+        "energy": 50.5,
+        "length": 238,
+        "name": "It All Started With a Beer - Single Version",
+        "pop": 51,
+        "valence": 36.7
+    },
+    "It's A Great Day To Be Alive": {
+        "artists": "Travis Tritt",
+        "energy": 65.3,
+        "length": 242,
+        "name": "It's A Great Day To Be Alive",
+        "pop": 76,
+        "valence": 54.2
+    },
+    "Life's a Dance - 2011 Remaster": {
+        "artists": "John Michael Montgomery",
+        "energy": 55.5,
+        "length": 190,
+        "name": "Life's a Dance - 2011 Remaster",
+        "pop": 0,
+        "valence": 67.1
+    },
+    "Like The Rain": {
+        "artists": "Clint Black",
+        "energy": 53.2,
+        "length": 262,
+        "name": "Like The Rain",
+        "pop": 56,
+        "valence": 27.8
+    },
+    "Lose It": {
+        "artists": "Kane Brown",
+        "energy": 86.9,
+        "length": 179,
+        "name": "Lose It",
+        "pop": 0,
+        "valence": 43.3
+    },
+    "Loving You Easy": {
+        "artists": "Zac Brown Band",
+        "energy": 59.6,
+        "length": 156,
+        "name": "Loving You Easy",
+        "pop": 0,
+        "valence": 35.9
+    },
+    "Make You Miss Me": {
+        "artists": "Sam Hunt",
+        "energy": 47.2,
+        "length": 226,
+        "name": "Make You Miss Me",
+        "pop": 66,
+        "valence": 16.8
+    },
+    "Man Enough Now": {
+        "artists": "Chris Bandi",
+        "energy": 57.7,
+        "length": 185,
+        "name": "Man Enough Now",
+        "pop": 0,
+        "valence": 50.2
+    },
+    "Meant to Be (feat. Florida Georgia Line)": {
+        "artists": "Bebe Rexha",
+        "energy": 77.2,
+        "length": 164,
+        "name": "Meant to Be (feat. Florida Georgia Line)",
+        "pop": 75,
+        "valence": 58.9
+    },
+    "My Hometown": {
+        "artists": "Charlie Robison",
+        "energy": 50.3,
+        "length": 263,
+        "name": "My Hometown",
+        "pop": 56,
+        "valence": 56.7
+    },
+    "My Kinda Party": {
+        "artists": "Jason Aldean",
+        "energy": 90.0,
+        "length": 285,
+        "name": "My Kinda Party",
+        "pop": 69,
+        "valence": 55.8
+    },
+    "Neon Church": {
+        "artists": "Tim McGraw",
+        "energy": 79.1,
+        "length": 213,
+        "name": "Neon Church",
+        "pop": 0,
+        "valence": 35.5
+    },
+    "Not Ready to Make Nice": {
+        "artists": "The Chicks",
+        "energy": 55.4,
+        "length": 237,
+        "name": "Not Ready to Make Nice",
+        "pop": 65,
+        "valence": 28.8
+    },
+    "Nothin' Like You": {
+        "artists": "Dan + Shay",
+        "energy": 70.4,
+        "length": 186,
+        "name": "Nothin' Like You",
+        "pop": 63,
+        "valence": 43.7
+    },
+    "Only in America": {
+        "artists": "Brooks & Dunn",
+        "energy": 90.3,
+        "length": 269,
+        "name": "Only in America",
+        "pop": 0,
+        "valence": 72.8
+    },
+    "Outlaw Women": {
+        "artists": "Hank Williams, Jr.",
+        "energy": 14.8,
+        "length": 182,
+        "name": "Outlaw Women",
+        "pop": 61,
+        "valence": 20.4
+    },
+    "Outta Style": {
+        "artists": "Aaron Watson",
+        "energy": 88.6,
+        "length": 222,
+        "name": "Outta Style",
+        "pop": 52,
+        "valence": 87.3
+    },
+    "Parallel Line": {
+        "artists": "Keith Urban",
+        "energy": 47.7,
+        "length": 253,
+        "name": "Parallel Line",
+        "pop": 59,
+        "valence": 48.1
+    },
+    "Po-Dunk": {
+        "artists": "Kid Rock",
+        "energy": 81.6,
+        "length": 271,
+        "name": "Po-Dunk",
+        "pop": 49,
+        "valence": 52.6
+    },
+    "Prop Me Up Beside the Jukebox (If I Die)": {
+        "artists": "Joe Diffie",
+        "energy": 73.1,
+        "length": 227,
+        "name": "Prop Me Up Beside the Jukebox (If I Die)",
+        "pop": 44,
+        "valence": 64.7
+    },
+    "Red Ragtop": {
+        "artists": "Tim McGraw",
+        "energy": 67.1,
+        "length": 284,
+        "name": "Red Ragtop",
+        "pop": 59,
+        "valence": 56.1
+    },
+    "Rockin' Chairs": {
+        "artists": "Brantley Gilbert",
+        "energy": 83.7,
+        "length": 249,
+        "name": "Rockin' Chairs",
+        "pop": 38,
+        "valence": 41.6
+    },
+    "She Don't Love You": {
+        "artists": "Eric Paslay",
+        "energy": 33.3,
+        "length": 262,
+        "name": "She Don't Love You",
+        "pop": 53,
+        "valence": 17.0
+    },
+    "She Won't Be Lonely Long": {
+        "artists": "Clay Walker",
+        "energy": 75.8,
+        "length": 209,
+        "name": "She Won't Be Lonely Long",
+        "pop": 65,
+        "valence": 32.2
+    },
+    "She's Got a Way": {
+        "artists": "Chris Young",
+        "energy": 72.9,
+        "length": 171,
+        "name": "She's Got a Way",
+        "pop": 61,
+        "valence": 89.3
+    },
+    "Smoke In Her Eyes": {
+        "artists": "Big & Rich",
+        "energy": 76.2,
+        "length": 192,
+        "name": "Smoke In Her Eyes",
+        "pop": 0,
+        "valence": 63.5
+    },
+    "Some Girls Do": {
+        "artists": "Sawyer Brown",
+        "energy": 85.2,
+        "length": 194,
+        "name": "Some Girls Do",
+        "pop": 63,
+        "valence": 90.3
+    },
+    "Something To Ride To": {
+        "artists": "Jake Owen",
+        "energy": 76.7,
+        "length": 188,
+        "name": "Something To Ride To",
+        "pop": 0,
+        "valence": 43.0
+    },
+    "Summertime": {
+        "artists": "Kenny Chesney",
+        "energy": 92.8,
+        "length": 207,
+        "name": "Summertime",
+        "pop": 69,
+        "valence": 71.3
+    },
+    "Swingin'": {
+        "artists": "John Anderson",
+        "energy": 72.2,
+        "length": 179,
+        "name": "Swingin'",
+        "pop": 38,
+        "valence": 72.7
+    },
+    "Take Back Home Girl (feat. Tori Kelly)": {
+        "artists": "Chris Lane",
+        "energy": 78.3,
+        "length": 212,
+        "name": "Take Back Home Girl (feat. Tori Kelly)",
+        "pop": 0,
+        "valence": 66.4
+    },
+    "That's My Job": {
+        "artists": "Conway Twitty",
+        "energy": 23.1,
+        "length": 291,
+        "name": "That's My Job",
+        "pop": 50,
+        "valence": 23.1
+    },
+    "The Fireman": {
+        "artists": "George Strait",
+        "energy": 60.1,
+        "length": 154,
+        "name": "The Fireman",
+        "pop": 64,
+        "valence": 93.4
+    },
+    "The Race Is On": {
+        "artists": "George Jones",
+        "energy": 56.0,
+        "length": 129,
+        "name": "The Race Is On",
+        "pop": 38,
+        "valence": 87.5
+    },
+    "The Ride": {
+        "artists": "David Allan Coe",
+        "energy": 43.6,
+        "length": 188,
+        "name": "The Ride",
+        "pop": 0,
+        "valence": 51.3
+    },
+    "The Rodeo Song": {
+        "artists": "Garry Lee and Showdown",
+        "energy": 72.4,
+        "length": 123,
+        "name": "The Rodeo Song",
+        "pop": 0,
+        "valence": 95.0
+    },
+    "Thunder in the Rain": {
+        "artists": "Kane Brown",
+        "energy": 87.7,
+        "length": 165,
+        "name": "Thunder in the Rain",
+        "pop": 54,
+        "valence": 37.7
+    },
+    "Today": {
+        "artists": "Brad Paisley",
+        "energy": 63.2,
+        "length": 229,
+        "name": "Today",
+        "pop": 52,
+        "valence": 28.5
+    },
+    "Travelin' Soldier": {
+        "artists": "The Chicks",
+        "energy": 36.5,
+        "length": 343,
+        "name": "Travelin' Soldier",
+        "pop": 68,
+        "valence": 50.8
+    },
+    "Tried To Tell Ya": {
+        "artists": "Brantley Gilbert",
+        "energy": 80.2,
+        "length": 222,
+        "name": "Tried To Tell Ya",
+        "pop": 49,
+        "valence": 46.3
+    },
+    "Vacation": {
+        "artists": "Thomas Rhett",
+        "energy": 82.7,
+        "length": 223,
+        "name": "Vacation",
+        "pop": 59,
+        "valence": 96.0
+    },
+    "Wacky Tobaccy": {
+        "artists": "Toby Keith",
+        "energy": 91.4,
+        "length": 183,
+        "name": "Wacky Tobaccy",
+        "pop": 0,
+        "valence": 87.3
+    },
+    "Wanted": {
+        "artists": "Alan Jackson",
+        "energy": 19.9,
+        "length": 177,
+        "name": "Wanted",
+        "pop": 16,
+        "valence": 29.9
+    },
+    "What Kinda Gone": {
+        "artists": "Chris Cagle",
+        "energy": 86.1,
+        "length": 182,
+        "name": "What Kinda Gone",
+        "pop": 63,
+        "valence": 66.8
+    },
+    "What Might Have Been": {
+        "artists": "Little Texas",
+        "energy": 20.1,
+        "length": 239,
+        "name": "What Might Have Been",
+        "pop": 51,
+        "valence": 14.6
+    },
+    "When You Say Nothing At All": {
+        "artists": "Alison Krauss & Union Station",
+        "energy": 24.2,
+        "length": 261,
+        "name": "When You Say Nothing At All",
+        "pop": 58,
+        "valence": 44.8
+    },
+    "While We're Young": {
+        "artists": "April Kry",
+        "energy": 81.0,
+        "length": 194,
+        "name": "While We're Young",
+        "pop": 13,
+        "valence": 47.3
+    },
+    "You Look Good": {
+        "artists": "Lady A",
+        "energy": 91.7,
+        "length": 181,
+        "name": "You Look Good",
+        "pop": 58,
+        "valence": 96.1
+    },
+    "You Were Mine": {
+        "artists": "The Chicks",
+        "energy": 34.6,
+        "length": 218,
+        "name": "You Were Mine",
+        "pop": 61,
+        "valence": 17.3
+    },
+    "You'll Think Of Me - Single Version": {
+        "artists": "Keith Urban",
+        "energy": 53.5,
+        "length": 231,
+        "name": "You'll Think Of Me - Single Version",
+        "pop": 32,
+        "valence": 57.6
+    },
+    "You're Drunk": {
+        "artists": "Brandy Clark",
+        "energy": 86.4,
+        "length": 167,
+        "name": "You're Drunk",
+        "pop": 26,
+        "valence": 85.3
+    },
+    "Your Man": {
+        "artists": "Josh Turner",
+        "energy": 63.7,
+        "length": 212,
+        "name": "Your Man",
+        "pop": 76,
+        "valence": 78.5
+    }
+}

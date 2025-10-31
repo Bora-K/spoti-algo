@@ -1,0 +1,802 @@
+{
+    "4 Am - Radio Version": {
+        "artists": "Scooter",
+        "energy": 87.1,
+        "length": 197,
+        "name": "4 Am - Radio Version",
+        "pop": 0,
+        "valence": 29.2
+    },
+    "Across the Pond": {
+        "artists": "Ianick",
+        "energy": 77.6,
+        "length": 256,
+        "name": "Across the Pond",
+        "pop": 0,
+        "valence": 28.3
+    },
+    "All I Ask of You (feat. Pennybirdrabbit)": {
+        "artists": "Skrillex",
+        "energy": 90.9,
+        "length": 340,
+        "name": "All I Ask of You (feat. Pennybirdrabbit)",
+        "pop": 43,
+        "valence": 69.6
+    },
+    "All Night - Cash Cash Remix; Radio Edit": {
+        "artists": "Icona Pop",
+        "energy": 86.4,
+        "length": 206,
+        "name": "All Night - Cash Cash Remix; Radio Edit",
+        "pop": 44,
+        "valence": 30.2
+    },
+    "Apollo - Original Mix": {
+        "artists": "Hardwell",
+        "energy": 79.1,
+        "length": 311,
+        "name": "Apollo - Original Mix",
+        "pop": 0,
+        "valence": 20.1
+    },
+    "Astral Projection": {
+        "artists": "Minnesota",
+        "energy": 89.6,
+        "length": 353,
+        "name": "Astral Projection",
+        "pop": 17,
+        "valence": 28.9
+    },
+    "Aviator - Original Mix": {
+        "artists": "Spookem",
+        "energy": 77.5,
+        "length": 274,
+        "name": "Aviator - Original Mix",
+        "pop": 0,
+        "valence": 34.9
+    },
+    "B4 the Dual": {
+        "artists": "Benga",
+        "energy": 68.0,
+        "length": 329,
+        "name": "B4 the Dual",
+        "pop": 0,
+        "valence": 17.7
+    },
+    "BINGBONG": {
+        "artists": "NYMZ",
+        "energy": 97.6,
+        "length": 176,
+        "name": "BINGBONG",
+        "pop": 0,
+        "valence": 52.9
+    },
+    "Babes Anatomy (Adam's Lambaca Remix)": {
+        "artists": "Adam L. Kid",
+        "energy": 80.3,
+        "length": 224,
+        "name": "Babes Anatomy (Adam's Lambaca Remix)",
+        "pop": 0,
+        "valence": 60.2
+    },
+    "Back In Time - Extended Mix": {
+        "artists": "Don Diablo",
+        "energy": 77.1,
+        "length": 248,
+        "name": "Back In Time - Extended Mix",
+        "pop": 0,
+        "valence": 31.1
+    },
+    "Bass Head": {
+        "artists": "Bassnectar",
+        "energy": 67.8,
+        "length": 397,
+        "name": "Bass Head",
+        "pop": 0,
+        "valence": 6.05
+    },
+    "Bigfoot - Dillon Francis Remix": {
+        "artists": "W&W",
+        "energy": 90.7,
+        "length": 170,
+        "name": "Bigfoot - Dillon Francis Remix",
+        "pop": 28,
+        "valence": 18.0
+    },
+    "Blessed - Avicii Mix": {
+        "artists": "Tom Hangs",
+        "energy": 93.8,
+        "length": 407,
+        "name": "Blessed - Avicii Mix",
+        "pop": 27,
+        "valence": 69.5
+    },
+    "Blue Dream": {
+        "artists": "Big Gigantic",
+        "energy": 95.4,
+        "length": 256,
+        "name": "Blue Dream",
+        "pop": 29,
+        "valence": 46.0
+    },
+    "Bonfire": {
+        "artists": "Knife Party",
+        "energy": 94.4,
+        "length": 272,
+        "name": "Bonfire",
+        "pop": 63,
+        "valence": 58.9
+    },
+    "Bouncer - Original Mix": {
+        "artists": "Showtek",
+        "energy": 89.8,
+        "length": 264,
+        "name": "Bouncer - Original Mix",
+        "pop": 0,
+        "valence": 31.1
+    },
+    "Bullet Train (feat. Joni Fatora)": {
+        "artists": "Stephen Swartz",
+        "energy": 70.3,
+        "length": 246,
+        "name": "Bullet Train (feat. Joni Fatora)",
+        "pop": 58,
+        "valence": 19.6
+    },
+    "Burn - Remix": {
+        "artists": "Ellie Goulding",
+        "energy": 74.0,
+        "length": 318,
+        "name": "Burn - Remix",
+        "pop": 38,
+        "valence": 35.7
+    },
+    "Calabria - Firebeatz Remix": {
+        "artists": "Rune RK",
+        "energy": 87.9,
+        "length": 221,
+        "name": "Calabria - Firebeatz Remix",
+        "pop": 0,
+        "valence": 39.5
+    },
+    "Chimes": {
+        "artists": "Hudson Mohawke",
+        "energy": 69.3,
+        "length": 211,
+        "name": "Chimes",
+        "pop": 0,
+        "valence": 54.2
+    },
+    "Cinema (feat. Gary Go) - Skrillex Remix": {
+        "artists": "Benny Benassi",
+        "energy": 98.7,
+        "length": 310,
+        "name": "Cinema (feat. Gary Go) - Skrillex Remix",
+        "pop": 37,
+        "valence": 40.9
+    },
+    "Clarity": {
+        "artists": "Zedd",
+        "energy": 78.1,
+        "length": 271,
+        "name": "Clarity",
+        "pop": 78,
+        "valence": 17.6
+    },
+    "Clash - Original Mix": {
+        "artists": "Alesso",
+        "energy": 48.4,
+        "length": 371,
+        "name": "Clash - Original Mix",
+        "pop": 0,
+        "valence": 33.7
+    },
+    "Core - Original Mix": {
+        "artists": "RL Grime",
+        "energy": 94.9,
+        "length": 237,
+        "name": "Core - Original Mix",
+        "pop": 0,
+        "valence": 61.6
+    },
+    "Crank Dat": {
+        "artists": "Noisses",
+        "energy": 67.1,
+        "length": 206,
+        "name": "Crank Dat",
+        "pop": 1,
+        "valence": 54.3
+    },
+    "Crunked Up": {
+        "artists": "Benga",
+        "energy": 60.3,
+        "length": 219,
+        "name": "Crunked Up",
+        "pop": 0,
+        "valence": 27.1
+    },
+    "Crystallize": {
+        "artists": "Lindsey Stirling",
+        "energy": 62.3,
+        "length": 259,
+        "name": "Crystallize",
+        "pop": 55,
+        "valence": 5.63
+    },
+    "Destroy It - Urban Contact Remix": {
+        "artists": "Black Tiger Sex Machine",
+        "energy": 76.2,
+        "length": 372,
+        "name": "Destroy It - Urban Contact Remix",
+        "pop": 39,
+        "valence": 16.3
+    },
+    "Disconnected": {
+        "artists": "Pegboard Nerds",
+        "energy": 89.1,
+        "length": 242,
+        "name": "Disconnected",
+        "pop": 0,
+        "valence": 36.5
+    },
+    "Dynamo": {
+        "artists": "Laidback Luke",
+        "energy": 90.6,
+        "length": 279,
+        "name": "Dynamo",
+        "pop": 0,
+        "valence": 8.66
+    },
+    "Endless Fantasy": {
+        "artists": "Anamanaguchi",
+        "energy": 75.3,
+        "length": 358,
+        "name": "Endless Fantasy",
+        "pop": 0,
+        "valence": 31.0
+    },
+    "Every Chance We Get We Run (feat. Tegan & Sara)": {
+        "artists": "David Guetta",
+        "energy": 88.2,
+        "length": 240,
+        "name": "Every Chance We Get We Run (feat. Tegan & Sara)",
+        "pop": 36,
+        "valence": 69.4
+    },
+    "Everyday - (Netsky Remix)": {
+        "artists": "Rusko",
+        "energy": 92.8,
+        "length": 252,
+        "name": "Everyday - (Netsky Remix)",
+        "pop": 0,
+        "valence": 13.8
+    },
+    "Fatality - Quintino Edit": {
+        "artists": "Pep & Rash",
+        "energy": 92.5,
+        "length": 250,
+        "name": "Fatality - Quintino Edit",
+        "pop": 0,
+        "valence": 56.0
+    },
+    "Feel So Close - Nero Remix": {
+        "artists": "Calvin Harris",
+        "energy": 81.8,
+        "length": 285,
+        "name": "Feel So Close - Nero Remix",
+        "pop": 0,
+        "valence": 15.5
+    },
+    "Finale (feat. Nicholas Petricca)": {
+        "artists": "Madeon",
+        "energy": 86.3,
+        "length": 205,
+        "name": "Finale (feat. Nicholas Petricca)",
+        "pop": 49,
+        "valence": 17.2
+    },
+    "Finally Moving": {
+        "artists": "Pretty Lights",
+        "energy": 55.5,
+        "length": 278,
+        "name": "Finally Moving",
+        "pop": 58,
+        "valence": 52.3
+    },
+    "Forever": {
+        "artists": "Pope",
+        "energy": 94.0,
+        "length": 240,
+        "name": "Forever",
+        "pop": 19,
+        "valence": 52.4
+    },
+    "Ghostwriter": {
+        "artists": "RJD2",
+        "energy": 68.0,
+        "length": 318,
+        "name": "Ghostwriter",
+        "pop": 64,
+        "valence": 59.4
+    },
+    "Go Tell Them": {
+        "artists": "Benga",
+        "energy": 67.3,
+        "length": 250,
+        "name": "Go Tell Them",
+        "pop": 0,
+        "valence": 37.1
+    },
+    "Goin' In - Skrillex \"Goin' Hard\" Mix": {
+        "artists": "Birdy Nam Nam",
+        "energy": 93.0,
+        "length": 240,
+        "name": "Goin' In - Skrillex \"Goin' Hard\" Mix",
+        "pop": 0,
+        "valence": 59.3
+    },
+    "High School Art Class": {
+        "artists": "Pretty Lights",
+        "energy": 81.0,
+        "length": 533,
+        "name": "High School Art Class",
+        "pop": 35,
+        "valence": 43.0
+    },
+    "Higher": {
+        "artists": "Beatarce",
+        "energy": 74.0,
+        "length": 201,
+        "name": "Higher",
+        "pop": 3,
+        "valence": 47.2
+    },
+    "Hit That Jive": {
+        "artists": "Gramatik",
+        "energy": 68.4,
+        "length": 203,
+        "name": "Hit That Jive",
+        "pop": 0,
+        "valence": 68.6
+    },
+    "Hot Like Sauce": {
+        "artists": "Pretty Lights",
+        "energy": 61.5,
+        "length": 421,
+        "name": "Hot Like Sauce",
+        "pop": 48,
+        "valence": 11.3
+    },
+    "Hypercaine": {
+        "artists": "DJ Fresh",
+        "energy": 94.8,
+        "length": 205,
+        "name": "Hypercaine",
+        "pop": 0,
+        "valence": 48.6
+    },
+    "Hyperparadise - Flume Remix": {
+        "artists": "Flume",
+        "energy": 83.8,
+        "length": 267,
+        "name": "Hyperparadise - Flume Remix",
+        "pop": 0,
+        "valence": 34.3
+    },
+    "I Can See It In Your Face": {
+        "artists": "Pretty Lights",
+        "energy": 93.8,
+        "length": 408,
+        "name": "I Can See It In Your Face",
+        "pop": 42,
+        "valence": 53.4
+    },
+    "I Can't Stop": {
+        "artists": "Flux Pavilion",
+        "energy": 77.5,
+        "length": 304,
+        "name": "I Can't Stop",
+        "pop": 0,
+        "valence": 20.5
+    },
+    "I Got U": {
+        "artists": "Duke Dumont",
+        "energy": 75.6,
+        "length": 286,
+        "name": "I Got U",
+        "pop": 1,
+        "valence": 42.0
+    },
+    "I Know the Truth": {
+        "artists": "Pretty Lights",
+        "energy": 93.9,
+        "length": 288,
+        "name": "I Know the Truth",
+        "pop": 40,
+        "valence": 29.6
+    },
+    "I'm Home": {
+        "artists": "GRiZ",
+        "energy": 66.0,
+        "length": 293,
+        "name": "I'm Home",
+        "pop": 14,
+        "valence": 32.2
+    },
+    "I.D.G.A.F.O.S.": {
+        "artists": "Dillon Francis",
+        "energy": 93.0,
+        "length": 249,
+        "name": "I.D.G.A.F.O.S.",
+        "pop": 0,
+        "valence": 13.0
+    },
+    "Icarus": {
+        "artists": "Madeon",
+        "energy": 84.1,
+        "length": 214,
+        "name": "Icarus",
+        "pop": 39,
+        "valence": 14.3
+    },
+    "In My Mind (Axwell Radio Edit)": {
+        "artists": "Ivan Gough",
+        "energy": 83.0,
+        "length": 186,
+        "name": "In My Mind (Axwell Radio Edit)",
+        "pop": 36,
+        "valence": 35.5
+    },
+    "In The Horizon - Radio Edit": {
+        "artists": "Marcus Maison",
+        "energy": 95.7,
+        "length": 150,
+        "name": "In The Horizon - Radio Edit",
+        "pop": 17,
+        "valence": 8.41
+    },
+    "Interlude": {
+        "artists": "Attack Attack!",
+        "energy": 93.4,
+        "length": 127,
+        "name": "Interlude",
+        "pop": 39,
+        "valence": 17.9
+    },
+    "Just Jammin'": {
+        "artists": "Gramatik",
+        "energy": 68.1,
+        "length": 390,
+        "name": "Just Jammin'",
+        "pop": 0,
+        "valence": 80.3
+    },
+    "Kick Snare": {
+        "artists": "Crissy Criss",
+        "energy": 81.7,
+        "length": 327,
+        "name": "Kick Snare",
+        "pop": 0,
+        "valence": 9.85
+    },
+    "Kill EVERYBODY": {
+        "artists": "Skrillex",
+        "energy": 87.4,
+        "length": 298,
+        "name": "Kill EVERYBODY",
+        "pop": 54,
+        "valence": 62.9
+    },
+    "Killin' It": {
+        "artists": "Krewella",
+        "energy": 90.9,
+        "length": 207,
+        "name": "Killin' It",
+        "pop": 42,
+        "valence": 21.9
+    },
+    "Kuaga": {
+        "artists": "Pierce Fulton",
+        "energy": 91.2,
+        "length": 331,
+        "name": "Kuaga",
+        "pop": 0,
+        "valence": 49.3
+    },
+    "L R L": {
+        "artists": "Lazerbeak",
+        "energy": 92.5,
+        "length": 129,
+        "name": "L R L",
+        "pop": 0,
+        "valence": 28.1
+    },
+    "Life - Radio Edit": {
+        "artists": "Steerner",
+        "energy": 82.3,
+        "length": 210,
+        "name": "Life - Radio Edit",
+        "pop": 25,
+        "valence": 24.6
+    },
+    "Loud Pipes": {
+        "artists": "Ratatat",
+        "energy": 70.3,
+        "length": 227,
+        "name": "Loud Pipes",
+        "pop": 0,
+        "valence": 85.8
+    },
+    "Lucid Dreams": {
+        "artists": "Big Gigantic",
+        "energy": 85.4,
+        "length": 307,
+        "name": "Lucid Dreams",
+        "pop": 0,
+        "valence": 49.3
+    },
+    "Maya - (Original Mix)": {
+        "artists": "Jenaux",
+        "energy": 82.8,
+        "length": 322,
+        "name": "Maya - (Original Mix)",
+        "pop": 7,
+        "valence": 19.2
+    },
+    "Moar Ghosts n Stuff": {
+        "artists": "deadmau5",
+        "energy": 47.5,
+        "length": 270,
+        "name": "Moar Ghosts n Stuff",
+        "pop": 0,
+        "valence": 30.1
+    },
+    "Monkey Island": {
+        "artists": "Dubmood",
+        "energy": 98.1,
+        "length": 110,
+        "name": "Monkey Island",
+        "pop": 36,
+        "valence": 89.8
+    },
+    "Need Your Heart (feat. Kai)": {
+        "artists": "Adventure Club",
+        "energy": 71.2,
+        "length": 242,
+        "name": "Need Your Heart (feat. Kai)",
+        "pop": 43,
+        "valence": 16.6
+    },
+    "Never Mind": {
+        "artists": "Infected Mushroom",
+        "energy": 83.1,
+        "length": 366,
+        "name": "Never Mind",
+        "pop": 0,
+        "valence": 40.2
+    },
+    "One Day (Vandaag) - Radio Edit": {
+        "artists": "Bakermat",
+        "energy": 59.4,
+        "length": 219,
+        "name": "One Day (Vandaag) - Radio Edit",
+        "pop": 68,
+        "valence": 57.0
+    },
+    "Peaceblaster '08": {
+        "artists": "STS9",
+        "energy": 76.6,
+        "length": 151,
+        "name": "Peaceblaster '08",
+        "pop": 0,
+        "valence": 6.46
+    },
+    "Prince": {
+        "artists": "Party Favor",
+        "energy": 90.1,
+        "length": 149,
+        "name": "Prince",
+        "pop": 7,
+        "valence": 12.8
+    },
+    "Puppy": {
+        "artists": "Netsky",
+        "energy": 72.7,
+        "length": 260,
+        "name": "Puppy",
+        "pop": 0,
+        "valence": 85.6
+    },
+    "Que Sera": {
+        "artists": "Wax Tailor",
+        "energy": 73.0,
+        "length": 164,
+        "name": "Que Sera",
+        "pop": 0,
+        "valence": 44.3
+    },
+    "Rabbit Whore - Original Mix": {
+        "artists": "Savant",
+        "energy": 62.4,
+        "length": 329,
+        "name": "Rabbit Whore - Original Mix",
+        "pop": 25,
+        "valence": 26.9
+    },
+    "Raise Your Weapon - Madeon Extended Remix": {
+        "artists": "deadmau5",
+        "energy": 82.5,
+        "length": 255,
+        "name": "Raise Your Weapon - Madeon Extended Remix",
+        "pop": 0,
+        "valence": 42.2
+    },
+    "Scary Monsters and Nice Sprites": {
+        "artists": "Skrillex",
+        "energy": 94.4,
+        "length": 243,
+        "name": "Scary Monsters and Nice Sprites",
+        "pop": 62,
+        "valence": 32.4
+    },
+    "Sky High": {
+        "artists": "Big Gigantic",
+        "energy": 81.4,
+        "length": 284,
+        "name": "Sky High",
+        "pop": 0,
+        "valence": 40.9
+    },
+    "Starlight": {
+        "artists": "Televisor",
+        "energy": 72.6,
+        "length": 238,
+        "name": "Starlight",
+        "pop": 0,
+        "valence": 94.1
+    },
+    "Staying (DotEXE Remix)": {
+        "artists": "Koda",
+        "energy": 78.8,
+        "length": 288,
+        "name": "Staying (DotEXE Remix)",
+        "pop": 15,
+        "valence": 18.0
+    },
+    "Stellar": {
+        "artists": "Daddy's Groove",
+        "energy": 84.2,
+        "length": 199,
+        "name": "Stellar",
+        "pop": 0,
+        "valence": 31.6
+    },
+    "Stopping Us": {
+        "artists": "Deorro",
+        "energy": 83.7,
+        "length": 296,
+        "name": "Stopping Us",
+        "pop": 19,
+        "valence": 20.9
+    },
+    "Sugar High": {
+        "artists": "Approaching Nirvana",
+        "energy": 35.5,
+        "length": 162,
+        "name": "Sugar High",
+        "pop": 24,
+        "valence": 46.8
+    },
+    "The Spark": {
+        "artists": "AFROJACK",
+        "energy": 92.9,
+        "length": 244,
+        "name": "The Spark",
+        "pop": 0,
+        "valence": 49.9
+    },
+    "Time Is the Enemy": {
+        "artists": "Quantic",
+        "energy": 85.1,
+        "length": 223,
+        "name": "Time Is the Enemy",
+        "pop": 25,
+        "valence": 22.3
+    },
+    "Trillogy": {
+        "artists": "ill.gates",
+        "energy": 82.4,
+        "length": 299,
+        "name": "Trillogy",
+        "pop": 14,
+        "valence": 73.3
+    },
+    "Turn It Around": {
+        "artists": "Sub Focus",
+        "energy": 87.2,
+        "length": 195,
+        "name": "Turn It Around",
+        "pop": 15,
+        "valence": 32.2
+    },
+    "Underbelly": {
+        "artists": "Kid Arkade",
+        "energy": 85.5,
+        "length": 353,
+        "name": "Underbelly",
+        "pop": 0,
+        "valence": 75.0
+    },
+    "We Can Make The World Stop": {
+        "artists": "The Glitch Mob",
+        "energy": 83.6,
+        "length": 326,
+        "name": "We Can Make The World Stop",
+        "pop": 54,
+        "valence": 15.4
+    },
+    "We Plants Are Happy Plants": {
+        "artists": "We Plants Are Happy Plants",
+        "energy": 63.1,
+        "length": 379,
+        "name": "We Plants Are Happy Plants",
+        "pop": 12,
+        "valence": 15.1
+    },
+    "We Were Gods (feat. Urban Cone & Lucas Nord) - Radio Edit": {
+        "artists": "John Dahlb\u00e4ck",
+        "energy": 80.2,
+        "length": 203,
+        "name": "We Were Gods (feat. Urban Cone & Lucas Nord) - Radio Edit",
+        "pop": 21,
+        "valence": 50.5
+    },
+    "Where Did I Go? - Dillon Francis & Kill Paris Remix": {
+        "artists": "I See MONSTAS",
+        "energy": 67.0,
+        "length": 240,
+        "name": "Where Did I Go? - Dillon Francis & Kill Paris Remix",
+        "pop": 0,
+        "valence": 6.71
+    },
+    "Without You": {
+        "artists": "Dillon Francis",
+        "energy": 63.7,
+        "length": 246,
+        "name": "Without You",
+        "pop": 0,
+        "valence": 39.2
+    },
+    "Woo Boost": {
+        "artists": "Rusko",
+        "energy": 80.3,
+        "length": 249,
+        "name": "Woo Boost",
+        "pop": 0,
+        "valence": 64.3
+    },
+    "You & Me - Flume Remix": {
+        "artists": "Flume",
+        "energy": 39.2,
+        "length": 283,
+        "name": "You & Me - Flume Remix",
+        "pop": 0,
+        "valence": 25.0
+    },
+    "You - Ti\u00ebsto vs. Twoloud Radio Edit": {
+        "artists": "Galantis",
+        "energy": 91.8,
+        "length": 215,
+        "name": "You - Ti\u00ebsto vs. Twoloud Radio Edit",
+        "pop": 37,
+        "valence": 9.36
+    },
+    "Youth (Adventure Club Remix)": {
+        "artists": "Foxes",
+        "energy": 71.0,
+        "length": 239,
+        "name": "Youth (Adventure Club Remix)",
+        "pop": 0,
+        "valence": 25.4
+    }
+}

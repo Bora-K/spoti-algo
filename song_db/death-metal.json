@@ -1,0 +1,802 @@
+{
+    "Annihilation of the Wicked": {
+        "artists": "Nile",
+        "energy": 83.7,
+        "length": 517,
+        "name": "Annihilation of the Wicked",
+        "pop": 38,
+        "valence": 8.87
+    },
+    "Anomalistic Offerings": {
+        "artists": "Suffocation",
+        "energy": 87.7,
+        "length": 281,
+        "name": "Anomalistic Offerings",
+        "pop": 19,
+        "valence": 34.2
+    },
+    "At What Expense?": {
+        "artists": "Dying Fetus",
+        "energy": 86.0,
+        "length": 278,
+        "name": "At What Expense?",
+        "pop": 18,
+        "valence": 37.3
+    },
+    "Atrocious By Nature": {
+        "artists": "Dying Fetus",
+        "energy": 89.3,
+        "length": 232,
+        "name": "Atrocious By Nature",
+        "pop": 26,
+        "valence": 31.5
+    },
+    "Babylon's Pride": {
+        "artists": "Decapitated",
+        "energy": 98.1,
+        "length": 256,
+        "name": "Babylon's Pride",
+        "pop": 27,
+        "valence": 11.7
+    },
+    "Back to One": {
+        "artists": "Obituary",
+        "energy": 96.7,
+        "length": 223,
+        "name": "Back to One",
+        "pop": 29,
+        "valence": 15.7
+    },
+    "Baptized In Blood": {
+        "artists": "Death",
+        "energy": 85.9,
+        "length": 269,
+        "name": "Baptized In Blood",
+        "pop": 36,
+        "valence": 9.57
+    },
+    "Bed Of Razors": {
+        "artists": "Children Of Bodom",
+        "energy": 97.1,
+        "length": 236,
+        "name": "Bed Of Razors",
+        "pop": 0,
+        "valence": 33.6
+    },
+    "Blame It on God": {
+        "artists": "Deicide",
+        "energy": 93.4,
+        "length": 164,
+        "name": "Blame It on God",
+        "pop": 31,
+        "valence": 23.7
+    },
+    "Bleed": {
+        "artists": "Meshuggah",
+        "energy": 99.8,
+        "length": 443,
+        "name": "Bleed",
+        "pop": 64,
+        "valence": 18.0
+    },
+    "Blind Bleeding the Blind": {
+        "artists": "Carcass",
+        "energy": 98.4,
+        "length": 297,
+        "name": "Blind Bleeding the Blind",
+        "pop": 0,
+        "valence": 14.9
+    },
+    "Blood On My Hands": {
+        "artists": "Morbid Angel",
+        "energy": 95.3,
+        "length": 223,
+        "name": "Blood On My Hands",
+        "pop": 10,
+        "valence": 23.8
+    },
+    "Bloodrocuted": {
+        "artists": "Metalocalypse: Dethklok",
+        "energy": 95.0,
+        "length": 139,
+        "name": "Bloodrocuted",
+        "pop": 47,
+        "valence": 76.6
+    },
+    "By the Light": {
+        "artists": "Obituary",
+        "energy": 70.9,
+        "length": 176,
+        "name": "By the Light",
+        "pop": 29,
+        "valence": 46.8
+    },
+    "Caesar's Palace": {
+        "artists": "Morbid Angel",
+        "energy": 87.4,
+        "length": 380,
+        "name": "Caesar's Palace",
+        "pop": 23,
+        "valence": 22.9
+    },
+    "Carnal Forge": {
+        "artists": "Carcass",
+        "energy": 99.7,
+        "length": 235,
+        "name": "Carnal Forge",
+        "pop": 0,
+        "valence": 15.7
+    },
+    "Chapel of Ghouls": {
+        "artists": "Morbid Angel",
+        "energy": 96.5,
+        "length": 297,
+        "name": "Chapel of Ghouls",
+        "pop": 43,
+        "valence": 20.3
+    },
+    "Confessional Rape": {
+        "artists": "Deicide",
+        "energy": 85.2,
+        "length": 233,
+        "name": "Confessional Rape",
+        "pop": 27,
+        "valence": 59.5
+    },
+    "Coronary Reconstruction": {
+        "artists": "Aborted",
+        "energy": 98.4,
+        "length": 268,
+        "name": "Coronary Reconstruction",
+        "pop": 0,
+        "valence": 8.61
+    },
+    "Crawl": {
+        "artists": "Entombed",
+        "energy": 95.2,
+        "length": 373,
+        "name": "Crawl",
+        "pop": 25,
+        "valence": 8.63
+    },
+    "Crucified For The Innocence": {
+        "artists": "Deicide",
+        "energy": 99.3,
+        "length": 276,
+        "name": "Crucified For The Innocence",
+        "pop": 21,
+        "valence": 11.8
+    },
+    "Culinary Hyperversity": {
+        "artists": "Necrophagist",
+        "energy": 98.0,
+        "length": 305,
+        "name": "Culinary Hyperversity",
+        "pop": 0,
+        "valence": 29.1
+    },
+    "Dead God in Me": {
+        "artists": "In Flames",
+        "energy": 97.2,
+        "length": 256,
+        "name": "Dead God in Me",
+        "pop": 0,
+        "valence": 31.6
+    },
+    "December Flower": {
+        "artists": "In Flames",
+        "energy": 99.2,
+        "length": 251,
+        "name": "December Flower",
+        "pop": 0,
+        "valence": 20.2
+    },
+    "Destiny": {
+        "artists": "Death",
+        "energy": 97.0,
+        "length": 247,
+        "name": "Destiny",
+        "pop": 30,
+        "valence": 34.9
+    },
+    "Devoured by Vermin": {
+        "artists": "Cannibal Corpse",
+        "energy": 98.4,
+        "length": 193,
+        "name": "Devoured by Vermin",
+        "pop": 39,
+        "valence": 5.6
+    },
+    "Doomsday Celebration": {
+        "artists": "Morbid Angel",
+        "energy": 28.0,
+        "length": 109,
+        "name": "Doomsday Celebration",
+        "pop": 21,
+        "valence": 4.22
+    },
+    "Dreaming In Red": {
+        "artists": "Dismember",
+        "energy": 97.5,
+        "length": 317,
+        "name": "Dreaming In Red",
+        "pop": 0,
+        "valence": 14.1
+    },
+    "Drowned": {
+        "artists": "Entombed",
+        "energy": 93.1,
+        "length": 240,
+        "name": "Drowned",
+        "pop": 41,
+        "valence": 23.6
+    },
+    "Embalmed": {
+        "artists": "Autopsy",
+        "energy": 89.5,
+        "length": 182,
+        "name": "Embalmed",
+        "pop": 0,
+        "valence": 16.5
+    },
+    "Epitaph of the Credulous": {
+        "artists": "Suffocation",
+        "energy": 85.4,
+        "length": 225,
+        "name": "Epitaph of the Credulous",
+        "pop": 18,
+        "valence": 29.9
+    },
+    "Evil Spells": {
+        "artists": "Morbid Angel",
+        "energy": 95.7,
+        "length": 252,
+        "name": "Evil Spells",
+        "pop": 29,
+        "valence": 21.4
+    },
+    "Execration Text": {
+        "artists": "Nile",
+        "energy": 98.3,
+        "length": 167,
+        "name": "Execration Text",
+        "pop": 27,
+        "valence": 4.42
+    },
+    "Extreme Unction": {
+        "artists": "Necrophagist",
+        "energy": 97.7,
+        "length": 286,
+        "name": "Extreme Unction",
+        "pop": 0,
+        "valence": 24.9
+    },
+    "Fearless": {
+        "artists": "Hypocrisy",
+        "energy": 98.5,
+        "length": 264,
+        "name": "Fearless",
+        "pop": 0,
+        "valence": 15.0
+    },
+    "Final Thoughts": {
+        "artists": "Obituary",
+        "energy": 72.2,
+        "length": 251,
+        "name": "Final Thoughts",
+        "pop": 27,
+        "valence": 43.5
+    },
+    "Find the Arise": {
+        "artists": "Obituary",
+        "energy": 96.7,
+        "length": 160,
+        "name": "Find the Arise",
+        "pop": 30,
+        "valence": 7.13
+    },
+    "From Darkness Come": {
+        "artists": "Deicide",
+        "energy": 98.1,
+        "length": 178,
+        "name": "From Darkness Come",
+        "pop": 20,
+        "valence": 25.3
+    },
+    "Guardians Of Asgaard": {
+        "artists": "Amon Amarth",
+        "energy": 95.3,
+        "length": 263,
+        "name": "Guardians Of Asgaard",
+        "pop": 61,
+        "valence": 27.9
+    },
+    "Helleluyah - God Is Dead": {
+        "artists": "Vader",
+        "energy": 97.1,
+        "length": 182,
+        "name": "Helleluyah - God Is Dead",
+        "pop": 0,
+        "valence": 7.12
+    },
+    "Hellion": {
+        "artists": "Children Of Bodom",
+        "energy": 97.1,
+        "length": 179,
+        "name": "Hellion",
+        "pop": 0,
+        "valence": 49.8
+    },
+    "Homicidal Retribution": {
+        "artists": "Dying Fetus",
+        "energy": 97.3,
+        "length": 330,
+        "name": "Homicidal Retribution",
+        "pop": 33,
+        "valence": 15.4
+    },
+    "In Honour of Reason": {
+        "artists": "Fleshgod Apocalypse",
+        "energy": 94.0,
+        "length": 267,
+        "name": "In Honour of Reason",
+        "pop": 0,
+        "valence": 7.55
+    },
+    "In The Minds of Evil": {
+        "artists": "Deicide",
+        "energy": 88.9,
+        "length": 233,
+        "name": "In The Minds of Evil",
+        "pop": 0,
+        "valence": 32.7
+    },
+    "In Your Face": {
+        "artists": "Children Of Bodom",
+        "energy": 98.7,
+        "length": 256,
+        "name": "In Your Face",
+        "pop": 0,
+        "valence": 26.9
+    },
+    "Individual Thought Patterns": {
+        "artists": "Death",
+        "energy": 98.8,
+        "length": 241,
+        "name": "Individual Thought Patterns",
+        "pop": 29,
+        "valence": 22.8
+    },
+    "Intro - Unleashed (Upon Mankind)": {
+        "artists": "Bolt Thrower",
+        "energy": 81.5,
+        "length": 373,
+        "name": "Intro - Unleashed (Upon Mankind)",
+        "pop": 25,
+        "valence": 7.52
+    },
+    "Invisible Control": {
+        "artists": "Decapitated",
+        "energy": 98.1,
+        "length": 286,
+        "name": "Invisible Control",
+        "pop": 22,
+        "valence": 8.95
+    },
+    "Jesus Wept": {
+        "artists": "Suffocation",
+        "energy": 93.0,
+        "length": 226,
+        "name": "Jesus Wept",
+        "pop": 28,
+        "valence": 61.2
+    },
+    "Justifiable Homicide - Bonus Track": {
+        "artists": "Dismember",
+        "energy": 95.1,
+        "length": 198,
+        "name": "Justifiable Homicide - Bonus Track",
+        "pop": 0,
+        "valence": 26.3
+    },
+    "Killing Art": {
+        "artists": "Hypocrisy",
+        "energy": 95.8,
+        "length": 176,
+        "name": "Killing Art",
+        "pop": 0,
+        "valence": 18.5
+    },
+    "Libation Unto the Shades Who Lurk In the Shadows of the Temple of Anhur": {
+        "artists": "Nile",
+        "energy": 9.15,
+        "length": 93,
+        "name": "Libation Unto the Shades Who Lurk In the Shadows of the Temple of Anhur",
+        "pop": 22,
+        "valence": 3.92
+    },
+    "Lunatic of God's Creation": {
+        "artists": "Deicide",
+        "energy": 99.6,
+        "length": 162,
+        "name": "Lunatic of God's Creation",
+        "pop": 41,
+        "valence": 6.61
+    },
+    "Marital Decimation": {
+        "artists": "Suffocation",
+        "energy": 95.9,
+        "length": 255,
+        "name": "Marital Decimation",
+        "pop": 1,
+        "valence": 41.9
+    },
+    "Melting": {
+        "artists": "Morbid Angel",
+        "energy": 39.2,
+        "length": 81,
+        "name": "Melting",
+        "pop": 24,
+        "valence": 15.8
+    },
+    "Mutilation": {
+        "artists": "Death",
+        "energy": 94.4,
+        "length": 208,
+        "name": "Mutilation",
+        "pop": 39,
+        "valence": 26.0
+    },
+    "My Friend Of Misery": {
+        "artists": "Dark Tranquillity",
+        "energy": 78.6,
+        "length": 326,
+        "name": "My Friend Of Misery",
+        "pop": 0,
+        "valence": 19.4
+    },
+    "Nas Akhu Khan She En Asbiu": {
+        "artists": "Nile",
+        "energy": 92.0,
+        "length": 255,
+        "name": "Nas Akhu Khan She En Asbiu",
+        "pop": 18,
+        "valence": 5.97
+    },
+    "Need": {
+        "artists": "At The Gates",
+        "energy": 97.5,
+        "length": 156,
+        "name": "Need",
+        "pop": 36,
+        "valence": 18.6
+    },
+    "Never Say My Name": {
+        "artists": "Vader",
+        "energy": 97.9,
+        "length": 122,
+        "name": "Never Say My Name",
+        "pop": 0,
+        "valence": 7.8
+    },
+    "Never To Be Seen Again": {
+        "artists": "Deicide",
+        "energy": 99.4,
+        "length": 205,
+        "name": "Never To Be Seen Again",
+        "pop": 18,
+        "valence": 11.0
+    },
+    "Not Of This Earth": {
+        "artists": "Deicide",
+        "energy": 99.3,
+        "length": 200,
+        "name": "Not Of This Earth",
+        "pop": 22,
+        "valence": 9.01
+    },
+    "Now You've Got Something to Die For": {
+        "artists": "Lamb of God",
+        "energy": 98.6,
+        "length": 220,
+        "name": "Now You've Got Something to Die For",
+        "pop": 0,
+        "valence": 21.7
+    },
+    "Out Of Hand": {
+        "artists": "Entombed",
+        "energy": 99.0,
+        "length": 189,
+        "name": "Out Of Hand",
+        "pop": 34,
+        "valence": 77.6
+    },
+    "Overactive Imagination": {
+        "artists": "Death",
+        "energy": 97.6,
+        "length": 211,
+        "name": "Overactive Imagination",
+        "pop": 40,
+        "valence": 45.5
+    },
+    "Override Of The Overture": {
+        "artists": "Dismember",
+        "energy": 98.8,
+        "length": 316,
+        "name": "Override Of The Overture",
+        "pop": 0,
+        "valence": 8.37
+    },
+    "Pinball Map": {
+        "artists": "In Flames",
+        "energy": 95.9,
+        "length": 248,
+        "name": "Pinball Map",
+        "pop": 0,
+        "valence": 52.7
+    },
+    "Plague Bearer": {
+        "artists": "Bolt Thrower",
+        "energy": 98.5,
+        "length": 174,
+        "name": "Plague Bearer",
+        "pop": 28,
+        "valence": 3.39
+    },
+    "Praise the Lord (Opium of the Masses)": {
+        "artists": "Dying Fetus",
+        "energy": 97.2,
+        "length": 331,
+        "name": "Praise the Lord (Opium of the Masses)",
+        "pop": 36,
+        "valence": 20.0
+    },
+    "Profane Creation": {
+        "artists": "Bolt Thrower",
+        "energy": 81.3,
+        "length": 332,
+        "name": "Profane Creation",
+        "pop": 27,
+        "valence": 31.6
+    },
+    "Reincremation": {
+        "artists": "Suffocation",
+        "energy": 88.9,
+        "length": 175,
+        "name": "Reincremation",
+        "pop": 30,
+        "valence": 52.5
+    },
+    "Rejection Role": {
+        "artists": "Soilwork",
+        "energy": 96.7,
+        "length": 215,
+        "name": "Rejection Role",
+        "pop": 0,
+        "valence": 42.1
+    },
+    "Revisionist Past": {
+        "artists": "Dying Fetus",
+        "energy": 95.8,
+        "length": 237,
+        "name": "Revisionist Past",
+        "pop": 29,
+        "valence": 35.8
+    },
+    "Septuagint": {
+        "artists": "Obscura",
+        "energy": 97.4,
+        "length": 438,
+        "name": "Septuagint",
+        "pop": 32,
+        "valence": 12.5
+    },
+    "Serpent Headed Mask": {
+        "artists": "Nile",
+        "energy": 93.4,
+        "length": 138,
+        "name": "Serpent Headed Mask",
+        "pop": 28,
+        "valence": 9.23
+    },
+    "Serpent Saints": {
+        "artists": "Entombed",
+        "energy": 94.1,
+        "length": 305,
+        "name": "Serpent Saints",
+        "pop": 0,
+        "valence": 11.4
+    },
+    "Set to Fail": {
+        "artists": "Lamb of God",
+        "energy": 99.6,
+        "length": 226,
+        "name": "Set to Fail",
+        "pop": 0,
+        "valence": 31.5
+    },
+    "Silence": {
+        "artists": "Decapitated",
+        "energy": 5.23,
+        "length": 258,
+        "name": "Silence",
+        "pop": 0,
+        "valence": 3.49
+    },
+    "Silence and the Firmament Withdrew": {
+        "artists": "Dark Tranquillity",
+        "energy": 92.5,
+        "length": 156,
+        "name": "Silence and the Firmament Withdrew",
+        "pop": 0,
+        "valence": 37.2
+    },
+    "Silent Night, Bodom Night": {
+        "artists": "Children Of Bodom",
+        "energy": 94.2,
+        "length": 192,
+        "name": "Silent Night, Bodom Night",
+        "pop": 0,
+        "valence": 51.0
+    },
+    "Soulless": {
+        "artists": "Grave",
+        "energy": 84.0,
+        "length": 188,
+        "name": "Soulless",
+        "pop": 0,
+        "valence": 24.2
+    },
+    "Stabwound": {
+        "artists": "Necrophagist",
+        "energy": 96.1,
+        "length": 168,
+        "name": "Stabwound",
+        "pop": 44,
+        "valence": 8.07
+    },
+    "Stinkupuss": {
+        "artists": "Obituary",
+        "energy": 98.1,
+        "length": 179,
+        "name": "Stinkupuss",
+        "pop": 25,
+        "valence": 3.78
+    },
+    "The Fatalist": {
+        "artists": "Dark Tranquillity",
+        "energy": 95.2,
+        "length": 272,
+        "name": "The Fatalist",
+        "pop": 0,
+        "valence": 24.2
+    },
+    "The Gallery": {
+        "artists": "Dark Tranquillity",
+        "energy": 92.6,
+        "length": 248,
+        "name": "The Gallery",
+        "pop": 0,
+        "valence": 39.2
+    },
+    "The Lords Sedition": {
+        "artists": "Deicide",
+        "energy": 99.3,
+        "length": 347,
+        "name": "The Lords Sedition",
+        "pop": 18,
+        "valence": 5.22
+    },
+    "The Purge": {
+        "artists": "Immolation",
+        "energy": 99.0,
+        "length": 199,
+        "name": "The Purge",
+        "pop": 0,
+        "valence": 4.99
+    },
+    "The Pursuit Of Vikings": {
+        "artists": "Amon Amarth",
+        "energy": 96.7,
+        "length": 270,
+        "name": "The Pursuit Of Vikings",
+        "pop": 60,
+        "valence": 48.8
+    },
+    "The Shreds Of Sanity": {
+        "artists": "Bolt Thrower",
+        "energy": 92.7,
+        "length": 207,
+        "name": "The Shreds Of Sanity",
+        "pop": 31,
+        "valence": 21.4
+    },
+    "The Soulcollector": {
+        "artists": "Bloodbath",
+        "energy": 93.6,
+        "length": 218,
+        "name": "The Soulcollector",
+        "pop": 0,
+        "valence": 28.0
+    },
+    "The Stillborn One": {
+        "artists": "Necrophagist",
+        "energy": 98.6,
+        "length": 264,
+        "name": "The Stillborn One",
+        "pop": 37,
+        "valence": 11.4
+    },
+    "Through The Eye Of Terror": {
+        "artists": "Bolt Thrower",
+        "energy": 99.3,
+        "length": 262,
+        "name": "Through The Eye Of Terror",
+        "pop": 34,
+        "valence": 3.22
+    },
+    "Torn To Pieces": {
+        "artists": "Death",
+        "energy": 89.0,
+        "length": 216,
+        "name": "Torn To Pieces",
+        "pop": 36,
+        "valence": 35.2
+    },
+    "Tribunal Of The Dead": {
+        "artists": "Nile",
+        "energy": 92.2,
+        "length": 355,
+        "name": "Tribunal Of The Dead",
+        "pop": 0,
+        "valence": 6.74
+    },
+    "Vacant Planets": {
+        "artists": "Death",
+        "energy": 86.8,
+        "length": 233,
+        "name": "Vacant Planets",
+        "pop": 24,
+        "valence": 60.6
+    },
+    "Way to Salvation": {
+        "artists": "Decapitated",
+        "energy": 97.7,
+        "length": 235,
+        "name": "Way to Salvation",
+        "pop": 23,
+        "valence": 42.9
+    },
+    "When Heaven Burns": {
+        "artists": "Deicide",
+        "energy": 97.7,
+        "length": 248,
+        "name": "When Heaven Burns",
+        "pop": 23,
+        "valence": 9.76
+    },
+    "World Of Lies": {
+        "artists": "At The Gates",
+        "energy": 98.4,
+        "length": 216,
+        "name": "World Of Lies",
+        "pop": 41,
+        "valence": 25.9
+    },
+    "World Of Shit (The Promised Land)": {
+        "artists": "Morbid Angel",
+        "energy": 93.2,
+        "length": 200,
+        "name": "World Of Shit (The Promised Land)",
+        "pop": 13,
+        "valence": 11.6
+    },
+    "Zombie Ritual": {
+        "artists": "Death",
+        "energy": 95.1,
+        "length": 273,
+        "name": "Zombie Ritual",
+        "pop": 47,
+        "valence": 14.2
+    }
+}

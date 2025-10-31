@@ -1,0 +1,1394 @@
+{
+    "'Tain't Nobody's Bizness If I Do": {
+        "artists": "Bessie Smith",
+        "energy": 4.8,
+        "length": 206,
+        "name": "'Tain't Nobody's Bizness If I Do",
+        "pop": 0,
+        "valence": 14.2
+    },
+    "(I'm Your) Hoochie Coochie Man": {
+        "artists": "Muddy Waters",
+        "energy": 42.0,
+        "length": 166,
+        "name": "(I'm Your) Hoochie Coochie Man",
+        "pop": 0,
+        "valence": 87.4
+    },
+    "A Quitter Never Wins": {
+        "artists": "Jonny Lang",
+        "energy": 67.4,
+        "length": 356,
+        "name": "A Quitter Never Wins",
+        "pop": 0,
+        "valence": 64.5
+    },
+    "Ain't Gone 'N' Give up on Love": {
+        "artists": "Stevie Ray Vaughan",
+        "energy": 39.3,
+        "length": 367,
+        "name": "Ain't Gone 'N' Give up on Love",
+        "pop": 0,
+        "valence": 32.5
+    },
+    "Ain't Gone 'N' Give up on Love - Live at Montreux Casino, Montreux, Switzerland - July 1985": {
+        "artists": "Stevie Ray Vaughan",
+        "energy": 47.1,
+        "length": 385,
+        "name": "Ain't Gone 'N' Give up on Love - Live at Montreux Casino, Montreux, Switzerland - July 1985",
+        "pop": 39,
+        "valence": 33.2
+    },
+    "All Over Again": {
+        "artists": "B.B. King",
+        "energy": 25.4,
+        "length": 433,
+        "name": "All Over Again",
+        "pop": 0,
+        "valence": 31.9
+    },
+    "All Your Love (I Miss Loving)": {
+        "artists": "Otis Rush",
+        "energy": 76.7,
+        "length": 157,
+        "name": "All Your Love (I Miss Loving)",
+        "pop": 30,
+        "valence": 64.6
+    },
+    "All Your Love - Mono": {
+        "artists": "John Mayall & The Bluesbreakers",
+        "energy": 71.5,
+        "length": 215,
+        "name": "All Your Love - Mono",
+        "pop": 0,
+        "valence": 73.8
+    },
+    "Am I Right Or Wrong": {
+        "artists": "Son House",
+        "energy": 17.6,
+        "length": 109,
+        "name": "Am I Right Or Wrong",
+        "pop": 3,
+        "valence": 75.6
+    },
+    "Ask Me No Questions": {
+        "artists": "Albert King",
+        "energy": 88.1,
+        "length": 303,
+        "name": "Ask Me No Questions",
+        "pop": 0,
+        "valence": 68.8
+    },
+    "Back To Black": {
+        "artists": "Amy Winehouse",
+        "energy": 72.5,
+        "length": 240,
+        "name": "Back To Black",
+        "pop": 0,
+        "valence": 33.5
+    },
+    "Bad Luck": {
+        "artists": "B.B. King",
+        "energy": 53.7,
+        "length": 175,
+        "name": "Bad Luck",
+        "pop": 7,
+        "valence": 79.3
+    },
+    "Before You Accuse Me": {
+        "artists": "Eric Clapton",
+        "energy": 37.9,
+        "length": 224,
+        "name": "Before You Accuse Me",
+        "pop": 0,
+        "valence": 57.3
+    },
+    "Better Not Look Down - Single Version": {
+        "artists": "B.B. King",
+        "energy": 77.3,
+        "length": 202,
+        "name": "Better Not Look Down - Single Version",
+        "pop": 0,
+        "valence": 77.8
+    },
+    "Blue Ridge Mountains": {
+        "artists": "Fleet Foxes",
+        "energy": 44.6,
+        "length": 266,
+        "name": "Blue Ridge Mountains",
+        "pop": 0,
+        "valence": 27.2
+    },
+    "Bold as Love": {
+        "artists": "Jimi Hendrix",
+        "energy": 70.2,
+        "length": 252,
+        "name": "Bold as Love",
+        "pop": 36,
+        "valence": 59.6
+    },
+    "Boom Boom": {
+        "artists": "John Lee Hooker",
+        "energy": 63.9,
+        "length": 150,
+        "name": "Boom Boom",
+        "pop": 0,
+        "valence": 86.5
+    },
+    "Boot Hill - 1989 Version": {
+        "artists": "Stevie Ray Vaughan",
+        "energy": 69.7,
+        "length": 134,
+        "name": "Boot Hill - 1989 Version",
+        "pop": 29,
+        "valence": 89.5
+    },
+    "Born Under A Bad Sign": {
+        "artists": "Albert King",
+        "energy": 63.3,
+        "length": 167,
+        "name": "Born Under A Bad Sign",
+        "pop": 0,
+        "valence": 90.7
+    },
+    "Brown Eyed Girl": {
+        "artists": "Van Morrison",
+        "energy": 58.6,
+        "length": 184,
+        "name": "Brown Eyed Girl",
+        "pop": 0,
+        "valence": 89.9
+    },
+    "Cajun Moon": {
+        "artists": "J.J. Cale",
+        "energy": 63.1,
+        "length": 135,
+        "name": "Cajun Moon",
+        "pop": 32,
+        "valence": 89.2
+    },
+    "Call It Stormy Monday": {
+        "artists": "Albert King",
+        "energy": 72.9,
+        "length": 541,
+        "name": "Call It Stormy Monday",
+        "pop": 44,
+        "valence": 59.4
+    },
+    "Cannonball Shuffle - Album Version (For Freddie King)": {
+        "artists": "Robben Ford",
+        "energy": 79.6,
+        "length": 273,
+        "name": "Cannonball Shuffle - Album Version (For Freddie King)",
+        "pop": 0,
+        "valence": 81.1
+    },
+    "Change the World": {
+        "artists": "Eric Clapton",
+        "energy": 55.8,
+        "length": 235,
+        "name": "Change the World",
+        "pop": 3,
+        "valence": 54.2
+    },
+    "Chill Out (Things Gonna Change)": {
+        "artists": "John Lee Hooker",
+        "energy": 51.9,
+        "length": 286,
+        "name": "Chill Out (Things Gonna Change)",
+        "pop": 0,
+        "valence": 71.9
+    },
+    "Cold, Cold Feeling": {
+        "artists": "Albert Collins",
+        "energy": 14.9,
+        "length": 319,
+        "name": "Cold, Cold Feeling",
+        "pop": 0,
+        "valence": 43.3
+    },
+    "Crosscut Saw": {
+        "artists": "Albert King",
+        "energy": 38.9,
+        "length": 153,
+        "name": "Crosscut Saw",
+        "pop": 5,
+        "valence": 94.0
+    },
+    "Crow Jane": {
+        "artists": "Skip James",
+        "energy": 33.1,
+        "length": 144,
+        "name": "Crow Jane",
+        "pop": 34,
+        "valence": 87.6
+    },
+    "Crying Won't Help You": {
+        "artists": "B.B. King",
+        "energy": 46.0,
+        "length": 179,
+        "name": "Crying Won't Help You",
+        "pop": 0,
+        "valence": 79.6
+    },
+    "Darling, You Know I Love You": {
+        "artists": "B.B. King",
+        "energy": 38.8,
+        "length": 309,
+        "name": "Darling, You Know I Love You",
+        "pop": 0,
+        "valence": 30.6
+    },
+    "Death Letter": {
+        "artists": "Son House",
+        "energy": 64.4,
+        "length": 253,
+        "name": "Death Letter",
+        "pop": 8,
+        "valence": 81.6
+    },
+    "Devil Got My Woman": {
+        "artists": "Skip James",
+        "energy": 22.3,
+        "length": 181,
+        "name": "Devil Got My Woman",
+        "pop": 18,
+        "valence": 29.0
+    },
+    "Diddley Bo": {
+        "artists": "Seasick Steve",
+        "energy": 87.3,
+        "length": 233,
+        "name": "Diddley Bo",
+        "pop": 0,
+        "valence": 37.3
+    },
+    "Dirty Pool": {
+        "artists": "Stevie Ray Vaughan",
+        "energy": 39.5,
+        "length": 301,
+        "name": "Dirty Pool",
+        "pop": 42,
+        "valence": 53.1
+    },
+    "Don't Answer The Door": {
+        "artists": "B.B. King",
+        "energy": 51.9,
+        "length": 312,
+        "name": "Don't Answer The Door",
+        "pop": 0,
+        "valence": 25.5
+    },
+    "Don't Go To Strangers - from the Hootenanny 2006": {
+        "artists": "Jools Holland, Amy Winehouse and Paul Weller",
+        "energy": 65.2,
+        "length": 247,
+        "name": "Don't Go To Strangers - from the Hootenanny 2006",
+        "pop": 43,
+        "valence": 37.5
+    },
+    "Don't Lie To Me": {
+        "artists": "Albert King",
+        "energy": 92.6,
+        "length": 538,
+        "name": "Don't Lie To Me",
+        "pop": 0,
+        "valence": 59.4
+    },
+    "Don't Mess With My Baby": {
+        "artists": "Howlin' Wolf",
+        "energy": 38.8,
+        "length": 163,
+        "name": "Don't Mess With My Baby",
+        "pop": 0,
+        "valence": 71.1
+    },
+    "Don't Owe You a Thang": {
+        "artists": "Gary Clark Jr.",
+        "energy": 94.4,
+        "length": 214,
+        "name": "Don't Owe You a Thang",
+        "pop": 0,
+        "valence": 38.2
+    },
+    "Dorothy Mae": {
+        "artists": "Howlin' Wolf",
+        "energy": 65.2,
+        "length": 162,
+        "name": "Dorothy Mae",
+        "pop": 0,
+        "valence": 68.9
+    },
+    "Double Crossing Time - Mono": {
+        "artists": "John Mayall & The Bluesbreakers",
+        "energy": 59.6,
+        "length": 181,
+        "name": "Double Crossing Time - Mono",
+        "pop": 0,
+        "valence": 57.4
+    },
+    "Dream A Little Dream Of Me": {
+        "artists": "Ella Fitzgerald",
+        "energy": 23.6,
+        "length": 187,
+        "name": "Dream A Little Dream Of Me",
+        "pop": 0,
+        "valence": 36.6
+    },
+    "Fattening Frogs For Snakes": {
+        "artists": "Sonny Boy Williamson II",
+        "energy": 75.0,
+        "length": 143,
+        "name": "Fattening Frogs For Snakes",
+        "pop": 0,
+        "valence": 75.4
+    },
+    "Fixin' To Die": {
+        "artists": "Bukka White",
+        "energy": 29.9,
+        "length": 169,
+        "name": "Fixin' To Die",
+        "pop": 0,
+        "valence": 62.3
+    },
+    "Frankie And Johnny": {
+        "artists": "Mississippi John Hurt",
+        "energy": 18.2,
+        "length": 207,
+        "name": "Frankie And Johnny",
+        "pop": 0,
+        "valence": 43.7
+    },
+    "Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007": {
+        "artists": "John Mayer",
+        "energy": 29.6,
+        "length": 264,
+        "name": "Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
+        "pop": 75,
+        "valence": 43.5
+    },
+    "Fried Hockey Boogie": {
+        "artists": "Canned Heat",
+        "energy": 49.0,
+        "length": 406,
+        "name": "Fried Hockey Boogie",
+        "pop": 0,
+        "valence": 56.4
+    },
+    "From Four Till Late": {
+        "artists": "Robert Johnson",
+        "energy": 7.24,
+        "length": 142,
+        "name": "From Four Till Late",
+        "pop": 0,
+        "valence": 59.4
+    },
+    "From Four Until Late": {
+        "artists": "Robert Johnson",
+        "energy": 11.4,
+        "length": 143,
+        "name": "From Four Until Late",
+        "pop": 0,
+        "valence": 53.5
+    },
+    "Give Me One Reason": {
+        "artists": "Tracy Chapman",
+        "energy": 41.9,
+        "length": 268,
+        "name": "Give Me One Reason",
+        "pop": 73,
+        "valence": 60.2
+    },
+    "Goin' Down Slow": {
+        "artists": "Howlin' Wolf",
+        "energy": 52.9,
+        "length": 235,
+        "name": "Goin' Down Slow",
+        "pop": 0,
+        "valence": 43.3
+    },
+    "Going Down South": {
+        "artists": "R.L. Burnside",
+        "energy": 20.8,
+        "length": 197,
+        "name": "Going Down South",
+        "pop": 0,
+        "valence": 66.9
+    },
+    "Goodnight Irene": {
+        "artists": "Lead Belly",
+        "energy": 22.2,
+        "length": 162,
+        "name": "Goodnight Irene",
+        "pop": 0,
+        "valence": 55.0
+    },
+    "Got My Mojo Working - Live": {
+        "artists": "Muddy Waters",
+        "energy": 93.9,
+        "length": 193,
+        "name": "Got My Mojo Working - Live",
+        "pop": 31,
+        "valence": 37.3
+    },
+    "Got The Bottle Up And Gone": {
+        "artists": "Sonny Boy Williamson II",
+        "energy": 29.4,
+        "length": 154,
+        "name": "Got The Bottle Up And Gone",
+        "pop": 0,
+        "valence": 85.6
+    },
+    "Gravity": {
+        "artists": "John Mayer",
+        "energy": 32.6,
+        "length": 246,
+        "name": "Gravity",
+        "pop": 74,
+        "valence": 23.7
+    },
+    "Hallelujah, I Love Her So": {
+        "artists": "Ray Charles",
+        "energy": 54.7,
+        "length": 156,
+        "name": "Hallelujah, I Love Her So",
+        "pop": 67,
+        "valence": 62.3
+    },
+    "Heard Them Stirring": {
+        "artists": "Fleet Foxes",
+        "energy": 47.0,
+        "length": 182,
+        "name": "Heard Them Stirring",
+        "pop": 0,
+        "valence": 25.1
+    },
+    "Heartbreaker": {
+        "artists": "Joe Bonamassa",
+        "energy": 80.5,
+        "length": 349,
+        "name": "Heartbreaker",
+        "pop": 25,
+        "valence": 52.0
+    },
+    "Hell Hound On My Trail": {
+        "artists": "Robert Johnson",
+        "energy": 14.6,
+        "length": 158,
+        "name": "Hell Hound On My Trail",
+        "pop": 33,
+        "valence": 39.4
+    },
+    "Help Me": {
+        "artists": "Sonny Boy Williamson II",
+        "energy": 40.9,
+        "length": 192,
+        "name": "Help Me",
+        "pop": 0,
+        "valence": 80.6
+    },
+    "Hideaway - Mono Instrumental": {
+        "artists": "John Mayall & The Bluesbreakers",
+        "energy": 75.9,
+        "length": 194,
+        "name": "Hideaway - Mono Instrumental",
+        "pop": 0,
+        "valence": 86.8
+    },
+    "High Priced Woman": {
+        "artists": "John Lee Hooker",
+        "energy": 51.8,
+        "length": 166,
+        "name": "High Priced Woman",
+        "pop": 0,
+        "valence": 50.5
+    },
+    "Hit The Road Jack": {
+        "artists": "Jeff Zavac",
+        "energy": 75.2,
+        "length": 130,
+        "name": "Hit The Road Jack",
+        "pop": 0,
+        "valence": 93.5
+    },
+    "Hit the Road Jack": {
+        "artists": "Ray Charles",
+        "energy": 76.5,
+        "length": 118,
+        "name": "Hit the Road Jack",
+        "pop": 0,
+        "valence": 96.2
+    },
+    "Hold on I'm Coming": {
+        "artists": "Eric Clapton",
+        "energy": 90.4,
+        "length": 379,
+        "name": "Hold on I'm Coming",
+        "pop": 32,
+        "valence": 55.3
+    },
+    "Hoochie Coochie Man": {
+        "artists": "Muddy Waters",
+        "energy": 40.4,
+        "length": 226,
+        "name": "Hoochie Coochie Man",
+        "pop": 0,
+        "valence": 72.2
+    },
+    "Hummingbird": {
+        "artists": "B.B. King",
+        "energy": 52.5,
+        "length": 260,
+        "name": "Hummingbird",
+        "pop": 0,
+        "valence": 37.3
+    },
+    "I Believe": {
+        "artists": "Jonny Lang",
+        "energy": 75.3,
+        "length": 205,
+        "name": "I Believe",
+        "pop": 25,
+        "valence": 50.6
+    },
+    "I Didn't Know": {
+        "artists": "Howlin' Wolf",
+        "energy": 85.6,
+        "length": 144,
+        "name": "I Didn't Know",
+        "pop": 0,
+        "valence": 76.1
+    },
+    "I Feel Free": {
+        "artists": "Cream",
+        "energy": 42.7,
+        "length": 173,
+        "name": "I Feel Free",
+        "pop": 19,
+        "valence": 46.5
+    },
+    "I Got My Brand On You": {
+        "artists": "Muddy Waters",
+        "energy": 61.4,
+        "length": 290,
+        "name": "I Got My Brand On You",
+        "pop": 0,
+        "valence": 44.0
+    },
+    "I Heard It Through The Grapevine": {
+        "artists": "Marvin Gaye",
+        "energy": 32.4,
+        "length": 195,
+        "name": "I Heard It Through The Grapevine",
+        "pop": 0,
+        "valence": 67.9
+    },
+    "I Love You Honey": {
+        "artists": "John Lee Hooker",
+        "energy": 83.5,
+        "length": 155,
+        "name": "I Love You Honey",
+        "pop": 0,
+        "valence": 80.6
+    },
+    "I'd Rather Go Blind": {
+        "artists": "Etta James",
+        "energy": 38.9,
+        "length": 155,
+        "name": "I'd Rather Go Blind",
+        "pop": 35,
+        "valence": 62.2
+    },
+    "I'll Sail My Ship Alone": {
+        "artists": "Jools Holland & Tom Jones",
+        "energy": 58.5,
+        "length": 217,
+        "name": "I'll Sail My Ship Alone",
+        "pop": 30,
+        "valence": 65.7
+    },
+    "I'll Survive": {
+        "artists": "B.B. King",
+        "energy": 48.6,
+        "length": 293,
+        "name": "I'll Survive",
+        "pop": 0,
+        "valence": 29.6
+    },
+    "I'm A King Bee": {
+        "artists": "Slim Harpo",
+        "energy": 44.6,
+        "length": 183,
+        "name": "I'm A King Bee",
+        "pop": 0,
+        "valence": 90.1
+    },
+    "I'm In The Mood - Single Version": {
+        "artists": "John Lee Hooker",
+        "energy": 30.4,
+        "length": 164,
+        "name": "I'm In The Mood - Single Version",
+        "pop": 0,
+        "valence": 66.3
+    },
+    "I'm Your Hoochie Coochie Man": {
+        "artists": "Muddy Waters",
+        "energy": 49.5,
+        "length": 237,
+        "name": "I'm Your Hoochie Coochie Man",
+        "pop": 27,
+        "valence": 89.1
+    },
+    "I've Got Dreams To Remember featuring John Mayer": {
+        "artists": "Buddy Guy",
+        "energy": 43.6,
+        "length": 296,
+        "name": "I've Got Dreams To Remember featuring John Mayer",
+        "pop": 0,
+        "valence": 28.2
+    },
+    "It Hurts Me Too": {
+        "artists": "Elmore James",
+        "energy": 34.6,
+        "length": 206,
+        "name": "It Hurts Me Too",
+        "pop": 8,
+        "valence": 52.6
+    },
+    "It's My Own Fault - Live at the Fillmore East, NYC, NY - 1970": {
+        "artists": "Johnny Winter",
+        "energy": 68.6,
+        "length": 716,
+        "name": "It's My Own Fault - Live at the Fillmore East, NYC, NY - 1970",
+        "pop": 19,
+        "valence": 63.1
+    },
+    "It's My Own Fault Baby": {
+        "artists": "B.B. King",
+        "energy": 52.9,
+        "length": 216,
+        "name": "It's My Own Fault Baby",
+        "pop": 0,
+        "valence": 48.3
+    },
+    "Johnny B. Goode": {
+        "artists": "Chuck Berry",
+        "energy": 93.1,
+        "length": 162,
+        "name": "Johnny B. Goode",
+        "pop": 0,
+        "valence": 90.3
+    },
+    "King's Highway": {
+        "artists": "Kenny Wayne Shepherd",
+        "energy": 79.7,
+        "length": 258,
+        "name": "King's Highway",
+        "pop": 35,
+        "valence": 82.2
+    },
+    "Last Fair Deal Gone Down": {
+        "artists": "Robert Johnson",
+        "energy": 9.63,
+        "length": 162,
+        "name": "Last Fair Deal Gone Down",
+        "pop": 0,
+        "valence": 80.6
+    },
+    "Lay Lady Lay featuring Anthony Hamilton and Robert Randolph": {
+        "artists": "Buddy Guy",
+        "energy": 68.4,
+        "length": 275,
+        "name": "Lay Lady Lay featuring Anthony Hamilton and Robert Randolph",
+        "pop": 0,
+        "valence": 77.4
+    },
+    "Lenny - Live at The Spectrum, Montreal; Augusy 17 1984 (Late Show)": {
+        "artists": "Stevie Ray Vaughan",
+        "energy": 31.1,
+        "length": 667,
+        "name": "Lenny - Live at The Spectrum, Montreal; Augusy 17 1984 (Late Show)",
+        "pop": 27,
+        "valence": 22.1
+    },
+    "Let Me Love You Baby": {
+        "artists": "Stevie Ray Vaughan",
+        "energy": 83.3,
+        "length": 163,
+        "name": "Let Me Love You Baby",
+        "pop": 0,
+        "valence": 90.9
+    },
+    "Let Them Talk": {
+        "artists": "Hugh Laurie",
+        "energy": 41.6,
+        "length": 250,
+        "name": "Let Them Talk",
+        "pop": 31,
+        "valence": 20.1
+    },
+    "Let Your Light Shine on Me": {
+        "artists": "Blind Willie Johnson",
+        "energy": 21.6,
+        "length": 189,
+        "name": "Let Your Light Shine on Me",
+        "pop": 13,
+        "valence": 47.8
+    },
+    "Life Without You": {
+        "artists": "Stevie Ray Vaughan",
+        "energy": 31.7,
+        "length": 258,
+        "name": "Life Without You",
+        "pop": 44,
+        "valence": 39.9
+    },
+    "Little Queen Of Spades": {
+        "artists": "Robert Johnson",
+        "energy": 13.7,
+        "length": 135,
+        "name": "Little Queen Of Spades",
+        "pop": 0,
+        "valence": 62.3
+    },
+    "Little Red Rooster": {
+        "artists": "Howlin' Wolf",
+        "energy": 36.0,
+        "length": 339,
+        "name": "Little Red Rooster",
+        "pop": 0,
+        "valence": 66.3
+    },
+    "Look at Little Sister": {
+        "artists": "Stevie Ray Vaughan",
+        "energy": 88.0,
+        "length": 188,
+        "name": "Look at Little Sister",
+        "pop": 49,
+        "valence": 74.7
+    },
+    "Look at Little Sister - 1984 Version": {
+        "artists": "Stevie Ray Vaughan",
+        "energy": 69.7,
+        "length": 167,
+        "name": "Look at Little Sister - 1984 Version",
+        "pop": 37,
+        "valence": 81.8
+    },
+    "Mannish Boy": {
+        "artists": "Muddy Waters",
+        "energy": 44.8,
+        "length": 178,
+        "name": "Mannish Boy",
+        "pop": 0,
+        "valence": 48.9
+    },
+    "Me and Bobby McGee": {
+        "artists": "Janis Joplin",
+        "energy": 46.8,
+        "length": 270,
+        "name": "Me and Bobby McGee",
+        "pop": 40,
+        "valence": 69.0
+    },
+    "Midnight Rider": {
+        "artists": "Allman Brothers Band",
+        "energy": 45.9,
+        "length": 178,
+        "name": "Midnight Rider",
+        "pop": 0,
+        "valence": 59.1
+    },
+    "Midnight Special": {
+        "artists": "Lead Belly",
+        "energy": 35.0,
+        "length": 184,
+        "name": "Midnight Special",
+        "pop": 0,
+        "valence": 72.2
+    },
+    "Mojo Boogie": {
+        "artists": "Johnny Winter",
+        "energy": 72.5,
+        "length": 293,
+        "name": "Mojo Boogie",
+        "pop": 0,
+        "valence": 89.1
+    },
+    "Mojo Hand": {
+        "artists": "Lightnin' Hopkins",
+        "energy": 55.9,
+        "length": 183,
+        "name": "Mojo Hand",
+        "pop": 0,
+        "valence": 76.5
+    },
+    "My Baby Just Cares For Me": {
+        "artists": "Nina Simone",
+        "energy": 40.7,
+        "length": 218,
+        "name": "My Baby Just Cares For Me",
+        "pop": 0,
+        "valence": 52.2
+    },
+    "My Home Is In The Delta": {
+        "artists": "Muddy Waters",
+        "energy": 14.8,
+        "length": 241,
+        "name": "My Home Is In The Delta",
+        "pop": 0,
+        "valence": 38.3
+    },
+    "Nature - Single Version": {
+        "artists": "Howlin' Wolf",
+        "energy": 52.9,
+        "length": 165,
+        "name": "Nature - Single Version",
+        "pop": 0,
+        "valence": 64.6
+    },
+    "No Particular Place To Go - Single Version": {
+        "artists": "Chuck Berry",
+        "energy": 76.1,
+        "length": 163,
+        "name": "No Particular Place To Go - Single Version",
+        "pop": 0,
+        "valence": 97.6
+    },
+    "Now You're Gone": {
+        "artists": "Buddy Guy",
+        "energy": 55.5,
+        "length": 303,
+        "name": "Now You're Gone",
+        "pop": 19,
+        "valence": 38.0
+    },
+    "Oh Pretty Woman": {
+        "artists": "John Mayall & The Bluesbreakers",
+        "energy": 34.2,
+        "length": 214,
+        "name": "Oh Pretty Woman",
+        "pop": 0,
+        "valence": 70.2
+    },
+    "One Good Man": {
+        "artists": "Janis Joplin",
+        "energy": 61.6,
+        "length": 250,
+        "name": "One Good Man",
+        "pop": 31,
+        "valence": 33.9
+    },
+    "Pay the Band": {
+        "artists": "Buddy Whittington",
+        "energy": 79.1,
+        "length": 273,
+        "name": "Pay the Band",
+        "pop": 0,
+        "valence": 41.0
+    },
+    "Piece of My Heart": {
+        "artists": "Janis Joplin",
+        "energy": 66.5,
+        "length": 266,
+        "name": "Piece of My Heart",
+        "pop": 0,
+        "valence": 56.1
+    },
+    "Purple Haze": {
+        "artists": "Jimi Hendrix",
+        "energy": 89.8,
+        "length": 171,
+        "name": "Purple Haze",
+        "pop": 53,
+        "valence": 43.4
+    },
+    "Rambling On My Mind": {
+        "artists": "Robert Johnson",
+        "energy": 16.9,
+        "length": 174,
+        "name": "Rambling On My Mind",
+        "pop": 0,
+        "valence": 54.0
+    },
+    "Release Me": {
+        "artists": "Junior Kimbrough",
+        "energy": 52.7,
+        "length": 321,
+        "name": "Release Me",
+        "pop": 0,
+        "valence": 46.9
+    },
+    "Respect": {
+        "artists": "Aretha Franklin",
+        "energy": 55.8,
+        "length": 148,
+        "name": "Respect",
+        "pop": 79,
+        "valence": 96.5
+    },
+    "Roberta": {
+        "artists": "Lead Belly",
+        "energy": 44.7,
+        "length": 187,
+        "name": "Roberta",
+        "pop": 0,
+        "valence": 82.7
+    },
+    "Rollin' & Tumblin' - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster": {
+        "artists": "Eric Clapton",
+        "energy": 86.9,
+        "length": 248,
+        "name": "Rollin' & Tumblin' - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
+        "pop": 0,
+        "valence": 74.5
+    },
+    "Running On Faith - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992": {
+        "artists": "Eric Clapton",
+        "energy": 64.8,
+        "length": 386,
+        "name": "Running On Faith - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992",
+        "pop": 0,
+        "valence": 58.3
+    },
+    "Saint James Infirmary": {
+        "artists": "Snooks Eaglin",
+        "energy": 26.1,
+        "length": 144,
+        "name": "Saint James Infirmary",
+        "pop": 41,
+        "valence": 62.2
+    },
+    "Season of the Witch - 2002 Remix w/o Horns": {
+        "artists": "Steve Stills",
+        "energy": 53.1,
+        "length": 668,
+        "name": "Season of the Witch - 2002 Remix w/o Horns",
+        "pop": 40,
+        "valence": 54.6
+    },
+    "See the Light": {
+        "artists": "The Jeff Healey Band",
+        "energy": 88.2,
+        "length": 267,
+        "name": "See the Light",
+        "pop": 0,
+        "valence": 34.6
+    },
+    "Shake for Me - Live at Steamboat 1874, Austin, TX - April 1980": {
+        "artists": "Stevie Ray Vaughan",
+        "energy": 84.1,
+        "length": 229,
+        "name": "Shake for Me - Live at Steamboat 1874, Austin, TX - April 1980",
+        "pop": 39,
+        "valence": 77.5
+    },
+    "Shame, Shame, Shame": {
+        "artists": "Jimmy Reed",
+        "energy": 49.8,
+        "length": 169,
+        "name": "Shame, Shame, Shame",
+        "pop": 45,
+        "valence": 90.0
+    },
+    "Sharp Dressed Man - 2008 Remaster": {
+        "artists": "ZZ Top",
+        "energy": 85.9,
+        "length": 258,
+        "name": "Sharp Dressed Man - 2008 Remaster",
+        "pop": 78,
+        "valence": 44.6
+    },
+    "She Caught the Katy and Left Me a Mule to Ride": {
+        "artists": "Taj Mahal",
+        "energy": 38.8,
+        "length": 207,
+        "name": "She Caught the Katy and Left Me a Mule to Ride",
+        "pop": 25,
+        "valence": 93.6
+    },
+    "She's Into Something": {
+        "artists": "Muddy Waters",
+        "energy": 54.6,
+        "length": 165,
+        "name": "She's Into Something",
+        "pop": 0,
+        "valence": 77.4
+    },
+    "She's Nineteen Years Old": {
+        "artists": "Muddy Waters",
+        "energy": 48.3,
+        "length": 202,
+        "name": "She's Nineteen Years Old",
+        "pop": 0,
+        "valence": 63.3
+    },
+    "Since I Met You Baby - 2002 Digital Remaster": {
+        "artists": "Gary Moore",
+        "energy": 83.9,
+        "length": 172,
+        "name": "Since I Met You Baby - 2002 Digital Remaster",
+        "pop": 16,
+        "valence": 77.7
+    },
+    "Smile at Me": {
+        "artists": "Howlin' Wolf",
+        "energy": 47.1,
+        "length": 124,
+        "name": "Smile at Me",
+        "pop": 0,
+        "valence": 74.4
+    },
+    "Sneakin' Around": {
+        "artists": "B.B. King",
+        "energy": 54.2,
+        "length": 129,
+        "name": "Sneakin' Around",
+        "pop": 0,
+        "valence": 64.9
+    },
+    "So Glad - Single Version": {
+        "artists": "Howlin' Wolf",
+        "energy": 66.5,
+        "length": 128,
+        "name": "So Glad - Single Version",
+        "pop": 0,
+        "valence": 77.2
+    },
+    "So Many Roads - Live From The Royal Albert Hall": {
+        "artists": "Joe Bonamassa",
+        "energy": 72.9,
+        "length": 376,
+        "name": "So Many Roads - Live From The Royal Albert Hall",
+        "pop": 0,
+        "valence": 63.4
+    },
+    "Something Inside Of Me": {
+        "artists": "Elmore James",
+        "energy": 33.1,
+        "length": 301,
+        "name": "Something Inside Of Me",
+        "pop": 0,
+        "valence": 40.1
+    },
+    "Soulshine": {
+        "artists": "Allman Brothers Band",
+        "energy": 55.6,
+        "length": 404,
+        "name": "Soulshine",
+        "pop": 59,
+        "valence": 55.9
+    },
+    "Soundman": {
+        "artists": "Aynsley Lister",
+        "energy": 78.1,
+        "length": 253,
+        "name": "Soundman",
+        "pop": 0,
+        "valence": 76.8
+    },
+    "Standing At The Crossroads": {
+        "artists": "Elmore James",
+        "energy": 76.5,
+        "length": 179,
+        "name": "Standing At The Crossroads",
+        "pop": 28,
+        "valence": 95.0
+    },
+    "Stang's Swang": {
+        "artists": "Stevie Ray Vaughan",
+        "energy": 47.1,
+        "length": 165,
+        "name": "Stang's Swang",
+        "pop": 33,
+        "valence": 51.4
+    },
+    "Stang's Swang - Alternate Version": {
+        "artists": "Stevie Ray Vaughan",
+        "energy": 43.7,
+        "length": 164,
+        "name": "Stang's Swang - Alternate Version",
+        "pop": 28,
+        "valence": 57.0
+    },
+    "Sweet Little Angel": {
+        "artists": "B.B. King",
+        "energy": 50.1,
+        "length": 182,
+        "name": "Sweet Little Angel",
+        "pop": 0,
+        "valence": 49.0
+    },
+    "Ten Long Years": {
+        "artists": "Eric Clapton",
+        "energy": 55.1,
+        "length": 280,
+        "name": "Ten Long Years",
+        "pop": 43,
+        "valence": 76.7
+    },
+    "Texas Flood - Live at Montreux Casino, Montreux, Switzerland - July 1982": {
+        "artists": "Stevie Ray Vaughan",
+        "energy": 51.5,
+        "length": 627,
+        "name": "Texas Flood - Live at Montreux Casino, Montreux, Switzerland - July 1982",
+        "pop": 28,
+        "valence": 34.9
+    },
+    "That's Alright Mama": {
+        "artists": "Arthur \"Big Boy\" Crudup",
+        "energy": 29.5,
+        "length": 142,
+        "name": "That's Alright Mama",
+        "pop": 13,
+        "valence": 67.0
+    },
+    "The Ballad of John Henry": {
+        "artists": "Joe Bonamassa",
+        "energy": 56.7,
+        "length": 387,
+        "name": "The Ballad of John Henry",
+        "pop": 38,
+        "valence": 18.0
+    },
+    "The Lady Is A Tramp - from the Hootenanny 2008": {
+        "artists": "Jools Holland & Lily Rose Cooper (n\u00e9e Lily Allen)",
+        "energy": 77.3,
+        "length": 176,
+        "name": "The Lady Is A Tramp - from the Hootenanny 2008",
+        "pop": 18,
+        "valence": 89.5
+    },
+    "The Loner - Remastered 2002": {
+        "artists": "Gary Moore",
+        "energy": 47.9,
+        "length": 355,
+        "name": "The Loner - Remastered 2002",
+        "pop": 27,
+        "valence": 10.5
+    },
+    "The Things (That) I Used to Do": {
+        "artists": "Stevie Ray Vaughan",
+        "energy": 61.1,
+        "length": 294,
+        "name": "The Things (That) I Used to Do",
+        "pop": 37,
+        "valence": 48.4
+    },
+    "They Call Me Muddy Waters": {
+        "artists": "Muddy Waters",
+        "energy": 43.1,
+        "length": 201,
+        "name": "They Call Me Muddy Waters",
+        "pop": 0,
+        "valence": 64.5
+    },
+    "Think Twice Before You Go": {
+        "artists": "John Lee Hooker",
+        "energy": 63.0,
+        "length": 125,
+        "name": "Think Twice Before You Go",
+        "pop": 0,
+        "valence": 96.9
+    },
+    "Too Rolling Stoned - 2007 Remastered Version": {
+        "artists": "Robin Trower",
+        "energy": 62.2,
+        "length": 452,
+        "name": "Too Rolling Stoned - 2007 Remastered Version",
+        "pop": 0,
+        "valence": 37.0
+    },
+    "Treasures": {
+        "artists": "Seasick Steve",
+        "energy": 25.0,
+        "length": 232,
+        "name": "Treasures",
+        "pop": 0,
+        "valence": 19.7
+    },
+    "Trouble No More - Live At The Fillmore East/1971": {
+        "artists": "Allman Brothers Band",
+        "energy": 73.0,
+        "length": 223,
+        "name": "Trouble No More - Live At The Fillmore East/1971",
+        "pop": 0,
+        "valence": 66.5
+    },
+    "Tutti Frutti": {
+        "artists": "Little Richard",
+        "energy": 55.0,
+        "length": 145,
+        "name": "Tutti Frutti",
+        "pop": 0,
+        "valence": 96.2
+    },
+    "Unknown Brother": {
+        "artists": "The Black Keys",
+        "energy": 55.2,
+        "length": 240,
+        "name": "Unknown Brother",
+        "pop": 43,
+        "valence": 20.9
+    },
+    "Waitin' for the Bus": {
+        "artists": "ZZ Top",
+        "energy": 36.8,
+        "length": 173,
+        "name": "Waitin' for the Bus",
+        "pop": 25,
+        "valence": 85.9
+    },
+    "Wang Dang Doodle": {
+        "artists": "Howlin' Wolf",
+        "energy": 90.6,
+        "length": 146,
+        "name": "Wang Dang Doodle",
+        "pop": 0,
+        "valence": 76.0
+    },
+    "Watch Yourself": {
+        "artists": "B.B. King",
+        "energy": 76.0,
+        "length": 350,
+        "name": "Watch Yourself",
+        "pop": 0,
+        "valence": 74.5
+    },
+    "What A Wonderful World": {
+        "artists": "Louis Armstrong",
+        "energy": 44.3,
+        "length": 141,
+        "name": "What A Wonderful World",
+        "pop": 0,
+        "valence": 31.3
+    },
+    "What Is That She Got": {
+        "artists": "Muddy Waters",
+        "energy": 33.8,
+        "length": 283,
+        "name": "What Is That She Got",
+        "pop": 0,
+        "valence": 70.2
+    },
+    "What'd I Say": {
+        "artists": "Ray Charles",
+        "energy": 61.8,
+        "length": 387,
+        "name": "What'd I Say",
+        "pop": 0,
+        "valence": 78.9
+    },
+    "What'd I Say - Mono": {
+        "artists": "John Mayall & The Bluesbreakers",
+        "energy": 83.4,
+        "length": 266,
+        "name": "What'd I Say - Mono",
+        "pop": 0,
+        "valence": 93.5
+    },
+    "When You Got a Good Friend": {
+        "artists": "Robert Johnson",
+        "energy": 14.7,
+        "length": 159,
+        "name": "When You Got a Good Friend",
+        "pop": 31,
+        "valence": 26.1
+    },
+    "When You're Smiling - The Whole World Smiles with You": {
+        "artists": "Jools Holland",
+        "energy": 67.2,
+        "length": 223,
+        "name": "When You're Smiling - The Whole World Smiles with You",
+        "pop": 23,
+        "valence": 72.2
+    },
+    "Who Will Be Next": {
+        "artists": "Howlin' Wolf",
+        "energy": 58.8,
+        "length": 159,
+        "name": "Who Will Be Next",
+        "pop": 0,
+        "valence": 50.7
+    },
+    "Who You Gonna Hoodoo Now?": {
+        "artists": "Tony Joe White",
+        "energy": 47.9,
+        "length": 269,
+        "name": "Who You Gonna Hoodoo Now?",
+        "pop": 0,
+        "valence": 64.7
+    },
+    "Willie The Wimp - Live": {
+        "artists": "Stevie Ray Vaughan",
+        "energy": 88.0,
+        "length": 275,
+        "name": "Willie The Wimp - Live",
+        "pop": 31,
+        "valence": 90.4
+    },
+    "Woke Up This Morning - 2002 Digital Remaster": {
+        "artists": "Gary Moore",
+        "energy": 69.9,
+        "length": 231,
+        "name": "Woke Up This Morning - 2002 Digital Remaster",
+        "pop": 9,
+        "valence": 83.7
+    },
+    "Working Man": {
+        "artists": "Otis Rush",
+        "energy": 62.5,
+        "length": 148,
+        "name": "Working Man",
+        "pop": 55,
+        "valence": 84.1
+    },
+    "You Can't Judge A Book By It's Cover": {
+        "artists": "Bo Diddley",
+        "energy": 33.0,
+        "length": 191,
+        "name": "You Can't Judge A Book By It's Cover",
+        "pop": 0,
+        "valence": 93.9
+    },
+    "You Can't Lose What You Ain't Never Had": {
+        "artists": "Muddy Waters",
+        "energy": 38.2,
+        "length": 180,
+        "name": "You Can't Lose What You Ain't Never Had",
+        "pop": 0,
+        "valence": 61.4
+    },
+    "You Don't Know My Mind": {
+        "artists": "Hugh Laurie",
+        "energy": 83.3,
+        "length": 219,
+        "name": "You Don't Know My Mind",
+        "pop": 38,
+        "valence": 88.7
+    },
+    "You Know My Love": {
+        "artists": "Otis Rush",
+        "energy": 27.9,
+        "length": 162,
+        "name": "You Know My Love",
+        "pop": 0,
+        "valence": 82.8
+    },
+    "You're So Fine": {
+        "artists": "Little Walter",
+        "energy": 73.6,
+        "length": 183,
+        "name": "You're So Fine",
+        "pop": 0,
+        "valence": 96.7
+    },
+    "Your Heart Is As Black As Night": {
+        "artists": "Joe Bonamassa",
+        "energy": 44.9,
+        "length": 301,
+        "name": "Your Heart Is As Black As Night",
+        "pop": 0,
+        "valence": 16.9
+    }
+}

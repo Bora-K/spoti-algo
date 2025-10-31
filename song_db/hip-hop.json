@@ -1,0 +1,802 @@
+{
+    "A Tale of 2 Citiez": {
+        "artists": "J. Cole",
+        "energy": 55.6,
+        "length": 270,
+        "name": "A Tale of 2 Citiez",
+        "pop": 0,
+        "valence": 36.2
+    },
+    "Album of the Year - Freestyle": {
+        "artists": "J. Cole",
+        "energy": 81.6,
+        "length": 139,
+        "name": "Album of the Year - Freestyle",
+        "pop": 61,
+        "valence": 92.9
+    },
+    "Aquemini": {
+        "artists": "Outkast",
+        "energy": 66.1,
+        "length": 319,
+        "name": "Aquemini",
+        "pop": 59,
+        "valence": 15.7
+    },
+    "Audi.": {
+        "artists": "Smokepurpp",
+        "energy": 36.6,
+        "length": 160,
+        "name": "Audi.",
+        "pop": 4,
+        "valence": 27.8
+    },
+    "BRACKETS": {
+        "artists": "J. Cole",
+        "energy": 56.7,
+        "length": 316,
+        "name": "BRACKETS",
+        "pop": 61,
+        "valence": 65.8
+    },
+    "Back To The Hotel": {
+        "artists": "N2DEEP",
+        "energy": 38.0,
+        "length": 304,
+        "name": "Back To The Hotel",
+        "pop": 58,
+        "valence": 30.5
+    },
+    "Back in the Day": {
+        "artists": "Ahmad Lewis",
+        "energy": 67.8,
+        "length": 318,
+        "name": "Back in the Day",
+        "pop": 45,
+        "valence": 92.2
+    },
+    "Backseat Freestyle": {
+        "artists": "Kendrick Lamar",
+        "energy": 65.1,
+        "length": 213,
+        "name": "Backseat Freestyle",
+        "pop": 71,
+        "valence": 64.6
+    },
+    "Beast Mode (feat. PnB Rock & YoungBoy Never Broke Again)": {
+        "artists": "A Boogie Wit da Hoodie",
+        "energy": 47.8,
+        "length": 258,
+        "name": "Beast Mode (feat. PnB Rock & YoungBoy Never Broke Again)",
+        "pop": 60,
+        "valence": 13.8
+    },
+    "Beautiful": {
+        "artists": "Eminem",
+        "energy": 69.6,
+        "length": 393,
+        "name": "Beautiful",
+        "pop": 73,
+        "valence": 46.7
+    },
+    "BedRock": {
+        "artists": "Young Money",
+        "energy": 66.4,
+        "length": 288,
+        "name": "BedRock",
+        "pop": 72,
+        "valence": 55.7
+    },
+    "Beef (feat. Meek Mill)": {
+        "artists": "Tee Grizzley",
+        "energy": 75.2,
+        "length": 232,
+        "name": "Beef (feat. Meek Mill)",
+        "pop": 53,
+        "valence": 48.3
+    },
+    "Black and Yellow": {
+        "artists": "Wiz Khalifa",
+        "energy": 83.4,
+        "length": 218,
+        "name": "Black and Yellow",
+        "pop": 79,
+        "valence": 53.8
+    },
+    "Bodak Yellow": {
+        "artists": "Cardi B",
+        "energy": 70.3,
+        "length": 224,
+        "name": "Bodak Yellow",
+        "pop": 75,
+        "valence": 48.5
+    },
+    "Both (feat. Drake & Lil Wayne) - Remix": {
+        "artists": "Gucci Mane",
+        "energy": 49.3,
+        "length": 252,
+        "name": "Both (feat. Drake & Lil Wayne) - Remix",
+        "pop": 55,
+        "valence": 28.0
+    },
+    "Bounce": {
+        "artists": "Flatbush Zombies",
+        "energy": 61.8,
+        "length": 242,
+        "name": "Bounce",
+        "pop": 57,
+        "valence": 36.2
+    },
+    "Bounce Out With That": {
+        "artists": "YBN Nahmir",
+        "energy": 66.4,
+        "length": 99,
+        "name": "Bounce Out With That",
+        "pop": 68,
+        "valence": 38.1
+    },
+    "Calm Down": {
+        "artists": "G-Eazy",
+        "energy": 62.4,
+        "length": 127,
+        "name": "Calm Down",
+        "pop": 64,
+        "valence": 40.9
+    },
+    "Can't Hold Us (feat. Ray Dalton)": {
+        "artists": "Macklemore & Ryan Lewis",
+        "energy": 92.2,
+        "length": 258,
+        "name": "Can't Hold Us (feat. Ray Dalton)",
+        "pop": 84,
+        "valence": 84.7
+    },
+    "Cash Out (feat. ScHoolboy Q, PARTYNEXTDOOR & D.R.A.M.)": {
+        "artists": "Calvin Harris",
+        "energy": 79.0,
+        "length": 236,
+        "name": "Cash Out (feat. ScHoolboy Q, PARTYNEXTDOOR & D.R.A.M.)",
+        "pop": 56,
+        "valence": 43.4
+    },
+    "Chin Check": {
+        "artists": "N.W.A.",
+        "energy": 77.5,
+        "length": 221,
+        "name": "Chin Check",
+        "pop": 0,
+        "valence": 83.8
+    },
+    "Crew (feat. Brent Faiyaz & Shy Glizzy)": {
+        "artists": "GoldLink",
+        "energy": 60.7,
+        "length": 177,
+        "name": "Crew (feat. Brent Faiyaz & Shy Glizzy)",
+        "pop": 79,
+        "valence": 44.5
+    },
+    "DUCKWORTH.": {
+        "artists": "Kendrick Lamar",
+        "energy": 73.1,
+        "length": 249,
+        "name": "DUCKWORTH.",
+        "pop": 74,
+        "valence": 63.2
+    },
+    "Da Rockwilder": {
+        "artists": "Method Man",
+        "energy": 65.9,
+        "length": 136,
+        "name": "Da Rockwilder",
+        "pop": 71,
+        "valence": 39.3
+    },
+    "Disco Inferno": {
+        "artists": "50 Cent",
+        "energy": 65.9,
+        "length": 214,
+        "name": "Disco Inferno",
+        "pop": 76,
+        "valence": 71.0
+    },
+    "Disrespectful": {
+        "artists": "GASHI",
+        "energy": 54.8,
+        "length": 203,
+        "name": "Disrespectful",
+        "pop": 43,
+        "valence": 13.8
+    },
+    "For Free (feat. Drake)": {
+        "artists": "DJ Khaled",
+        "energy": 57.1,
+        "length": 184,
+        "name": "For Free (feat. Drake)",
+        "pop": 60,
+        "valence": 49.8
+    },
+    "GOTTI": {
+        "artists": "6ix9ine",
+        "energy": 58.4,
+        "length": 167,
+        "name": "GOTTI",
+        "pop": 67,
+        "valence": 36.5
+    },
+    "Gangsta's Paradise": {
+        "artists": "Coolio",
+        "energy": 51.4,
+        "length": 241,
+        "name": "Gangsta's Paradise",
+        "pop": 7,
+        "valence": 38.7
+    },
+    "Gimme the Loot - 2005 Remaster": {
+        "artists": "The Notorious B.I.G.",
+        "energy": 66.2,
+        "length": 286,
+        "name": "Gimme the Loot - 2005 Remaster",
+        "pop": 70,
+        "valence": 68.0
+    },
+    "Go Off (with Lil Uzi Vert, Quavo & Travis Scott)": {
+        "artists": "Lil Uzi Vert",
+        "energy": 77.7,
+        "length": 218,
+        "name": "Go Off (with Lil Uzi Vert, Quavo & Travis Scott)",
+        "pop": 54,
+        "valence": 72.4
+    },
+    "Greatest": {
+        "artists": "Eminem",
+        "energy": 73.7,
+        "length": 227,
+        "name": "Greatest",
+        "pop": 63,
+        "valence": 36.7
+    },
+    "Gucci Gang": {
+        "artists": "Lil Pump",
+        "energy": 52.3,
+        "length": 124,
+        "name": "Gucci Gang",
+        "pop": 66,
+        "valence": 69.9
+    },
+    "Hard Knock Life (Ghetto Anthem)": {
+        "artists": "JAY-Z",
+        "energy": 82.5,
+        "length": 240,
+        "name": "Hard Knock Life (Ghetto Anthem)",
+        "pop": 44,
+        "valence": 62.4
+    },
+    "Headlock (feat. Offset)": {
+        "artists": "Cousin Stizz",
+        "energy": 60.4,
+        "length": 201,
+        "name": "Headlock (feat. Offset)",
+        "pop": 45,
+        "valence": 61.2
+    },
+    "Herside Story": {
+        "artists": "GoldLink",
+        "energy": 59.5,
+        "length": 184,
+        "name": "Herside Story",
+        "pop": 63,
+        "valence": 75.4
+    },
+    "I Know": {
+        "artists": "Big Sean",
+        "energy": 33.4,
+        "length": 320,
+        "name": "I Know",
+        "pop": 76,
+        "valence": 26.7
+    },
+    "I Like It (I Wanna Be Where You Are)": {
+        "artists": "Grand Puba",
+        "energy": 64.1,
+        "length": 264,
+        "name": "I Like It (I Wanna Be Where You Are)",
+        "pop": 0,
+        "valence": 76.2
+    },
+    "I Tried": {
+        "artists": "Bone Thugs-N-Harmony",
+        "energy": 71.0,
+        "length": 287,
+        "name": "I Tried",
+        "pop": 63,
+        "valence": 37.8
+    },
+    "I Wanna Get High": {
+        "artists": "Cypress Hill",
+        "energy": 52.5,
+        "length": 175,
+        "name": "I Wanna Get High",
+        "pop": 62,
+        "valence": 33.2
+    },
+    "In Da Club": {
+        "artists": "50 Cent",
+        "energy": 71.3,
+        "length": 193,
+        "name": "In Da Club",
+        "pop": 85,
+        "valence": 77.7
+    },
+    "It Ain't Hard to Tell": {
+        "artists": "Nas",
+        "energy": 72.9,
+        "length": 202,
+        "name": "It Ain't Hard to Tell",
+        "pop": 48,
+        "valence": 35.7
+    },
+    "King's Dead (with Kendrick Lamar, Future & James Blake)": {
+        "artists": "Jay Rock",
+        "energy": 70.5,
+        "length": 230,
+        "name": "King's Dead (with Kendrick Lamar, Future & James Blake)",
+        "pop": 73,
+        "valence": 37.6
+    },
+    "LEGENDARY (feat. J. Cole)": {
+        "artists": "Joey Bada$$",
+        "energy": 65.4,
+        "length": 278,
+        "name": "LEGENDARY (feat. J. Cole)",
+        "pop": 0,
+        "valence": 41.8
+    },
+    "Life Goes On": {
+        "artists": "Lil Baby",
+        "energy": 54.1,
+        "length": 247,
+        "name": "Life Goes On",
+        "pop": 78,
+        "valence": 38.7
+    },
+    "Lodi Dodi (feat. Nancy Fletcher)": {
+        "artists": "Snoop Dogg",
+        "energy": 76.3,
+        "length": 301,
+        "name": "Lodi Dodi (feat. Nancy Fletcher)",
+        "pop": 0,
+        "valence": 63.2
+    },
+    "Lovers & Friends": {
+        "artists": "Lil Jon",
+        "energy": 49.0,
+        "length": 261,
+        "name": "Lovers & Friends",
+        "pop": 0,
+        "valence": 49.6
+    },
+    "Moment Of Truth": {
+        "artists": "Gang Starr",
+        "energy": 81.9,
+        "length": 247,
+        "name": "Moment Of Truth",
+        "pop": 58,
+        "valence": 59.4
+    },
+    "My Nigga - Remix": {
+        "artists": "YG",
+        "energy": 53.5,
+        "length": 237,
+        "name": "My Nigga - Remix",
+        "pop": 0,
+        "valence": 69.0
+    },
+    "N.Y. State of Mind": {
+        "artists": "Nas",
+        "energy": 91.0,
+        "length": 294,
+        "name": "N.Y. State of Mind",
+        "pop": 61,
+        "valence": 88.7
+    },
+    "New Freezer (feat. Kendrick Lamar)": {
+        "artists": "Rich The Kid",
+        "energy": 69.8,
+        "length": 192,
+        "name": "New Freezer (feat. Kendrick Lamar)",
+        "pop": 67,
+        "valence": 57.5
+    },
+    "No Flag (feat. Nicki Minaj, 21 Savage & Offset)": {
+        "artists": "London On Da Track",
+        "energy": 58.0,
+        "length": 212,
+        "name": "No Flag (feat. Nicki Minaj, 21 Savage & Offset)",
+        "pop": 50,
+        "valence": 14.6
+    },
+    "No Problem (feat. Lil Wayne & 2 Chainz)": {
+        "artists": "Chance the Rapper",
+        "energy": 79.5,
+        "length": 305,
+        "name": "No Problem (feat. Lil Wayne & 2 Chainz)",
+        "pop": 69,
+        "valence": 78.8
+    },
+    "Nobody Else but You": {
+        "artists": "Trey Songz",
+        "energy": 61.2,
+        "length": 229,
+        "name": "Nobody Else but You",
+        "pop": 59,
+        "valence": 26.3
+    },
+    "Ooh Ahh (My Life Be Like) (feat. Toby Mac)": {
+        "artists": "Grits",
+        "energy": 86.2,
+        "length": 233,
+        "name": "Ooh Ahh (My Life Be Like) (feat. Toby Mac)",
+        "pop": 3,
+        "valence": 82.3
+    },
+    "Pass Me Da Green": {
+        "artists": "Master P",
+        "energy": 45.8,
+        "length": 185,
+        "name": "Pass Me Da Green",
+        "pop": 54,
+        "valence": 21.0
+    },
+    "Playaz Club": {
+        "artists": "Rappin' 4-Tay",
+        "energy": 37.2,
+        "length": 266,
+        "name": "Playaz Club",
+        "pop": 57,
+        "valence": 66.6
+    },
+    "Psycho (feat. Ty Dolla $ign)": {
+        "artists": "Post Malone",
+        "energy": 56.0,
+        "length": 221,
+        "name": "Psycho (feat. Ty Dolla $ign)",
+        "pop": 80,
+        "valence": 45.9
+    },
+    "Pull Up (feat. Lil Uzi Vert)": {
+        "artists": "Wiz Khalifa",
+        "energy": 76.4,
+        "length": 207,
+        "name": "Pull Up (feat. Lil Uzi Vert)",
+        "pop": 55,
+        "valence": 26.6
+    },
+    "RGF Island": {
+        "artists": "Fetty Wap",
+        "energy": 76.4,
+        "length": 174,
+        "name": "RGF Island",
+        "pop": 61,
+        "valence": 51.8
+    },
+    "Real Friends": {
+        "artists": "Kanye West",
+        "energy": 74.4,
+        "length": 252,
+        "name": "Real Friends",
+        "pop": 67,
+        "valence": 12.4
+    },
+    "Real Hitta (feat. Kodak Black)": {
+        "artists": "Plies",
+        "energy": 53.1,
+        "length": 232,
+        "name": "Real Hitta (feat. Kodak Black)",
+        "pop": 52,
+        "valence": 33.3
+    },
+    "Really Really": {
+        "artists": "Kevin Gates",
+        "energy": 66.6,
+        "length": 232,
+        "name": "Really Really",
+        "pop": 71,
+        "valence": 27.8
+    },
+    "Remember You (feat. blackbear)": {
+        "artists": "G-Eazy",
+        "energy": 56.5,
+        "length": 216,
+        "name": "Remember You (feat. blackbear)",
+        "pop": 51,
+        "valence": 20.7
+    },
+    "Rigamortus": {
+        "artists": "Kendrick Lamar",
+        "energy": 80.7,
+        "length": 169,
+        "name": "Rigamortus",
+        "pop": 0,
+        "valence": 62.8
+    },
+    "Rollin' Like A Stoner": {
+        "artists": "VIC MENSA",
+        "energy": 66.1,
+        "length": 196,
+        "name": "Rollin' Like A Stoner",
+        "pop": 46,
+        "valence": 39.3
+    },
+    "SLOW DANCING IN THE DARK": {
+        "artists": "Joji",
+        "energy": 47.9,
+        "length": 209,
+        "name": "SLOW DANCING IN THE DARK",
+        "pop": 0,
+        "valence": 28.4
+    },
+    "SWISH": {
+        "artists": "Tyga",
+        "energy": 54.1,
+        "length": 195,
+        "name": "SWISH",
+        "pop": 64,
+        "valence": 27.4
+    },
+    "See You Again (feat. Charlie Puth)": {
+        "artists": "Wiz Khalifa",
+        "energy": 48.1,
+        "length": 230,
+        "name": "See You Again (feat. Charlie Puth)",
+        "pop": 85,
+        "valence": 28.3
+    },
+    "Slow Motion": {
+        "artists": "JUVENILE",
+        "energy": 73.4,
+        "length": 248,
+        "name": "Slow Motion",
+        "pop": 67,
+        "valence": 89.0
+    },
+    "Smack That": {
+        "artists": "Akon",
+        "energy": 74.3,
+        "length": 212,
+        "name": "Smack That",
+        "pop": 5,
+        "valence": 93.2
+    },
+    "Soundtrack 2 My Life": {
+        "artists": "Kid Cudi",
+        "energy": 75.4,
+        "length": 236,
+        "name": "Soundtrack 2 My Life",
+        "pop": 63,
+        "valence": 44.4
+    },
+    "Spar (feat. 6LACK & Kodak Black)": {
+        "artists": "Dreezy",
+        "energy": 67.6,
+        "length": 231,
+        "name": "Spar (feat. 6LACK & Kodak Black)",
+        "pop": 48,
+        "valence": 53.4
+    },
+    "Strictly Business": {
+        "artists": "EPMD",
+        "energy": 89.5,
+        "length": 285,
+        "name": "Strictly Business",
+        "pop": 50,
+        "valence": 72.7
+    },
+    "Studio": {
+        "artists": "ScHoolboy Q",
+        "energy": 58.9,
+        "length": 278,
+        "name": "Studio",
+        "pop": 70,
+        "valence": 58.0
+    },
+    "Sway (feat. Quavo & Lil Yachty)": {
+        "artists": "NexXthursday",
+        "energy": 51.3,
+        "length": 244,
+        "name": "Sway (feat. Quavo & Lil Yachty)",
+        "pop": 50,
+        "valence": 29.6
+    },
+    "Switch Lanes": {
+        "artists": "Tyga",
+        "energy": 85.1,
+        "length": 221,
+        "name": "Switch Lanes",
+        "pop": 45,
+        "valence": 46.3
+    },
+    "The Breaks": {
+        "artists": "Kurtis Blow",
+        "energy": 57.6,
+        "length": 464,
+        "name": "The Breaks",
+        "pop": 46,
+        "valence": 90.7
+    },
+    "The Creator": {
+        "artists": "Pete Rock & C.L. Smooth",
+        "energy": 49.1,
+        "length": 284,
+        "name": "The Creator",
+        "pop": 45,
+        "valence": 61.7
+    },
+    "The Gangsta, The Killa And The Dope Dealer": {
+        "artists": "Westside Connection",
+        "energy": 73.7,
+        "length": 251,
+        "name": "The Gangsta, The Killa And The Dope Dealer",
+        "pop": 57,
+        "valence": 48.6
+    },
+    "The Real Slim Shady": {
+        "artists": "Eminem",
+        "energy": 66.1,
+        "length": 284,
+        "name": "The Real Slim Shady",
+        "pop": 89,
+        "valence": 76.0
+    },
+    "The Way You Move (feat. Sleepy Brown)": {
+        "artists": "Outkast",
+        "energy": 59.7,
+        "length": 234,
+        "name": "The Way You Move (feat. Sleepy Brown)",
+        "pop": 72,
+        "valence": 63.5
+    },
+    "This Could Be Us": {
+        "artists": "Rae Sremmurd",
+        "energy": 69.0,
+        "length": 206,
+        "name": "This Could Be Us",
+        "pop": 80,
+        "valence": 75.8
+    },
+    "Tonight's Da Night": {
+        "artists": "Redman",
+        "energy": 68.7,
+        "length": 201,
+        "name": "Tonight's Da Night",
+        "pop": 63,
+        "valence": 86.6
+    },
+    "Too Hotty": {
+        "artists": "Quality Control",
+        "energy": 39.8,
+        "length": 296,
+        "name": "Too Hotty",
+        "pop": 60,
+        "valence": 15.9
+    },
+    "Up": {
+        "artists": "Desiigner",
+        "energy": 63.2,
+        "length": 236,
+        "name": "Up",
+        "pop": 49,
+        "valence": 38.2
+    },
+    "Victory (feat. The Notorious B.I.G. & Busta Rhymes)": {
+        "artists": "Diddy",
+        "energy": 73.1,
+        "length": 296,
+        "name": "Victory (feat. The Notorious B.I.G. & Busta Rhymes)",
+        "pop": 62,
+        "valence": 68.5
+    },
+    "Vitamin D": {
+        "artists": "Ludacris",
+        "energy": 66.7,
+        "length": 261,
+        "name": "Vitamin D",
+        "pop": 45,
+        "valence": 35.8
+    },
+    "Walked In": {
+        "artists": "Bankroll Fresh",
+        "energy": 49.1,
+        "length": 198,
+        "name": "Walked In",
+        "pop": 56,
+        "valence": 76.8
+    },
+    "What If": {
+        "artists": "Kevin Gates",
+        "energy": 59.7,
+        "length": 195,
+        "name": "What If",
+        "pop": 25,
+        "valence": 18.7
+    },
+    "Whatever You Need (feat. Chris Brown & Ty Dolla $ign)": {
+        "artists": "Meek Mill",
+        "energy": 57.0,
+        "length": 205,
+        "name": "Whatever You Need (feat. Chris Brown & Ty Dolla $ign)",
+        "pop": 56,
+        "valence": 31.7
+    },
+    "When I B On Tha Mic": {
+        "artists": "Rakim",
+        "energy": 48.4,
+        "length": 223,
+        "name": "When I B On Tha Mic",
+        "pop": 65,
+        "valence": 83.9
+    },
+    "Where Ya At (feat. Drake)": {
+        "artists": "Future",
+        "energy": 45.3,
+        "length": 208,
+        "name": "Where Ya At (feat. Drake)",
+        "pop": 69,
+        "valence": 19.1
+    },
+    "White Iverson": {
+        "artists": "Post Malone",
+        "energy": 56.2,
+        "length": 257,
+        "name": "White Iverson",
+        "pop": 80,
+        "valence": 30.9
+    },
+    "Who Want The Smoke? (feat. Cardi B & Offset)": {
+        "artists": "Lil Yachty",
+        "energy": 75.3,
+        "length": 199,
+        "name": "Who Want The Smoke? (feat. Cardi B & Offset)",
+        "pop": 44,
+        "valence": 54.5
+    },
+    "Why You Always Hatin?": {
+        "artists": "YG",
+        "energy": 33.6,
+        "length": 197,
+        "name": "Why You Always Hatin?",
+        "pop": 1,
+        "valence": 38.0
+    },
+    "Xxplosive": {
+        "artists": "Dr. Dre",
+        "energy": 88.9,
+        "length": 215,
+        "name": "Xxplosive",
+        "pop": 0,
+        "valence": 93.3
+    },
+    "YOSEMITE": {
+        "artists": "Travis Scott",
+        "energy": 55.4,
+        "length": 150,
+        "name": "YOSEMITE",
+        "pop": 77,
+        "valence": 14.4
+    },
+    "You Never Knew": {
+        "artists": "Hieroglyphics",
+        "energy": 83.7,
+        "length": 274,
+        "name": "You Never Knew",
+        "pop": 52,
+        "valence": 86.7
+    },
+    "pick up the phone": {
+        "artists": "Young Thug",
+        "energy": 71.6,
+        "length": 252,
+        "name": "pick up the phone",
+        "pop": 73,
+        "valence": 45.9
+    }
+}

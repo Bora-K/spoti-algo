@@ -1,0 +1,802 @@
+{
+    "9 To 5": {
+        "artists": "Dolly Parton",
+        "energy": 78.3,
+        "length": 162,
+        "name": "9 To 5",
+        "pop": 0,
+        "valence": 81.3
+    },
+    "Addicted To You": {
+        "artists": "Avicii",
+        "energy": 78.5,
+        "length": 148,
+        "name": "Addicted To You",
+        "pop": 0,
+        "valence": 30.3
+    },
+    "Ain't No Stoppin' Us Now": {
+        "artists": "McFadden & Whitehead",
+        "energy": 70.1,
+        "length": 221,
+        "name": "Ain't No Stoppin' Us Now",
+        "pop": 0,
+        "valence": 87.0
+    },
+    "All Night Long (All Night)": {
+        "artists": "Lionel Richie",
+        "energy": 55.6,
+        "length": 261,
+        "name": "All Night Long (All Night)",
+        "pop": 1,
+        "valence": 80.5
+    },
+    "All That She Wants": {
+        "artists": "Ace of Base",
+        "energy": 64.1,
+        "length": 212,
+        "name": "All That She Wants",
+        "pop": 0,
+        "valence": 82.9
+    },
+    "All of Me - Ti\u00ebsto's Birthday Treatment Remix - Radio Edit": {
+        "artists": "John Legend",
+        "energy": 72.0,
+        "length": 252,
+        "name": "All of Me - Ti\u00ebsto's Birthday Treatment Remix - Radio Edit",
+        "pop": 64,
+        "valence": 17.8
+    },
+    "Around the World": {
+        "artists": "Daft Punk",
+        "energy": 79.5,
+        "length": 430,
+        "name": "Around the World",
+        "pop": 76,
+        "valence": 84.1
+    },
+    "Baby": {
+        "artists": "Justin Bieber",
+        "energy": 85.4,
+        "length": 217,
+        "name": "Baby",
+        "pop": 0,
+        "valence": 56.7
+    },
+    "Back Stabbers": {
+        "artists": "The O'Jays",
+        "energy": 83.7,
+        "length": 184,
+        "name": "Back Stabbers",
+        "pop": 0,
+        "valence": 93.2
+    },
+    "Bad (feat. Vassy) - Radio Edit": {
+        "artists": "David Guetta",
+        "energy": 97.2,
+        "length": 171,
+        "name": "Bad (feat. Vassy) - Radio Edit",
+        "pop": 67,
+        "valence": 41.1
+    },
+    "Best of My Love": {
+        "artists": "The Emotions",
+        "energy": 57.0,
+        "length": 220,
+        "name": "Best of My Love",
+        "pop": 57,
+        "valence": 97.2
+    },
+    "Boys Will Be Boys": {
+        "artists": "Paulina Rubio",
+        "energy": 76.0,
+        "length": 185,
+        "name": "Boys Will Be Boys",
+        "pop": 0,
+        "valence": 55.5
+    },
+    "Brother Louie": {
+        "artists": "Modern Talking",
+        "energy": 93.2,
+        "length": 220,
+        "name": "Brother Louie",
+        "pop": 41,
+        "valence": 80.3
+    },
+    "Bumpy Ride": {
+        "artists": "Mohombi",
+        "energy": 85.4,
+        "length": 224,
+        "name": "Bumpy Ride",
+        "pop": 0,
+        "valence": 82.6
+    },
+    "Burn": {
+        "artists": "Ellie Goulding",
+        "energy": 77.5,
+        "length": 231,
+        "name": "Burn",
+        "pop": 0,
+        "valence": 27.9
+    },
+    "Can't Get You out of My Head": {
+        "artists": "Kylie Minogue",
+        "energy": 56.3,
+        "length": 231,
+        "name": "Can't Get You out of My Head",
+        "pop": 51,
+        "valence": 96.4
+    },
+    "Celebration": {
+        "artists": "Kool & The Gang",
+        "energy": 85.9,
+        "length": 280,
+        "name": "Celebration",
+        "pop": 0,
+        "valence": 62.6
+    },
+    "Chandelier": {
+        "artists": "Sia",
+        "energy": 78.4,
+        "length": 216,
+        "name": "Chandelier",
+        "pop": 52,
+        "valence": 61.8
+    },
+    "Chasing The Sun": {
+        "artists": "The Wanted",
+        "energy": 72.4,
+        "length": 198,
+        "name": "Chasing The Sun",
+        "pop": 0,
+        "valence": 64.4
+    },
+    "Come On Eileen": {
+        "artists": "Dexys Midnight Runners",
+        "energy": 56.1,
+        "length": 241,
+        "name": "Come On Eileen",
+        "pop": 0,
+        "valence": 94.3
+    },
+    "Dance Little Lady Dance": {
+        "artists": "Tina Charles",
+        "energy": 56.7,
+        "length": 187,
+        "name": "Dance Little Lady Dance",
+        "pop": 51,
+        "valence": 96.0
+    },
+    "Dansa Pausa": {
+        "artists": "Panetoz",
+        "energy": 86.3,
+        "length": 179,
+        "name": "Dansa Pausa",
+        "pop": 50,
+        "valence": 64.4
+    },
+    "Don't Leave Me This Way - Single Version": {
+        "artists": "Thelma Houston",
+        "energy": 69.0,
+        "length": 215,
+        "name": "Don't Leave Me This Way - Single Version",
+        "pop": 0,
+        "valence": 61.1
+    },
+    "Don't Let Me Be Misunderstood": {
+        "artists": "Santa Esmeralda",
+        "energy": 81.5,
+        "length": 629,
+        "name": "Don't Let Me Be Misunderstood",
+        "pop": 62,
+        "valence": 78.5
+    },
+    "Double Duth Bus": {
+        "artists": "Frankie Smith",
+        "energy": 74.0,
+        "length": 269,
+        "name": "Double Duth Bus",
+        "pop": 0,
+        "valence": 63.9
+    },
+    "Efter solsken": {
+        "artists": "Panetoz",
+        "energy": 84.8,
+        "length": 190,
+        "name": "Efter solsken",
+        "pop": 46,
+        "valence": 96.7
+    },
+    "Enjoy the Silence": {
+        "artists": "Depeche Mode",
+        "energy": 76.3,
+        "length": 254,
+        "name": "Enjoy the Silence",
+        "pop": 58,
+        "valence": 73.6
+    },
+    "Everybody (Backstreet's Back) - Radio Edit": {
+        "artists": "Backstreet Boys",
+        "energy": 85.3,
+        "length": 225,
+        "name": "Everybody (Backstreet's Back) - Radio Edit",
+        "pop": 0,
+        "valence": 60.5
+    },
+    "Everybody Dance - 2006 Remaster": {
+        "artists": "CHIC",
+        "energy": 82.9,
+        "length": 403,
+        "name": "Everybody Dance - 2006 Remaster",
+        "pop": 33,
+        "valence": 89.0
+    },
+    "Feel So Close - Radio Edit": {
+        "artists": "Calvin Harris",
+        "energy": 92.4,
+        "length": 206,
+        "name": "Feel So Close - Radio Edit",
+        "pop": 84,
+        "valence": 91.9
+    },
+    "Get Back (Asap)": {
+        "artists": "Alexandra Stan",
+        "energy": 91.4,
+        "length": 209,
+        "name": "Get Back (Asap)",
+        "pop": 0,
+        "valence": 71.9
+    },
+    "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]": {
+        "artists": "Daft Punk",
+        "energy": 81.1,
+        "length": 248,
+        "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
+        "pop": 84,
+        "valence": 86.2
+    },
+    "Get Up Offa That Thing": {
+        "artists": "James Brown",
+        "energy": 68.2,
+        "length": 251,
+        "name": "Get Up Offa That Thing",
+        "pop": 0,
+        "valence": 76.3
+    },
+    "Good Times - Original 12\" Mix": {
+        "artists": "CHIC",
+        "energy": 45.2,
+        "length": 487,
+        "name": "Good Times - Original 12\" Mix",
+        "pop": 27,
+        "valence": 93.4
+    },
+    "Happy": {
+        "artists": "Pharrell Williams",
+        "energy": 75.7,
+        "length": 233,
+        "name": "Happy",
+        "pop": 3,
+        "valence": 96.2
+    },
+    "Heart Of Glass [24-Bit Digitally Remastered 01]": {
+        "artists": "Blondie",
+        "energy": 63.3,
+        "length": 350,
+        "name": "Heart Of Glass [24-Bit Digitally Remastered 01]",
+        "pop": 58,
+        "valence": 65.7
+    },
+    "Hot - Play & Win Radio Version": {
+        "artists": "INNA",
+        "energy": 94.5,
+        "length": 216,
+        "name": "Hot - Play & Win Radio Version",
+        "pop": 0,
+        "valence": 46.8
+    },
+    "How Deep Is Your Love (2007 Remastered Saturday Night Fever LP Version)": {
+        "artists": "Bee Gees",
+        "energy": 35.7,
+        "length": 245,
+        "name": "How Deep Is Your Love (2007 Remastered Saturday Night Fever LP Version)",
+        "pop": 0,
+        "valence": 68.3
+    },
+    "H\u00e4nderna mot himlen": {
+        "artists": "Petra Marklund",
+        "energy": 67.6,
+        "length": 238,
+        "name": "H\u00e4nderna mot himlen",
+        "pop": 66,
+        "valence": 61.3
+    },
+    "I Kissed A Girl": {
+        "artists": "Katy Perry",
+        "energy": 76.0,
+        "length": 180,
+        "name": "I Kissed A Girl",
+        "pop": 77,
+        "valence": 69.6
+    },
+    "I Like It": {
+        "artists": "Enrique Iglesias",
+        "energy": 93.3,
+        "length": 195,
+        "name": "I Like It",
+        "pop": 0,
+        "valence": 78.4
+    },
+    "I Want You Back": {
+        "artists": "Michael Jackson",
+        "energy": 82.3,
+        "length": 248,
+        "name": "I Want You Back",
+        "pop": 0,
+        "valence": 65.2
+    },
+    "If I Can't Have You - 2007 Remastered Version Saturday Night Fever": {
+        "artists": "Yvonne Elliman",
+        "energy": 84.8,
+        "length": 181,
+        "name": "If I Can't Have You - 2007 Remastered Version Saturday Night Fever",
+        "pop": 0,
+        "valence": 83.1
+    },
+    "Jalla dansa sawa": {
+        "artists": "Behrang Miri",
+        "energy": 90.8,
+        "length": 180,
+        "name": "Jalla dansa sawa",
+        "pop": 35,
+        "valence": 88.0
+    },
+    "Just Can't Get Enough": {
+        "artists": "Depeche Mode",
+        "energy": 77.2,
+        "length": 221,
+        "name": "Just Can't Get Enough",
+        "pop": 76,
+        "valence": 91.9
+    },
+    "K-Jee - 2007 Remastered Version Saturday Night Fever": {
+        "artists": "MFSB",
+        "energy": 92.8,
+        "length": 253,
+        "name": "K-Jee - 2007 Remastered Version Saturday Night Fever",
+        "pop": 0,
+        "valence": 81.0
+    },
+    "Kick Out The Epic Motherf**ker - Radio Edit": {
+        "artists": "Dada Life",
+        "energy": 86.2,
+        "length": 208,
+        "name": "Kick Out The Epic Motherf**ker - Radio Edit",
+        "pop": 33,
+        "valence": 21.4
+    },
+    "Kom": {
+        "artists": "Timoteij",
+        "energy": 91.9,
+        "length": 180,
+        "name": "Kom",
+        "pop": 37,
+        "valence": 75.0
+    },
+    "Like A G6": {
+        "artists": "Far East Movement",
+        "energy": 86.9,
+        "length": 218,
+        "name": "Like A G6",
+        "pop": 0,
+        "valence": 71.5
+    },
+    "Live It Up": {
+        "artists": "Jennifer Lopez",
+        "energy": 72.3,
+        "length": 244,
+        "name": "Live It Up",
+        "pop": 0,
+        "valence": 65.3
+    },
+    "Livin' On A Prayer": {
+        "artists": "Bon Jovi",
+        "energy": 88.2,
+        "length": 251,
+        "name": "Livin' On A Prayer",
+        "pop": 0,
+        "valence": 81.5
+    },
+    "Lost For Words Pt. 2": {
+        "artists": "Paul Morley",
+        "energy": 19.4,
+        "length": 203,
+        "name": "Lost For Words Pt. 2",
+        "pop": 0,
+        "valence": 35.8
+    },
+    "Love Is in the Air - Ballroom Mix": {
+        "artists": "John Paul Young",
+        "energy": 82.7,
+        "length": 253,
+        "name": "Love Is in the Air - Ballroom Mix",
+        "pop": 0,
+        "valence": 73.5
+    },
+    "Ma quale idea": {
+        "artists": "Pino D'Angi\u00f2",
+        "energy": 78.8,
+        "length": 262,
+        "name": "Ma quale idea",
+        "pop": 0,
+        "valence": 96.1
+    },
+    "Me And My Drum (feat. Christoffer Hiding)": {
+        "artists": "Swingfly",
+        "energy": 93.0,
+        "length": 188,
+        "name": "Me And My Drum (feat. Christoffer Hiding)",
+        "pop": 0,
+        "valence": 72.5
+    },
+    "Miami 2 Ibiza": {
+        "artists": "Swedish House Mafia",
+        "energy": 93.6,
+        "length": 205,
+        "name": "Miami 2 Ibiza",
+        "pop": 0,
+        "valence": 65.3
+    },
+    "More Than A Woman (2007 Remastered Saturday Night Fever LP Version)": {
+        "artists": "Bee Gees",
+        "energy": 70.8,
+        "length": 198,
+        "name": "More Than A Woman (2007 Remastered Saturday Night Fever LP Version)",
+        "pop": 0,
+        "valence": 69.3
+    },
+    "More, More, More": {
+        "artists": "Andrea True Connection",
+        "energy": 79.2,
+        "length": 183,
+        "name": "More, More, More",
+        "pop": 51,
+        "valence": 84.7
+    },
+    "More, More, More - Single Version": {
+        "artists": "Andrea True Connection",
+        "energy": 66.7,
+        "length": 180,
+        "name": "More, More, More - Single Version",
+        "pop": 38,
+        "valence": 86.8
+    },
+    "Mr. Brightside": {
+        "artists": "The Killers",
+        "energy": 92.4,
+        "length": 223,
+        "name": "Mr. Brightside",
+        "pop": 9,
+        "valence": 23.2
+    },
+    "Mr. Vain Recall - Radio Edit": {
+        "artists": "Culture Beat",
+        "energy": 94.7,
+        "length": 213,
+        "name": "Mr. Vain Recall - Radio Edit",
+        "pop": 0,
+        "valence": 38.0
+    },
+    "On The Floor - Radio Edit": {
+        "artists": "Jennifer Lopez",
+        "energy": 68.0,
+        "length": 231,
+        "name": "On The Floor - Radio Edit",
+        "pop": 0,
+        "valence": 46.2
+    },
+    "On The Radio": {
+        "artists": "Donna Summer",
+        "energy": 68.2,
+        "length": 245,
+        "name": "On The Radio",
+        "pop": 0,
+        "valence": 65.5
+    },
+    "One (Your Name) - Radio Edit": {
+        "artists": "Swedish House Mafia",
+        "energy": 67.3,
+        "length": 163,
+        "name": "One (Your Name) - Radio Edit",
+        "pop": 69,
+        "valence": 63.6
+    },
+    "One - Radio Edit": {
+        "artists": "Swedish House Mafia",
+        "energy": 78.1,
+        "length": 170,
+        "name": "One - Radio Edit",
+        "pop": 63,
+        "valence": 62.2
+    },
+    "Only Girl (In The World)": {
+        "artists": "Rihanna",
+        "energy": 73.8,
+        "length": 236,
+        "name": "Only Girl (In The World)",
+        "pop": 0,
+        "valence": 68.5
+    },
+    "Our House": {
+        "artists": "Madness",
+        "energy": 82.0,
+        "length": 206,
+        "name": "Our House",
+        "pop": 0,
+        "valence": 77.4
+    },
+    "Prayer in C - Robin Schulz Radio Edit": {
+        "artists": "Lilly Wood and The Prick",
+        "energy": 87.5,
+        "length": 189,
+        "name": "Prayer in C - Robin Schulz Radio Edit",
+        "pop": 78,
+        "valence": 80.0
+    },
+    "Rappers Delight": {
+        "artists": "The Sugarhill Gang",
+        "energy": 79.8,
+        "length": 235,
+        "name": "Rappers Delight",
+        "pop": 0,
+        "valence": 76.4
+    },
+    "Rock Your Body": {
+        "artists": "Justin Timberlake",
+        "energy": 71.4,
+        "length": 267,
+        "name": "Rock Your Body",
+        "pop": 80,
+        "valence": 81.7
+    },
+    "Rough Diamond": {
+        "artists": "Madleen Kane",
+        "energy": 66.2,
+        "length": 380,
+        "name": "Rough Diamond",
+        "pop": 29,
+        "valence": 93.0
+    },
+    "S&M": {
+        "artists": "Rihanna",
+        "energy": 68.2,
+        "length": 244,
+        "name": "S&M",
+        "pop": 76,
+        "valence": 83.3
+    },
+    "Sandstorm": {
+        "artists": "Darude",
+        "energy": 96.5,
+        "length": 225,
+        "name": "Sandstorm",
+        "pop": 73,
+        "valence": 58.7
+    },
+    "Saturday Night - Radio Edit": {
+        "artists": "Whigfield",
+        "energy": 86.8,
+        "length": 224,
+        "name": "Saturday Night - Radio Edit",
+        "pop": 0,
+        "valence": 96.5
+    },
+    "Scary Monsters and Nice Sprites": {
+        "artists": "Skrillex",
+        "energy": 94.4,
+        "length": 243,
+        "name": "Scary Monsters and Nice Sprites",
+        "pop": 62,
+        "valence": 32.4
+    },
+    "Scream & Shout": {
+        "artists": "will.i.am",
+        "energy": 61.6,
+        "length": 284,
+        "name": "Scream & Shout",
+        "pop": 0,
+        "valence": 47.3
+    },
+    "Smells Like Teen Spirit": {
+        "artists": "Nirvana",
+        "energy": 87.5,
+        "length": 301,
+        "name": "Smells Like Teen Spirit",
+        "pop": 0,
+        "valence": 82.6
+    },
+    "Summertime Sadness [Lana Del Rey vs. Cedric Gervais] - Cedric Gervais Remix": {
+        "artists": "Lana Del Rey",
+        "energy": 81.3,
+        "length": 215,
+        "name": "Summertime Sadness [Lana Del Rey vs. Cedric Gervais] - Cedric Gervais Remix",
+        "pop": 0,
+        "valence": 11.4
+    },
+    "Sweet Dreams": {
+        "artists": "La Bouche",
+        "energy": 95.6,
+        "length": 205,
+        "name": "Sweet Dreams",
+        "pop": 66,
+        "valence": 83.1
+    },
+    "Take A Chance On Me": {
+        "artists": "ABBA",
+        "energy": 78.3,
+        "length": 247,
+        "name": "Take A Chance On Me",
+        "pop": 0,
+        "valence": 79.4
+    },
+    "Take on Me": {
+        "artists": "a-ha",
+        "energy": 90.2,
+        "length": 225,
+        "name": "Take on Me",
+        "pop": 89,
+        "valence": 87.6
+    },
+    "Tarzan Boy": {
+        "artists": "Baltimora",
+        "energy": 65.4,
+        "length": 233,
+        "name": "Tarzan Boy",
+        "pop": 45,
+        "valence": 75.2
+    },
+    "The Edge Of Glory": {
+        "artists": "Lady Gaga",
+        "energy": 77.2,
+        "length": 321,
+        "name": "The Edge Of Glory",
+        "pop": 67,
+        "valence": 36.1
+    },
+    "The Monster": {
+        "artists": "Eminem",
+        "energy": 85.0,
+        "length": 250,
+        "name": "The Monster",
+        "pop": 0,
+        "valence": 56.7
+    },
+    "Theme From Shaft": {
+        "artists": "Isaac Hayes",
+        "energy": 43.9,
+        "length": 276,
+        "name": "Theme From Shaft",
+        "pop": 0,
+        "valence": 61.8
+    },
+    "Think (About It)": {
+        "artists": "Lyn Collins",
+        "energy": 49.0,
+        "length": 202,
+        "name": "Think (About It)",
+        "pop": 0,
+        "valence": 75.4
+    },
+    "Think About the Way": {
+        "artists": "Ice Mc",
+        "energy": 71.3,
+        "length": 261,
+        "name": "Think About the Way",
+        "pop": 65,
+        "valence": 67.0
+    },
+    "Tonight (I'm Fuckin' You)": {
+        "artists": "Enrique Iglesias",
+        "energy": 87.5,
+        "length": 232,
+        "name": "Tonight (I'm Fuckin' You)",
+        "pop": 0,
+        "valence": 25.1
+    },
+    "Tsunami - Radio Edit": {
+        "artists": "DVBBS",
+        "energy": 92.3,
+        "length": 186,
+        "name": "Tsunami - Radio Edit",
+        "pop": 0,
+        "valence": 38.8
+    },
+    "Vogue": {
+        "artists": "Madonna",
+        "energy": 88.0,
+        "length": 317,
+        "name": "Vogue",
+        "pop": 69,
+        "valence": 32.9
+    },
+    "We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] (feat. Jennifer Lopez & Claudia Leitte)": {
+        "artists": "Pitbull",
+        "energy": 94.2,
+        "length": 222,
+        "name": "We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] (feat. Jennifer Lopez & Claudia Leitte)",
+        "pop": 55,
+        "valence": 54.9
+    },
+    "We Can't Stop": {
+        "artists": "Miley Cyrus",
+        "energy": 61.9,
+        "length": 232,
+        "name": "We Can't Stop",
+        "pop": 0,
+        "valence": 50.0
+    },
+    "We Run The Night": {
+        "artists": "Havana Brown",
+        "energy": 86.6,
+        "length": 228,
+        "name": "We Run The Night",
+        "pop": 0,
+        "valence": 68.2
+    },
+    "What Are Words": {
+        "artists": "Chris Medina",
+        "energy": 25.2,
+        "length": 187,
+        "name": "What Are Words",
+        "pop": 0,
+        "valence": 38.0
+    },
+    "Why Did You Do It": {
+        "artists": "Stretch",
+        "energy": 67.0,
+        "length": 209,
+        "name": "Why Did You Do It",
+        "pop": 0,
+        "valence": 95.9
+    },
+    "Without You (feat. Usher)": {
+        "artists": "David Guetta",
+        "energy": 61.4,
+        "length": 208,
+        "name": "Without You (feat. Usher)",
+        "pop": 74,
+        "valence": 40.2
+    },
+    "Womanizer": {
+        "artists": "Britney Spears",
+        "energy": 69.5,
+        "length": 224,
+        "name": "Womanizer",
+        "pop": 0,
+        "valence": 23.5
+    },
+    "Years - \u30e9\u30b8\u30aa\u30fb\u30a8\u30c7\u30a3\u30c3\u30c8": {
+        "artists": "Alesso",
+        "energy": 82.3,
+        "length": 195,
+        "name": "Years - \u30e9\u30b8\u30aa\u30fb\u30a8\u30c7\u30a3\u30c3\u30c8",
+        "pop": 0,
+        "valence": 32.3
+    },
+    "Yes We Can": {
+        "artists": "Oscar Zia",
+        "energy": 97.2,
+        "length": 184,
+        "name": "Yes We Can",
+        "pop": 0,
+        "valence": 59.3
+    },
+    "You're The First, The Last, My Everything": {
+        "artists": "Barry White",
+        "energy": 59.9,
+        "length": 276,
+        "name": "You're The First, The Last, My Everything",
+        "pop": 0,
+        "valence": 77.7
+    }
+}

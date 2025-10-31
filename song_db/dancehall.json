@@ -1,0 +1,802 @@
+{
+    "Armagedion": {
+        "artists": "EaggerStunn",
+        "energy": 79.1,
+        "length": 323,
+        "name": "Armagedion",
+        "pop": 0,
+        "valence": 73.1
+    },
+    "As We Enter": {
+        "artists": "Nas & Damian \"Jr. Gong\" Marley",
+        "energy": 75.8,
+        "length": 148,
+        "name": "As We Enter",
+        "pop": 0,
+        "valence": 87.4
+    },
+    "Azonto (feat. Tiffany)": {
+        "artists": "Fuse ODG",
+        "energy": 89.5,
+        "length": 230,
+        "name": "Azonto (feat. Tiffany)",
+        "pop": 0,
+        "valence": 96.1
+    },
+    "Bang Bang (Reggaejam)": {
+        "artists": "Kaka",
+        "energy": 82.8,
+        "length": 206,
+        "name": "Bang Bang (Reggaejam)",
+        "pop": 0,
+        "valence": 77.4
+    },
+    "Bedste Wine": {
+        "artists": "TopGunn",
+        "energy": 47.1,
+        "length": 244,
+        "name": "Bedste Wine",
+        "pop": 0,
+        "valence": 48.9
+    },
+    "Bor Her": {
+        "artists": "Raske Penge",
+        "energy": 60.9,
+        "length": 244,
+        "name": "Bor Her",
+        "pop": 0,
+        "valence": 59.0
+    },
+    "Bounce Along": {
+        "artists": "Wayne Wonder",
+        "energy": 68.3,
+        "length": 290,
+        "name": "Bounce Along",
+        "pop": 0,
+        "valence": 96.5
+    },
+    "Breakout": {
+        "artists": "Sean Paul",
+        "energy": 85.2,
+        "length": 179,
+        "name": "Breakout",
+        "pop": 42,
+        "valence": 52.3
+    },
+    "Bruck It Down": {
+        "artists": "Mr. Vegas",
+        "energy": 77.2,
+        "length": 171,
+        "name": "Bruck It Down",
+        "pop": 42,
+        "valence": 50.6
+    },
+    "Bruk It Down": {
+        "artists": "Mr. Vegas",
+        "energy": 78.1,
+        "length": 172,
+        "name": "Bruk It Down",
+        "pop": 53,
+        "valence": 55.9
+    },
+    "Burning - Feat. Mr Vegas": {
+        "artists": "Kevin Little",
+        "energy": 84.1,
+        "length": 180,
+        "name": "Burning - Feat. Mr Vegas",
+        "pop": 15,
+        "valence": 87.0
+    },
+    "Can't Satisfy Her": {
+        "artists": "I Wayne",
+        "energy": 70.8,
+        "length": 222,
+        "name": "Can't Satisfy Her",
+        "pop": 0,
+        "valence": 74.0
+    },
+    "Chop My Money (I Don't Care) [feat. Mayd]": {
+        "artists": "P-Square",
+        "energy": 84.6,
+        "length": 272,
+        "name": "Chop My Money (I Don't Care) [feat. Mayd]",
+        "pop": 0,
+        "valence": 87.2
+    },
+    "Church Heathen": {
+        "artists": "Shaggy",
+        "energy": 63.0,
+        "length": 244,
+        "name": "Church Heathen",
+        "pop": 0,
+        "valence": 15.8
+    },
+    "Dance": {
+        "artists": "Elephant Man",
+        "energy": 86.4,
+        "length": 211,
+        "name": "Dance",
+        "pop": 0,
+        "valence": 65.6
+    },
+    "Dream": {
+        "artists": "Popcaan",
+        "energy": 9.0,
+        "length": 207,
+        "name": "Dream",
+        "pop": 26,
+        "valence": 34.2
+    },
+    "Dude (remix)": {
+        "artists": "Beenie Man featuring Ms. Thing & Shawwna",
+        "energy": 85.9,
+        "length": 272,
+        "name": "Dude (remix)",
+        "pop": 0,
+        "valence": 92.8
+    },
+    "Dumpa Truck": {
+        "artists": "Vybz Kartel",
+        "energy": 75.2,
+        "length": 160,
+        "name": "Dumpa Truck",
+        "pop": 0,
+        "valence": 44.3
+    },
+    "Dye Dye (Raw)": {
+        "artists": "Macka Diamond",
+        "energy": 81.3,
+        "length": 186,
+        "name": "Dye Dye (Raw)",
+        "pop": 0,
+        "valence": 58.2
+    },
+    "Evening Ride": {
+        "artists": "Sean Paul",
+        "energy": 64.3,
+        "length": 236,
+        "name": "Evening Ride",
+        "pop": 28,
+        "valence": 88.5
+    },
+    "Ever Blessed": {
+        "artists": "Vybz Kartel",
+        "energy": 65.5,
+        "length": 151,
+        "name": "Ever Blessed",
+        "pop": 0,
+        "valence": 71.5
+    },
+    "Fallen Soldiers": {
+        "artists": "Demarco",
+        "energy": 71.1,
+        "length": 192,
+        "name": "Fallen Soldiers",
+        "pop": 0,
+        "valence": 42.1
+    },
+    "Fast H\u00e5nd": {
+        "artists": "EaggerStunn",
+        "energy": 53.6,
+        "length": 285,
+        "name": "Fast H\u00e5nd",
+        "pop": 0,
+        "valence": 88.8
+    },
+    "Fatima": {
+        "artists": "Voicemail",
+        "energy": 66.7,
+        "length": 181,
+        "name": "Fatima",
+        "pop": 35,
+        "valence": 29.7
+    },
+    "Faxe Kondi": {
+        "artists": "Klumben",
+        "energy": 49.1,
+        "length": 261,
+        "name": "Faxe Kondi",
+        "pop": 0,
+        "valence": 58.3
+    },
+    "Feel Alright": {
+        "artists": "Sean Paul",
+        "energy": 64.5,
+        "length": 186,
+        "name": "Feel Alright",
+        "pop": 0,
+        "valence": 93.9
+    },
+    "Final Destination - Raw": {
+        "artists": "Mavado",
+        "energy": 83.8,
+        "length": 167,
+        "name": "Final Destination - Raw",
+        "pop": 0,
+        "valence": 88.1
+    },
+    "Flying Dagger aka 100 Stab": {
+        "artists": "Aidonia",
+        "energy": 85.8,
+        "length": 205,
+        "name": "Flying Dagger aka 100 Stab",
+        "pop": 23,
+        "valence": 81.7
+    },
+    "Gal A Mad Ova": {
+        "artists": "Mavado",
+        "energy": 87.4,
+        "length": 182,
+        "name": "Gal A Mad Ova",
+        "pop": 24,
+        "valence": 83.6
+    },
+    "Gal a Bubble - Raw": {
+        "artists": "Konshens",
+        "energy": 73.7,
+        "length": 210,
+        "name": "Gal a Bubble - Raw",
+        "pop": 0,
+        "valence": 65.9
+    },
+    "Gimme Likkle One Drop": {
+        "artists": "Tarrus Riley",
+        "energy": 72.7,
+        "length": 174,
+        "name": "Gimme Likkle One Drop",
+        "pop": 0,
+        "valence": 77.7
+    },
+    "Go Go Wine": {
+        "artists": "Vybz Kartel",
+        "energy": 67.5,
+        "length": 203,
+        "name": "Go Go Wine",
+        "pop": 0,
+        "valence": 49.9
+    },
+    "Gold Medal": {
+        "artists": "Charly Black",
+        "energy": 76.8,
+        "length": 192,
+        "name": "Gold Medal",
+        "pop": 0,
+        "valence": 62.1
+    },
+    "Gyal A Whine": {
+        "artists": "Busy Signal",
+        "energy": 89.1,
+        "length": 157,
+        "name": "Gyal A Whine",
+        "pop": 13,
+        "valence": 81.2
+    },
+    "Here I Am": {
+        "artists": "Gyptian",
+        "energy": 60.5,
+        "length": 211,
+        "name": "Here I Am",
+        "pop": 0,
+        "valence": 77.4
+    },
+    "Hills And Valleys": {
+        "artists": "Buju Banton",
+        "energy": 54.4,
+        "length": 273,
+        "name": "Hills And Valleys",
+        "pop": 61,
+        "valence": 74.2
+    },
+    "Hmm Hmm": {
+        "artists": "Beenie Man",
+        "energy": 84.8,
+        "length": 215,
+        "name": "Hmm Hmm",
+        "pop": 43,
+        "valence": 56.6
+    },
+    "Hold Ud": {
+        "artists": "TopGunn",
+        "energy": 58.8,
+        "length": 189,
+        "name": "Hold Ud",
+        "pop": 0,
+        "valence": 77.4
+    },
+    "Hold You [Hold Yuh]": {
+        "artists": "Gyptian",
+        "energy": 63.2,
+        "length": 233,
+        "name": "Hold You [Hold Yuh]",
+        "pop": 36,
+        "valence": 49.4
+    },
+    "Holiday": {
+        "artists": "Ding Dong Feat. Chevaughn Clayton",
+        "energy": 83.3,
+        "length": 207,
+        "name": "Holiday",
+        "pop": 27,
+        "valence": 36.7
+    },
+    "I Know U Want Me [Remix]": {
+        "artists": "Mavado",
+        "energy": 68.5,
+        "length": 189,
+        "name": "I Know U Want Me [Remix]",
+        "pop": 0,
+        "valence": 29.4
+    },
+    "Ketch the Light": {
+        "artists": "Demarco",
+        "energy": 83.6,
+        "length": 162,
+        "name": "Ketch the Light",
+        "pop": 0,
+        "valence": 64.6
+    },
+    "Krazy": {
+        "artists": "Elephant Man",
+        "energy": 94.2,
+        "length": 226,
+        "name": "Krazy",
+        "pop": 0,
+        "valence": 70.2
+    },
+    "La' Mig Rulle Dig": {
+        "artists": "Pharfar",
+        "energy": 75.6,
+        "length": 176,
+        "name": "La' Mig Rulle Dig",
+        "pop": 0,
+        "valence": 96.1
+    },
+    "Let Me Know": {
+        "artists": "Collie Buddz",
+        "energy": 76.5,
+        "length": 186,
+        "name": "Let Me Know",
+        "pop": 40,
+        "valence": 87.3
+    },
+    "Like a Movie": {
+        "artists": "Vybz Kartel",
+        "energy": 73.0,
+        "length": 150,
+        "name": "Like a Movie",
+        "pop": 33,
+        "valence": 57.9
+    },
+    "Lip Gloss": {
+        "artists": "Vybz Kartel",
+        "energy": 69.2,
+        "length": 196,
+        "name": "Lip Gloss",
+        "pop": 0,
+        "valence": 60.3
+    },
+    "Look Pon We": {
+        "artists": "Vybz Kartel",
+        "energy": 68.9,
+        "length": 165,
+        "name": "Look Pon We",
+        "pop": 0,
+        "valence": 82.6
+    },
+    "Man Down": {
+        "artists": "Rihanna",
+        "energy": 90.4,
+        "length": 267,
+        "name": "Man Down",
+        "pop": 71,
+        "valence": 55.7
+    },
+    "Me Hold Yuh": {
+        "artists": "Lady Saw",
+        "energy": 57.3,
+        "length": 173,
+        "name": "Me Hold Yuh",
+        "pop": 0,
+        "valence": 43.4
+    },
+    "Money To Burn": {
+        "artists": "T.O.K",
+        "energy": 62.5,
+        "length": 213,
+        "name": "Money To Burn",
+        "pop": 0,
+        "valence": 94.8
+    },
+    "Movie Star": {
+        "artists": "Mavado",
+        "energy": 68.3,
+        "length": 150,
+        "name": "Movie Star",
+        "pop": 0,
+        "valence": 32.6
+    },
+    "Mr. Loverman (feat. Chevelle Franklin)": {
+        "artists": "Shabba Ranks",
+        "energy": 60.4,
+        "length": 338,
+        "name": "Mr. Loverman (feat. Chevelle Franklin)",
+        "pop": 46,
+        "valence": 68.5
+    },
+    "Murderer": {
+        "artists": "Barrington Levy",
+        "energy": 54.9,
+        "length": 233,
+        "name": "Murderer",
+        "pop": 0,
+        "valence": 61.7
+    },
+    "My Heart (feat. Mavado)": {
+        "artists": "Wayne Marshall",
+        "energy": 91.2,
+        "length": 254,
+        "name": "My Heart (feat. Mavado)",
+        "pop": 0,
+        "valence": 96.0
+    },
+    "My Story": {
+        "artists": "I-Octane",
+        "energy": 70.5,
+        "length": 186,
+        "name": "My Story",
+        "pop": 0,
+        "valence": 34.4
+    },
+    "Nah Let Go": {
+        "artists": "Vybz Kartel",
+        "energy": 75.5,
+        "length": 215,
+        "name": "Nah Let Go",
+        "pop": 52,
+        "valence": 68.3
+    },
+    "Never Believe You": {
+        "artists": "Mavado",
+        "energy": 68.5,
+        "length": 232,
+        "name": "Never Believe You",
+        "pop": 0,
+        "valence": 65.7
+    },
+    "Non Stop": {
+        "artists": "Gyptian",
+        "energy": 81.2,
+        "length": 178,
+        "name": "Non Stop",
+        "pop": 26,
+        "valence": 39.8
+    },
+    "Now That I've Got Your Love": {
+        "artists": "Sean Paul",
+        "energy": 73.1,
+        "length": 213,
+        "name": "Now That I've Got Your Love",
+        "pop": 32,
+        "valence": 64.9
+    },
+    "Nuh Compatible": {
+        "artists": "Bugle",
+        "energy": 68.6,
+        "length": 200,
+        "name": "Nuh Compatible",
+        "pop": 0,
+        "valence": 62.3
+    },
+    "Nuh Linga": {
+        "artists": "Elephant Man",
+        "energy": 75.4,
+        "length": 132,
+        "name": "Nuh Linga",
+        "pop": 0,
+        "valence": 71.2
+    },
+    "Oh Carolina": {
+        "artists": "Shaggy",
+        "energy": 91.3,
+        "length": 194,
+        "name": "Oh Carolina",
+        "pop": 50,
+        "valence": 91.5
+    },
+    "On Your Face - Raw": {
+        "artists": "Konshens",
+        "energy": 73.9,
+        "length": 187,
+        "name": "On Your Face - Raw",
+        "pop": 0,
+        "valence": 67.4
+    },
+    "Paper Loving": {
+        "artists": "Christopher Martin",
+        "energy": 61.6,
+        "length": 213,
+        "name": "Paper Loving",
+        "pop": 0,
+        "valence": 87.9
+    },
+    "Pran pi\u00e9": {
+        "artists": "Kalash",
+        "energy": 58.8,
+        "length": 195,
+        "name": "Pran pi\u00e9",
+        "pop": 37,
+        "valence": 31.5
+    },
+    "Precision Wine": {
+        "artists": "Kes",
+        "energy": 90.4,
+        "length": 221,
+        "name": "Precision Wine",
+        "pop": 23,
+        "valence": 70.6
+    },
+    "Rasta Should Be Deeper": {
+        "artists": "Junior Kelly",
+        "energy": 80.3,
+        "length": 210,
+        "name": "Rasta Should Be Deeper",
+        "pop": 0,
+        "valence": 77.6
+    },
+    "Represent": {
+        "artists": "Konshens",
+        "energy": 84.2,
+        "length": 192,
+        "name": "Represent",
+        "pop": 0,
+        "valence": 66.6
+    },
+    "Roll Wid Di Don": {
+        "artists": "Sean Paul",
+        "energy": 76.1,
+        "length": 222,
+        "name": "Roll Wid Di Don",
+        "pop": 24,
+        "valence": 34.0
+    },
+    "Romie": {
+        "artists": "Beenie Man",
+        "energy": 61.3,
+        "length": 229,
+        "name": "Romie",
+        "pop": 0,
+        "valence": 71.6
+    },
+    "Shake": {
+        "artists": "Konshens",
+        "energy": 83.6,
+        "length": 133,
+        "name": "Shake",
+        "pop": 0,
+        "valence": 92.0
+    },
+    "Skip To Ma Luu": {
+        "artists": "Serani Feat. Ding Dong",
+        "energy": 97.1,
+        "length": 242,
+        "name": "Skip To Ma Luu",
+        "pop": 0,
+        "valence": 78.9
+    },
+    "Some Bwoy": {
+        "artists": "Tommy Lee",
+        "energy": 69.2,
+        "length": 207,
+        "name": "Some Bwoy",
+        "pop": 0,
+        "valence": 67.3
+    },
+    "Squeeze Breast": {
+        "artists": "Mavado",
+        "energy": 65.8,
+        "length": 174,
+        "name": "Squeeze Breast",
+        "pop": 0,
+        "valence": 55.1
+    },
+    "Struggle": {
+        "artists": "Vybz Kartel",
+        "energy": 73.6,
+        "length": 154,
+        "name": "Struggle",
+        "pop": 21,
+        "valence": 68.3
+    },
+    "Summertime": {
+        "artists": "Vybz Kartel",
+        "energy": 71.4,
+        "length": 193,
+        "name": "Summertime",
+        "pop": 51,
+        "valence": 57.6
+    },
+    "Tamale": {
+        "artists": "Mr. Vegas",
+        "energy": 84.2,
+        "length": 251,
+        "name": "Tamale",
+        "pop": 0,
+        "valence": 96.3
+    },
+    "The Bruk Out Song": {
+        "artists": "RDX",
+        "energy": 96.2,
+        "length": 176,
+        "name": "The Bruk Out Song",
+        "pop": 0,
+        "valence": 91.0
+    },
+    "The System": {
+        "artists": "Popcaan",
+        "energy": 90.0,
+        "length": 185,
+        "name": "The System",
+        "pop": 0,
+        "valence": 66.3
+    },
+    "Tic Toc": {
+        "artists": "Vybz Kartel",
+        "energy": 91.3,
+        "length": 193,
+        "name": "Tic Toc",
+        "pop": 0,
+        "valence": 93.7
+    },
+    "Tjaldva (2010 Ragnhildegade Demo)": {
+        "artists": "TopGunn & Raske Penge",
+        "energy": 47.7,
+        "length": 208,
+        "name": "Tjaldva (2010 Ragnhildegade Demo)",
+        "pop": 0,
+        "valence": 92.6
+    },
+    "Tomgang": {
+        "artists": "Shaka Loveless",
+        "energy": 70.1,
+        "length": 218,
+        "name": "Tomgang",
+        "pop": 27,
+        "valence": 70.0
+    },
+    "Touch The Road": {
+        "artists": "Mavado",
+        "energy": 63.4,
+        "length": 201,
+        "name": "Touch The Road",
+        "pop": 0,
+        "valence": 24.1
+    },
+    "Under Me Sleng Teng": {
+        "artists": "Wayne Smith",
+        "energy": 50.8,
+        "length": 248,
+        "name": "Under Me Sleng Teng",
+        "pop": 47,
+        "valence": 91.0
+    },
+    "Up": {
+        "artists": "Alaine",
+        "energy": 59.2,
+        "length": 220,
+        "name": "Up",
+        "pop": 0,
+        "valence": 89.8
+    },
+    "Vitamin S": {
+        "artists": "Cham",
+        "energy": 77.2,
+        "length": 253,
+        "name": "Vitamin S",
+        "pop": 0,
+        "valence": 92.1
+    },
+    "We Want Paper": {
+        "artists": "Tommy Lee",
+        "energy": 87.4,
+        "length": 191,
+        "name": "We Want Paper",
+        "pop": 0,
+        "valence": 87.7
+    },
+    "Weh Dem A Do": {
+        "artists": "Movado",
+        "energy": 90.4,
+        "length": 168,
+        "name": "Weh Dem A Do",
+        "pop": 0,
+        "valence": 23.1
+    },
+    "What Will It Take": {
+        "artists": "Jah Cure",
+        "energy": 44.3,
+        "length": 225,
+        "name": "What Will It Take",
+        "pop": 29,
+        "valence": 49.7
+    },
+    "When U Wine Like That (Raw)": {
+        "artists": "Popcaan",
+        "energy": 71.7,
+        "length": 199,
+        "name": "When U Wine Like That (Raw)",
+        "pop": 0,
+        "valence": 79.4
+    },
+    "When You Hear The Bassline": {
+        "artists": "Major Lazer",
+        "energy": 79.6,
+        "length": 198,
+        "name": "When You Hear The Bassline",
+        "pop": 0,
+        "valence": 46.2
+    },
+    "When Your Gone": {
+        "artists": "Ce'Cile",
+        "energy": 67.1,
+        "length": 218,
+        "name": "When Your Gone",
+        "pop": 0,
+        "valence": 88.2
+    },
+    "Wine": {
+        "artists": "Popcaan",
+        "energy": 37.0,
+        "length": 170,
+        "name": "Wine",
+        "pop": 24,
+        "valence": 60.7
+    },
+    "Wine Pon Di Edge": {
+        "artists": "Busy Signal",
+        "energy": 89.8,
+        "length": 194,
+        "name": "Wine Pon Di Edge",
+        "pop": 42,
+        "valence": 74.6
+    },
+    "Wine Yuh Body": {
+        "artists": "Shal Marshall",
+        "energy": 82.5,
+        "length": 190,
+        "name": "Wine Yuh Body",
+        "pop": 0,
+        "valence": 51.3
+    },
+    "Wipe Those Tears": {
+        "artists": "Jah Vinci",
+        "energy": 69.1,
+        "length": 186,
+        "name": "Wipe Those Tears",
+        "pop": 12,
+        "valence": 62.3
+    },
+    "You Like It": {
+        "artists": "Devina Burn",
+        "energy": 85.8,
+        "length": 190,
+        "name": "You Like It",
+        "pop": 0,
+        "valence": 87.3
+    },
+    "Your Business": {
+        "artists": "Vybz Kartel",
+        "energy": 90.3,
+        "length": 193,
+        "name": "Your Business",
+        "pop": 0,
+        "valence": 39.5
+    },
+    "pretty devil": {
+        "artists": "Konshens",
+        "energy": 58.7,
+        "length": 223,
+        "name": "pretty devil",
+        "pop": 0,
+        "valence": 92.2
+    }
+}

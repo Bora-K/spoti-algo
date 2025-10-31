@@ -1,0 +1,802 @@
+{
+    "14 Songs, Op. 34: Vocalise, Op. 34, No. 14": {
+        "artists": "Sergei Rachmaninoff",
+        "energy": 5.5,
+        "length": 417,
+        "name": "14 Songs, Op. 34: Vocalise, Op. 34, No. 14",
+        "pop": 28,
+        "valence": 10.2
+    },
+    "2 Swedish Folk-Melodies, Op. 27: No. 1 Allt under himmelens faste: Adagio": {
+        "artists": "Johan Svendsen",
+        "energy": 7.74,
+        "length": 191,
+        "name": "2 Swedish Folk-Melodies, Op. 27: No. 1 Allt under himmelens faste: Adagio",
+        "pop": 32,
+        "valence": 3.91
+    },
+    "3 Intermezzi, Op. 117: No. 3 in C-Sharp Minor, Andante con moto": {
+        "artists": "Johannes Brahms",
+        "energy": 3.23,
+        "length": 318,
+        "name": "3 Intermezzi, Op. 117: No. 3 in C-Sharp Minor, Andante con moto",
+        "pop": 22,
+        "valence": 11.7
+    },
+    "3 Pieces for piano, Op. 2: No. 1. Etude in C Sharp Minor": {
+        "artists": "Alexander Scriabin",
+        "energy": 2.55,
+        "length": 165,
+        "name": "3 Pieces for piano, Op. 2: No. 1. Etude in C Sharp Minor",
+        "pop": 10,
+        "valence": 6.77
+    },
+    "A Somerset Rhapsody Op. 21B - (1906)": {
+        "artists": "Gustav Holst",
+        "energy": 4.3,
+        "length": 561,
+        "name": "A Somerset Rhapsody Op. 21B - (1906)",
+        "pop": 0,
+        "valence": 3.94
+    },
+    "A Village Romeo and Juliet / Scene 5: The Walk to the Paradise Garden": {
+        "artists": "Frederick Delius",
+        "energy": 5.39,
+        "length": 611,
+        "name": "A Village Romeo and Juliet / Scene 5: The Walk to the Paradise Garden",
+        "pop": 13,
+        "valence": 3.02
+    },
+    "Achorripsis": {
+        "artists": "Iannis Xenakis",
+        "energy": 26.1,
+        "length": 404,
+        "name": "Achorripsis",
+        "pop": 4,
+        "valence": 8.09
+    },
+    "Appalachian Spring: VIII. Coda. Moderato": {
+        "artists": "Aaron Copland",
+        "energy": 0.25,
+        "length": 206,
+        "name": "Appalachian Spring: VIII. Coda. Moderato",
+        "pop": 18,
+        "valence": 4.28
+    },
+    "Arcana": {
+        "artists": "Edgard Var\u00e8se",
+        "energy": 35.0,
+        "length": 1126,
+        "name": "Arcana",
+        "pop": 6,
+        "valence": 3.95
+    },
+    "Bach, JS: Concerto for Two Violins in D Minor, BWV 1043: I. Vivace": {
+        "artists": "Johann Sebastian Bach",
+        "energy": 33.3,
+        "length": 244,
+        "name": "Bach, JS: Concerto for Two Violins in D Minor, BWV 1043: I. Vivace",
+        "pop": 32,
+        "valence": 81.2
+    },
+    "Baldr, Op. 34: Act I: The Creation of Man": {
+        "artists": "J\u00f3n Leifs",
+        "energy": 0.11,
+        "length": 318,
+        "name": "Baldr, Op. 34: Act I: The Creation of Man",
+        "pop": 0,
+        "valence": 3.15
+    },
+    "Bloodroot": {
+        "artists": "Rachel Grimes",
+        "energy": 11.4,
+        "length": 180,
+        "name": "Bloodroot",
+        "pop": 28,
+        "valence": 12.1
+    },
+    "Brigg Fair": {
+        "artists": "Frederick Delius",
+        "energy": 3.06,
+        "length": 947,
+        "name": "Brigg Fair",
+        "pop": 4,
+        "valence": 3.74
+    },
+    "Brothers": {
+        "artists": "Ennio Morricone",
+        "energy": 21.3,
+        "length": 93,
+        "name": "Brothers",
+        "pop": 49,
+        "valence": 16.7
+    },
+    "Canon in D Major, P. 37": {
+        "artists": "Johann Pachelbel",
+        "energy": 18.4,
+        "length": 245,
+        "name": "Canon in D Major, P. 37",
+        "pop": 35,
+        "valence": 15.6
+    },
+    "Canticles of the Sky: Sky with Four Suns": {
+        "artists": "John Luther Adams",
+        "energy": 12.3,
+        "length": 264,
+        "name": "Canticles of the Sky: Sky with Four Suns",
+        "pop": 0,
+        "valence": 2.71
+    },
+    "Cantus in memoriam Benjamin Britten (Cantus in Memory of Benjamin Britten)": {
+        "artists": "Arvo P\u00e4rt",
+        "energy": 17.5,
+        "length": 463,
+        "name": "Cantus in memoriam Benjamin Britten (Cantus in Memory of Benjamin Britten)",
+        "pop": 0,
+        "valence": 3.33
+    },
+    "Carmen Suite No. 2: III. Nocturne": {
+        "artists": "Georges Bizet",
+        "energy": 4.95,
+        "length": 310,
+        "name": "Carmen Suite No. 2: III. Nocturne",
+        "pop": 21,
+        "valence": 3.65
+    },
+    "Cavalleria Rusticana (1987 - Remaster): Intermezzo (Orchestra)": {
+        "artists": "Philharmonia Orchestra",
+        "energy": 9.58,
+        "length": 225,
+        "name": "Cavalleria Rusticana (1987 - Remaster): Intermezzo (Orchestra)",
+        "pop": 31,
+        "valence": 3.72
+    },
+    "Cello Concerto in A Minor, Op. 129: II. Langsam": {
+        "artists": "Robert Schumann",
+        "energy": 6.77,
+        "length": 273,
+        "name": "Cello Concerto in A Minor, Op. 129: II. Langsam",
+        "pop": 16,
+        "valence": 3.77
+    },
+    "Concerto in D Minor, Op.7, No.4: I. Adagio": {
+        "artists": "George Frideric Handel",
+        "energy": 1.73,
+        "length": 286,
+        "name": "Concerto in D Minor, Op.7, No.4: I. Adagio",
+        "pop": 47,
+        "valence": 7.3
+    },
+    "Country Band March": {
+        "artists": "Charles Ives",
+        "energy": 33.9,
+        "length": 257,
+        "name": "Country Band March",
+        "pop": 6,
+        "valence": 47.1
+    },
+    "Der Freisch\u00fctz, J. 277, 3. Akt: Was gleicht wohl auf Erden, \"J\u00e4gerchor\"": {
+        "artists": "Carl Maria von Weber",
+        "energy": 6.03,
+        "length": 602,
+        "name": "Der Freisch\u00fctz, J. 277, 3. Akt: Was gleicht wohl auf Erden, \"J\u00e4gerchor\"",
+        "pop": 17,
+        "valence": 3.99
+    },
+    "Des canyons aux etoiles \u2026: I. Le desert": {
+        "artists": "Olivier Messiaen",
+        "energy": 1.47,
+        "length": 269,
+        "name": "Des canyons aux etoiles \u2026: I. Le desert",
+        "pop": 0,
+        "valence": 4.65
+    },
+    "Die Fledermaus: Overture": {
+        "artists": "Johann Strauss II",
+        "energy": 23.9,
+        "length": 460,
+        "name": "Die Fledermaus: Overture",
+        "pop": 44,
+        "valence": 19.9
+    },
+    "Elegie: O doux printemps d'autrefois": {
+        "artists": "Jules Massenet",
+        "energy": 10.7,
+        "length": 250,
+        "name": "Elegie: O doux printemps d'autrefois",
+        "pop": 20,
+        "valence": 5.06
+    },
+    "Ensemble for String Quintet and Thunder Sticks (1956 version): I. Larghetto": {
+        "artists": "Henry Cowell",
+        "energy": 4.43,
+        "length": 549,
+        "name": "Ensemble for String Quintet and Thunder Sticks (1956 version): I. Larghetto",
+        "pop": 3,
+        "valence": 2.76
+    },
+    "Evey Reborn": {
+        "artists": "Dario Marianelli",
+        "energy": 9.92,
+        "length": 231,
+        "name": "Evey Reborn",
+        "pop": 0,
+        "valence": 2.91
+    },
+    "Family Portrait": {
+        "artists": "Rachel's",
+        "energy": 6.61,
+        "length": 342,
+        "name": "Family Portrait",
+        "pop": 0,
+        "valence": 3.99
+    },
+    "Fantasia on Greensleeves": {
+        "artists": "Ralph Vaughan Williams",
+        "energy": 8.68,
+        "length": 302,
+        "name": "Fantasia on Greensleeves",
+        "pop": 28,
+        "valence": 9.62
+    },
+    "Farnace, RV 711, Act II, Scene V: Aria \"Gelido in ogni vena\"": {
+        "artists": "Antonio Vivaldi",
+        "energy": 9.5,
+        "length": 503,
+        "name": "Farnace, RV 711, Act II, Scene V: Aria \"Gelido in ogni vena\"",
+        "pop": 0,
+        "valence": 7.42
+    },
+    "Gottes Zeit ist die allerbeste Zeit, BWV 106 (Arr. G. Kurtag for Piano Duo)": {
+        "artists": "Gy\u00f6rgy Kurt\u00e1g",
+        "energy": 0.8,
+        "length": 150,
+        "name": "Gottes Zeit ist die allerbeste Zeit, BWV 106 (Arr. G. Kurtag for Piano Duo)",
+        "pop": 24,
+        "valence": 6.79
+    },
+    "Hace Mucho, Mucho Tiempo": {
+        "artists": "Javier Navarrete",
+        "energy": 10.5,
+        "length": 135,
+        "name": "Hace Mucho, Mucho Tiempo",
+        "pop": 0,
+        "valence": 9.93
+    },
+    "Homemade Mountains": {
+        "artists": "Christina Vantzou",
+        "energy": 13.5,
+        "length": 223,
+        "name": "Homemade Mountains",
+        "pop": 28,
+        "valence": 3.53
+    },
+    "Illumina faciem tuam": {
+        "artists": "Carlo Gesualdo",
+        "energy": 8.57,
+        "length": 266,
+        "name": "Illumina faciem tuam",
+        "pop": 21,
+        "valence": 3.58
+    },
+    "In The White Silence: Letter B": {
+        "artists": "John Luther Adams",
+        "energy": 14.4,
+        "length": 224,
+        "name": "In The White Silence: Letter B",
+        "pop": 13,
+        "valence": 3.94
+    },
+    "Infra 4": {
+        "artists": "Max Richter",
+        "energy": 19.4,
+        "length": 166,
+        "name": "Infra 4",
+        "pop": 30,
+        "valence": 3.99
+    },
+    "Invitation to the Dance": {
+        "artists": "Carl Maria von Weber",
+        "energy": 6.14,
+        "length": 479,
+        "name": "Invitation to the Dance",
+        "pop": 18,
+        "valence": 27.4
+    },
+    "Jonchaies": {
+        "artists": "Iannis Xenakis",
+        "energy": 70.2,
+        "length": 959,
+        "name": "Jonchaies",
+        "pop": 16,
+        "valence": 3.75
+    },
+    "Kinderszenen (Scenes of Childhood), Op. 15: VII. Traumerei (Dreaming)": {
+        "artists": "Robert Schumann",
+        "energy": 0.99,
+        "length": 166,
+        "name": "Kinderszenen (Scenes of Childhood), Op. 15: VII. Traumerei (Dreaming)",
+        "pop": 19,
+        "valence": 27.9
+    },
+    "Klarinettenkonzert Nr. 1 f-Moll: II. Adagio ma non troppo": {
+        "artists": "Carl Maria von Weber",
+        "energy": 0.19,
+        "length": 411,
+        "name": "Klarinettenkonzert Nr. 1 f-Moll: II. Adagio ma non troppo",
+        "pop": 12,
+        "valence": 4.16
+    },
+    "La boh\u00e8me, SC 67 / Act 1: \"Che gelida manina\"": {
+        "artists": "Giacomo Puccini",
+        "energy": 24.7,
+        "length": 312,
+        "name": "La boh\u00e8me, SC 67 / Act 1: \"Che gelida manina\"",
+        "pop": 6,
+        "valence": 6.27
+    },
+    "Le Quattro Stagioni: Violin Concerto No. 1 in E Major, Op. 8, RV 269, \"La primavera\": I. Allegro": {
+        "artists": "Antonio Vivaldi",
+        "energy": 12.4,
+        "length": 202,
+        "name": "Le Quattro Stagioni: Violin Concerto No. 1 in E Major, Op. 8, RV 269, \"La primavera\": I. Allegro",
+        "pop": 0,
+        "valence": 21.8
+    },
+    "Le Quattro Stagioni: Violin Concerto No. 2 in G Minor, Op. 8, RV 315, \"L'estate\": I. Allegro non molto. Allegro": {
+        "artists": "Antonio Vivaldi",
+        "energy": 17.6,
+        "length": 332,
+        "name": "Le Quattro Stagioni: Violin Concerto No. 2 in G Minor, Op. 8, RV 315, \"L'estate\": I. Allegro non molto. Allegro",
+        "pop": 0,
+        "valence": 8.83
+    },
+    "Lieder ohne Worte (Songs without Words), Book 2, Op. 30: No. 7 in E-Flat Major, Op. 30/1": {
+        "artists": "Felix Mendelssohn",
+        "energy": 1.51,
+        "length": 283,
+        "name": "Lieder ohne Worte (Songs without Words), Book 2, Op. 30: No. 7 in E-Flat Major, Op. 30/1",
+        "pop": 22,
+        "valence": 9.43
+    },
+    "Locus iste, WAB 23": {
+        "artists": "Anton Bruckner",
+        "energy": 4.08,
+        "length": 184,
+        "name": "Locus iste, WAB 23",
+        "pop": 32,
+        "valence": 3.43
+    },
+    "Lute Suite in E Minor, BWV 996 (Arr. J. Williams for Guitar): I. Passaggio - Presto": {
+        "artists": "Johann Sebastian Bach",
+        "energy": 23.7,
+        "length": 154,
+        "name": "Lute Suite in E Minor, BWV 996 (Arr. J. Williams for Guitar): I. Passaggio - Presto",
+        "pop": 9,
+        "valence": 56.0
+    },
+    "Main Title": {
+        "artists": "James Horner",
+        "energy": 1.64,
+        "length": 171,
+        "name": "Main Title",
+        "pop": 53,
+        "valence": 3.75
+    },
+    "Messiah, HWV 56 / Pt. 1: Symphony": {
+        "artists": "George Frideric Handel",
+        "energy": 8.75,
+        "length": 175,
+        "name": "Messiah, HWV 56 / Pt. 1: Symphony",
+        "pop": 22,
+        "valence": 36.8
+    },
+    "Miserere": {
+        "artists": "Gregorio Allegri",
+        "energy": 3.7,
+        "length": 719,
+        "name": "Miserere",
+        "pop": 44,
+        "valence": 3.56
+    },
+    "Nixon in China, Act I Scene 1: Landing of the Spirit of '76 (Live)": {
+        "artists": "John Adams",
+        "energy": 44.4,
+        "length": 153,
+        "name": "Nixon in China, Act I Scene 1: Landing of the Spirit of '76 (Live)",
+        "pop": 10,
+        "valence": 6.59
+    },
+    "Oboe Concerto, H. 353: I. Moderato": {
+        "artists": "Bohuslav Martin\u016f",
+        "energy": 12.1,
+        "length": 285,
+        "name": "Oboe Concerto, H. 353: I. Moderato",
+        "pop": 10,
+        "valence": 13.0
+    },
+    "Orff: Carmina Burana, Introduction, Fortuna Imperatrix Mundi: O Fortuna": {
+        "artists": "Carl Orff",
+        "energy": 19.7,
+        "length": 156,
+        "name": "Orff: Carmina Burana, Introduction, Fortuna Imperatrix Mundi: O Fortuna",
+        "pop": 33,
+        "valence": 58.4
+    },
+    "Orph\u00e9e aux enfers, ACT 2, Troisi\u00e8me tableau: un roi de B\u00e9otie - Le boudoir de Pluton: Galop": {
+        "artists": "Jacques Offenbach",
+        "energy": 65.6,
+        "length": 112,
+        "name": "Orph\u00e9e aux enfers, ACT 2, Troisi\u00e8me tableau: un roi de B\u00e9otie - Le boudoir de Pluton: Galop",
+        "pop": 22,
+        "valence": 24.9
+    },
+    "Piano Sonata No. 20 In A Major, D.959: 4. Rondo (Allegretto)": {
+        "artists": "Franz Schubert",
+        "energy": 9.26,
+        "length": 674,
+        "name": "Piano Sonata No. 20 In A Major, D.959: 4. Rondo (Allegretto)",
+        "pop": 16,
+        "valence": 12.4
+    },
+    "Piano Sonata, Op. 26: IV. Fuga: Allegro con spirito": {
+        "artists": "Samuel Barber",
+        "energy": 26.8,
+        "length": 278,
+        "name": "Piano Sonata, Op. 26: IV. Fuga: Allegro con spirito",
+        "pop": 1,
+        "valence": 46.6
+    },
+    "Pomp and Circumstance, Op. 39: No. 1, March in D Major": {
+        "artists": "Edward Elgar",
+        "energy": 43.4,
+        "length": 346,
+        "name": "Pomp and Circumstance, Op. 39: No. 1, March in D Major",
+        "pop": 42,
+        "valence": 31.5
+    },
+    "Prelude For Time Feelers": {
+        "artists": "Eluvium",
+        "energy": 27.2,
+        "length": 349,
+        "name": "Prelude For Time Feelers",
+        "pop": 0,
+        "valence": 12.4
+    },
+    "Prokofiev: Cinderella, Op. 87, Act 3, Scene 1: No. 42, Second Galop of the Prince": {
+        "artists": "Sergei Prokofiev",
+        "energy": 26.5,
+        "length": 58,
+        "name": "Prokofiev: Cinderella, Op. 87, Act 3, Scene 1: No. 42, Second Galop of the Prince",
+        "pop": 6,
+        "valence": 32.9
+    },
+    "Providence": {
+        "artists": "Danail Getz",
+        "energy": 52.6,
+        "length": 186,
+        "name": "Providence",
+        "pop": 0,
+        "valence": 7.72
+    },
+    "Pr\u00e9lude, Fugue and Variation in B Minor for Organ, FWV 30, Op. 18: Pr\u00e9lude, Fugue and Variation in B Minor for Organ, FWV 30, Op. 18 - Live": {
+        "artists": "C\u00e9sar Franck",
+        "energy": 1.88,
+        "length": 830,
+        "name": "Pr\u00e9lude, Fugue and Variation in B Minor for Organ, FWV 30, Op. 18: Pr\u00e9lude, Fugue and Variation in B Minor for Organ, FWV 30, Op. 18 - Live",
+        "pop": 22,
+        "valence": 11.0
+    },
+    "Rapture": {
+        "artists": "Christopher Rouse",
+        "energy": 19.3,
+        "length": 714,
+        "name": "Rapture",
+        "pop": 1,
+        "valence": 6.08
+    },
+    "Rebirth of a Nation: A Nation Divided": {
+        "artists": "DJ Spooky",
+        "energy": 36.8,
+        "length": 316,
+        "name": "Rebirth of a Nation: A Nation Divided",
+        "pop": 12,
+        "valence": 5.04
+    },
+    "Requiem: II. Dies irae": {
+        "artists": "Giuseppe Verdi",
+        "energy": 18.8,
+        "length": 137,
+        "name": "Requiem: II. Dies irae",
+        "pop": 0,
+        "valence": 22.0
+    },
+    "Respighi: Pini di Roma, P. 141: IV. I pini della Via Appia": {
+        "artists": "Ottorino Respighi",
+        "energy": 21.8,
+        "length": 320,
+        "name": "Respighi: Pini di Roma, P. 141: IV. I pini della Via Appia",
+        "pop": 18,
+        "valence": 5.73
+    },
+    "Rigoletto / Act 3: \"La donna \u00e8 mobile\" - Remastered 2013": {
+        "artists": "Giuseppe Verdi",
+        "energy": 20.8,
+        "length": 144,
+        "name": "Rigoletto / Act 3: \"La donna \u00e8 mobile\" - Remastered 2013",
+        "pop": 30,
+        "valence": 37.9
+    },
+    "Romance for Cello and Piano": {
+        "artists": "Frederick Delius",
+        "energy": 2.99,
+        "length": 385,
+        "name": "Romance for Cello and Piano",
+        "pop": 0,
+        "valence": 4.68
+    },
+    "Serenade In G Major \"Eine Kleine Nachtmusik\", K. 525: I. Allegro": {
+        "artists": "Wolfgang Amadeus Mozart",
+        "energy": 4.48,
+        "length": 466,
+        "name": "Serenade In G Major \"Eine Kleine Nachtmusik\", K. 525: I. Allegro",
+        "pop": 40,
+        "valence": 33.5
+    },
+    "Serenade in E Major for Strings, Op. 22: II. Menuetto": {
+        "artists": "Anton\u00edn Dvo\u0159\u00e1k",
+        "energy": 8.78,
+        "length": 433,
+        "name": "Serenade in E Major for Strings, Op. 22: II. Menuetto",
+        "pop": 0,
+        "valence": 16.3
+    },
+    "Sinfonia Domestica, Op. 53, TrV 209: 5. Finale. Sehr lebhaft": {
+        "artists": "Richard Strauss",
+        "energy": 27.6,
+        "length": 802,
+        "name": "Sinfonia Domestica, Op. 53, TrV 209: 5. Finale. Sehr lebhaft",
+        "pop": 4,
+        "valence": 7.91
+    },
+    "Sofdu unga astin min (Sweetly Sleeep)": {
+        "artists": "Anonymous",
+        "energy": 10.0,
+        "length": 163,
+        "name": "Sofdu unga astin min (Sweetly Sleeep)",
+        "pop": 7,
+        "valence": 6.92
+    },
+    "Sonata No. 1 in G Minor BWV1001: I. Adagio": {
+        "artists": "Johann Sebastian Bach",
+        "energy": 1.59,
+        "length": 237,
+        "name": "Sonata No. 1 in G Minor BWV1001: I. Adagio",
+        "pop": 0,
+        "valence": 26.4
+    },
+    "Sonata for Althorn and Piano: IV. Das Posthorn (Zwiegespr\u00e4ch) - Lebhaft": {
+        "artists": "Paul Hindemith",
+        "energy": 7.47,
+        "length": 240,
+        "name": "Sonata for Althorn and Piano: IV. Das Posthorn (Zwiegespr\u00e4ch) - Lebhaft",
+        "pop": 0,
+        "valence": 16.4
+    },
+    "Sonata for Violin and Piano in A: 4. Allegretto poco mosso": {
+        "artists": "C\u00e9sar Franck",
+        "energy": 15.3,
+        "length": 381,
+        "name": "Sonata for Violin and Piano in A: 4. Allegretto poco mosso",
+        "pop": 12,
+        "valence": 23.3
+    },
+    "Songs My Mother Taught Me (from \"Gypsy Songs\", Op. 55, No. 4)": {
+        "artists": "Anton\u00edn Dvo\u0159\u00e1k",
+        "energy": 4.5,
+        "length": 117,
+        "name": "Songs My Mother Taught Me (from \"Gypsy Songs\", Op. 55, No. 4)",
+        "pop": 0,
+        "valence": 7.33
+    },
+    "Spitfire Prelude and Fugue: Fugue - 1994 Digital Remaster": {
+        "artists": "William Walton",
+        "energy": 28.3,
+        "length": 259,
+        "name": "Spitfire Prelude and Fugue: Fugue - 1994 Digital Remaster",
+        "pop": 6,
+        "valence": 14.4
+    },
+    "String Quartet No. 1 in C Major, Op. 37: II. Andantino semplice (In modo d'una canzone)": {
+        "artists": "Karol Szymanowski",
+        "energy": 4.85,
+        "length": 370,
+        "name": "String Quartet No. 1 in C Major, Op. 37: II. Andantino semplice (In modo d'una canzone)",
+        "pop": 4,
+        "valence": 2.75
+    },
+    "String Quartet No. 1 in C Major, Op. 49: 1. Moderato": {
+        "artists": "Dmitri Shostakovich",
+        "energy": 4.99,
+        "length": 268,
+        "name": "String Quartet No. 1 in C Major, Op. 49: 1. Moderato",
+        "pop": 16,
+        "valence": 5.17
+    },
+    "String Quartet No. 1 in E Minor \"From My Life\": I. Allegro vivo appassionato": {
+        "artists": "Bed\u0159ich Smetana",
+        "energy": 5.89,
+        "length": 464,
+        "name": "String Quartet No. 1 in E Minor \"From My Life\": I. Allegro vivo appassionato",
+        "pop": 0,
+        "valence": 7.74
+    },
+    "String Quartet No. 4, Op. 22: II. Schnelle Achtel: Sehr energisch": {
+        "artists": "Paul Hindemith",
+        "energy": 13.2,
+        "length": 341,
+        "name": "String Quartet No. 4, Op. 22: II. Schnelle Achtel: Sehr energisch",
+        "pop": 3,
+        "valence": 18.6
+    },
+    "String Quartet, Op. 28: II. Gemachlich - Bewegt": {
+        "artists": "Anton Webern",
+        "energy": 0.68,
+        "length": 116,
+        "name": "String Quartet, Op. 28: II. Gemachlich - Bewegt",
+        "pop": 0,
+        "valence": 7.92
+    },
+    "Symphony No. 1 in C Minor, WAB 101 - Edition Nowak (Linzer Fassung, 1866): I. Allegro": {
+        "artists": "Anton Bruckner",
+        "energy": 7.34,
+        "length": 802,
+        "name": "Symphony No. 1 in C Minor, WAB 101 - Edition Nowak (Linzer Fassung, 1866): I. Allegro",
+        "pop": 5,
+        "valence": 4.92
+    },
+    "Symphony No. 10 'Alla ricerca di Borromini', Op. 327: I. Adagio": {
+        "artists": "Peter Maxwell Davies",
+        "energy": 4.91,
+        "length": 924,
+        "name": "Symphony No. 10 'Alla ricerca di Borromini', Op. 327: I. Adagio",
+        "pop": 0,
+        "valence": 3.14
+    },
+    "Symphony No. 3 \"Eroica\": I. Allegro con brio": {
+        "artists": "Ludwig van Beethoven",
+        "energy": 5.27,
+        "length": 1070,
+        "name": "Symphony No. 3 \"Eroica\": I. Allegro con brio",
+        "pop": 0,
+        "valence": 20.5
+    },
+    "Symphony No. 4, Op. 29, FS 76, \"The Inextinguishable\": I. Allegro": {
+        "artists": "Carl Nielsen",
+        "energy": 8.95,
+        "length": 689,
+        "name": "Symphony No. 4, Op. 29, FS 76, \"The Inextinguishable\": I. Allegro",
+        "pop": 2,
+        "valence": 3.98
+    },
+    "Symphony No. 9 in D Minor, Op. 125 \"Choral\": II. Molto vivace": {
+        "artists": "Ludwig van Beethoven",
+        "energy": 26.5,
+        "length": 856,
+        "name": "Symphony No. 9 in D Minor, Op. 125 \"Choral\": II. Molto vivace",
+        "pop": 40,
+        "valence": 39.0
+    },
+    "Symphony No.4 In G: 2. In gem\u00e4chlicher Bewegung. Ohne Hast": {
+        "artists": "Gustav Mahler",
+        "energy": 2.17,
+        "length": 569,
+        "name": "Symphony No.4 In G: 2. In gem\u00e4chlicher Bewegung. Ohne Hast",
+        "pop": 0,
+        "valence": 7.9
+    },
+    "Tarantella I": {
+        "artists": "Giulio Ruvo",
+        "energy": 5.5,
+        "length": 54,
+        "name": "Tarantella I",
+        "pop": 14,
+        "valence": 53.2
+    },
+    "Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 13 Dances of the Swans - IV. Dance of the Cygnets (Allegro moderato)": {
+        "artists": "Pyotr Ilyich Tchaikovsky",
+        "energy": 3.8,
+        "length": 86,
+        "name": "Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 13 Dances of the Swans - IV. Dance of the Cygnets (Allegro moderato)",
+        "pop": 0,
+        "valence": 77.0
+    },
+    "The Candlelight Vigil": {
+        "artists": "J\u00f3hann J\u00f3hannsson",
+        "energy": 6.13,
+        "length": 311,
+        "name": "The Candlelight Vigil",
+        "pop": 0,
+        "valence": 3.14
+    },
+    "The Ecstasy Of Gold - 2004 Remaster": {
+        "artists": "Ennio Morricone",
+        "energy": 47.4,
+        "length": 203,
+        "name": "The Ecstasy Of Gold - 2004 Remaster",
+        "pop": 63,
+        "valence": 13.3
+    },
+    "The Green Mile": {
+        "artists": "Thomas Newman",
+        "energy": 18.7,
+        "length": 219,
+        "name": "The Green Mile",
+        "pop": 43,
+        "valence": 3.94
+    },
+    "The Planets, Op. 32: Jupiter, the Bringer of Jollity": {
+        "artists": "Gustav Holst",
+        "energy": 22.9,
+        "length": 467,
+        "name": "The Planets, Op. 32: Jupiter, the Bringer of Jollity",
+        "pop": 0,
+        "valence": 27.9
+    },
+    "The Well-Tempered Clavier, Book 2, BWV 870-893: Prelude No. 2 in C Minor, BWV 871": {
+        "artists": "Johann Sebastian Bach",
+        "energy": 49.5,
+        "length": 207,
+        "name": "The Well-Tempered Clavier, Book 2, BWV 870-893: Prelude No. 2 in C Minor, BWV 871",
+        "pop": 13,
+        "valence": 89.0
+    },
+    "Time": {
+        "artists": "Hans Zimmer",
+        "energy": 9.68,
+        "length": 276,
+        "name": "Time",
+        "pop": 74,
+        "valence": 3.95
+    },
+    "Tokyo / Vermont Counterpoint": {
+        "artists": "Steve Reich",
+        "energy": 66.7,
+        "length": 545,
+        "name": "Tokyo / Vermont Counterpoint",
+        "pop": 11,
+        "valence": 73.6
+    },
+    "Touch Her Soft Lips and Part (From \"Henry V\")": {
+        "artists": "William Walton",
+        "energy": 11.6,
+        "length": 239,
+        "name": "Touch Her Soft Lips and Part (From \"Henry V\")",
+        "pop": 25,
+        "valence": 6.86
+    },
+    "Undertow": {
+        "artists": "Richard Skelton",
+        "energy": 21.5,
+        "length": 387,
+        "name": "Undertow",
+        "pop": 0,
+        "valence": 3.85
+    },
+    "Variations On A Rococo Theme, Op.33, TH.57: Variazione VI: Andante": {
+        "artists": "Pyotr Ilyich Tchaikovsky",
+        "energy": 2.65,
+        "length": 172,
+        "name": "Variations On A Rococo Theme, Op.33, TH.57: Variazione VI: Andante",
+        "pop": 0,
+        "valence": 3.23
+    },
+    "Violin Concerto No.2 in E, BWV 1042: 1. Allegro": {
+        "artists": "Johann Sebastian Bach",
+        "energy": 15.7,
+        "length": 464,
+        "name": "Violin Concerto No.2 in E, BWV 1042: 1. Allegro",
+        "pop": 0,
+        "valence": 61.9
+    }
+}

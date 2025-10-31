@@ -1,0 +1,802 @@
+{
+    "1985": {
+        "artists": "Bowling For Soup",
+        "energy": 87.8,
+        "length": 193,
+        "name": "1985",
+        "pop": 57,
+        "valence": 85.3
+    },
+    "20 Dollar Nose Bleed": {
+        "artists": "Fall Out Boy",
+        "energy": 87.1,
+        "length": 257,
+        "name": "20 Dollar Nose Bleed",
+        "pop": 52,
+        "valence": 86.7
+    },
+    "21 Guns": {
+        "artists": "Green Day",
+        "energy": 74.2,
+        "length": 321,
+        "name": "21 Guns",
+        "pop": 77,
+        "valence": 41.6
+    },
+    "Afterlife": {
+        "artists": "Avenged Sevenfold",
+        "energy": 95.0,
+        "length": 352,
+        "name": "Afterlife",
+        "pop": 0,
+        "valence": 39.1
+    },
+    "All I Want": {
+        "artists": "A Day To Remember",
+        "energy": 98.1,
+        "length": 203,
+        "name": "All I Want",
+        "pop": 0,
+        "valence": 20.7
+    },
+    "All My Heart": {
+        "artists": "Sleeping With Sirens",
+        "energy": 37.6,
+        "length": 279,
+        "name": "All My Heart",
+        "pop": 50,
+        "valence": 49.9
+    },
+    "All Signs Point to Lauderdale": {
+        "artists": "A Day To Remember",
+        "energy": 98.3,
+        "length": 197,
+        "name": "All Signs Point to Lauderdale",
+        "pop": 0,
+        "valence": 51.3
+    },
+    "Artificial Light": {
+        "artists": "Rainer Maria",
+        "energy": 73.9,
+        "length": 221,
+        "name": "Artificial Light",
+        "pop": 0,
+        "valence": 26.6
+    },
+    "Ashley": {
+        "artists": "Escape the Fate",
+        "energy": 90.4,
+        "length": 207,
+        "name": "Ashley",
+        "pop": 0,
+        "valence": 34.5
+    },
+    "Basket Case": {
+        "artists": "Green Day",
+        "energy": 94.3,
+        "length": 182,
+        "name": "Basket Case",
+        "pop": 84,
+        "valence": 78.1
+    },
+    "Beautiful Remains": {
+        "artists": "Black Veil Brides",
+        "energy": 98.6,
+        "length": 254,
+        "name": "Beautiful Remains",
+        "pop": 0,
+        "valence": 26.8
+    },
+    "Before I Forget": {
+        "artists": "Slipknot",
+        "energy": 97.4,
+        "length": 279,
+        "name": "Before I Forget",
+        "pop": 79,
+        "valence": 34.8
+    },
+    "Bleed American": {
+        "artists": "Jimmy Eat World",
+        "energy": 95.4,
+        "length": 185,
+        "name": "Bleed American",
+        "pop": 0,
+        "valence": 59.8
+    },
+    "Car Underwater": {
+        "artists": "Armor For Sleep",
+        "energy": 77.4,
+        "length": 229,
+        "name": "Car Underwater",
+        "pop": 51,
+        "valence": 44.8
+    },
+    "Chelsea Smile": {
+        "artists": "Bring Me The Horizon",
+        "energy": 89.1,
+        "length": 303,
+        "name": "Chelsea Smile",
+        "pop": 43,
+        "valence": 22.0
+    },
+    "Close to Home": {
+        "artists": "The Get Up Kids",
+        "energy": 92.1,
+        "length": 231,
+        "name": "Close to Home",
+        "pop": 0,
+        "valence": 56.0
+    },
+    "Coming Clean": {
+        "artists": "The Get Up Kids",
+        "energy": 94.6,
+        "length": 127,
+        "name": "Coming Clean",
+        "pop": 0,
+        "valence": 61.1
+    },
+    "Cross out the Eyes": {
+        "artists": "Thursday",
+        "energy": 75.0,
+        "length": 248,
+        "name": "Cross out the Eyes",
+        "pop": 0,
+        "valence": 25.5
+    },
+    "Dammit": {
+        "artists": "blink-182",
+        "energy": 97.5,
+        "length": 167,
+        "name": "Dammit",
+        "pop": 0,
+        "valence": 28.7
+    },
+    "Do You Know Who You Are?": {
+        "artists": "Texas Is The Reason",
+        "energy": 65.1,
+        "length": 163,
+        "name": "Do You Know Who You Are?",
+        "pop": 29,
+        "valence": 3.47
+    },
+    "Don't Go (feat. Lights)": {
+        "artists": "Bring Me The Horizon",
+        "energy": 78.6,
+        "length": 298,
+        "name": "Don't Go (feat. Lights)",
+        "pop": 46,
+        "valence": 8.75
+    },
+    "Don't Mess With Ouija Boards": {
+        "artists": "Falling In Reverse",
+        "energy": 94.3,
+        "length": 296,
+        "name": "Don't Mess With Ouija Boards",
+        "pop": 0,
+        "valence": 21.1
+    },
+    "Don't You Know Who I Think I Am?": {
+        "artists": "Fall Out Boy",
+        "energy": 94.9,
+        "length": 172,
+        "name": "Don't You Know Who I Think I Am?",
+        "pop": 54,
+        "valence": 86.3
+    },
+    "Fall For You": {
+        "artists": "Secondhand Serenade",
+        "energy": 44.2,
+        "length": 186,
+        "name": "Fall For You",
+        "pop": 1,
+        "valence": 38.2
+    },
+    "False Pretense": {
+        "artists": "The Red Jumpsuit Apparatus",
+        "energy": 93.0,
+        "length": 150,
+        "name": "False Pretense",
+        "pop": 0,
+        "valence": 78.3
+    },
+    "Famous Last Words": {
+        "artists": "My Chemical Romance",
+        "energy": 88.3,
+        "length": 299,
+        "name": "Famous Last Words",
+        "pop": 74,
+        "valence": 30.9
+    },
+    "Flavor Of The Weak": {
+        "artists": "American Hi-Fi",
+        "energy": 96.7,
+        "length": 189,
+        "name": "Flavor Of The Weak",
+        "pop": 65,
+        "valence": 48.8
+    },
+    "From Yesterday": {
+        "artists": "Thirty Seconds To Mars",
+        "energy": 87.6,
+        "length": 247,
+        "name": "From Yesterday",
+        "pop": 63,
+        "valence": 13.0
+    },
+    "Girls / Girls / Boys": {
+        "artists": "Panic! At The Disco",
+        "energy": 92.4,
+        "length": 207,
+        "name": "Girls / Girls / Boys",
+        "pop": 65,
+        "valence": 96.5
+    },
+    "Gloria": {
+        "artists": "Mineral",
+        "energy": 96.2,
+        "length": 222,
+        "name": "Gloria",
+        "pop": 0,
+        "valence": 32.6
+    },
+    "Going Under": {
+        "artists": "Evanescence",
+        "energy": 85.9,
+        "length": 215,
+        "name": "Going Under",
+        "pop": 0,
+        "valence": 48.3
+    },
+    "Head Club": {
+        "artists": "Taking Back Sunday",
+        "energy": 86.3,
+        "length": 184,
+        "name": "Head Club",
+        "pop": 0,
+        "valence": 24.7
+    },
+    "Helena": {
+        "artists": "My Chemical Romance",
+        "energy": 96.0,
+        "length": 205,
+        "name": "Helena",
+        "pop": 78,
+        "valence": 8.57
+    },
+    "Hell Above": {
+        "artists": "Pierce The Veil",
+        "energy": 97.7,
+        "length": 224,
+        "name": "Hell Above",
+        "pop": 0,
+        "valence": 31.6
+    },
+    "Hero": {
+        "artists": "Skillet",
+        "energy": 96.7,
+        "length": 187,
+        "name": "Hero",
+        "pop": 75,
+        "valence": 78.2
+    },
+    "Hold On": {
+        "artists": "Good Charlotte",
+        "energy": 93.7,
+        "length": 246,
+        "name": "Hold On",
+        "pop": 50,
+        "valence": 15.6
+    },
+    "Hurricane": {
+        "artists": "Thirty Seconds To Mars",
+        "energy": 74.7,
+        "length": 372,
+        "name": "Hurricane",
+        "pop": 59,
+        "valence": 27.7
+    },
+    "I Miss You": {
+        "artists": "blink-182",
+        "energy": 77.4,
+        "length": 227,
+        "name": "I Miss You",
+        "pop": 0,
+        "valence": 61.1
+    },
+    "I Swear This Time I Mean It": {
+        "artists": "Mayday Parade",
+        "energy": 54.8,
+        "length": 241,
+        "name": "I Swear This Time I Mean It",
+        "pop": 50,
+        "valence": 39.8
+    },
+    "I Think We're in Minsk": {
+        "artists": "Snowing",
+        "energy": 96.9,
+        "length": 125,
+        "name": "I Think We're in Minsk",
+        "pop": 28,
+        "valence": 32.9
+    },
+    "I Want To Save You": {
+        "artists": "Something Corporate",
+        "energy": 81.8,
+        "length": 267,
+        "name": "I Want To Save You",
+        "pop": 0,
+        "valence": 29.4
+    },
+    "I Will Play My Game Beneath the Spin Light": {
+        "artists": "Brand New",
+        "energy": 64.4,
+        "length": 237,
+        "name": "I Will Play My Game Beneath the Spin Light",
+        "pop": 0,
+        "valence": 42.1
+    },
+    "I'd Do Anything": {
+        "artists": "Simple Plan",
+        "energy": 91.7,
+        "length": 198,
+        "name": "I'd Do Anything",
+        "pop": 0,
+        "valence": 56.3
+    },
+    "I'm Made of Wax, Larry, What Are You Made Of?": {
+        "artists": "A Day To Remember",
+        "energy": 97.0,
+        "length": 181,
+        "name": "I'm Made of Wax, Larry, What Are You Made Of?",
+        "pop": 0,
+        "valence": 62.1
+    },
+    "I've Got All This Ringing In My Ears And None On My Fingers": {
+        "artists": "Fall Out Boy",
+        "energy": 92.2,
+        "length": 247,
+        "name": "I've Got All This Ringing In My Ears And None On My Fingers",
+        "pop": 50,
+        "valence": 40.0
+    },
+    "If It Means a Lot to You": {
+        "artists": "A Day To Remember",
+        "energy": 53.6,
+        "length": 243,
+        "name": "If It Means a Lot to You",
+        "pop": 0,
+        "valence": 44.0
+    },
+    "In Circles": {
+        "artists": "Sunny Day Real Estate",
+        "energy": 82.9,
+        "length": 298,
+        "name": "In Circles",
+        "pop": 0,
+        "valence": 36.0
+    },
+    "Iris": {
+        "artists": "The Goo Goo Dolls",
+        "energy": 79.0,
+        "length": 290,
+        "name": "Iris",
+        "pop": 76,
+        "valence": 51.3
+    },
+    "Jamie All Over": {
+        "artists": "Mayday Parade",
+        "energy": 87.1,
+        "length": 216,
+        "name": "Jamie All Over",
+        "pop": 0,
+        "valence": 40.7
+    },
+    "Jar of Hearts": {
+        "artists": "Christina Perri",
+        "energy": 34.8,
+        "length": 247,
+        "name": "Jar of Hearts",
+        "pop": 75,
+        "valence": 8.86
+    },
+    "Jesus of Suburbia": {
+        "artists": "Green Day",
+        "energy": 92.9,
+        "length": 548,
+        "name": "Jesus of Suburbia",
+        "pop": 68,
+        "valence": 59.0
+    },
+    "Just One Yesterday": {
+        "artists": "Fall Out Boy",
+        "energy": 90.7,
+        "length": 245,
+        "name": "Just One Yesterday",
+        "pop": 54,
+        "valence": 58.7
+    },
+    "King for a Day (feat. Kellin Quinn)": {
+        "artists": "Pierce The Veil",
+        "energy": 96.3,
+        "length": 236,
+        "name": "King for a Day (feat. Kellin Quinn)",
+        "pop": 0,
+        "valence": 45.5
+    },
+    "Lady In A Blue Dress": {
+        "artists": "Senses Fail",
+        "energy": 79.9,
+        "length": 198,
+        "name": "Lady In A Blue Dress",
+        "pop": 0,
+        "valence": 62.3
+    },
+    "Life On Standby": {
+        "artists": "Hawthorne Heights",
+        "energy": 73.4,
+        "length": 251,
+        "name": "Life On Standby",
+        "pop": 0,
+        "valence": 32.6
+    },
+    "Logan to Government Center": {
+        "artists": "Brand New",
+        "energy": 83.5,
+        "length": 183,
+        "name": "Logan to Government Center",
+        "pop": 0,
+        "valence": 47.7
+    },
+    "Love Drunk": {
+        "artists": "BOYS LIKE GIRLS",
+        "energy": 97.6,
+        "length": 227,
+        "name": "Love Drunk",
+        "pop": 66,
+        "valence": 41.2
+    },
+    "MakeDamnSure": {
+        "artists": "Taking Back Sunday",
+        "energy": 83.7,
+        "length": 208,
+        "name": "MakeDamnSure",
+        "pop": 0,
+        "valence": 43.2
+    },
+    "May These Noises Startle You in Your Sleep Tonight": {
+        "artists": "Pierce The Veil",
+        "energy": 74.5,
+        "length": 82,
+        "name": "May These Noises Startle You in Your Sleep Tonight",
+        "pop": 0,
+        "valence": 18.7
+    },
+    "Memories": {
+        "artists": "Panic! At The Disco",
+        "energy": 95.8,
+        "length": 206,
+        "name": "Memories",
+        "pop": 53,
+        "valence": 42.7
+    },
+    "Misery Business - Acoustic Version": {
+        "artists": "Paramore",
+        "energy": 51.1,
+        "length": 194,
+        "name": "Misery Business - Acoustic Version",
+        "pop": 49,
+        "valence": 92.0
+    },
+    "Miss Jackson (feat. LOLO)": {
+        "artists": "Panic! At The Disco",
+        "energy": 87.3,
+        "length": 192,
+        "name": "Miss Jackson (feat. LOLO)",
+        "pop": 66,
+        "valence": 66.2
+    },
+    "My Heart": {
+        "artists": "Paramore",
+        "energy": 79.8,
+        "length": 239,
+        "name": "My Heart",
+        "pop": 61,
+        "valence": 35.7
+    },
+    "Nails for Breakfast, Tacks for Snacks": {
+        "artists": "Panic! At The Disco",
+        "energy": 94.6,
+        "length": 204,
+        "name": "Nails for Breakfast, Tacks for Snacks",
+        "pop": 52,
+        "valence": 62.1
+    },
+    "Never Meant": {
+        "artists": "American Football",
+        "energy": 81.9,
+        "length": 268,
+        "name": "Never Meant",
+        "pop": 2,
+        "valence": 40.5
+    },
+    "Never Too Late": {
+        "artists": "Three Days Grace",
+        "energy": 77.8,
+        "length": 209,
+        "name": "Never Too Late",
+        "pop": 73,
+        "valence": 21.7
+    },
+    "Not The American Average": {
+        "artists": "Asking Alexandria",
+        "energy": 89.2,
+        "length": 279,
+        "name": "Not The American Average",
+        "pop": 2,
+        "valence": 6.85
+    },
+    "Note To Self": {
+        "artists": "From First To Last",
+        "energy": 89.4,
+        "length": 240,
+        "name": "Note To Self",
+        "pop": 0,
+        "valence": 24.6
+    },
+    "Numb": {
+        "artists": "Linkin Park",
+        "energy": 86.3,
+        "length": 186,
+        "name": "Numb",
+        "pop": 88,
+        "valence": 24.3
+    },
+    "Pain": {
+        "artists": "Jimmy Eat World",
+        "energy": 96.1,
+        "length": 181,
+        "name": "Pain",
+        "pop": 0,
+        "valence": 27.0
+    },
+    "Paperthin Hymn": {
+        "artists": "Anberlin",
+        "energy": 59.7,
+        "length": 197,
+        "name": "Paperthin Hymn",
+        "pop": 55,
+        "valence": 53.6
+    },
+    "Perfect Lines": {
+        "artists": "The Promise Ring",
+        "energy": 93.9,
+        "length": 147,
+        "name": "Perfect Lines",
+        "pop": 0,
+        "valence": 82.2
+    },
+    "Pieces Mended": {
+        "artists": "The Used",
+        "energy": 0.02,
+        "length": 660,
+        "name": "Pieces Mended",
+        "pop": 40,
+        "valence": 11.4
+    },
+    "Prayer Of The Refugee": {
+        "artists": "Rise Against",
+        "energy": 97.1,
+        "length": 196,
+        "name": "Prayer Of The Refugee",
+        "pop": 0,
+        "valence": 45.6
+    },
+    "Props & Mayhem": {
+        "artists": "Pierce The Veil",
+        "energy": 93.4,
+        "length": 218,
+        "name": "Props & Mayhem",
+        "pop": 0,
+        "valence": 36.1
+    },
+    "Psychosocial": {
+        "artists": "Slipknot",
+        "energy": 98.9,
+        "length": 283,
+        "name": "Psychosocial",
+        "pop": 44,
+        "valence": 35.2
+    },
+    "Rapid Hope Loss": {
+        "artists": "Dashboard Confessional",
+        "energy": 76.4,
+        "length": 220,
+        "name": "Rapid Hope Loss",
+        "pop": 0,
+        "valence": 51.5
+    },
+    "Rebel Love Song": {
+        "artists": "Black Veil Brides",
+        "energy": 97.8,
+        "length": 237,
+        "name": "Rebel Love Song",
+        "pop": 0,
+        "valence": 48.5
+    },
+    "Riot": {
+        "artists": "Three Days Grace",
+        "energy": 94.8,
+        "length": 208,
+        "name": "Riot",
+        "pop": 73,
+        "valence": 31.6
+    },
+    "Ruthless": {
+        "artists": "Something Corporate",
+        "energy": 63.7,
+        "length": 207,
+        "name": "Ruthless",
+        "pop": 0,
+        "valence": 32.4
+    },
+    "Scars": {
+        "artists": "Papa Roach",
+        "energy": 92.0,
+        "length": 208,
+        "name": "Scars",
+        "pop": 49,
+        "valence": 45.3
+    },
+    "Scene One - James Dean & Audrey Hepburn": {
+        "artists": "Sleeping With Sirens",
+        "energy": 57.9,
+        "length": 256,
+        "name": "Scene One - James Dean & Audrey Hepburn",
+        "pop": 59,
+        "valence": 56.9
+    },
+    "Scream Aim Fire": {
+        "artists": "Bullet For My Valentine",
+        "energy": 99.4,
+        "length": 266,
+        "name": "Scream Aim Fire",
+        "pop": 53,
+        "valence": 16.0
+    },
+    "Seven Years": {
+        "artists": "Saosin",
+        "energy": 94.1,
+        "length": 193,
+        "name": "Seven Years",
+        "pop": 59,
+        "valence": 22.3
+    },
+    "She Paints Me Blue": {
+        "artists": "Something Corporate",
+        "energy": 72.5,
+        "length": 219,
+        "name": "She Paints Me Blue",
+        "pop": 0,
+        "valence": 28.3
+    },
+    "Sleep": {
+        "artists": "My Chemical Romance",
+        "energy": 95.2,
+        "length": 283,
+        "name": "Sleep",
+        "pop": 60,
+        "valence": 15.2
+    },
+    "Stained Glass Eyes and Colorful Tears": {
+        "artists": "Pierce The Veil",
+        "energy": 97.1,
+        "length": 219,
+        "name": "Stained Glass Eyes and Colorful Tears",
+        "pop": 0,
+        "valence": 32.2
+    },
+    "Standard Lines": {
+        "artists": "Dashboard Confessional",
+        "energy": 26.3,
+        "length": 147,
+        "name": "Standard Lines",
+        "pop": 0,
+        "valence": 32.3
+    },
+    "Swing Life Away": {
+        "artists": "Rise Against",
+        "energy": 42.6,
+        "length": 200,
+        "name": "Swing Life Away",
+        "pop": 61,
+        "valence": 78.9
+    },
+    "Through Glass": {
+        "artists": "Stone Sour",
+        "energy": 75.3,
+        "length": 283,
+        "name": "Through Glass",
+        "pop": 52,
+        "valence": 43.4
+    },
+    "Until the Day I Die": {
+        "artists": "Story Of The Year",
+        "energy": 93.1,
+        "length": 235,
+        "name": "Until the Day I Die",
+        "pop": 36,
+        "valence": 53.4
+    },
+    "Untitled": {
+        "artists": "Brand New",
+        "energy": 35.2,
+        "length": 124,
+        "name": "Untitled",
+        "pop": 18,
+        "valence": 36.9
+    },
+    "Welcome To Bangkok": {
+        "artists": "Brand New",
+        "energy": 45.7,
+        "length": 186,
+        "name": "Welcome To Bangkok",
+        "pop": 19,
+        "valence": 19.6
+    },
+    "What's It Feel Like to Be a Ghost?": {
+        "artists": "Taking Back Sunday",
+        "energy": 87.5,
+        "length": 228,
+        "name": "What's It Feel Like to Be a Ghost?",
+        "pop": 0,
+        "valence": 62.9
+    },
+    "Where the Lines Overlap": {
+        "artists": "Paramore",
+        "energy": 96.8,
+        "length": 199,
+        "name": "Where the Lines Overlap",
+        "pop": 52,
+        "valence": 62.9
+    },
+    "With Me": {
+        "artists": "Sum 41",
+        "energy": 85.2,
+        "length": 291,
+        "name": "With Me",
+        "pop": 0,
+        "valence": 10.9
+    },
+    "You Are So Beautiful": {
+        "artists": "Escape the Fate",
+        "energy": 89.1,
+        "length": 168,
+        "name": "You Are So Beautiful",
+        "pop": 0,
+        "valence": 59.3
+    },
+    "You Know How I Do": {
+        "artists": "Taking Back Sunday",
+        "energy": 85.3,
+        "length": 201,
+        "name": "You Know How I Do",
+        "pop": 0,
+        "valence": 30.8
+    },
+    "Young Volcanoes": {
+        "artists": "Fall Out Boy",
+        "energy": 85.3,
+        "length": 205,
+        "name": "Young Volcanoes",
+        "pop": 59,
+        "valence": 67.6
+    },
+    "Your Love Is a Lie": {
+        "artists": "Simple Plan",
+        "energy": 87.0,
+        "length": 222,
+        "name": "Your Love Is a Lie",
+        "pop": 58,
+        "valence": 55.2
+    }
+}

@@ -1,0 +1,802 @@
+{
+    "5": {
+        "artists": "Daniel Tosh",
+        "energy": 96.0,
+        "length": 335,
+        "name": "5",
+        "pop": 0,
+        "valence": 23.6
+    },
+    "A Present for Mr. Phyllis": {
+        "artists": "Joan Rivers",
+        "energy": 48.7,
+        "length": 272,
+        "name": "A Present for Mr. Phyllis",
+        "pop": 0,
+        "valence": 78.4
+    },
+    "A Question Of The Heart": {
+        "artists": "Big Jay Oakerson",
+        "energy": 84.8,
+        "length": 159,
+        "name": "A Question Of The Heart",
+        "pop": 0,
+        "valence": 38.5
+    },
+    "American Culture": {
+        "artists": "Russell Peters",
+        "energy": 46.3,
+        "length": 136,
+        "name": "American Culture",
+        "pop": 0,
+        "valence": 55.0
+    },
+    "American Wedding": {
+        "artists": "Craig Ferguson",
+        "energy": 82.8,
+        "length": 166,
+        "name": "American Wedding",
+        "pop": 0,
+        "valence": 14.8
+    },
+    "Austin Powers Saying Yeah, Baby!": {
+        "artists": "David Cross",
+        "energy": 54.9,
+        "length": 670,
+        "name": "Austin Powers Saying Yeah, Baby!",
+        "pop": 0,
+        "valence": 49.2
+    },
+    "Being Single Again": {
+        "artists": "Louis C.K.",
+        "energy": 97.3,
+        "length": 427,
+        "name": "Being Single Again",
+        "pop": 0,
+        "valence": 20.5
+    },
+    "Biting A Puppy": {
+        "artists": "Todd Glass",
+        "energy": 80.0,
+        "length": 227,
+        "name": "Biting A Puppy",
+        "pop": 0,
+        "valence": 73.8
+    },
+    "Booze is Magic": {
+        "artists": "Nick Swardson",
+        "energy": 88.2,
+        "length": 141,
+        "name": "Booze is Magic",
+        "pop": 0,
+        "valence": 10.8
+    },
+    "Boxin'": {
+        "artists": "Martin Lawrence",
+        "energy": 60.0,
+        "length": 393,
+        "name": "Boxin'",
+        "pop": 0,
+        "valence": 45.2
+    },
+    "Cab Drivers - Live (1998 Broadhurst Theatre)": {
+        "artists": "Jerry Seinfeld",
+        "energy": 94.8,
+        "length": 158,
+        "name": "Cab Drivers - Live (1998 Broadhurst Theatre)",
+        "pop": 0,
+        "valence": 20.6
+    },
+    "Canis Ridiculum": {
+        "artists": "Christian Finnegan",
+        "energy": 71.5,
+        "length": 235,
+        "name": "Canis Ridiculum",
+        "pop": 0,
+        "valence": 33.3
+    },
+    "Cats On The Internet": {
+        "artists": "Wyatt Cenac",
+        "energy": 93.6,
+        "length": 490,
+        "name": "Cats On The Internet",
+        "pop": 0,
+        "valence": 23.8
+    },
+    "Cocktail Shrimp Ruined Forever": {
+        "artists": "Andrew Orvedahl",
+        "energy": 72.3,
+        "length": 302,
+        "name": "Cocktail Shrimp Ruined Forever",
+        "pop": 0,
+        "valence": 54.5
+    },
+    "Comedy is a weird job - Live": {
+        "artists": "Hannibal Buress",
+        "energy": 84.9,
+        "length": 168,
+        "name": "Comedy is a weird job - Live",
+        "pop": 0,
+        "valence": 36.2
+    },
+    "Community College": {
+        "artists": "Darryl Lenox",
+        "energy": 71.2,
+        "length": 265,
+        "name": "Community College",
+        "pop": 0,
+        "valence": 74.1
+    },
+    "Cow Kissing": {
+        "artists": "Matt Kirshen",
+        "energy": 87.9,
+        "length": 125,
+        "name": "Cow Kissing",
+        "pop": 28,
+        "valence": 51.0
+    },
+    "Crappy Jobs & Bingo": {
+        "artists": "Dana Gould",
+        "energy": 42.2,
+        "length": 126,
+        "name": "Crappy Jobs & Bingo",
+        "pop": 40,
+        "valence": 60.5
+    },
+    "Crying in Public": {
+        "artists": "Ophira Eisenberg",
+        "energy": 45.6,
+        "length": 93,
+        "name": "Crying in Public",
+        "pop": 0,
+        "valence": 54.8
+    },
+    "Dad Can't, Probably": {
+        "artists": "Chad Daniels",
+        "energy": 74.2,
+        "length": 217,
+        "name": "Dad Can't, Probably",
+        "pop": 32,
+        "valence": 66.8
+    },
+    "Dogs Are Racist?": {
+        "artists": "Wyatt Cenac",
+        "energy": 89.3,
+        "length": 633,
+        "name": "Dogs Are Racist?",
+        "pop": 0,
+        "valence": 28.0
+    },
+    "Don't Tell Anyone": {
+        "artists": "Mike Birbiglia",
+        "energy": 83.2,
+        "length": 392,
+        "name": "Don't Tell Anyone",
+        "pop": 0,
+        "valence": 56.0
+    },
+    "Donuts": {
+        "artists": "Jim Gaffigan",
+        "energy": 98.9,
+        "length": 164,
+        "name": "Donuts",
+        "pop": 0,
+        "valence": 19.1
+    },
+    "Door Deal": {
+        "artists": "Mitch Hedberg",
+        "energy": 94.0,
+        "length": 149,
+        "name": "Door Deal",
+        "pop": 0,
+        "valence": 10.1
+    },
+    "Drive": {
+        "artists": "Rory Scovel",
+        "energy": 63.1,
+        "length": 333,
+        "name": "Drive",
+        "pop": 30,
+        "valence": 58.3
+    },
+    "Dumb Thoughts": {
+        "artists": "Louis C.K.",
+        "energy": 95.8,
+        "length": 502,
+        "name": "Dumb Thoughts",
+        "pop": 0,
+        "valence": 19.9
+    },
+    "Environmentalists": {
+        "artists": "Dennis Miller",
+        "energy": 88.5,
+        "length": 395,
+        "name": "Environmentalists",
+        "pop": 0,
+        "valence": 27.7
+    },
+    "Episode 5 \"Font Jokes\"": {
+        "artists": "T.J. Miller",
+        "energy": 72.6,
+        "length": 250,
+        "name": "Episode 5 \"Font Jokes\"",
+        "pop": 0,
+        "valence": 62.6
+    },
+    "Funny Lumberjack": {
+        "artists": "Morgan Murphy",
+        "energy": 77.3,
+        "length": 300,
+        "name": "Funny Lumberjack",
+        "pop": 0,
+        "valence": 73.8
+    },
+    "Generic Food - GH Version": {
+        "artists": "Chris Rock",
+        "energy": 86.8,
+        "length": 135,
+        "name": "Generic Food - GH Version",
+        "pop": 0,
+        "valence": 14.3
+    },
+    "Getting into Shape": {
+        "artists": "John Pinette",
+        "energy": 84.7,
+        "length": 339,
+        "name": "Getting into Shape",
+        "pop": 0,
+        "valence": 6.49
+    },
+    "Girl's Night": {
+        "artists": "Iliza Shlesinger",
+        "energy": 91.8,
+        "length": 329,
+        "name": "Girl's Night",
+        "pop": 0,
+        "valence": 34.5
+    },
+    "Googlephonics": {
+        "artists": "Steve Martin",
+        "energy": 72.6,
+        "length": 186,
+        "name": "Googlephonics",
+        "pop": 0,
+        "valence": 13.8
+    },
+    "Grindr": {
+        "artists": "Sandra Bernhard",
+        "energy": 66.5,
+        "length": 469,
+        "name": "Grindr",
+        "pop": 10,
+        "valence": 36.7
+    },
+    "High at Work": {
+        "artists": "Doug Benson",
+        "energy": 80.1,
+        "length": 175,
+        "name": "High at Work",
+        "pop": 0,
+        "valence": 25.0
+    },
+    "Hobby": {
+        "artists": "Tom Segura",
+        "energy": 60.7,
+        "length": 151,
+        "name": "Hobby",
+        "pop": 0,
+        "valence": 27.5
+    },
+    "Hooked On Phonix - Live": {
+        "artists": "Brian Regan",
+        "energy": 54.3,
+        "length": 94,
+        "name": "Hooked On Phonix - Live",
+        "pop": 40,
+        "valence": 35.1
+    },
+    "Hot Travel Tips": {
+        "artists": "Todd Barry",
+        "energy": 88.2,
+        "length": 139,
+        "name": "Hot Travel Tips",
+        "pop": 0,
+        "valence": 32.1
+    },
+    "I Didn't Come From a Monkey, I Came From Jesus/Evolution": {
+        "artists": "Joe Rogan",
+        "energy": 92.9,
+        "length": 105,
+        "name": "I Didn't Come From a Monkey, I Came From Jesus/Evolution",
+        "pop": 0,
+        "valence": 49.5
+    },
+    "I Hate Hoarders": {
+        "artists": "Jim Norton",
+        "energy": 95.6,
+        "length": 238,
+        "name": "I Hate Hoarders",
+        "pop": 0,
+        "valence": 29.5
+    },
+    "I Miss Michael Jackson": {
+        "artists": "Lisa Lampanelli",
+        "energy": 70.7,
+        "length": 233,
+        "name": "I Miss Michael Jackson",
+        "pop": 0,
+        "valence": 41.6
+    },
+    "I'm Not a Sexy Person": {
+        "artists": "Whitney Cummings",
+        "energy": 85.5,
+        "length": 252,
+        "name": "I'm Not a Sexy Person",
+        "pop": 0,
+        "valence": 48.2
+    },
+    "Ireland": {
+        "artists": "Jesse Joyce",
+        "energy": 53.4,
+        "length": 242,
+        "name": "Ireland",
+        "pop": 22,
+        "valence": 66.9
+    },
+    "It's A Prison Workout": {
+        "artists": "Iliza Shlesinger",
+        "energy": 93.5,
+        "length": 249,
+        "name": "It's A Prison Workout",
+        "pop": 0,
+        "valence": 29.6
+    },
+    "King of the Night Time World": {
+        "artists": "Kyle Kinane",
+        "energy": 94.4,
+        "length": 332,
+        "name": "King of the Night Time World",
+        "pop": 0,
+        "valence": 24.0
+    },
+    "Love": {
+        "artists": "Whitney Cummings",
+        "energy": 95.3,
+        "length": 167,
+        "name": "Love",
+        "pop": 0,
+        "valence": 13.2
+    },
+    "MTV Cribs": {
+        "artists": "Bill Burr",
+        "energy": 95.8,
+        "length": 178,
+        "name": "MTV Cribs",
+        "pop": 0,
+        "valence": 64.5
+    },
+    "Meatloaf": {
+        "artists": "Cameron Esposito",
+        "energy": 47.3,
+        "length": 130,
+        "name": "Meatloaf",
+        "pop": 14,
+        "valence": 62.0
+    },
+    "Mothers Club": {
+        "artists": "George Carlin",
+        "energy": 55.6,
+        "length": 280,
+        "name": "Mothers Club",
+        "pop": 0,
+        "valence": 68.2
+    },
+    "Movie Previews": {
+        "artists": "Pablo Francisco",
+        "energy": 68.2,
+        "length": 220,
+        "name": "Movie Previews",
+        "pop": 40,
+        "valence": 28.5
+    },
+    "Moving to Canada": {
+        "artists": "Hari Kondabolu",
+        "energy": 62.0,
+        "length": 148,
+        "name": "Moving to Canada",
+        "pop": 0,
+        "valence": 69.1
+    },
+    "Mushrooms, Vegan": {
+        "artists": "Shane Mauss",
+        "energy": 94.9,
+        "length": 253,
+        "name": "Mushrooms, Vegan",
+        "pop": 0,
+        "valence": 15.5
+    },
+    "My Back Hurts": {
+        "artists": "Michael Kosta",
+        "energy": 94.8,
+        "length": 186,
+        "name": "My Back Hurts",
+        "pop": 0,
+        "valence": 28.5
+    },
+    "My Biggest Fear": {
+        "artists": "Kevin Hart",
+        "energy": 96.3,
+        "length": 201,
+        "name": "My Biggest Fear",
+        "pop": 0,
+        "valence": 16.6
+    },
+    "My Name": {
+        "artists": "Anjelah Johnson",
+        "energy": 90.4,
+        "length": 151,
+        "name": "My Name",
+        "pop": 0,
+        "valence": 5.0
+    },
+    "My Niece": {
+        "artists": "Steve Harvey",
+        "energy": 82.3,
+        "length": 713,
+        "name": "My Niece",
+        "pop": 0,
+        "valence": 24.0
+    },
+    "My Sister": {
+        "artists": "Maria Bamford",
+        "energy": 68.1,
+        "length": 139,
+        "name": "My Sister",
+        "pop": 0,
+        "valence": 71.5
+    },
+    "No Dogs Allowed": {
+        "artists": "Ron White",
+        "energy": 67.3,
+        "length": 69,
+        "name": "No Dogs Allowed",
+        "pop": 0,
+        "valence": 33.7
+    },
+    "Olympics - GH Version": {
+        "artists": "Chris Rock",
+        "energy": 80.3,
+        "length": 148,
+        "name": "Olympics - GH Version",
+        "pop": 0,
+        "valence": 37.8
+    },
+    "Open Relationships and Tigers": {
+        "artists": "Myq Kaplan",
+        "energy": 74.9,
+        "length": 208,
+        "name": "Open Relationships and Tigers",
+        "pop": 0,
+        "valence": 60.9
+    },
+    "Open Water": {
+        "artists": "Ralphie May",
+        "energy": 66.3,
+        "length": 362,
+        "name": "Open Water",
+        "pop": 0,
+        "valence": 24.8
+    },
+    "Oprah's Favorite Things": {
+        "artists": "Kathy Griffin",
+        "energy": 65.4,
+        "length": 380,
+        "name": "Oprah's Favorite Things",
+        "pop": 0,
+        "valence": 41.8
+    },
+    "Over 40 and Dating": {
+        "artists": "Maria Bamford",
+        "energy": 82.5,
+        "length": 140,
+        "name": "Over 40 and Dating",
+        "pop": 0,
+        "valence": 34.7
+    },
+    "People Watching": {
+        "artists": "Demetri Martin",
+        "energy": 95.2,
+        "length": 332,
+        "name": "People Watching",
+        "pop": 0,
+        "valence": 31.2
+    },
+    "Phone Call From A Cranky Terrorist": {
+        "artists": "David Cross",
+        "energy": 61.1,
+        "length": 301,
+        "name": "Phone Call From A Cranky Terrorist",
+        "pop": 0,
+        "valence": 57.4
+    },
+    "Pissed Off": {
+        "artists": "Dane Cook",
+        "energy": 96.0,
+        "length": 109,
+        "name": "Pissed Off",
+        "pop": 0,
+        "valence": 59.4
+    },
+    "Popular Phrases": {
+        "artists": "Tig Notaro",
+        "energy": 71.6,
+        "length": 63,
+        "name": "Popular Phrases",
+        "pop": 0,
+        "valence": 44.0
+    },
+    "Pugs n' Nuts": {
+        "artists": "Comedian Bob Marley",
+        "energy": 39.8,
+        "length": 119,
+        "name": "Pugs n' Nuts",
+        "pop": 18,
+        "valence": 62.6
+    },
+    "Q&A: Advice for the Audience": {
+        "artists": "Eugene Mirman",
+        "energy": 95.4,
+        "length": 387,
+        "name": "Q&A: Advice for the Audience",
+        "pop": 0,
+        "valence": 19.5
+    },
+    "Romance": {
+        "artists": "Anthony Jeselnik",
+        "energy": 84.8,
+        "length": 170,
+        "name": "Romance",
+        "pop": 0,
+        "valence": 25.4
+    },
+    "Sandwiches": {
+        "artists": "Mitch Hedberg",
+        "energy": 93.8,
+        "length": 139,
+        "name": "Sandwiches",
+        "pop": 0,
+        "valence": 14.5
+    },
+    "Seafood": {
+        "artists": "Jim Gaffigan",
+        "energy": 98.5,
+        "length": 338,
+        "name": "Seafood",
+        "pop": 0,
+        "valence": 20.8
+    },
+    "Stonehenge": {
+        "artists": "Eddie Izzard",
+        "energy": 32.7,
+        "length": 358,
+        "name": "Stonehenge",
+        "pop": 0,
+        "valence": 27.7
+    },
+    "Swedes": {
+        "artists": "Amy Schumer",
+        "energy": 95.1,
+        "length": 187,
+        "name": "Swedes",
+        "pop": 0,
+        "valence": 35.1
+    },
+    "T.V. And Its Side Effects": {
+        "artists": "Jeff Foxworthy",
+        "energy": 53.3,
+        "length": 589,
+        "name": "T.V. And Its Side Effects",
+        "pop": 0,
+        "valence": 20.4
+    },
+    "THREE": {
+        "artists": "Daniel Tosh",
+        "energy": 94.5,
+        "length": 369,
+        "name": "THREE",
+        "pop": 0,
+        "valence": 34.6
+    },
+    "TWO": {
+        "artists": "Daniel Tosh",
+        "energy": 98.1,
+        "length": 356,
+        "name": "TWO",
+        "pop": 0,
+        "valence": 17.3
+    },
+    "Technology - Explicit Audio": {
+        "artists": "Robin Williams",
+        "energy": 94.9,
+        "length": 480,
+        "name": "Technology - Explicit Audio",
+        "pop": 0,
+        "valence": 16.3
+    },
+    "Telemarketers": {
+        "artists": "Pete Holmes",
+        "energy": 96.5,
+        "length": 251,
+        "name": "Telemarketers",
+        "pop": 0,
+        "valence": 28.9
+    },
+    "That's Embarrassing / Home Depot": {
+        "artists": "Larry The Cable Guy",
+        "energy": 70.3,
+        "length": 338,
+        "name": "That's Embarrassing / Home Depot",
+        "pop": 0,
+        "valence": 20.1
+    },
+    "That's What I Do (skit)": {
+        "artists": "Sarah Silverman",
+        "energy": 73.4,
+        "length": 312,
+        "name": "That's What I Do (skit)",
+        "pop": 0,
+        "valence": 37.3
+    },
+    "The Donkey On Full House": {
+        "artists": "Bob Saget",
+        "energy": 94.5,
+        "length": 193,
+        "name": "The Donkey On Full House",
+        "pop": 0,
+        "valence": 57.5
+    },
+    "The Excited Southerner at a Job Interview": {
+        "artists": "Adam Sandler",
+        "energy": 38.9,
+        "length": 71,
+        "name": "The Excited Southerner at a Job Interview",
+        "pop": 0,
+        "valence": 84.7
+    },
+    "The Hierarchy Of Cookies": {
+        "artists": "Gary Gulman",
+        "energy": 87.8,
+        "length": 802,
+        "name": "The Hierarchy Of Cookies",
+        "pop": 0,
+        "valence": 49.3
+    },
+    "The Ketchup Story": {
+        "artists": "Matt Kirshen",
+        "energy": 83.7,
+        "length": 341,
+        "name": "The Ketchup Story",
+        "pop": 22,
+        "valence": 59.5
+    },
+    "The Parking Ticket": {
+        "artists": "Patton Oswalt",
+        "energy": 94.4,
+        "length": 221,
+        "name": "The Parking Ticket",
+        "pop": 0,
+        "valence": 35.4
+    },
+    "The female brain": {
+        "artists": "Whitney Cummings",
+        "energy": 95.6,
+        "length": 136,
+        "name": "The female brain",
+        "pop": 0,
+        "valence": 31.8
+    },
+    "This Woman I Met": {
+        "artists": "Steven Wright",
+        "energy": 99.5,
+        "length": 246,
+        "name": "This Woman I Met",
+        "pop": 0,
+        "valence": 3.03
+    },
+    "Tom Brady": {
+        "artists": "Artie Lange",
+        "energy": 96.4,
+        "length": 234,
+        "name": "Tom Brady",
+        "pop": 0,
+        "valence": 14.6
+    },
+    "Travel": {
+        "artists": "Dave Attell",
+        "energy": 71.0,
+        "length": 116,
+        "name": "Travel",
+        "pop": 0,
+        "valence": 38.7
+    },
+    "Trick Or Treating": {
+        "artists": "George Lopez",
+        "energy": 98.2,
+        "length": 222,
+        "name": "Trick Or Treating",
+        "pop": 0,
+        "valence": 3.54
+    },
+    "Valentine's Day": {
+        "artists": "Lewis Black",
+        "energy": 81.2,
+        "length": 294,
+        "name": "Valentine's Day",
+        "pop": 0,
+        "valence": 4.01
+    },
+    "Vinyl Midlife Crisis": {
+        "artists": "Marc Maron",
+        "energy": 66.4,
+        "length": 165,
+        "name": "Vinyl Midlife Crisis",
+        "pop": 0,
+        "valence": 57.7
+    },
+    "Visiting Scotland": {
+        "artists": "Billy Connolly",
+        "energy": 65.1,
+        "length": 74,
+        "name": "Visiting Scotland",
+        "pop": 0,
+        "valence": 3.95
+    },
+    "Walking With Dinosaurs": {
+        "artists": "Aziz Ansari",
+        "energy": 60.1,
+        "length": 82,
+        "name": "Walking With Dinosaurs",
+        "pop": 0,
+        "valence": 74.9
+    },
+    "Weddings": {
+        "artists": "Jim Gaffigan",
+        "energy": 98.1,
+        "length": 391,
+        "name": "Weddings",
+        "pop": 0,
+        "valence": 23.4
+    },
+    "Woman Who Doesn't Sleep with Men": {
+        "artists": "Cameron Esposito",
+        "energy": 53.5,
+        "length": 224,
+        "name": "Woman Who Doesn't Sleep with Men",
+        "pop": 0,
+        "valence": 28.9
+    },
+    "Women": {
+        "artists": "Brandon Wardell",
+        "energy": 34.6,
+        "length": 135,
+        "name": "Women",
+        "pop": 0,
+        "valence": 50.3
+    },
+    "Women's Movement": {
+        "artists": "Natasha Leggero",
+        "energy": 82.3,
+        "length": 172,
+        "name": "Women's Movement",
+        "pop": 0,
+        "valence": 47.4
+    },
+    "World Tour": {
+        "artists": "Gabriel Iglesias",
+        "energy": 91.3,
+        "length": 403,
+        "name": "World Tour",
+        "pop": 0,
+        "valence": 34.4
+    }
+}

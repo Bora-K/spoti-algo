@@ -1,0 +1,802 @@
+{
+    "A DJ Deep Inside - Shadow Child Vocal": {
+        "artists": "Dino Lenny",
+        "energy": 61.7,
+        "length": 403,
+        "name": "A DJ Deep Inside - Shadow Child Vocal",
+        "pop": 0,
+        "valence": 16.6
+    },
+    "Africa": {
+        "artists": "Matt Watkins",
+        "energy": 95.5,
+        "length": 240,
+        "name": "Africa",
+        "pop": 18,
+        "valence": 57.5
+    },
+    "Afterglow - Dyro Remix": {
+        "artists": "Wilkinson",
+        "energy": 94.9,
+        "length": 283,
+        "name": "Afterglow - Dyro Remix",
+        "pop": 0,
+        "valence": 3.26
+    },
+    "Alone With You": {
+        "artists": "deadmau5",
+        "energy": 55.3,
+        "length": 492,
+        "name": "Alone With You",
+        "pop": 22,
+        "valence": 44.3
+    },
+    "Archangel": {
+        "artists": "Burial",
+        "energy": 85.2,
+        "length": 238,
+        "name": "Archangel",
+        "pop": 0,
+        "valence": 51.2
+    },
+    "Are You With Me - Radio Edit": {
+        "artists": "Lost Frequencies",
+        "energy": 57.4,
+        "length": 139,
+        "name": "Are You With Me - Radio Edit",
+        "pop": 26,
+        "valence": 41.2
+    },
+    "Attak": {
+        "artists": "Rustie",
+        "energy": 85.3,
+        "length": 181,
+        "name": "Attak",
+        "pop": 0,
+        "valence": 74.9
+    },
+    "Au Seve": {
+        "artists": "Julio Bashmore",
+        "energy": 96.3,
+        "length": 393,
+        "name": "Au Seve",
+        "pop": 1,
+        "valence": 59.8
+    },
+    "Bax": {
+        "artists": "Mosca",
+        "energy": 73.3,
+        "length": 333,
+        "name": "Bax",
+        "pop": 0,
+        "valence": 80.0
+    },
+    "Beat Organ": {
+        "artists": "16BL",
+        "energy": 71.9,
+        "length": 267,
+        "name": "Beat Organ",
+        "pop": 0,
+        "valence": 66.3
+    },
+    "Beatbox": {
+        "artists": "Jack Beats",
+        "energy": 80.0,
+        "length": 263,
+        "name": "Beatbox",
+        "pop": 30,
+        "valence": 29.4
+    },
+    "Brand New - Radio Edit": {
+        "artists": "Mystique",
+        "energy": 88.0,
+        "length": 166,
+        "name": "Brand New - Radio Edit",
+        "pop": 28,
+        "valence": 37.2
+    },
+    "Break Free": {
+        "artists": "Ariana Grande",
+        "energy": 70.2,
+        "length": 215,
+        "name": "Break Free",
+        "pop": 0,
+        "valence": 28.4
+    },
+    "Break Through The Silence - Radio Edit": {
+        "artists": "Martin Garrix",
+        "energy": 95.0,
+        "length": 205,
+        "name": "Break Through The Silence - Radio Edit",
+        "pop": 0,
+        "valence": 15.3
+    },
+    "Brown Sugar - Original Mix": {
+        "artists": "Platinum Doug",
+        "energy": 79.6,
+        "length": 304,
+        "name": "Brown Sugar - Original Mix",
+        "pop": 26,
+        "valence": 83.5
+    },
+    "Calling (Lose My Mind) - Radio Edit": {
+        "artists": "Sebastian Ingrosso",
+        "energy": 84.9,
+        "length": 205,
+        "name": "Calling (Lose My Mind) - Radio Edit",
+        "pop": 0,
+        "valence": 14.7
+    },
+    "Can You Feel It (Alternate Mix)": {
+        "artists": "Mr. Fingers",
+        "energy": 61.8,
+        "length": 293,
+        "name": "Can You Feel It (Alternate Mix)",
+        "pop": 0,
+        "valence": 80.7
+    },
+    "Can't Stop Playing (Makes Me High) - Oliver Heldens & Gregor Salto Vocal Mix Edit": {
+        "artists": "DR. KUCHO!",
+        "energy": 90.4,
+        "length": 157,
+        "name": "Can't Stop Playing (Makes Me High) - Oliver Heldens & Gregor Salto Vocal Mix Edit",
+        "pop": 0,
+        "valence": 75.0
+    },
+    "Carbonated": {
+        "artists": "Mount Kimbie",
+        "energy": 32.8,
+        "length": 259,
+        "name": "Carbonated",
+        "pop": 47,
+        "valence": 78.5
+    },
+    "Catchfire (Sun Sun Sun) - Edx Radio Edit": {
+        "artists": "Spada",
+        "energy": 77.2,
+        "length": 167,
+        "name": "Catchfire (Sun Sun Sun) - Edx Radio Edit",
+        "pop": 0,
+        "valence": 35.5
+    },
+    "Chasing Ghosts - Radio Edit": {
+        "artists": "Alex Preston",
+        "energy": 79.0,
+        "length": 215,
+        "name": "Chasing Ghosts - Radio Edit",
+        "pop": 10,
+        "valence": 37.5
+    },
+    "Chrystal City": {
+        "artists": "Alan Braxe",
+        "energy": 96.1,
+        "length": 242,
+        "name": "Chrystal City",
+        "pop": 0,
+        "valence": 84.5
+    },
+    "Clarity": {
+        "artists": "Zedd",
+        "energy": 78.1,
+        "length": 271,
+        "name": "Clarity",
+        "pop": 78,
+        "valence": 17.6
+    },
+    "Continuum": {
+        "artists": "Vindata",
+        "energy": 88.1,
+        "length": 174,
+        "name": "Continuum",
+        "pop": 19,
+        "valence": 80.7
+    },
+    "Cry for You": {
+        "artists": "September",
+        "energy": 87.8,
+        "length": 212,
+        "name": "Cry for You",
+        "pop": 21,
+        "valence": 96.0
+    },
+    "Days Go By - Radio Edit": {
+        "artists": "Dirty Vegas",
+        "energy": 64.5,
+        "length": 223,
+        "name": "Days Go By - Radio Edit",
+        "pop": 0,
+        "valence": 59.3
+    },
+    "Deep Down Low - Party Favor Remix": {
+        "artists": "Valentino Khan",
+        "energy": 97.9,
+        "length": 182,
+        "name": "Deep Down Low - Party Favor Remix",
+        "pop": 20,
+        "valence": 59.2
+    },
+    "Deep Inside": {
+        "artists": "Hardrive",
+        "energy": 94.4,
+        "length": 390,
+        "name": "Deep Inside",
+        "pop": 0,
+        "valence": 82.9
+    },
+    "Deep Inside - Low Steppa Remix": {
+        "artists": "Hardrive",
+        "energy": 94.1,
+        "length": 352,
+        "name": "Deep Inside - Low Steppa Remix",
+        "pop": 32,
+        "valence": 68.4
+    },
+    "Define": {
+        "artists": "Dom Dolla",
+        "energy": 80.1,
+        "length": 232,
+        "name": "Define",
+        "pop": 45,
+        "valence": 35.9
+    },
+    "Don't You Worry Child - Charming Horses Remix": {
+        "artists": "Beth",
+        "energy": 81.7,
+        "length": 216,
+        "name": "Don't You Worry Child - Charming Horses Remix",
+        "pop": 23,
+        "valence": 36.2
+    },
+    "Epidemic": {
+        "artists": "Jack Beats",
+        "energy": 95.4,
+        "length": 277,
+        "name": "Epidemic",
+        "pop": 16,
+        "valence": 18.7
+    },
+    "Filter": {
+        "artists": "Jan Driver",
+        "energy": 78.4,
+        "length": 357,
+        "name": "Filter",
+        "pop": 0,
+        "valence": 42.9
+    },
+    "Finally - Radio Edit": {
+        "artists": "Mr. Belt & Wezol",
+        "energy": 77.0,
+        "length": 199,
+        "name": "Finally - Radio Edit",
+        "pop": 0,
+        "valence": 77.2
+    },
+    "GAMMA GAMMA - Brillz Remix": {
+        "artists": "Tritonal",
+        "energy": 98.7,
+        "length": 271,
+        "name": "GAMMA GAMMA - Brillz Remix",
+        "pop": 24,
+        "valence": 26.4
+    },
+    "Ghost": {
+        "artists": "Louis La Roche",
+        "energy": 86.9,
+        "length": 222,
+        "name": "Ghost",
+        "pop": 22,
+        "valence": 59.7
+    },
+    "Ghost - Oliver Nelson Remix": {
+        "artists": "Ella Henderson",
+        "energy": 82.5,
+        "length": 305,
+        "name": "Ghost - Oliver Nelson Remix",
+        "pop": 48,
+        "valence": 67.4
+    },
+    "Head Splitter": {
+        "artists": "Getter",
+        "energy": 87.6,
+        "length": 214,
+        "name": "Head Splitter",
+        "pop": 27,
+        "valence": 47.9
+    },
+    "Headlights (feat. Ilsey)": {
+        "artists": "Robin Schulz",
+        "energy": 68.5,
+        "length": 209,
+        "name": "Headlights (feat. Ilsey)",
+        "pop": 59,
+        "valence": 36.9
+    },
+    "Hollywood feat. Nacho Pop": {
+        "artists": "Wongo",
+        "energy": 77.1,
+        "length": 305,
+        "name": "Hollywood feat. Nacho Pop",
+        "pop": 2,
+        "valence": 70.2
+    },
+    "Hotline Bling": {
+        "artists": "Drake",
+        "energy": 62.3,
+        "length": 267,
+        "name": "Hotline Bling",
+        "pop": 0,
+        "valence": 58.5
+    },
+    "How Long (AC Slater Remix)": {
+        "artists": "Go Freek",
+        "energy": 89.1,
+        "length": 249,
+        "name": "How Long (AC Slater Remix)",
+        "pop": 10,
+        "valence": 80.2
+    },
+    "Hula Hoop": {
+        "artists": "OMI",
+        "energy": 84.0,
+        "length": 206,
+        "name": "Hula Hoop",
+        "pop": 34,
+        "valence": 57.9
+    },
+    "I Can Be Somebody (feat. Erin McCarley)": {
+        "artists": "Deorro",
+        "energy": 48.2,
+        "length": 278,
+        "name": "I Can Be Somebody (feat. Erin McCarley)",
+        "pop": 50,
+        "valence": 23.8
+    },
+    "I Can't Lose (feat. Keyone Starr) - Duke Dumont Remix": {
+        "artists": "Mark Ronson",
+        "energy": 76.9,
+        "length": 261,
+        "name": "I Can't Lose (feat. Keyone Starr) - Duke Dumont Remix",
+        "pop": 32,
+        "valence": 57.4
+    },
+    "I Wanna Feel - Radio Edit": {
+        "artists": "Secondcity",
+        "energy": 89.6,
+        "length": 186,
+        "name": "I Wanna Feel - Radio Edit",
+        "pop": 0,
+        "valence": 80.4
+    },
+    "Icarus": {
+        "artists": "Madeon",
+        "energy": 82.9,
+        "length": 215,
+        "name": "Icarus",
+        "pop": 49,
+        "valence": 14.6
+    },
+    "Imagination": {
+        "artists": "Gorgon City",
+        "energy": 70.6,
+        "length": 218,
+        "name": "Imagination",
+        "pop": 53,
+        "valence": 36.2
+    },
+    "Last Day of Disco": {
+        "artists": "Kiko",
+        "energy": 84.4,
+        "length": 388,
+        "name": "Last Day of Disco",
+        "pop": 0,
+        "valence": 38.1
+    },
+    "Lights": {
+        "artists": "Dan Farber",
+        "energy": 87.2,
+        "length": 229,
+        "name": "Lights",
+        "pop": 25,
+        "valence": 18.9
+    },
+    "Like That": {
+        "artists": "Pantheon",
+        "energy": 69.7,
+        "length": 377,
+        "name": "Like That",
+        "pop": 0,
+        "valence": 42.0
+    },
+    "Love Too Deep - Radio Edit": {
+        "artists": "Ferreck Dawn",
+        "energy": 88.9,
+        "length": 160,
+        "name": "Love Too Deep - Radio Edit",
+        "pop": 43,
+        "valence": 88.0
+    },
+    "Magic - The Jason Nevins Remix": {
+        "artists": "Black Violin",
+        "energy": 83.1,
+        "length": 181,
+        "name": "Magic - The Jason Nevins Remix",
+        "pop": 0,
+        "valence": 49.0
+    },
+    "Make the World Go Round (feat. R. Kelly) - Gigamesh Remix": {
+        "artists": "DJ Cassidy",
+        "energy": 61.6,
+        "length": 335,
+        "name": "Make the World Go Round (feat. R. Kelly) - Gigamesh Remix",
+        "pop": 17,
+        "valence": 86.0
+    },
+    "Maybe": {
+        "artists": "Carmada",
+        "energy": 67.6,
+        "length": 258,
+        "name": "Maybe",
+        "pop": 38,
+        "valence": 36.2
+    },
+    "Midnight Request Line": {
+        "artists": "Skream",
+        "energy": 51.7,
+        "length": 236,
+        "name": "Midnight Request Line",
+        "pop": 0,
+        "valence": 13.4
+    },
+    "Midnight Sun": {
+        "artists": "Kate Boy",
+        "energy": 84.4,
+        "length": 182,
+        "name": "Midnight Sun",
+        "pop": 0,
+        "valence": 67.7
+    },
+    "Move for Me - GTA Remix": {
+        "artists": "Kaskade",
+        "energy": 65.4,
+        "length": 279,
+        "name": "Move for Me - GTA Remix",
+        "pop": 22,
+        "valence": 16.8
+    },
+    "Mr. Saxobeat - Radio Edit": {
+        "artists": "Alexandra Stan",
+        "energy": 92.5,
+        "length": 195,
+        "name": "Mr. Saxobeat - Radio Edit",
+        "pop": 0,
+        "valence": 78.1
+    },
+    "My Love": {
+        "artists": "Route 94",
+        "energy": 60.1,
+        "length": 262,
+        "name": "My Love",
+        "pop": 0,
+        "valence": 72.9
+    },
+    "My Mind": {
+        "artists": "LO'99",
+        "energy": 65.2,
+        "length": 282,
+        "name": "My Mind",
+        "pop": 0,
+        "valence": 32.0
+    },
+    "Myheart (feat. Kimtoo)": {
+        "artists": "Nicon\u00e9",
+        "energy": 62.0,
+        "length": 413,
+        "name": "Myheart (feat. Kimtoo)",
+        "pop": 0,
+        "valence": 43.6
+    },
+    "No One (feat. Thelma Plum)": {
+        "artists": "Golden Features",
+        "energy": 54.9,
+        "length": 295,
+        "name": "No One (feat. Thelma Plum)",
+        "pop": 0,
+        "valence": 25.5
+    },
+    "Nothing Left (feat. Will Heard)": {
+        "artists": "Kygo",
+        "energy": 57.6,
+        "length": 237,
+        "name": "Nothing Left (feat. Will Heard)",
+        "pop": 54,
+        "valence": 34.8
+    },
+    "One Last Night On Earth - Speaker Of The House Remix": {
+        "artists": "Dada Life",
+        "energy": 83.2,
+        "length": 220,
+        "name": "One Last Night On Earth - Speaker Of The House Remix",
+        "pop": 46,
+        "valence": 12.6
+    },
+    "One Touch": {
+        "artists": "Baauer",
+        "energy": 54.7,
+        "length": 215,
+        "name": "One Touch",
+        "pop": 5,
+        "valence": 26.8
+    },
+    "Phoenix": {
+        "artists": "Daft Punk",
+        "energy": 71.9,
+        "length": 297,
+        "name": "Phoenix",
+        "pop": 46,
+        "valence": 56.9
+    },
+    "Rather Be (feat. Jess Glynne)": {
+        "artists": "Clean Bandit",
+        "energy": 58.6,
+        "length": 228,
+        "name": "Rather Be (feat. Jess Glynne)",
+        "pop": 64,
+        "valence": 54.9
+    },
+    "Ready 4 Love": {
+        "artists": "Lifelike",
+        "energy": 97.6,
+        "length": 344,
+        "name": "Ready 4 Love",
+        "pop": 20,
+        "valence": 75.3
+    },
+    "Red Roses (Let Her Go)": {
+        "artists": "Pep & Rash",
+        "energy": 71.2,
+        "length": 174,
+        "name": "Red Roses (Let Her Go)",
+        "pop": 0,
+        "valence": 3.78
+    },
+    "Renegade Mastah - Original Mix": {
+        "artists": "HI-LO",
+        "energy": 89.2,
+        "length": 244,
+        "name": "Renegade Mastah - Original Mix",
+        "pop": 0,
+        "valence": 63.6
+    },
+    "Run Away With Me - Cyril Hahn Remix": {
+        "artists": "Carly Rae Jepsen",
+        "energy": 62.5,
+        "length": 292,
+        "name": "Run Away With Me - Cyril Hahn Remix",
+        "pop": 0,
+        "valence": 13.2
+    },
+    "Runaway (U & I)": {
+        "artists": "Galantis",
+        "energy": 80.5,
+        "length": 227,
+        "name": "Runaway (U & I)",
+        "pop": 78,
+        "valence": 38.3
+    },
+    "Secrets - Future House Extended": {
+        "artists": "Ti\u00ebsto",
+        "energy": 77.4,
+        "length": 201,
+        "name": "Secrets - Future House Extended",
+        "pop": 34,
+        "valence": 29.5
+    },
+    "Seve - Radio Edit": {
+        "artists": "Tez Cadey",
+        "energy": 83.1,
+        "length": 211,
+        "name": "Seve - Radio Edit",
+        "pop": 71,
+        "valence": 44.8
+    },
+    "Shallow Waters": {
+        "artists": "Sonny Alven & Jarand",
+        "energy": 58.8,
+        "length": 238,
+        "name": "Shallow Waters",
+        "pop": 0,
+        "valence": 28.8
+    },
+    "Show Me Love - EDX Remix / Radio Edit": {
+        "artists": "Sam Feldt",
+        "energy": 66.5,
+        "length": 180,
+        "name": "Show Me Love - EDX Remix / Radio Edit",
+        "pop": 61,
+        "valence": 67.7
+    },
+    "Since I Left You": {
+        "artists": "The Avalanches",
+        "energy": 91.6,
+        "length": 261,
+        "name": "Since I Left You",
+        "pop": 0,
+        "valence": 47.8
+    },
+    "Something About You": {
+        "artists": "Hayden James",
+        "energy": 63.8,
+        "length": 223,
+        "name": "Something About You",
+        "pop": 0,
+        "valence": 62.0
+    },
+    "Spectrum": {
+        "artists": "Zedd",
+        "energy": 80.1,
+        "length": 243,
+        "name": "Spectrum",
+        "pop": 63,
+        "valence": 40.7
+    },
+    "Stimulation": {
+        "artists": "Disclosure",
+        "energy": 86.0,
+        "length": 320,
+        "name": "Stimulation",
+        "pop": 36,
+        "valence": 69.5
+    },
+    "Strobe - Radio Edit": {
+        "artists": "deadmau5",
+        "energy": 66.2,
+        "length": 212,
+        "name": "Strobe - Radio Edit",
+        "pop": 0,
+        "valence": 7.12
+    },
+    "Take \u00dc There (feat. Kiesza)": {
+        "artists": "Jack \u00dc",
+        "energy": 87.9,
+        "length": 210,
+        "name": "Take \u00dc There (feat. Kiesza)",
+        "pop": 59,
+        "valence": 11.8
+    },
+    "Tapes & Money": {
+        "artists": "Totally Enormous Extinct Dinosaurs",
+        "energy": 83.8,
+        "length": 220,
+        "name": "Tapes & Money",
+        "pop": 0,
+        "valence": 68.9
+    },
+    "The City": {
+        "artists": "Madeon",
+        "energy": 82.5,
+        "length": 234,
+        "name": "The City",
+        "pop": 50,
+        "valence": 26.4
+    },
+    "The Last Of Us - Alexander Popov Remix": {
+        "artists": "David Gravell",
+        "energy": 94.5,
+        "length": 202,
+        "name": "The Last Of Us - Alexander Popov Remix",
+        "pop": 21,
+        "valence": 20.6
+    },
+    "The Mara - Duke Dumont Edit": {
+        "artists": "Kiwi",
+        "energy": 82.4,
+        "length": 244,
+        "name": "The Mara - Duke Dumont Edit",
+        "pop": 0,
+        "valence": 56.9
+    },
+    "The Veldt (feat. Chris James) - Radio Edit": {
+        "artists": "deadmau5",
+        "energy": 75.9,
+        "length": 170,
+        "name": "The Veldt (feat. Chris James) - Radio Edit",
+        "pop": 0,
+        "valence": 48.5
+    },
+    "Thinking About You (feat. Ayah Marar)": {
+        "artists": "Calvin Harris",
+        "energy": 87.4,
+        "length": 248,
+        "name": "Thinking About You (feat. Ayah Marar)",
+        "pop": 71,
+        "valence": 74.8
+    },
+    "Throne (feat. Candy Borquaye) [Vocal Radio Edit]": {
+        "artists": "WhoKilledMickey",
+        "energy": 95.3,
+        "length": 161,
+        "name": "Throne (feat. Candy Borquaye) [Vocal Radio Edit]",
+        "pop": 0,
+        "valence": 67.7
+    },
+    "Till It Hurts": {
+        "artists": "Yellow Claw",
+        "energy": 88.6,
+        "length": 189,
+        "name": "Till It Hurts",
+        "pop": 0,
+        "valence": 23.0
+    },
+    "Together - Radio Edit": {
+        "artists": "CAZZETTE",
+        "energy": 81.1,
+        "length": 188,
+        "name": "Together - Radio Edit",
+        "pop": 0,
+        "valence": 21.1
+    },
+    "Trap Queen": {
+        "artists": "Fetty Wap",
+        "energy": 87.3,
+        "length": 222,
+        "name": "Trap Queen",
+        "pop": 43,
+        "valence": 81.7
+    },
+    "Voyager": {
+        "artists": "Lookas",
+        "energy": 73.1,
+        "length": 211,
+        "name": "Voyager",
+        "pop": 31,
+        "valence": 74.4
+    },
+    "Where Are \u00dc Now (with Justin Bieber)": {
+        "artists": "Jack \u00dc",
+        "energy": 78.1,
+        "length": 250,
+        "name": "Where Are \u00dc Now (with Justin Bieber)",
+        "pop": 77,
+        "valence": 19.7
+    },
+    "Wish You Were Mine - Radio Edit": {
+        "artists": "Philip George",
+        "energy": 83.0,
+        "length": 178,
+        "name": "Wish You Were Mine - Radio Edit",
+        "pop": 0,
+        "valence": 41.6
+    },
+    "With You - Bronze Whale Remix": {
+        "artists": "Felix Cartal",
+        "energy": 73.5,
+        "length": 241,
+        "name": "With You - Bronze Whale Remix",
+        "pop": 24,
+        "valence": 40.8
+    },
+    "You & Me": {
+        "artists": "Disclosure",
+        "energy": 87.9,
+        "length": 267,
+        "name": "You & Me",
+        "pop": 40,
+        "valence": 66.7
+    },
+    "You & Me - Baauer Remix": {
+        "artists": "Disclosure",
+        "energy": 98.5,
+        "length": 242,
+        "name": "You & Me - Baauer Remix",
+        "pop": 34,
+        "valence": 65.6
+    },
+    "You Were Right": {
+        "artists": "R\u00dcF\u00dcS DU SOL",
+        "energy": 80.2,
+        "length": 239,
+        "name": "You Were Right",
+        "pop": 0,
+        "valence": 70.1
+    }
+}

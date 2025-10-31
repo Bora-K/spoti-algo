@@ -1,0 +1,1426 @@
+{
+    "A Tout Moment La Rue": {
+        "artists": "Eiffel",
+        "energy": 63.1,
+        "length": 269,
+        "name": "A Tout Moment La Rue",
+        "pop": 0,
+        "valence": 23.8
+    },
+    "A ma place": {
+        "artists": "Axel Bauer",
+        "energy": 58.6,
+        "length": 330,
+        "name": "A ma place",
+        "pop": 0,
+        "valence": 19.7
+    },
+    "A toi": {
+        "artists": "Joe Dassin",
+        "energy": 60.9,
+        "length": 170,
+        "name": "A toi",
+        "pop": 39,
+        "valence": 84.6
+    },
+    "Adieu cr\u00e9ature": {
+        "artists": "Serge Gainsbourg",
+        "energy": 17.1,
+        "length": 131,
+        "name": "Adieu cr\u00e9ature",
+        "pop": 0,
+        "valence": 28.0
+    },
+    "Africain": {
+        "artists": "Sexion d'Assaut",
+        "energy": 79.5,
+        "length": 247,
+        "name": "Africain",
+        "pop": 0,
+        "valence": 64.5
+    },
+    "Aimer \u00e0 perdre la raison": {
+        "artists": "Jean Ferrat",
+        "energy": 34.3,
+        "length": 143,
+        "name": "Aimer \u00e0 perdre la raison",
+        "pop": 35,
+        "valence": 41.2
+    },
+    "Aline": {
+        "artists": "Christophe",
+        "energy": 56.5,
+        "length": 171,
+        "name": "Aline",
+        "pop": 0,
+        "valence": 45.9
+    },
+    "Around the World": {
+        "artists": "Daft Punk",
+        "energy": 79.5,
+        "length": 430,
+        "name": "Around the World",
+        "pop": 76,
+        "valence": 84.1
+    },
+    "Aux armes et caetera": {
+        "artists": "Serge Gainsbourg",
+        "energy": 30.7,
+        "length": 186,
+        "name": "Aux armes et caetera",
+        "pop": 0,
+        "valence": 71.6
+    },
+    "Avec le temps": {
+        "artists": "Marc Ogeret",
+        "energy": 28.7,
+        "length": 261,
+        "name": "Avec le temps",
+        "pop": 8,
+        "valence": 12.2
+    },
+    "Baby I'm Yours": {
+        "artists": "Breakbot Feat. Irfane",
+        "energy": 79.4,
+        "length": 216,
+        "name": "Baby I'm Yours",
+        "pop": 0,
+        "valence": 73.5
+    },
+    "Beau malheur": {
+        "artists": "Emmanuel Moire",
+        "energy": 70.6,
+        "length": 217,
+        "name": "Beau malheur",
+        "pop": 0,
+        "valence": 54.2
+    },
+    "Belle": {
+        "artists": "Patrick Fiori",
+        "energy": 43.2,
+        "length": 294,
+        "name": "Belle",
+        "pop": 43,
+        "valence": 26.0
+    },
+    "Bonnie And Clyde": {
+        "artists": "Brigitte Bardot",
+        "energy": 59.4,
+        "length": 256,
+        "name": "Bonnie And Clyde",
+        "pop": 0,
+        "valence": 59.6
+    },
+    "C'est Si Bon": {
+        "artists": "Eartha Kitt",
+        "energy": 32.4,
+        "length": 177,
+        "name": "C'est Si Bon",
+        "pop": 45,
+        "valence": 54.6
+    },
+    "C'est un gars": {
+        "artists": "\u00c9dith Piaf",
+        "energy": 22.6,
+        "length": 199,
+        "name": "C'est un gars",
+        "pop": 19,
+        "valence": 20.4
+    },
+    "Ca plane pour moi": {
+        "artists": "Plastic Bertrand",
+        "energy": 94.3,
+        "length": 182,
+        "name": "Ca plane pour moi",
+        "pop": 4,
+        "valence": 84.5
+    },
+    "Can't Hold Us (feat. Ray Dalton)": {
+        "artists": "Macklemore & Ryan Lewis",
+        "energy": 92.2,
+        "length": 258,
+        "name": "Can't Hold Us (feat. Ray Dalton)",
+        "pop": 84,
+        "valence": 84.7
+    },
+    "Ce mortel ennui": {
+        "artists": "Serge Gainsbourg",
+        "energy": 26.7,
+        "length": 175,
+        "name": "Ce mortel ennui",
+        "pop": 0,
+        "valence": 39.4
+    },
+    "Celui - Radio Edit": {
+        "artists": "Colonel Reyel",
+        "energy": 68.9,
+        "length": 202,
+        "name": "Celui - Radio Edit",
+        "pop": 31,
+        "valence": 80.0
+    },
+    "Cent mille chansons": {
+        "artists": "Frida Boccara",
+        "energy": 34.3,
+        "length": 169,
+        "name": "Cent mille chansons",
+        "pop": 39,
+        "valence": 30.7
+    },
+    "Changes": {
+        "artists": "Faul & Wad",
+        "energy": 70.4,
+        "length": 345,
+        "name": "Changes",
+        "pop": 0,
+        "valence": 25.5
+    },
+    "Chanson pour l'Auvergnat": {
+        "artists": "Georges Brassens",
+        "energy": 19.3,
+        "length": 183,
+        "name": "Chanson pour l'Auvergnat",
+        "pop": 30,
+        "valence": 72.4
+    },
+    "Chante moi": {
+        "artists": "\u00c9dith Piaf",
+        "energy": 28.0,
+        "length": 202,
+        "name": "Chante moi",
+        "pop": 19,
+        "valence": 32.6
+    },
+    "Cheese": {
+        "artists": "Stromae",
+        "energy": 35.0,
+        "length": 183,
+        "name": "Cheese",
+        "pop": 0,
+        "valence": 31.0
+    },
+    "Ciel de lit": {
+        "artists": "Brigitte Bardot",
+        "energy": 51.8,
+        "length": 103,
+        "name": "Ciel de lit",
+        "pop": 0,
+        "valence": 96.2
+    },
+    "Comme Un Boomerang": {
+        "artists": "Serge Gainsbourg",
+        "energy": 61.5,
+        "length": 160,
+        "name": "Comme Un Boomerang",
+        "pop": 0,
+        "valence": 57.3
+    },
+    "Comme d'habitude": {
+        "artists": "Claude Fran\u00e7ois",
+        "energy": 39.6,
+        "length": 252,
+        "name": "Comme d'habitude",
+        "pop": 0,
+        "valence": 49.4
+    },
+    "Comme un boomerang": {
+        "artists": "\u00c9tienne Daho",
+        "energy": 68.9,
+        "length": 181,
+        "name": "Comme un boomerang",
+        "pop": 45,
+        "valence": 56.2
+    },
+    "Contact": {
+        "artists": "Brigitte Bardot",
+        "energy": 85.0,
+        "length": 143,
+        "name": "Contact",
+        "pop": 0,
+        "valence": 91.5
+    },
+    "Cooler Couleur (feat. Yelle)": {
+        "artists": "Crookers",
+        "energy": 67.1,
+        "length": 282,
+        "name": "Cooler Couleur (feat. Yelle)",
+        "pop": 0,
+        "valence": 44.6
+    },
+    "Dans la Merco Benz - Radio Edit": {
+        "artists": "Benjamin Biolay",
+        "energy": 78.9,
+        "length": 188,
+        "name": "Dans la Merco Benz - Radio Edit",
+        "pop": 45,
+        "valence": 84.5
+    },
+    "Demons": {
+        "artists": "Imagine Dragons",
+        "energy": 71.0,
+        "length": 175,
+        "name": "Demons",
+        "pop": 0,
+        "valence": 41.6
+    },
+    "Derni\u00e8re danse": {
+        "artists": "Indila",
+        "energy": 45.7,
+        "length": 213,
+        "name": "Derni\u00e8re danse",
+        "pop": 0,
+        "valence": 26.8
+    },
+    "Diamonds": {
+        "artists": "Rihanna",
+        "energy": 67.4,
+        "length": 225,
+        "name": "Diamonds",
+        "pop": 0,
+        "valence": 36.9
+    },
+    "Dodo": {
+        "artists": "Stromae",
+        "energy": 54.0,
+        "length": 238,
+        "name": "Dodo",
+        "pop": 0,
+        "valence": 26.3
+    },
+    "Double je - Remix": {
+        "artists": "Christophe Willem",
+        "energy": 56.3,
+        "length": 196,
+        "name": "Double je - Remix",
+        "pop": 55,
+        "valence": 74.0
+    },
+    "D\u00e9senchant\u00e9e": {
+        "artists": "Myl\u00e8ne Farmer",
+        "energy": 65.6,
+        "length": 323,
+        "name": "D\u00e9senchant\u00e9e",
+        "pop": 0,
+        "valence": 34.1
+    },
+    "D\u00e9shabillez-moi": {
+        "artists": "Juliette Gr\u00e9co",
+        "energy": 29.4,
+        "length": 219,
+        "name": "D\u00e9shabillez-moi",
+        "pop": 0,
+        "valence": 47.8
+    },
+    "D\u00e9sol\u00e9": {
+        "artists": "Sexion d'Assaut",
+        "energy": 48.2,
+        "length": 204,
+        "name": "D\u00e9sol\u00e9",
+        "pop": 67,
+        "valence": 67.7
+    },
+    "D\u00e9terre": {
+        "artists": "Zaz",
+        "energy": 52.5,
+        "length": 159,
+        "name": "D\u00e9terre",
+        "pop": 0,
+        "valence": 45.6
+    },
+    "Eblouie par la nuit": {
+        "artists": "Zaz",
+        "energy": 47.6,
+        "length": 161,
+        "name": "Eblouie par la nuit",
+        "pop": 0,
+        "valence": 65.2
+    },
+    "Elle m'a dit": {
+        "artists": "Cali",
+        "energy": 94.7,
+        "length": 214,
+        "name": "Elle m'a dit",
+        "pop": 49,
+        "valence": 50.4
+    },
+    "Elle me dit": {
+        "artists": "MIKA",
+        "energy": 76.6,
+        "length": 219,
+        "name": "Elle me dit",
+        "pop": 0,
+        "valence": 46.2
+    },
+    "Elle panique": {
+        "artists": "Olivia Ruiz",
+        "energy": 92.1,
+        "length": 151,
+        "name": "Elle panique",
+        "pop": 0,
+        "valence": 64.5
+    },
+    "Et si tu n'existais pas": {
+        "artists": "Joe Dassin",
+        "energy": 65.2,
+        "length": 207,
+        "name": "Et si tu n'existais pas",
+        "pop": 46,
+        "valence": 67.6
+    },
+    "Fais pas ci, fais pas \u00e7a": {
+        "artists": "Jacques Dutronc",
+        "energy": 73.3,
+        "length": 100,
+        "name": "Fais pas ci, fais pas \u00e7a",
+        "pop": 27,
+        "valence": 77.6
+    },
+    "Formidable": {
+        "artists": "Stromae",
+        "energy": 62.8,
+        "length": 214,
+        "name": "Formidable",
+        "pop": 0,
+        "valence": 52.8
+    },
+    "Francis": {
+        "artists": "C\u0153ur De Pirate",
+        "energy": 26.1,
+        "length": 118,
+        "name": "Francis",
+        "pop": 49,
+        "valence": 58.2
+    },
+    "Game Over": {
+        "artists": "Vitaa",
+        "energy": 64.1,
+        "length": 197,
+        "name": "Game Over",
+        "pop": 0,
+        "valence": 82.1
+    },
+    "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]": {
+        "artists": "Daft Punk",
+        "energy": 81.1,
+        "length": 248,
+        "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
+        "pop": 84,
+        "valence": 86.2
+    },
+    "Happy": {
+        "artists": "Pharrell Williams",
+        "energy": 75.7,
+        "length": 233,
+        "name": "Happy",
+        "pop": 3,
+        "valence": 96.2
+    },
+    "House'llelujah": {
+        "artists": "Stromae",
+        "energy": 56.9,
+        "length": 240,
+        "name": "House'llelujah",
+        "pop": 0,
+        "valence": 49.1
+    },
+    "Id\u00e9es noires": {
+        "artists": "Bernard Lavilliers",
+        "energy": 44.2,
+        "length": 223,
+        "name": "Id\u00e9es noires",
+        "pop": 0,
+        "valence": 67.7
+    },
+    "Il Peut Pleuvoir": {
+        "artists": "Jacques Brel",
+        "energy": 55.5,
+        "length": 106,
+        "name": "Il Peut Pleuvoir",
+        "pop": 0,
+        "valence": 94.7
+    },
+    "Il Y A": {
+        "artists": "Vanessa Paradis",
+        "energy": 35.6,
+        "length": 159,
+        "name": "Il Y A",
+        "pop": 0,
+        "valence": 30.0
+    },
+    "Intermission": {
+        "artists": "C\u0153ur De Pirate",
+        "energy": 22.2,
+        "length": 178,
+        "name": "Intermission",
+        "pop": 35,
+        "valence": 26.9
+    },
+    "Invitango": {
+        "artists": "Brigitte Bardot",
+        "energy": 23.7,
+        "length": 153,
+        "name": "Invitango",
+        "pop": 0,
+        "valence": 54.5
+    },
+    "J'En Ai Marre": {
+        "artists": "Aliz\u00e9e",
+        "energy": 87.8,
+        "length": 308,
+        "name": "J'En Ai Marre",
+        "pop": 0,
+        "valence": 97.8
+    },
+    "J'ai Deux Amours": {
+        "artists": "Madeleine Peyroux",
+        "energy": 22.6,
+        "length": 174,
+        "name": "J'ai Deux Amours",
+        "pop": 54,
+        "valence": 26.6
+    },
+    "J'ai demand\u00e9 a la lune": {
+        "artists": "Indochine",
+        "energy": 62.6,
+        "length": 212,
+        "name": "J'ai demand\u00e9 a la lune",
+        "pop": 0,
+        "valence": 62.4
+    },
+    "J'ai dix ans": {
+        "artists": "Alain Souchon",
+        "energy": 27.6,
+        "length": 183,
+        "name": "J'ai dix ans",
+        "pop": 49,
+        "valence": 67.2
+    },
+    "J'ai encore r\u00eav\u00e9 d'elle": {
+        "artists": "Il Etait Une Fois",
+        "energy": 27.4,
+        "length": 221,
+        "name": "J'ai encore r\u00eav\u00e9 d'elle",
+        "pop": 53,
+        "valence": 19.3
+    },
+    "J'ai tant escamot\u00e9": {
+        "artists": "Zaz",
+        "energy": 43.5,
+        "length": 223,
+        "name": "J'ai tant escamot\u00e9",
+        "pop": 0,
+        "valence": 66.6
+    },
+    "J'irai o\u00f9 tu iras (with Jean-Jacques Goldman)": {
+        "artists": "C\u00e9line Dion",
+        "energy": 96.2,
+        "length": 207,
+        "name": "J'irai o\u00f9 tu iras (with Jean-Jacques Goldman)",
+        "pop": 63,
+        "valence": 71.7
+    },
+    "J'te l'dis quand m\u00eame": {
+        "artists": "Patrick Bruel",
+        "energy": 24.8,
+        "length": 219,
+        "name": "J'te l'dis quand m\u00eame",
+        "pop": 58,
+        "valence": 22.1
+    },
+    "J'veux du soleil": {
+        "artists": "Au P'Tit Bonheur",
+        "energy": 70.0,
+        "length": 182,
+        "name": "J'veux du soleil",
+        "pop": 0,
+        "valence": 87.9
+    },
+    "J'y suis jamais all\u00e9": {
+        "artists": "Yann Tiersen",
+        "energy": 36.8,
+        "length": 94,
+        "name": "J'y suis jamais all\u00e9",
+        "pop": 0,
+        "valence": 81.1
+    },
+    "Jardin d'hiver": {
+        "artists": "Stacey Kent",
+        "energy": 14.1,
+        "length": 214,
+        "name": "Jardin d'hiver",
+        "pop": 0,
+        "valence": 55.7
+    },
+    "Je M'suis Fait Tout P'tit": {
+        "artists": "Georges Brassens",
+        "energy": 9.6,
+        "length": 238,
+        "name": "Je M'suis Fait Tout P'tit",
+        "pop": 0,
+        "valence": 53.6
+    },
+    "Je danse le Mia": {
+        "artists": "IAM",
+        "energy": 78.5,
+        "length": 267,
+        "name": "Je danse le Mia",
+        "pop": 0,
+        "valence": 57.8
+    },
+    "Je ne suis pas un h\u00e9ros": {
+        "artists": "Daniel Balavoine",
+        "energy": 91.6,
+        "length": 315,
+        "name": "Je ne suis pas un h\u00e9ros",
+        "pop": 34,
+        "valence": 70.2
+    },
+    "Je veux": {
+        "artists": "Zaz",
+        "energy": 87.3,
+        "length": 219,
+        "name": "Je veux",
+        "pop": 0,
+        "valence": 71.9
+    },
+    "Jeune et con": {
+        "artists": "Saez",
+        "energy": 83.0,
+        "length": 235,
+        "name": "Jeune et con",
+        "pop": 0,
+        "valence": 26.7
+    },
+    "L'Accord\u00e9oniste": {
+        "artists": "\u00c9dith Piaf",
+        "energy": 31.2,
+        "length": 217,
+        "name": "L'Accord\u00e9oniste",
+        "pop": 24,
+        "valence": 64.1
+    },
+    "L'Heure avait sonn\u00e9": {
+        "artists": "Joyce Jonathan",
+        "energy": 53.4,
+        "length": 218,
+        "name": "L'Heure avait sonn\u00e9",
+        "pop": 0,
+        "valence": 69.5
+    },
+    "L'accordeoniste": {
+        "artists": "\u00c9dith Piaf",
+        "energy": 36.3,
+        "length": 192,
+        "name": "L'accordeoniste",
+        "pop": 0,
+        "valence": 74.2
+    },
+    "L'amoureuse": {
+        "artists": "Carla Bruni",
+        "energy": 43.0,
+        "length": 169,
+        "name": "L'amoureuse",
+        "pop": 0,
+        "valence": 43.0
+    },
+    "L'antilope": {
+        "artists": "Carla Bruni",
+        "energy": 39.8,
+        "length": 123,
+        "name": "L'antilope",
+        "pop": 0,
+        "valence": 59.7
+    },
+    "L'appareil \u00e0 sous": {
+        "artists": "Brigitte Bardot",
+        "energy": 67.1,
+        "length": 86,
+        "name": "L'appareil \u00e0 sous",
+        "pop": 0,
+        "valence": 96.4
+    },
+    "L'autre valse d'Am\u00e9lie": {
+        "artists": "Yann Tiersen",
+        "energy": 39.0,
+        "length": 93,
+        "name": "L'autre valse d'Am\u00e9lie",
+        "pop": 0,
+        "valence": 7.32
+    },
+    "L'aventurier": {
+        "artists": "Indochine",
+        "energy": 90.9,
+        "length": 232,
+        "name": "L'aventurier",
+        "pop": 67,
+        "valence": 63.3
+    },
+    "La Belle Et Le Bad Boy": {
+        "artists": "MC Solaar",
+        "energy": 49.5,
+        "length": 192,
+        "name": "La Belle Et Le Bad Boy",
+        "pop": 43,
+        "valence": 52.2
+    },
+    "La Liste": {
+        "artists": "Rose",
+        "energy": 45.1,
+        "length": 191,
+        "name": "La Liste",
+        "pop": 55,
+        "valence": 46.1
+    },
+    "La bombe humaine - Remasteris\u00e9 En 2006": {
+        "artists": "T\u00e9l\u00e9phone",
+        "energy": 68.6,
+        "length": 264,
+        "name": "La bombe humaine - Remasteris\u00e9 En 2006",
+        "pop": 0,
+        "valence": 15.1
+    },
+    "La brune": {
+        "artists": "Louise Attaque",
+        "energy": 59.3,
+        "length": 115,
+        "name": "La brune",
+        "pop": 0,
+        "valence": 81.9
+    },
+    "La colombe": {
+        "artists": "Jacques Brel",
+        "energy": 56.7,
+        "length": 180,
+        "name": "La colombe",
+        "pop": 0,
+        "valence": 62.1
+    },
+    "La groupie du pianiste - Remasteris\u00e9 en 2002": {
+        "artists": "Michel Berger",
+        "energy": 75.1,
+        "length": 283,
+        "name": "La groupie du pianiste - Remasteris\u00e9 en 2002",
+        "pop": 61,
+        "valence": 66.7
+    },
+    "La jeune fille aux cheveux blancs": {
+        "artists": "Camille",
+        "energy": 25.0,
+        "length": 137,
+        "name": "La jeune fille aux cheveux blancs",
+        "pop": 0,
+        "valence": 32.3
+    },
+    "La montagne": {
+        "artists": "Jean Ferrat",
+        "energy": 43.3,
+        "length": 190,
+        "name": "La montagne",
+        "pop": 41,
+        "valence": 45.2
+    },
+    "La petite mort": {
+        "artists": "C\u0153ur De Pirate",
+        "energy": 38.1,
+        "length": 225,
+        "name": "La petite mort",
+        "pop": 39,
+        "valence": 31.6
+    },
+    "La ritournelle": {
+        "artists": "S\u00e9bastien Tellier",
+        "energy": 72.3,
+        "length": 454,
+        "name": "La ritournelle",
+        "pop": 59,
+        "valence": 52.6
+    },
+    "La vie en rose": {
+        "artists": "Yves Montand",
+        "energy": 12.7,
+        "length": 196,
+        "name": "La vie en rose",
+        "pop": 18,
+        "valence": 24.4
+    },
+    "La vie est ailleurs": {
+        "artists": "C\u0153ur De Pirate",
+        "energy": 29.6,
+        "length": 147,
+        "name": "La vie est ailleurs",
+        "pop": 34,
+        "valence": 26.0
+    },
+    "La vie ne m'apprend rien": {
+        "artists": "Daniel Balavoine",
+        "energy": 44.0,
+        "length": 257,
+        "name": "La vie ne m'apprend rien",
+        "pop": 0,
+        "valence": 14.3
+    },
+    "Le Palais De Nos Chim\u00e8res": {
+        "artists": "Charles Aznavour",
+        "energy": 37.3,
+        "length": 141,
+        "name": "Le Palais De Nos Chim\u00e8res",
+        "pop": 0,
+        "valence": 69.6
+    },
+    "Le Petit homme": {
+        "artists": "\u00c9dith Piaf",
+        "energy": 33.2,
+        "length": 216,
+        "name": "Le Petit homme",
+        "pop": 29,
+        "valence": 49.4
+    },
+    "Le Sud": {
+        "artists": "Nino Ferrer",
+        "energy": 36.9,
+        "length": 275,
+        "name": "Le Sud",
+        "pop": 0,
+        "valence": 63.4
+    },
+    "Le Vent Nous Portera": {
+        "artists": "Noir D\u00e9sir",
+        "energy": 72.1,
+        "length": 289,
+        "name": "Le Vent Nous Portera",
+        "pop": 0,
+        "valence": 79.8
+    },
+    "Le baiser": {
+        "artists": "Alain Souchon",
+        "energy": 61.4,
+        "length": 245,
+        "name": "Le baiser",
+        "pop": 56,
+        "valence": 39.5
+    },
+    "Le banquet": {
+        "artists": "Yann Tiersen",
+        "energy": 39.6,
+        "length": 91,
+        "name": "Le banquet",
+        "pop": 0,
+        "valence": 57.4
+    },
+    "Le d\u00eener": {
+        "artists": "B\u00e9nabar",
+        "energy": 74.2,
+        "length": 181,
+        "name": "Le d\u00eener",
+        "pop": 23,
+        "valence": 57.9
+    },
+    "Le moribond": {
+        "artists": "Jacques Brel",
+        "energy": 62.3,
+        "length": 186,
+        "name": "Le moribond",
+        "pop": 0,
+        "valence": 74.3
+    },
+    "Le plat pays": {
+        "artists": "Jacques Brel",
+        "energy": 19.2,
+        "length": 164,
+        "name": "Le plat pays",
+        "pop": 0,
+        "valence": 31.1
+    },
+    "Le responsable": {
+        "artists": "Jacques Dutronc",
+        "energy": 91.3,
+        "length": 151,
+        "name": "Le responsable",
+        "pop": 28,
+        "valence": 89.5
+    },
+    "Le soleil et la lune": {
+        "artists": "Charles Trenet",
+        "energy": 38.7,
+        "length": 143,
+        "name": "Le soleil et la lune",
+        "pop": 0,
+        "valence": 90.5
+    },
+    "Le toi du moi": {
+        "artists": "Carla Bruni",
+        "energy": 49.9,
+        "length": 199,
+        "name": "Le toi du moi",
+        "pop": 0,
+        "valence": 55.9
+    },
+    "Le t\u00e9l\u00e9phone pleure": {
+        "artists": "Claude Fran\u00e7ois",
+        "energy": 48.2,
+        "length": 240,
+        "name": "Le t\u00e9l\u00e9phone pleure",
+        "pop": 45,
+        "valence": 43.0
+    },
+    "Les Feuilles Mortes": {
+        "artists": "Yves Montand",
+        "energy": 7.41,
+        "length": 205,
+        "name": "Les Feuilles Mortes",
+        "pop": 32,
+        "valence": 16.3
+    },
+    "Les copains d'abord": {
+        "artists": "Georges Brassens",
+        "energy": 21.6,
+        "length": 242,
+        "name": "Les copains d'abord",
+        "pop": 0,
+        "valence": 71.0
+    },
+    "Les limites": {
+        "artists": "Julien Dor\u00e9",
+        "energy": 82.7,
+        "length": 137,
+        "name": "Les limites",
+        "pop": 14,
+        "valence": 87.8
+    },
+    "Les sunlights des tropiques": {
+        "artists": "Gilbert Montagn\u00e9",
+        "energy": 63.3,
+        "length": 238,
+        "name": "Les sunlights des tropiques",
+        "pop": 0,
+        "valence": 93.3
+    },
+    "Little Talks": {
+        "artists": "Of Monsters and Men",
+        "energy": 75.7,
+        "length": 267,
+        "name": "Little Talks",
+        "pop": 82,
+        "valence": 41.7
+    },
+    "Ma Petite Entreprise": {
+        "artists": "Alain Bashung",
+        "energy": 70.5,
+        "length": 252,
+        "name": "Ma Petite Entreprise",
+        "pop": 0,
+        "valence": 67.7
+    },
+    "Ma meilleure (feat. Zaho)": {
+        "artists": "La Fouine",
+        "energy": 82.2,
+        "length": 305,
+        "name": "Ma meilleure (feat. Zaho)",
+        "pop": 53,
+        "valence": 72.0
+    },
+    "Ma pr\u00e9f\u00e9rence": {
+        "artists": "Julien Clerc",
+        "energy": 38.3,
+        "length": 207,
+        "name": "Ma pr\u00e9f\u00e9rence",
+        "pop": 41,
+        "valence": 31.0
+    },
+    "Marche \u00e0 l'ombre": {
+        "artists": "Renaud",
+        "energy": 57.2,
+        "length": 198,
+        "name": "Marche \u00e0 l'ombre",
+        "pop": 0,
+        "valence": 85.3
+    },
+    "Mes emmerdes": {
+        "artists": "Charles Aznavour",
+        "energy": 62.7,
+        "length": 186,
+        "name": "Mes emmerdes",
+        "pop": 0,
+        "valence": 53.9
+    },
+    "Mets pas celle-l\u00e0": {
+        "artists": "Sexion d'Assaut",
+        "energy": 87.9,
+        "length": 237,
+        "name": "Mets pas celle-l\u00e0",
+        "pop": 37,
+        "valence": 64.6
+    },
+    "Mme Pavoshko": {
+        "artists": "Black M",
+        "energy": 88.1,
+        "length": 256,
+        "name": "Mme Pavoshko",
+        "pop": 53,
+        "valence": 77.7
+    },
+    "Moi... Lolita - Single Version": {
+        "artists": "Aliz\u00e9e",
+        "energy": 84.1,
+        "length": 266,
+        "name": "Moi... Lolita - Single Version",
+        "pop": 0,
+        "valence": 57.7
+    },
+    "Mon Homme": {
+        "artists": "Mistinguett",
+        "energy": 22.6,
+        "length": 191,
+        "name": "Mon Homme",
+        "pop": 0,
+        "valence": 63.0
+    },
+    "Mon amant de St. Jean": {
+        "artists": "Patrick Bruel",
+        "energy": 49.3,
+        "length": 197,
+        "name": "Mon amant de St. Jean",
+        "pop": 0,
+        "valence": 58.9
+    },
+    "Mon mec \u00e0 moi": {
+        "artists": "Patricia Kaas",
+        "energy": 54.4,
+        "length": 256,
+        "name": "Mon mec \u00e0 moi",
+        "pop": 0,
+        "valence": 63.5
+    },
+    "Ne partons pas f\u00e2ch\u00e9s": {
+        "artists": "Rapha\u00ebl",
+        "energy": 82.0,
+        "length": 193,
+        "name": "Ne partons pas f\u00e2ch\u00e9s",
+        "pop": 53,
+        "valence": 67.0
+    },
+    "Non je n'ai rien oubli\u00e9": {
+        "artists": "Charles Aznavour",
+        "energy": 27.4,
+        "length": 387,
+        "name": "Non je n'ai rien oubli\u00e9",
+        "pop": 0,
+        "valence": 33.7
+    },
+    "Notre Dame de Paris": {
+        "artists": "\u00c9dith Piaf",
+        "energy": 25.3,
+        "length": 187,
+        "name": "Notre Dame de Paris",
+        "pop": 19,
+        "valence": 54.7
+    },
+    "Oh La La": {
+        "artists": "Brigitte",
+        "energy": 67.8,
+        "length": 179,
+        "name": "Oh La La",
+        "pop": 38,
+        "valence": 54.8
+    },
+    "Oublie Loulou": {
+        "artists": "Zaz",
+        "energy": 69.1,
+        "length": 159,
+        "name": "Oublie Loulou",
+        "pop": 0,
+        "valence": 87.9
+    },
+    "Papaoutai": {
+        "artists": "Stromae",
+        "energy": 82.5,
+        "length": 232,
+        "name": "Papaoutai",
+        "pop": 0,
+        "valence": 26.2
+    },
+    "Paris": {
+        "artists": "Camille",
+        "energy": 48.4,
+        "length": 226,
+        "name": "Paris",
+        "pop": 0,
+        "valence": 30.4
+    },
+    "Parle, Hugo parle": {
+        "artists": "Michael Jones",
+        "energy": 41.1,
+        "length": 249,
+        "name": "Parle, Hugo parle",
+        "pop": 21,
+        "valence": 17.8
+    },
+    "Partons vite": {
+        "artists": "Kaolin",
+        "energy": 77.1,
+        "length": 241,
+        "name": "Partons vite",
+        "pop": 41,
+        "valence": 70.1
+    },
+    "Pas Besoin De Toi": {
+        "artists": "Joyce Jonathan",
+        "energy": 43.2,
+        "length": 188,
+        "name": "Pas Besoin De Toi",
+        "pop": 0,
+        "valence": 30.6
+    },
+    "Pas si simple": {
+        "artists": "Yann Tiersen",
+        "energy": 49.1,
+        "length": 113,
+        "name": "Pas si simple",
+        "pop": 0,
+        "valence": 49.5
+    },
+    "Pour faire le portrait d'un oiseau": {
+        "artists": "Yves Montand",
+        "energy": 72.7,
+        "length": 375,
+        "name": "Pour faire le portrait d'un oiseau",
+        "pop": 0,
+        "valence": 55.5
+    },
+    "Pourtant": {
+        "artists": "Vanessa Paradis",
+        "energy": 61.5,
+        "length": 216,
+        "name": "Pourtant",
+        "pop": 0,
+        "valence": 4.66
+    },
+    "Problem": {
+        "artists": "Ariana Grande",
+        "energy": 79.8,
+        "length": 194,
+        "name": "Problem",
+        "pop": 0,
+        "valence": 62.7
+    },
+    "Probl\u00e8mes d'adultes": {
+        "artists": "Sexion d'Assaut",
+        "energy": 66.0,
+        "length": 238,
+        "name": "Probl\u00e8mes d'adultes",
+        "pop": 51,
+        "valence": 50.1
+    },
+    "P\u00e9ch\u00e9 d'envie": {
+        "artists": "Carla Bruni",
+        "energy": 41.1,
+        "length": 175,
+        "name": "P\u00e9ch\u00e9 d'envie",
+        "pop": 0,
+        "valence": 40.4
+    },
+    "Qu'as-tu fait John ?": {
+        "artists": "\u00c9dith Piaf",
+        "energy": 41.2,
+        "length": 139,
+        "name": "Qu'as-tu fait John ?",
+        "pop": 21,
+        "valence": 45.4
+    },
+    "Quand On A Que L'amour": {
+        "artists": "Jacques Brel",
+        "energy": 26.4,
+        "length": 148,
+        "name": "Quand On A Que L'amour",
+        "pop": 0,
+        "valence": 52.3
+    },
+    "Quand j'\u00e9tais chanteur": {
+        "artists": "Michel Delpech",
+        "energy": 65.7,
+        "length": 234,
+        "name": "Quand j'\u00e9tais chanteur",
+        "pop": 0,
+        "valence": 59.9
+    },
+    "Que C'est Triste Venise": {
+        "artists": "Charles Aznavour",
+        "energy": 54.9,
+        "length": 157,
+        "name": "Que C'est Triste Venise",
+        "pop": 0,
+        "valence": 40.4
+    },
+    "Quelque Chose De Tennessee": {
+        "artists": "Johnny Hallyday",
+        "energy": 40.6,
+        "length": 247,
+        "name": "Quelque Chose De Tennessee",
+        "pop": 0,
+        "valence": 38.3
+    },
+    "Qui de nous deux": {
+        "artists": "-M-",
+        "energy": 70.4,
+        "length": 226,
+        "name": "Qui de nous deux",
+        "pop": 56,
+        "valence": 72.7
+    },
+    "Qui est \"In\", qui est \"Out\"": {
+        "artists": "Serge Gainsbourg",
+        "energy": 92.1,
+        "length": 137,
+        "name": "Qui est \"In\", qui est \"Out\"",
+        "pop": 0,
+        "valence": 33.9
+    },
+    "Salut marin": {
+        "artists": "Carla Bruni",
+        "energy": 35.2,
+        "length": 174,
+        "name": "Salut marin",
+        "pop": 0,
+        "valence": 48.5
+    },
+    "She": {
+        "artists": "Charles Aznavour",
+        "energy": 51.0,
+        "length": 153,
+        "name": "She",
+        "pop": 0,
+        "valence": 37.3
+    },
+    "Siffler sur la colline": {
+        "artists": "Joe Dassin",
+        "energy": 60.2,
+        "length": 156,
+        "name": "Siffler sur la colline",
+        "pop": 37,
+        "valence": 53.8
+    },
+    "Sing": {
+        "artists": "Ed Sheeran",
+        "energy": 67.0,
+        "length": 235,
+        "name": "Sing",
+        "pop": 40,
+        "valence": 93.9
+    },
+    "Song For Jedi": {
+        "artists": "Dionysos",
+        "energy": 67.4,
+        "length": 181,
+        "name": "Song For Jedi",
+        "pop": 0,
+        "valence": 73.9
+    },
+    "Sur la place": {
+        "artists": "Jacques Brel",
+        "energy": 5.45,
+        "length": 167,
+        "name": "Sur la place",
+        "pop": 5,
+        "valence": 43.4
+    },
+    "Sur la planche 2013": {
+        "artists": "La Femme",
+        "energy": 80.8,
+        "length": 227,
+        "name": "Sur la planche 2013",
+        "pop": 0,
+        "valence": 18.0
+    },
+    "Sympathique": {
+        "artists": "Pink Martini",
+        "energy": 39.5,
+        "length": 173,
+        "name": "Sympathique",
+        "pop": 0,
+        "valence": 72.9
+    },
+    "T'attends quoi": {
+        "artists": "Zaz",
+        "energy": 62.5,
+        "length": 199,
+        "name": "T'attends quoi",
+        "pop": 0,
+        "valence": 79.1
+    },
+    "T'es beau": {
+        "artists": "Pauline Croze",
+        "energy": 50.6,
+        "length": 163,
+        "name": "T'es beau",
+        "pop": 0,
+        "valence": 50.5
+    },
+    "Tais-Toi Mon Coeur": {
+        "artists": "Dionysos",
+        "energy": 72.4,
+        "length": 154,
+        "name": "Tais-Toi Mon Coeur",
+        "pop": 0,
+        "valence": 83.7
+    },
+    "Titanium (feat. Sia)": {
+        "artists": "David Guetta",
+        "energy": 78.7,
+        "length": 245,
+        "name": "Titanium (feat. Sia)",
+        "pop": 84,
+        "valence": 30.1
+    },
+    "Toi + Moi": {
+        "artists": "Gr\u00e9goire",
+        "energy": 59.9,
+        "length": 183,
+        "name": "Toi + Moi",
+        "pop": 0,
+        "valence": 26.1
+    },
+    "Tomb\u00e9 sous le charme": {
+        "artists": "Christophe Ma\u00e9",
+        "energy": 74.8,
+        "length": 242,
+        "name": "Tomb\u00e9 sous le charme",
+        "pop": 52,
+        "valence": 84.1
+    },
+    "Ton invitation": {
+        "artists": "Louise Attaque",
+        "energy": 58.2,
+        "length": 160,
+        "name": "Ton invitation",
+        "pop": 0,
+        "valence": 61.4
+    },
+    "Toujours": {
+        "artists": "Zaz",
+        "energy": 88.2,
+        "length": 189,
+        "name": "Toujours",
+        "pop": 0,
+        "valence": 88.9
+    },
+    "Tous les gar\u00e7ons et les filles - Slow": {
+        "artists": "Fran\u00e7oise Hardy",
+        "energy": 41.4,
+        "length": 187,
+        "name": "Tous les gar\u00e7ons et les filles - Slow",
+        "pop": 29,
+        "valence": 88.7
+    },
+    "Toutes les nuits": {
+        "artists": "Colonel Reyel",
+        "energy": 83.1,
+        "length": 205,
+        "name": "Toutes les nuits",
+        "pop": 47,
+        "valence": 78.4
+    },
+    "Tu trouveras": {
+        "artists": "Natasha St-Pier",
+        "energy": 48.4,
+        "length": 299,
+        "name": "Tu trouveras",
+        "pop": 37,
+        "valence": 29.3
+    },
+    "Un Homme Et Une Femme": {
+        "artists": "Francis Lai",
+        "energy": 18.0,
+        "length": 161,
+        "name": "Un Homme Et Une Femme",
+        "pop": 0,
+        "valence": 64.1
+    },
+    "Un homme heureux": {
+        "artists": "William Sheller",
+        "energy": 20.8,
+        "length": 228,
+        "name": "Un homme heureux",
+        "pop": 41,
+        "valence": 18.4
+    },
+    "Une Jolie Fleur": {
+        "artists": "Georges Brassens",
+        "energy": 13.2,
+        "length": 164,
+        "name": "Une Jolie Fleur",
+        "pop": 0,
+        "valence": 89.5
+    },
+    "Vesoul": {
+        "artists": "Jacques Brel",
+        "energy": 82.9,
+        "length": 187,
+        "name": "Vesoul",
+        "pop": 0,
+        "valence": 90.2
+    },
+    "Voici les cl\u00e9s": {
+        "artists": "G\u00e9rard Lenorman",
+        "energy": 53.4,
+        "length": 226,
+        "name": "Voici les cl\u00e9s",
+        "pop": 0,
+        "valence": 70.9
+    },
+    "Voil\u00e0 l'\u00e9t\u00e9": {
+        "artists": "Les N\u00e9gresses Vertes",
+        "energy": 84.2,
+        "length": 245,
+        "name": "Voil\u00e0 l'\u00e9t\u00e9",
+        "pop": 0,
+        "valence": 79.3
+    },
+    "Vous Qui Passez Sans Me Voir": {
+        "artists": "Jean Sablon",
+        "energy": 21.4,
+        "length": 186,
+        "name": "Vous Qui Passez Sans Me Voir",
+        "pop": 0,
+        "valence": 17.6
+    },
+    "Zen": {
+        "artists": "Zazie",
+        "energy": 80.0,
+        "length": 233,
+        "name": "Zen",
+        "pop": 0,
+        "valence": 74.2
+    },
+    "Zou bisou bisou": {
+        "artists": "Gillian Hills",
+        "energy": 48.3,
+        "length": 136,
+        "name": "Zou bisou bisou",
+        "pop": 56,
+        "valence": 83.9
+    },
+    "quand c'est ?": {
+        "artists": "Stromae",
+        "energy": 36.3,
+        "length": 181,
+        "name": "quand c'est ?",
+        "pop": 0,
+        "valence": 25.1
+    },
+    "sommeil": {
+        "artists": "Stromae",
+        "energy": 62.8,
+        "length": 219,
+        "name": "sommeil",
+        "pop": 0,
+        "valence": 41.4
+    },
+    "\u00c0 cause des gar\u00e7ons": {
+        "artists": "Yelle",
+        "energy": 46.0,
+        "length": 226,
+        "name": "\u00c0 cause des gar\u00e7ons",
+        "pop": 40,
+        "valence": 82.3
+    }
+}

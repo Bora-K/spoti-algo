@@ -1,0 +1,802 @@
+{
+    "1959 - 2006 Remaster": {
+        "artists": "Sisters of Mercy",
+        "energy": 38.6,
+        "length": 250,
+        "name": "1959 - 2006 Remaster",
+        "pop": 19,
+        "valence": 30.5
+    },
+    "A Dangerous Mind": {
+        "artists": "Within Temptation",
+        "energy": 89.4,
+        "length": 257,
+        "name": "A Dangerous Mind",
+        "pop": 0,
+        "valence": 47.6
+    },
+    "A Forest": {
+        "artists": "The Cure",
+        "energy": 62.2,
+        "length": 354,
+        "name": "A Forest",
+        "pop": 0,
+        "valence": 43.5
+    },
+    "Ain't No Grave": {
+        "artists": "Crooked Still",
+        "energy": 54.6,
+        "length": 202,
+        "name": "Ain't No Grave",
+        "pop": 0,
+        "valence": 83.4
+    },
+    "Amelia": {
+        "artists": "The Mission",
+        "energy": 70.0,
+        "length": 176,
+        "name": "Amelia",
+        "pop": 0,
+        "valence": 43.9
+    },
+    "Angels": {
+        "artists": "Within Temptation",
+        "energy": 86.9,
+        "length": 239,
+        "name": "Angels",
+        "pop": 0,
+        "valence": 23.0
+    },
+    "Anima": {
+        "artists": "Epica",
+        "energy": 14.4,
+        "length": 85,
+        "name": "Anima",
+        "pop": 0,
+        "valence": 49.0
+    },
+    "Aquarius": {
+        "artists": "Within Temptation",
+        "energy": 92.9,
+        "length": 287,
+        "name": "Aquarius",
+        "pop": 0,
+        "valence": 23.0
+    },
+    "As The Shadows Dance": {
+        "artists": "Theatre Of Tragedy",
+        "energy": 88.8,
+        "length": 328,
+        "name": "As The Shadows Dance",
+        "pop": 0,
+        "valence": 31.7
+    },
+    "Astray": {
+        "artists": "Theatre Of Tragedy",
+        "energy": 74.1,
+        "length": 222,
+        "name": "Astray",
+        "pop": 0,
+        "valence": 37.2
+    },
+    "Bela Lugosi's Dead": {
+        "artists": "Bauhaus",
+        "energy": 72.9,
+        "length": 363,
+        "name": "Bela Lugosi's Dead",
+        "pop": 0,
+        "valence": 51.4
+    },
+    "Black Dog Sin": {
+        "artists": "Joshua Burnside",
+        "energy": 35.2,
+        "length": 202,
+        "name": "Black Dog Sin",
+        "pop": 34,
+        "valence": 31.2
+    },
+    "Blitzkrieg": {
+        "artists": "Deathstars",
+        "energy": 94.9,
+        "length": 244,
+        "name": "Blitzkrieg",
+        "pop": 0,
+        "valence": 32.8
+    },
+    "Blood & Fire": {
+        "artists": "Type O Negative",
+        "energy": 76.7,
+        "length": 333,
+        "name": "Blood & Fire",
+        "pop": 33,
+        "valence": 22.7
+    },
+    "Braveheart": {
+        "artists": "Imperia",
+        "energy": 75.2,
+        "length": 336,
+        "name": "Braveheart",
+        "pop": 0,
+        "valence": 36.6
+    },
+    "Burnt Flowers Fallen": {
+        "artists": "Type O Negative",
+        "energy": 80.5,
+        "length": 370,
+        "name": "Burnt Flowers Fallen",
+        "pop": 40,
+        "valence": 22.8
+    },
+    "Can't Lose You": {
+        "artists": "Type O Negative",
+        "energy": 74.8,
+        "length": 366,
+        "name": "Can't Lose You",
+        "pop": 32,
+        "valence": 17.8
+    },
+    "Cavity - First Communion": {
+        "artists": "Christian Death",
+        "energy": 81.1,
+        "length": 247,
+        "name": "Cavity - First Communion",
+        "pop": 0,
+        "valence": 6.18
+    },
+    "Close To Me": {
+        "artists": "The Cure",
+        "energy": 52.3,
+        "length": 203,
+        "name": "Close To Me",
+        "pop": 74,
+        "valence": 96.5
+    },
+    "Dance D'Amour": {
+        "artists": "The 69 Eyes",
+        "energy": 75.6,
+        "length": 236,
+        "name": "Dance D'Amour",
+        "pop": 47,
+        "valence": 54.4
+    },
+    "Day of the Lords - 2007 Remaster": {
+        "artists": "Joy Division",
+        "energy": 59.9,
+        "length": 288,
+        "name": "Day of the Lords - 2007 Remaster",
+        "pop": 0,
+        "valence": 11.3
+    },
+    "Daylight Dancer": {
+        "artists": "Lacuna Coil",
+        "energy": 85.3,
+        "length": 230,
+        "name": "Daylight Dancer",
+        "pop": 0,
+        "valence": 7.27
+    },
+    "Dazzle": {
+        "artists": "Siouxsie and the Banshees",
+        "energy": 89.6,
+        "length": 331,
+        "name": "Dazzle",
+        "pop": 17,
+        "valence": 6.94
+    },
+    "Deliverance": {
+        "artists": "The Mission UK",
+        "energy": 64.8,
+        "length": 285,
+        "name": "Deliverance",
+        "pop": 21,
+        "valence": 48.7
+    },
+    "Devil's Backbone": {
+        "artists": "The Civil Wars",
+        "energy": 34.9,
+        "length": 149,
+        "name": "Devil's Backbone",
+        "pop": 50,
+        "valence": 30.3
+    },
+    "Die Alive": {
+        "artists": "Tarja",
+        "energy": 96.9,
+        "length": 243,
+        "name": "Die Alive",
+        "pop": 0,
+        "valence": 36.4
+    },
+    "Dies Irae (Live in Miskolc)": {
+        "artists": "Epica",
+        "energy": 82.5,
+        "length": 135,
+        "name": "Dies Irae (Live in Miskolc)",
+        "pop": 0,
+        "valence": 34.3
+    },
+    "Dizzy": {
+        "artists": "Siouxsie and the Banshees",
+        "energy": 62.3,
+        "length": 190,
+        "name": "Dizzy",
+        "pop": 0,
+        "valence": 39.8
+    },
+    "Dreamer": {
+        "artists": "Elysion",
+        "energy": 73.3,
+        "length": 252,
+        "name": "Dreamer",
+        "pop": 0,
+        "valence": 23.4
+    },
+    "Everybody's Fool": {
+        "artists": "Evanescence",
+        "energy": 81.8,
+        "length": 196,
+        "name": "Everybody's Fool",
+        "pop": 0,
+        "valence": 32.0
+    },
+    "Everyone I Love Is Dead": {
+        "artists": "Type O Negative",
+        "energy": 93.5,
+        "length": 371,
+        "name": "Everyone I Love Is Dead",
+        "pop": 47,
+        "valence": 23.1
+    },
+    "Feint - Live in Miskolc": {
+        "artists": "Epica",
+        "energy": 64.9,
+        "length": 275,
+        "name": "Feint - Live in Miskolc",
+        "pop": 0,
+        "valence": 12.0
+    },
+    "Filthy Dirty South": {
+        "artists": "Rising Appalachia",
+        "energy": 38.1,
+        "length": 346,
+        "name": "Filthy Dirty South",
+        "pop": 0,
+        "valence": 74.6
+    },
+    "Fire Woman": {
+        "artists": "The Cult",
+        "energy": 85.0,
+        "length": 308,
+        "name": "Fire Woman",
+        "pop": 0,
+        "valence": 44.6
+    },
+    "Flood II - 2006 Remaster": {
+        "artists": "Sisters of Mercy",
+        "energy": 89.9,
+        "length": 406,
+        "name": "Flood II - 2006 Remaster",
+        "pop": 19,
+        "valence": 57.2
+    },
+    "Forgiven": {
+        "artists": "Within Temptation",
+        "energy": 34.2,
+        "length": 292,
+        "name": "Forgiven",
+        "pop": 0,
+        "valence": 17.4
+    },
+    "Fragile": {
+        "artists": "Lacuna Coil",
+        "energy": 78.9,
+        "length": 267,
+        "name": "Fragile",
+        "pop": 0,
+        "valence": 15.5
+    },
+    "Heart and Soul": {
+        "artists": "Joy Division",
+        "energy": 67.4,
+        "length": 350,
+        "name": "Heart and Soul",
+        "pop": 37,
+        "valence": 73.6
+    },
+    "High": {
+        "artists": "The Cure",
+        "energy": 94.0,
+        "length": 215,
+        "name": "High",
+        "pop": 0,
+        "valence": 73.8
+    },
+    "I Don't Wanna Be Me": {
+        "artists": "Type O Negative",
+        "energy": 97.7,
+        "length": 309,
+        "name": "I Don't Wanna Be Me",
+        "pop": 68,
+        "valence": 4.49
+    },
+    "Ice Queen - Live": {
+        "artists": "Within Temptation",
+        "energy": 54.4,
+        "length": 318,
+        "name": "Ice Queen - Live",
+        "pop": 0,
+        "valence": 7.89
+    },
+    "Imaginary": {
+        "artists": "Evanescence",
+        "energy": 74.7,
+        "length": 257,
+        "name": "Imaginary",
+        "pop": 0,
+        "valence": 28.4
+    },
+    "Just Like Heaven": {
+        "artists": "The Cure",
+        "energy": 96.9,
+        "length": 212,
+        "name": "Just Like Heaven",
+        "pop": 0,
+        "valence": 80.0
+    },
+    "Killing Loneliness": {
+        "artists": "HIM",
+        "energy": 91.1,
+        "length": 271,
+        "name": "Killing Loneliness",
+        "pop": 0,
+        "valence": 29.4
+    },
+    "Kingdom's Coming": {
+        "artists": "Bauhaus",
+        "energy": 33.5,
+        "length": 147,
+        "name": "Kingdom's Coming",
+        "pop": 0,
+        "valence": 15.3
+    },
+    "Kiss Kiss Bang Bang - 12\" version": {
+        "artists": "Specimen",
+        "energy": 52.3,
+        "length": 293,
+        "name": "Kiss Kiss Bang Bang - 12\" version",
+        "pop": 50,
+        "valence": 51.1
+    },
+    "Kuolema Tekee Taiteilijan": {
+        "artists": "Nightwish",
+        "energy": 33.3,
+        "length": 239,
+        "name": "Kuolema Tekee Taiteilijan",
+        "pop": 0,
+        "valence": 9.09
+    },
+    "Last Exit for the Lost": {
+        "artists": "Fields Of The Nephilim",
+        "energy": 34.7,
+        "length": 587,
+        "name": "Last Exit for the Lost",
+        "pop": 0,
+        "valence": 12.4
+    },
+    "Last Of The Wilds": {
+        "artists": "Nightwish",
+        "energy": 76.0,
+        "length": 341,
+        "name": "Last Of The Wilds",
+        "pop": 0,
+        "valence": 6.57
+    },
+    "Lethargica": {
+        "artists": "Sirenia",
+        "energy": 66.3,
+        "length": 331,
+        "name": "Lethargica",
+        "pop": 0,
+        "valence": 38.5
+    },
+    "Love Like Blood": {
+        "artists": "Killing Joke",
+        "energy": 64.5,
+        "length": 265,
+        "name": "Love Like Blood",
+        "pop": 57,
+        "valence": 43.3
+    },
+    "Machine Screw": {
+        "artists": "Type O Negative",
+        "energy": 82.5,
+        "length": 41,
+        "name": "Machine Screw",
+        "pop": 29,
+        "valence": 10.1
+    },
+    "Made Of Stone": {
+        "artists": "Evanescence",
+        "energy": 90.9,
+        "length": 213,
+        "name": "Made Of Stone",
+        "pop": 0,
+        "valence": 51.3
+    },
+    "Master Passion Greed": {
+        "artists": "Nightwish",
+        "energy": 90.5,
+        "length": 363,
+        "name": "Master Passion Greed",
+        "pop": 0,
+        "valence": 23.0
+    },
+    "Mint Car": {
+        "artists": "The Cure",
+        "energy": 94.5,
+        "length": 210,
+        "name": "Mint Car",
+        "pop": 0,
+        "valence": 76.1
+    },
+    "Moya": {
+        "artists": "The Southern Death Cult",
+        "energy": 96.6,
+        "length": 281,
+        "name": "Moya",
+        "pop": 0,
+        "valence": 38.7
+    },
+    "My Immortal": {
+        "artists": "Evanescence",
+        "energy": 33.3,
+        "length": 273,
+        "name": "My Immortal",
+        "pop": 0,
+        "valence": 6.91
+    },
+    "Nemo": {
+        "artists": "Nightwish",
+        "energy": 74.4,
+        "length": 279,
+        "name": "Nemo",
+        "pop": 0,
+        "valence": 37.5
+    },
+    "Nine While Nine (Remastered)": {
+        "artists": "Sisters of Mercy",
+        "energy": 68.8,
+        "length": 251,
+        "name": "Nine While Nine (Remastered)",
+        "pop": 0,
+        "valence": 80.0
+    },
+    "On the Other Side": {
+        "artists": "Delain",
+        "energy": 72.9,
+        "length": 251,
+        "name": "On the Other Side",
+        "pop": 21,
+        "valence": 34.9
+    },
+    "Opium": {
+        "artists": "Moonspell",
+        "energy": 92.6,
+        "length": 168,
+        "name": "Opium",
+        "pop": 0,
+        "valence": 33.7
+    },
+    "Pale Enchantress": {
+        "artists": "Tristania",
+        "energy": 71.6,
+        "length": 392,
+        "name": "Pale Enchantress",
+        "pop": 0,
+        "valence": 20.1
+    },
+    "Personal Jesus": {
+        "artists": "Depeche Mode",
+        "energy": 85.2,
+        "length": 225,
+        "name": "Personal Jesus",
+        "pop": 57,
+        "valence": 76.6
+    },
+    "Poison Door (Remastered)": {
+        "artists": "Sisters of Mercy",
+        "energy": 96.7,
+        "length": 232,
+        "name": "Poison Door (Remastered)",
+        "pop": 0,
+        "valence": 55.6
+    },
+    "Release the Bats": {
+        "artists": "The Birthday Party",
+        "energy": 72.4,
+        "length": 150,
+        "name": "Release the Bats",
+        "pop": 0,
+        "valence": 48.1
+    },
+    "Reptile": {
+        "artists": "The Church",
+        "energy": 67.0,
+        "length": 296,
+        "name": "Reptile",
+        "pop": 53,
+        "valence": 49.7
+    },
+    "Return To The Sea": {
+        "artists": "Nightwish",
+        "energy": 94.1,
+        "length": 346,
+        "name": "Return To The Sea",
+        "pop": 5,
+        "valence": 5.56
+    },
+    "S.O.S. (Anything but Love) (feat. Cristina Scabbia)": {
+        "artists": "Apocalyptica",
+        "energy": 72.0,
+        "length": 262,
+        "name": "S.O.S. (Anything but Love) (feat. Cristina Scabbia)",
+        "pop": 0,
+        "valence": 5.86
+    },
+    "Sacrilege": {
+        "artists": "Tristania",
+        "energy": 94.0,
+        "length": 255,
+        "name": "Sacrilege",
+        "pop": 0,
+        "valence": 19.0
+    },
+    "Sahara": {
+        "artists": "Nightwish",
+        "energy": 86.5,
+        "length": 347,
+        "name": "Sahara",
+        "pop": 0,
+        "valence": 15.7
+    },
+    "Samadhi - Prelude": {
+        "artists": "Epica",
+        "energy": 67.3,
+        "length": 87,
+        "name": "Samadhi - Prelude",
+        "pop": 0,
+        "valence": 78.6
+    },
+    "Secret Passion": {
+        "artists": "Imperia",
+        "energy": 86.0,
+        "length": 328,
+        "name": "Secret Passion",
+        "pop": 0,
+        "valence": 37.5
+    },
+    "Senzafine": {
+        "artists": "Lacuna Coil",
+        "energy": 83.0,
+        "length": 234,
+        "name": "Senzafine",
+        "pop": 0,
+        "valence": 15.9
+    },
+    "Serenade Of Self-Destruction": {
+        "artists": "Epica",
+        "energy": 91.5,
+        "length": 592,
+        "name": "Serenade Of Self-Destruction",
+        "pop": 0,
+        "valence": 16.1
+    },
+    "Sleepwalker": {
+        "artists": "Nightwish",
+        "energy": 80.3,
+        "length": 185,
+        "name": "Sleepwalker",
+        "pop": 12,
+        "valence": 14.5
+    },
+    "Slow Kill": {
+        "artists": "Fields Of The Nephilim",
+        "energy": 55.1,
+        "length": 224,
+        "name": "Slow Kill",
+        "pop": 0,
+        "valence": 49.0
+    },
+    "Small Talk Stinks": {
+        "artists": "Bauhaus",
+        "energy": 80.4,
+        "length": 215,
+        "name": "Small Talk Stinks",
+        "pop": 0,
+        "valence": 51.3
+    },
+    "Stay With Me": {
+        "artists": "The Mission",
+        "energy": 72.5,
+        "length": 276,
+        "name": "Stay With Me",
+        "pop": 21,
+        "valence": 68.4
+    },
+    "Sweet Curse": {
+        "artists": "ReVamp",
+        "energy": 65.5,
+        "length": 257,
+        "name": "Sweet Curse",
+        "pop": 0,
+        "valence": 18.8
+    },
+    "Telegram Sam": {
+        "artists": "Bauhaus",
+        "energy": 67.5,
+        "length": 132,
+        "name": "Telegram Sam",
+        "pop": 0,
+        "valence": 82.7
+    },
+    "The Beautiful People": {
+        "artists": "Marilyn Manson",
+        "energy": 95.0,
+        "length": 223,
+        "name": "The Beautiful People",
+        "pop": 52,
+        "valence": 77.1
+    },
+    "The Cross": {
+        "artists": "Within Temptation",
+        "energy": 84.7,
+        "length": 298,
+        "name": "The Cross",
+        "pop": 0,
+        "valence": 12.3
+    },
+    "The Killing Jar": {
+        "artists": "Siouxsie and the Banshees",
+        "energy": 61.9,
+        "length": 239,
+        "name": "The Killing Jar",
+        "pop": 0,
+        "valence": 53.3
+    },
+    "The Killing Moon": {
+        "artists": "Echo & the Bunnymen",
+        "energy": 85.0,
+        "length": 346,
+        "name": "The Killing Moon",
+        "pop": 63,
+        "valence": 71.0
+    },
+    "The Last Goodbye": {
+        "artists": "Lacuna Coil",
+        "energy": 76.2,
+        "length": 255,
+        "name": "The Last Goodbye",
+        "pop": 0,
+        "valence": 30.5
+    },
+    "The Other Half (Of Me)": {
+        "artists": "Within Temptation",
+        "energy": 91.0,
+        "length": 304,
+        "name": "The Other Half (Of Me)",
+        "pop": 0,
+        "valence": 12.4
+    },
+    "The Phantom Agony - Live in Miskolc": {
+        "artists": "Epica",
+        "energy": 86.4,
+        "length": 631,
+        "name": "The Phantom Agony - Live in Miskolc",
+        "pop": 0,
+        "valence": 6.93
+    },
+    "The Sacrament": {
+        "artists": "HIM",
+        "energy": 97.0,
+        "length": 271,
+        "name": "The Sacrament",
+        "pop": 26,
+        "valence": 17.7
+    },
+    "The Ubiquitous Mr Lovegrove": {
+        "artists": "Dead Can Dance",
+        "energy": 46.3,
+        "length": 374,
+        "name": "The Ubiquitous Mr Lovegrove",
+        "pop": 0,
+        "valence": 15.4
+    },
+    "Thin Line": {
+        "artists": "honeyhoney",
+        "energy": 84.0,
+        "length": 286,
+        "name": "Thin Line",
+        "pop": 39,
+        "valence": 24.5
+    },
+    "Time To Bring The Pain": {
+        "artists": "Krypteria",
+        "energy": 80.8,
+        "length": 292,
+        "name": "Time To Bring The Pain",
+        "pop": 19,
+        "valence": 37.6
+    },
+    "Torch - 2006 Remaster": {
+        "artists": "Sisters of Mercy",
+        "energy": 19.2,
+        "length": 242,
+        "name": "Torch - 2006 Remaster",
+        "pop": 13,
+        "valence": 15.8
+    },
+    "Trip The Darkness": {
+        "artists": "Lacuna Coil",
+        "energy": 91.1,
+        "length": 194,
+        "name": "Trip The Darkness",
+        "pop": 0,
+        "valence": 38.0
+    },
+    "Until My Last Breath": {
+        "artists": "Tarja",
+        "energy": 79.2,
+        "length": 264,
+        "name": "Until My Last Breath",
+        "pop": 0,
+        "valence": 32.9
+    },
+    "Upsidedown": {
+        "artists": "Lacuna Coil",
+        "energy": 88.4,
+        "length": 183,
+        "name": "Upsidedown",
+        "pop": 0,
+        "valence": 60.2
+    },
+    "What Have You Done (feat. Keith Caputo)": {
+        "artists": "Within Temptation",
+        "energy": 93.9,
+        "length": 316,
+        "name": "What Have You Done (feat. Keith Caputo)",
+        "pop": 0,
+        "valence": 13.1
+    },
+    "Wings of A Butterfly": {
+        "artists": "HIM",
+        "energy": 77.6,
+        "length": 212,
+        "name": "Wings of A Butterfly",
+        "pop": 0,
+        "valence": 66.7
+    },
+    "Winter Land": {
+        "artists": "Sirenia",
+        "energy": 65.7,
+        "length": 235,
+        "name": "Winter Land",
+        "pop": 0,
+        "valence": 19.4
+    },
+    "Wolf Moon (Including Zoanthropic Paranoia)": {
+        "artists": "Type O Negative",
+        "energy": 66.5,
+        "length": 398,
+        "name": "Wolf Moon (Including Zoanthropic Paranoia)",
+        "pop": 51,
+        "valence": 21.9
+    },
+    "Your Star": {
+        "artists": "Evanescence",
+        "energy": 70.0,
+        "length": 283,
+        "name": "Your Star",
+        "pop": 0,
+        "valence": 16.2
+    }
+}

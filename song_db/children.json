@@ -1,0 +1,802 @@
+{
+    "...To Die For": {
+        "artists": "Hans Zimmer",
+        "energy": 32.3,
+        "length": 258,
+        "name": "...To Die For",
+        "pop": 0,
+        "valence": 3.97
+    },
+    "22": {
+        "artists": "Taylor Swift",
+        "energy": 74.0,
+        "length": 232,
+        "name": "22",
+        "pop": 0,
+        "valence": 64.9
+    },
+    "A Sky Full of Stars": {
+        "artists": "Coldplay",
+        "energy": 67.5,
+        "length": 268,
+        "name": "A Sky Full of Stars",
+        "pop": 60,
+        "valence": 16.2
+    },
+    "ABC": {
+        "artists": "The Jackson 5",
+        "energy": 75.2,
+        "length": 180,
+        "name": "ABC",
+        "pop": 0,
+        "valence": 94.6
+    },
+    "ABC-DEF-GHI": {
+        "artists": "Big Bird",
+        "energy": 57.0,
+        "length": 108,
+        "name": "ABC-DEF-GHI",
+        "pop": 0,
+        "valence": 97.0
+    },
+    "Addicted To You": {
+        "artists": "Avicii",
+        "energy": 78.5,
+        "length": 148,
+        "name": "Addicted To You",
+        "pop": 0,
+        "valence": 30.3
+    },
+    "Amazing": {
+        "artists": "Danny Saucedo",
+        "energy": 90.3,
+        "length": 181,
+        "name": "Amazing",
+        "pop": 48,
+        "valence": 44.3
+    },
+    "Baby Beluga": {
+        "artists": "Raffi",
+        "energy": 26.3,
+        "length": 161,
+        "name": "Baby Beluga",
+        "pop": 65,
+        "valence": 57.1
+    },
+    "Bagagedrager": {
+        "artists": "Gers Pardoel",
+        "energy": 72.5,
+        "length": 222,
+        "name": "Bagagedrager",
+        "pop": 55,
+        "valence": 61.2
+    },
+    "Banana": {
+        "artists": "The Aggrolites",
+        "energy": 80.2,
+        "length": 142,
+        "name": "Banana",
+        "pop": 0,
+        "valence": 96.5
+    },
+    "Bang Bang": {
+        "artists": "Jessie J",
+        "energy": 75.2,
+        "length": 199,
+        "name": "Bang Bang",
+        "pop": 58,
+        "valence": 72.4
+    },
+    "Black Widow": {
+        "artists": "Iggy Azalea",
+        "energy": 72.0,
+        "length": 209,
+        "name": "Black Widow",
+        "pop": 68,
+        "valence": 51.9
+    },
+    "Born This Way": {
+        "artists": "Lady Gaga",
+        "energy": 82.8,
+        "length": 260,
+        "name": "Born This Way",
+        "pop": 46,
+        "valence": 51.9
+    },
+    "Brown Eyed Girl": {
+        "artists": "Van Morrison",
+        "energy": 58.6,
+        "length": 184,
+        "name": "Brown Eyed Girl",
+        "pop": 0,
+        "valence": 89.9
+    },
+    "Brush Your Teeth": {
+        "artists": "Raffi",
+        "energy": 21.6,
+        "length": 72,
+        "name": "Brush Your Teeth",
+        "pop": 57,
+        "valence": 49.0
+    },
+    "Can't Hold Us (feat. Ray Dalton)": {
+        "artists": "Macklemore & Ryan Lewis",
+        "energy": 92.2,
+        "length": 258,
+        "name": "Can't Hold Us (feat. Ray Dalton)",
+        "pop": 84,
+        "valence": 84.7
+    },
+    "Carl Goes Up - From \"Up\"": {
+        "artists": "Michael Giacchino",
+        "energy": 16.6,
+        "length": 214,
+        "name": "Carl Goes Up - From \"Up\"",
+        "pop": 34,
+        "valence": 6.77
+    },
+    "Carry On": {
+        "artists": "fun.",
+        "energy": 69.4,
+        "length": 278,
+        "name": "Carry On",
+        "pop": 62,
+        "valence": 36.5
+    },
+    "Circle of Life - From \"The Lion King\" Soundtrack": {
+        "artists": "Carmen Twillie",
+        "energy": 39.1,
+        "length": 239,
+        "name": "Circle of Life - From \"The Lion King\" Soundtrack",
+        "pop": 42,
+        "valence": 55.3
+    },
+    "Crazy In Love (feat. Jay-Z)": {
+        "artists": "Beyonc\u00e9",
+        "energy": 77.0,
+        "length": 236,
+        "name": "Crazy In Love (feat. Jay-Z)",
+        "pop": 81,
+        "valence": 68.1
+    },
+    "Cruise": {
+        "artists": "Florida Georgia Line",
+        "energy": 94.8,
+        "length": 209,
+        "name": "Cruise",
+        "pop": 76,
+        "valence": 87.8
+    },
+    "Cruisin' for a Bruisin' - From \"Teen Beach Movie\"": {
+        "artists": "Austin Moon",
+        "energy": 90.5,
+        "length": 196,
+        "name": "Cruisin' for a Bruisin' - From \"Teen Beach Movie\"",
+        "pop": 0,
+        "valence": 79.2
+    },
+    "Daylight": {
+        "artists": "Maroon 5",
+        "energy": 67.9,
+        "length": 225,
+        "name": "Daylight",
+        "pop": 65,
+        "valence": 33.1
+    },
+    "Die Young": {
+        "artists": "Kesha",
+        "energy": 70.0,
+        "length": 212,
+        "name": "Die Young",
+        "pop": 0,
+        "valence": 80.1
+    },
+    "Doin' the Pigeon": {
+        "artists": "Bert",
+        "energy": 29.7,
+        "length": 133,
+        "name": "Doin' the Pigeon",
+        "pop": 0,
+        "valence": 78.2
+    },
+    "Down By The Bay": {
+        "artists": "Raffi",
+        "energy": 14.4,
+        "length": 128,
+        "name": "Down By The Bay",
+        "pop": 63,
+        "valence": 86.9
+    },
+    "Euphoria - Single Version": {
+        "artists": "Loreen",
+        "energy": 78.3,
+        "length": 182,
+        "name": "Euphoria - Single Version",
+        "pop": 67,
+        "valence": 39.1
+    },
+    "Everything Is AWESOME!!! (feat. The Lonely Island)": {
+        "artists": "Tegan and Sara",
+        "energy": 96.0,
+        "length": 163,
+        "name": "Everything Is AWESOME!!! (feat. The Lonely Island)",
+        "pop": 0,
+        "valence": 73.8
+    },
+    "Fake-Believe (Type B)": {
+        "artists": "They Might Be Giants (For Kids)",
+        "energy": 64.8,
+        "length": 117,
+        "name": "Fake-Believe (Type B)",
+        "pop": 15,
+        "valence": 70.5
+    },
+    "Feel This Moment (feat. Christina Aguilera)": {
+        "artists": "Pitbull",
+        "energy": 75.8,
+        "length": 230,
+        "name": "Feel This Moment (feat. Christina Aguilera)",
+        "pop": 55,
+        "valence": 53.1
+    },
+    "First Date - From \"WALL-E\"": {
+        "artists": "Thomas Newman",
+        "energy": 51.2,
+        "length": 81,
+        "name": "First Date - From \"WALL-E\"",
+        "pop": 21,
+        "valence": 59.4
+    },
+    "Gaston - Soundtrack": {
+        "artists": "Richard White",
+        "energy": 46.2,
+        "length": 220,
+        "name": "Gaston - Soundtrack",
+        "pop": 0,
+        "valence": 68.4
+    },
+    "Geronimo": {
+        "artists": "Sheppard",
+        "energy": 77.1,
+        "length": 218,
+        "name": "Geronimo",
+        "pop": 0,
+        "valence": 43.7
+    },
+    "Ghost": {
+        "artists": "Ella Henderson",
+        "energy": 83.6,
+        "length": 216,
+        "name": "Ghost",
+        "pop": 57,
+        "valence": 48.6
+    },
+    "Good Time": {
+        "artists": "Owl City",
+        "energy": 88.8,
+        "length": 207,
+        "name": "Good Time",
+        "pop": 0,
+        "valence": 70.0
+    },
+    "Hands for Hans - Score Demo": {
+        "artists": "Christophe Beck",
+        "energy": 19.9,
+        "length": 49,
+        "name": "Hands for Hans - Score Demo",
+        "pop": 36,
+        "valence": 3.19
+    },
+    "Happy": {
+        "artists": "Pharrell Williams",
+        "energy": 75.7,
+        "length": 233,
+        "name": "Happy",
+        "pop": 3,
+        "valence": 96.2
+    },
+    "Heart Attack": {
+        "artists": "One Direction",
+        "energy": 82.4,
+        "length": 176,
+        "name": "Heart Attack",
+        "pop": 0,
+        "valence": 63.0
+    },
+    "Heimr \u00c0rnadalr - From \"Frozen\"/Score": {
+        "artists": "Christophe Beck",
+        "energy": 7.57,
+        "length": 86,
+        "name": "Heimr \u00c0rnadalr - From \"Frozen\"/Score",
+        "pop": 49,
+        "valence": 5.54
+    },
+    "Hey, Soul Sister": {
+        "artists": "Train",
+        "energy": 88.5,
+        "length": 217,
+        "name": "Hey, Soul Sister",
+        "pop": 0,
+        "valence": 76.8
+    },
+    "Home": {
+        "artists": "Edward Sharpe & The Magnetic Zeros",
+        "energy": 59.0,
+        "length": 306,
+        "name": "Home",
+        "pop": 0,
+        "valence": 12.7
+    },
+    "Honor To Us All": {
+        "artists": "Lea Salonga",
+        "energy": 24.2,
+        "length": 183,
+        "name": "Honor To Us All",
+        "pop": 63,
+        "valence": 65.2
+    },
+    "Hot Potato": {
+        "artists": "The Wiggles",
+        "energy": 76.0,
+        "length": 80,
+        "name": "Hot Potato",
+        "pop": 0,
+        "valence": 92.4
+    },
+    "Houdini": {
+        "artists": "Foster The People",
+        "energy": 90.8,
+        "length": 202,
+        "name": "Houdini",
+        "pop": 71,
+        "valence": 76.4
+    },
+    "I Love Trash": {
+        "artists": "Oscar the Grouch",
+        "energy": 61.2,
+        "length": 173,
+        "name": "I Love Trash",
+        "pop": 0,
+        "valence": 78.1
+    },
+    "I Won't Say (I'm In Love) - From \"Hercules\" / Soundtrack Version": {
+        "artists": "Susan Egan",
+        "energy": 47.1,
+        "length": 140,
+        "name": "I Won't Say (I'm In Love) - From \"Hercules\" / Soundtrack Version",
+        "pop": 55,
+        "valence": 45.3
+    },
+    "I'm Gonna Catch You": {
+        "artists": "The Laurie Berkner Band",
+        "energy": 51.6,
+        "length": 203,
+        "name": "I'm Gonna Catch You",
+        "pop": 0,
+        "valence": 92.7
+    },
+    "I'm Not Perfect": {
+        "artists": "The Laurie Berkner Band",
+        "energy": 39.7,
+        "length": 113,
+        "name": "I'm Not Perfect",
+        "pop": 0,
+        "valence": 65.3
+    },
+    "I'm So Sorry": {
+        "artists": "Yo Gabba Gabba",
+        "energy": 66.3,
+        "length": 127,
+        "name": "I'm So Sorry",
+        "pop": 0,
+        "valence": 56.3
+    },
+    "In The City": {
+        "artists": "Now, Now Every Children",
+        "energy": 94.1,
+        "length": 240,
+        "name": "In The City",
+        "pop": 7,
+        "valence": 48.8
+    },
+    "Just Around the Riverbend - From \"Pocahontas\" / Soundtrack Version": {
+        "artists": "Judy Kuhn",
+        "energy": 21.7,
+        "length": 150,
+        "name": "Just Around the Riverbend - From \"Pocahontas\" / Soundtrack Version",
+        "pop": 42,
+        "valence": 26.2
+    },
+    "Keep Walking": {
+        "artists": "VeggieTales",
+        "energy": 38.6,
+        "length": 108,
+        "name": "Keep Walking",
+        "pop": 0,
+        "valence": 92.5
+    },
+    "Let It Go - Demi Lovato Version / Instrumental Karaoke": {
+        "artists": "Kristen Anderson-Lopez",
+        "energy": 67.7,
+        "length": 225,
+        "name": "Let It Go - Demi Lovato Version / Instrumental Karaoke",
+        "pop": 37,
+        "valence": 14.2
+    },
+    "Letter Shapes": {
+        "artists": "They Might Be Giants (For Kids)",
+        "energy": 32.7,
+        "length": 83,
+        "name": "Letter Shapes",
+        "pop": 16,
+        "valence": 77.3
+    },
+    "Love The Way You Lie": {
+        "artists": "Eminem",
+        "energy": 92.2,
+        "length": 263,
+        "name": "Love The Way You Lie",
+        "pop": 0,
+        "valence": 63.8
+    },
+    "Make It Shine (Victorious Theme) (feat. Victoria Justice)": {
+        "artists": "Victorious Cast",
+        "energy": 93.1,
+        "length": 188,
+        "name": "Make It Shine (Victorious Theme) (feat. Victoria Justice)",
+        "pop": 55,
+        "valence": 49.1
+    },
+    "Meet the Elements": {
+        "artists": "They Might Be Giants (For Kids)",
+        "energy": 56.9,
+        "length": 199,
+        "name": "Meet the Elements",
+        "pop": 31,
+        "valence": 60.7
+    },
+    "Midnight Memories": {
+        "artists": "One Direction",
+        "energy": 86.8,
+        "length": 176,
+        "name": "Midnight Memories",
+        "pop": 71,
+        "valence": 56.7
+    },
+    "Mirrors": {
+        "artists": "Justin Timberlake",
+        "energy": 51.2,
+        "length": 484,
+        "name": "Mirrors",
+        "pop": 81,
+        "valence": 51.2
+    },
+    "My Brother the Ape": {
+        "artists": "They Might Be Giants (For Kids)",
+        "energy": 77.5,
+        "length": 187,
+        "name": "My Brother the Ape",
+        "pop": 24,
+        "valence": 96.1
+    },
+    "Nonagon": {
+        "artists": "They Might Be Giants (For Kids)",
+        "energy": 80.2,
+        "length": 84,
+        "name": "Nonagon",
+        "pop": 18,
+        "valence": 95.2
+    },
+    "Out There - From \"The Hunchback of Notre Dame\"/Soundtrack": {
+        "artists": "Tony Jay",
+        "energy": 26.1,
+        "length": 266,
+        "name": "Out There - From \"The Hunchback of Notre Dame\"/Soundtrack",
+        "pop": 38,
+        "valence": 24.9
+    },
+    "Payphone": {
+        "artists": "Maroon 5",
+        "energy": 74.4,
+        "length": 231,
+        "name": "Payphone",
+        "pop": 0,
+        "valence": 55.6
+    },
+    "Poor Unfortunate Souls - From \"The Little Mermaid\" / Soundtrack Version": {
+        "artists": "Pat Carroll",
+        "energy": 17.1,
+        "length": 292,
+        "name": "Poor Unfortunate Souls - From \"The Little Mermaid\" / Soundtrack Version",
+        "pop": 55,
+        "valence": 36.2
+    },
+    "Riptide": {
+        "artists": "Vance Joy",
+        "energy": 73.1,
+        "length": 204,
+        "name": "Riptide",
+        "pop": 55,
+        "valence": 51.0
+    },
+    "Safe And Sound": {
+        "artists": "Capital Cities",
+        "energy": 78.3,
+        "length": 193,
+        "name": "Safe And Sound",
+        "pop": 0,
+        "valence": 83.6
+    },
+    "Say Something": {
+        "artists": "A Great Big World",
+        "energy": 14.7,
+        "length": 229,
+        "name": "Say Something",
+        "pop": 76,
+        "valence": 7.65
+    },
+    "Scary Monsters and Nice Sprites": {
+        "artists": "Skrillex",
+        "energy": 94.4,
+        "length": 243,
+        "name": "Scary Monsters and Nice Sprites",
+        "pop": 62,
+        "valence": 32.4
+    },
+    "Science Is Real": {
+        "artists": "They Might Be Giants (For Kids)",
+        "energy": 70.0,
+        "length": 114,
+        "name": "Science Is Real",
+        "pop": 35,
+        "valence": 50.1
+    },
+    "Scream & Shout": {
+        "artists": "will.i.am",
+        "energy": 61.6,
+        "length": 284,
+        "name": "Scream & Shout",
+        "pop": 0,
+        "valence": 47.3
+    },
+    "Seven": {
+        "artists": "They Might Be Giants (For Kids)",
+        "energy": 80.0,
+        "length": 129,
+        "name": "Seven",
+        "pop": 25,
+        "valence": 89.5
+    },
+    "Sing": {
+        "artists": "Ed Sheeran",
+        "energy": 67.0,
+        "length": 235,
+        "name": "Sing",
+        "pop": 40,
+        "valence": 93.9
+    },
+    "Smells Like Teen Spirit": {
+        "artists": "Nirvana",
+        "energy": 87.5,
+        "length": 301,
+        "name": "Smells Like Teen Spirit",
+        "pop": 0,
+        "valence": 82.6
+    },
+    "Some Day My Prince Will Come - From \"Snow White And The Seven Dwarfs\" Soundtrack": {
+        "artists": "Adriana Caselotti",
+        "energy": 26.6,
+        "length": 114,
+        "name": "Some Day My Prince Will Come - From \"Snow White And The Seven Dwarfs\" Soundtrack",
+        "pop": 31,
+        "valence": 35.7
+    },
+    "Some Nights": {
+        "artists": "fun.",
+        "energy": 73.8,
+        "length": 277,
+        "name": "Some Nights",
+        "pop": 72,
+        "valence": 39.2
+    },
+    "Sweet Disposition": {
+        "artists": "The Temper Trap",
+        "energy": 80.4,
+        "length": 235,
+        "name": "Sweet Disposition",
+        "pop": 0,
+        "valence": 34.7
+    },
+    "That's How You Know - From \"Enchanted\"/Soundtrack Version": {
+        "artists": "Amy Adams",
+        "energy": 66.7,
+        "length": 229,
+        "name": "That's How You Know - From \"Enchanted\"/Soundtrack Version",
+        "pop": 66,
+        "valence": 52.0
+    },
+    "The Climb": {
+        "artists": "Miley Cyrus",
+        "energy": 59.4,
+        "length": 237,
+        "name": "The Climb",
+        "pop": 41,
+        "valence": 39.6
+    },
+    "The Freeze Game": {
+        "artists": "Yo Gabba Gabba",
+        "energy": 51.2,
+        "length": 156,
+        "name": "The Freeze Game",
+        "pop": 0,
+        "valence": 86.0
+    },
+    "The One That Got Away": {
+        "artists": "Katy Perry",
+        "energy": 79.2,
+        "length": 227,
+        "name": "The One That Got Away",
+        "pop": 75,
+        "valence": 86.4
+    },
+    "This Is What It Feels Like": {
+        "artists": "Armin van Buuren",
+        "energy": 83.3,
+        "length": 204,
+        "name": "This Is What It Feels Like",
+        "pop": 51,
+        "valence": 14.5
+    },
+    "Time for Your Check Up": {
+        "artists": "Doc McStuffins",
+        "energy": 91.1,
+        "length": 34,
+        "name": "Time for Your Check Up",
+        "pop": 44,
+        "valence": 63.2
+    },
+    "Turn Down for What": {
+        "artists": "DJ Snake",
+        "energy": 79.9,
+        "length": 214,
+        "name": "Turn Down for What",
+        "pop": 74,
+        "valence": 8.15
+    },
+    "U Smile": {
+        "artists": "Justin Bieber",
+        "energy": 60.5,
+        "length": 197,
+        "name": "U Smile",
+        "pop": 0,
+        "valence": 41.9
+    },
+    "Under the Stars": {
+        "artists": "Hans Zimmer",
+        "energy": 25.4,
+        "length": 225,
+        "name": "Under the Stars",
+        "pop": 0,
+        "valence": 10.7
+    },
+    "We Found Love": {
+        "artists": "Rihanna",
+        "energy": 74.0,
+        "length": 216,
+        "name": "We Found Love",
+        "pop": 1,
+        "valence": 60.9
+    },
+    "We R Who We R": {
+        "artists": "Kesha",
+        "energy": 81.8,
+        "length": 205,
+        "name": "We R Who We R",
+        "pop": 0,
+        "valence": 71.3
+    },
+    "What's This?": {
+        "artists": "Danny Elfman",
+        "energy": 41.1,
+        "length": 185,
+        "name": "What's This?",
+        "pop": 42,
+        "valence": 48.9
+    },
+    "Wheels On The Bus": {
+        "artists": "Dora The Explorer",
+        "energy": 90.7,
+        "length": 165,
+        "name": "Wheels On The Bus",
+        "pop": 33,
+        "valence": 77.9
+    },
+    "When Will My Life Begin? - From \"Tangled\" / Soundtrack Version": {
+        "artists": "Mandy Moore",
+        "energy": 42.0,
+        "length": 152,
+        "name": "When Will My Life Begin? - From \"Tangled\" / Soundtrack Version",
+        "pop": 74,
+        "valence": 38.5
+    },
+    "Where Do I Go From Here - From \"Pocahontas II: Journey To a New World\" / Soundtrack Version": {
+        "artists": "Pocahontas",
+        "energy": 29.9,
+        "length": 161,
+        "name": "Where Do I Go From Here - From \"Pocahontas II: Journey To a New World\" / Soundtrack Version",
+        "pop": 26,
+        "valence": 13.2
+    },
+    "Whistle": {
+        "artists": "Flo Rida",
+        "energy": 93.3,
+        "length": 225,
+        "name": "Whistle",
+        "pop": 59,
+        "valence": 75.0
+    },
+    "Wie Liet 'M": {
+        "artists": "Kinderen voor Kinderen",
+        "energy": 77.2,
+        "length": 211,
+        "name": "Wie Liet 'M",
+        "pop": 0,
+        "valence": 66.1
+    },
+    "Witch Doctor": {
+        "artists": "Alvin & The Chipmunks",
+        "energy": 92.2,
+        "length": 181,
+        "name": "Witch Doctor",
+        "pop": 0,
+        "valence": 73.7
+    },
+    "Without You (feat. Usher)": {
+        "artists": "David Guetta",
+        "energy": 61.4,
+        "length": 208,
+        "name": "Without You (feat. Usher)",
+        "pop": 74,
+        "valence": 40.2
+    },
+    "Wolves - From \"Frozen\"/Score": {
+        "artists": "Christophe Beck",
+        "energy": 42.9,
+        "length": 105,
+        "name": "Wolves - From \"Frozen\"/Score",
+        "pop": 45,
+        "valence": 3.66
+    },
+    "Yeah! (feat. Lil Jon & Ludacris)": {
+        "artists": "Usher",
+        "energy": 79.1,
+        "length": 250,
+        "name": "Yeah! (feat. Lil Jon & Ludacris)",
+        "pop": 85,
+        "valence": 58.3
+    },
+    "Yo Ho Mateys Away": {
+        "artists": "The Never Land Pirate Band",
+        "energy": 72.6,
+        "length": 43,
+        "name": "Yo Ho Mateys Away",
+        "pop": 40,
+        "valence": 80.2
+    },
+    "You Belong With Me": {
+        "artists": "Taylor Swift",
+        "energy": 78.3,
+        "length": 231,
+        "name": "You Belong With Me",
+        "pop": 74,
+        "valence": 44.3
+    },
+    "You've Got a Friend in Me - From \"Toy Story\"/Soundtrack Version": {
+        "artists": "Randy Newman",
+        "energy": 28.0,
+        "length": 125,
+        "name": "You've Got a Friend in Me - From \"Toy Story\"/Soundtrack Version",
+        "pop": 45,
+        "valence": 53.8
+    }
+}

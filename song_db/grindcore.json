@@ -1,0 +1,802 @@
+{
+    "1-800-Apathy": {
+        "artists": "Leng Tch'e",
+        "energy": 89.2,
+        "length": 188,
+        "name": "1-800-Apathy",
+        "pop": 9,
+        "valence": 38.2
+    },
+    "After Life In Purgatory": {
+        "artists": "Lock Up",
+        "energy": 98.1,
+        "length": 127,
+        "name": "After Life In Purgatory",
+        "pop": 0,
+        "valence": 24.0
+    },
+    "Alexandria": {
+        "artists": "Pig Destroyer",
+        "energy": 99.5,
+        "length": 184,
+        "name": "Alexandria",
+        "pop": 16,
+        "valence": 7.62
+    },
+    "Alternews": {
+        "artists": "Rotten Sound",
+        "energy": 97.2,
+        "length": 205,
+        "name": "Alternews",
+        "pop": 0,
+        "valence": 19.4
+    },
+    "Antibody": {
+        "artists": "Napalm Death",
+        "energy": 99.4,
+        "length": 170,
+        "name": "Antibody",
+        "pop": 16,
+        "valence": 26.6
+    },
+    "Arabian Jesus": {
+        "artists": "Birdflesh",
+        "energy": 95.8,
+        "length": 76,
+        "name": "Arabian Jesus",
+        "pop": 0,
+        "valence": 17.5
+    },
+    "Back Stabber Mission Aborted": {
+        "artists": "Wormrot",
+        "energy": 99.9,
+        "length": 42,
+        "name": "Back Stabber Mission Aborted",
+        "pop": 15,
+        "valence": 3.72
+    },
+    "Beating Up N$%&$gers That Sell Fake Crack": {
+        "artists": "Anal Cunt",
+        "energy": 98.2,
+        "length": 47,
+        "name": "Beating Up N$%&$gers That Sell Fake Crack",
+        "pop": 29,
+        "valence": 3.77
+    },
+    "Bitch's Handbag Full of Money": {
+        "artists": "Agoraphobic Nosebleed",
+        "energy": 99.8,
+        "length": 34,
+        "name": "Bitch's Handbag Full of Money",
+        "pop": 14,
+        "valence": 2.44
+    },
+    "Bridge Burner": {
+        "artists": "Magrudergrind",
+        "energy": 90.8,
+        "length": 218,
+        "name": "Bridge Burner",
+        "pop": 37,
+        "valence": 35.8
+    },
+    "Built To Blast": {
+        "artists": "Magrudergrind",
+        "energy": 78.8,
+        "length": 82,
+        "name": "Built To Blast",
+        "pop": 28,
+        "valence": 41.6
+    },
+    "Buried Dreams": {
+        "artists": "Carcass",
+        "energy": 99.0,
+        "length": 239,
+        "name": "Buried Dreams",
+        "pop": 0,
+        "valence": 22.0
+    },
+    "Carnal Forge": {
+        "artists": "Carcass",
+        "energy": 99.7,
+        "length": 235,
+        "name": "Carnal Forge",
+        "pop": 0,
+        "valence": 15.7
+    },
+    "Circle of Defeat": {
+        "artists": "Nasum",
+        "energy": 98.7,
+        "length": 72,
+        "name": "Circle of Defeat",
+        "pop": 0,
+        "valence": 62.4
+    },
+    "Constipation Camp": {
+        "artists": "Cattle Decapitation",
+        "energy": 99.0,
+        "length": 60,
+        "name": "Constipation Camp",
+        "pop": 0,
+        "valence": 3.38
+    },
+    "Darker Days Ahead": {
+        "artists": "Terrorizer",
+        "energy": 99.7,
+        "length": 227,
+        "name": "Darker Days Ahead",
+        "pop": 0,
+        "valence": 3.77
+    },
+    "Destructive Infinity": {
+        "artists": "Bolt Thrower",
+        "energy": 93.3,
+        "length": 254,
+        "name": "Destructive Infinity",
+        "pop": 27,
+        "valence": 9.38
+    },
+    "Dogma": {
+        "artists": "Napalm Death",
+        "energy": 99.6,
+        "length": 211,
+        "name": "Dogma",
+        "pop": 13,
+        "valence": 9.85
+    },
+    "Doom": {
+        "artists": "Rotten Sound",
+        "energy": 99.6,
+        "length": 108,
+        "name": "Doom",
+        "pop": 0,
+        "valence": 5.21
+    },
+    "Doombringer": {
+        "artists": "Nasum",
+        "energy": 97.7,
+        "length": 121,
+        "name": "Doombringer",
+        "pop": 15,
+        "valence": 11.1
+    },
+    "Down in the Streets": {
+        "artists": "Pig Destroyer",
+        "energy": 96.7,
+        "length": 226,
+        "name": "Down in the Streets",
+        "pop": 0,
+        "valence": 74.2
+    },
+    "Druggernaut Jug Fuck": {
+        "artists": "Agoraphobic Nosebleed",
+        "energy": 98.0,
+        "length": 144,
+        "name": "Druggernaut Jug Fuck",
+        "pop": 14,
+        "valence": 5.76
+    },
+    "Dying Will Be the Death of Me": {
+        "artists": "Cephalic Carnage",
+        "energy": 91.0,
+        "length": 282,
+        "name": "Dying Will Be the Death of Me",
+        "pop": 22,
+        "valence": 21.2
+    },
+    "Evolved Into Nothing": {
+        "artists": "Wormrot",
+        "energy": 99.1,
+        "length": 43,
+        "name": "Evolved Into Nothing",
+        "pop": 24,
+        "valence": 0
+    },
+    "Excoriating Abdominal Emanation": {
+        "artists": "Carcass",
+        "energy": 84.1,
+        "length": 272,
+        "name": "Excoriating Abdominal Emanation",
+        "pop": 25,
+        "valence": 21.9
+    },
+    "False Assumptions": {
+        "artists": "Wormrot",
+        "energy": 99.9,
+        "length": 47,
+        "name": "False Assumptions",
+        "pop": 13,
+        "valence": 3.21
+    },
+    "Feeling Redundant": {
+        "artists": "Napalm Death",
+        "energy": 97.9,
+        "length": 203,
+        "name": "Feeling Redundant",
+        "pop": 0,
+        "valence": 12.1
+    },
+    "Finer Truths White Lies": {
+        "artists": "Napalm Death",
+        "energy": 98.7,
+        "length": 179,
+        "name": "Finer Truths White Lies",
+        "pop": 10,
+        "valence": 12.0
+    },
+    "Forgotton Child": {
+        "artists": "Pig Destroyer",
+        "energy": 98.1,
+        "length": 92,
+        "name": "Forgotton Child",
+        "pop": 0,
+        "valence": 6.65
+    },
+    "Generation Hexed": {
+        "artists": "Carcass",
+        "energy": 94.8,
+        "length": 227,
+        "name": "Generation Hexed",
+        "pop": 29,
+        "valence": 67.2
+    },
+    "Girl In The Slayer Jacket": {
+        "artists": "Pig Destroyer",
+        "energy": 97.1,
+        "length": 206,
+        "name": "Girl In The Slayer Jacket",
+        "pop": 19,
+        "valence": 7.02
+    },
+    "Glimpse Into Genocide": {
+        "artists": "Napalm Death",
+        "energy": 97.9,
+        "length": 182,
+        "name": "Glimpse Into Genocide",
+        "pop": 18,
+        "valence": 8.03
+    },
+    "Half Dead": {
+        "artists": "Agoraphobic Nosebleed",
+        "energy": 90.9,
+        "length": 274,
+        "name": "Half Dead",
+        "pop": 13,
+        "valence": 7.93
+    },
+    "Hate Breeds Suffering": {
+        "artists": "Lock Up",
+        "energy": 98.0,
+        "length": 135,
+        "name": "Hate Breeds Suffering",
+        "pop": 3,
+        "valence": 10.3
+    },
+    "Heartwork": {
+        "artists": "Carcass",
+        "energy": 99.5,
+        "length": 273,
+        "name": "Heartwork",
+        "pop": 0,
+        "valence": 17.7
+    },
+    "Human Trafficking": {
+        "artists": "Insect Warfare",
+        "energy": 99.7,
+        "length": 79,
+        "name": "Human Trafficking",
+        "pop": 30,
+        "valence": 3.35
+    },
+    "I Hate People": {
+        "artists": "Nasum",
+        "energy": 95.9,
+        "length": 97,
+        "name": "I Hate People",
+        "pop": 23,
+        "valence": 21.7
+    },
+    "Impressions": {
+        "artists": "Napalm Death",
+        "energy": 78.9,
+        "length": 35,
+        "name": "Impressions",
+        "pop": 17,
+        "valence": 16.3
+    },
+    "In Exodus": {
+        "artists": "Nails",
+        "energy": 94.8,
+        "length": 79,
+        "name": "In Exodus",
+        "pop": 34,
+        "valence": 8.41
+    },
+    "Inside Is Out": {
+        "artists": "Cephalic Carnage",
+        "energy": 87.5,
+        "length": 234,
+        "name": "Inside Is Out",
+        "pop": 11,
+        "valence": 20.6
+    },
+    "Joined At The Ass": {
+        "artists": "Cattle Decapitation",
+        "energy": 91.2,
+        "length": 81,
+        "name": "Joined At The Ass",
+        "pop": 0,
+        "valence": 25.9
+    },
+    "Judicial Slime": {
+        "artists": "Napalm Death",
+        "energy": 99.2,
+        "length": 157,
+        "name": "Judicial Slime",
+        "pop": 15,
+        "valence": 11.7
+    },
+    "Junkyard God": {
+        "artists": "Pig Destroyer",
+        "energy": 99.2,
+        "length": 119,
+        "name": "Junkyard God",
+        "pop": 29,
+        "valence": 51.2
+    },
+    "Lame Brain": {
+        "artists": "Extreme Noise Terror",
+        "energy": 98.0,
+        "length": 136,
+        "name": "Lame Brain",
+        "pop": 22,
+        "valence": 22.9
+    },
+    "Larceny Of The Heart": {
+        "artists": "Napalm Death",
+        "energy": 99.2,
+        "length": 216,
+        "name": "Larceny Of The Heart",
+        "pop": 0,
+        "valence": 5.52
+    },
+    "Love It or Leave It": {
+        "artists": "Misery Index",
+        "energy": 92.9,
+        "length": 68,
+        "name": "Love It or Leave It",
+        "pop": 0,
+        "valence": 48.8
+    },
+    "Lowpoint": {
+        "artists": "Napalm Death",
+        "energy": 99.2,
+        "length": 195,
+        "name": "Lowpoint",
+        "pop": 9,
+        "valence": 5.67
+    },
+    "Mass Appeal Madness": {
+        "artists": "Napalm Death",
+        "energy": 92.7,
+        "length": 210,
+        "name": "Mass Appeal Madness",
+        "pop": 28,
+        "valence": 11.2
+    },
+    "Mass Communication Mindfuck": {
+        "artists": "Insect Warfare",
+        "energy": 99.8,
+        "length": 79,
+        "name": "Mass Communication Mindfuck",
+        "pop": 26,
+        "valence": 2.74
+    },
+    "Mass Disruption": {
+        "artists": "Wormrot",
+        "energy": 99.3,
+        "length": 40,
+        "name": "Mass Disruption",
+        "pop": 12,
+        "valence": 5.91
+    },
+    "Moral Crusade": {
+        "artists": "Napalm Death",
+        "energy": 73.4,
+        "length": 92,
+        "name": "Moral Crusade",
+        "pop": 10,
+        "valence": 11.0
+    },
+    "Nation": {
+        "artists": "Rotten Sound",
+        "energy": 94.9,
+        "length": 108,
+        "name": "Nation",
+        "pop": 0,
+        "valence": 19.3
+    },
+    "Negative Approach": {
+        "artists": "Napalm Death",
+        "energy": 96.3,
+        "length": 32,
+        "name": "Negative Approach",
+        "pop": 12,
+        "valence": 4.5
+    },
+    "No Threat": {
+        "artists": "Extreme Noise Terror",
+        "energy": 99.9,
+        "length": 68,
+        "name": "No Threat",
+        "pop": 0,
+        "valence": 3.17
+    },
+    "Nuclear Deterrence": {
+        "artists": "Insect Warfare",
+        "energy": 99.5,
+        "length": 80,
+        "name": "Nuclear Deterrence",
+        "pop": 27,
+        "valence": 2.7
+    },
+    "Obey": {
+        "artists": "Rotten Sound",
+        "energy": 99.0,
+        "length": 196,
+        "name": "Obey",
+        "pop": 0,
+        "valence": 3.93
+    },
+    "Open Human Head Experiments With Bleach Laquer And Epoxy": {
+        "artists": "Cattle Decapitation",
+        "energy": 93.2,
+        "length": 68,
+        "name": "Open Human Head Experiments With Bleach Laquer And Epoxy",
+        "pop": 0,
+        "valence": 18.4
+    },
+    "Pestilent Decay": {
+        "artists": "Repulsion",
+        "energy": 99.4,
+        "length": 63,
+        "name": "Pestilent Decay",
+        "pop": 23,
+        "valence": 3.84
+    },
+    "Plagued By The System": {
+        "artists": "Phobia",
+        "energy": 94.7,
+        "length": 40,
+        "name": "Plagued By The System",
+        "pop": 5,
+        "valence": 48.2
+    },
+    "Plan": {
+        "artists": "Rotten Sound",
+        "energy": 95.5,
+        "length": 85,
+        "name": "Plan",
+        "pop": 0,
+        "valence": 6.1
+    },
+    "Polarized": {
+        "artists": "Carcass",
+        "energy": 95.9,
+        "length": 242,
+        "name": "Polarized",
+        "pop": 32,
+        "valence": 53.7
+    },
+    "Priest With The Sexually Transmitted Diseases, Get Out Of My Bed": {
+        "artists": "The Locust",
+        "energy": 96.3,
+        "length": 33,
+        "name": "Priest With The Sexually Transmitted Diseases, Get Out Of My Bed",
+        "pop": 0,
+        "valence": 49.9
+    },
+    "Propagrinda - 2008 Dead EP": {
+        "artists": "Wormrot",
+        "energy": 75.9,
+        "length": 32,
+        "name": "Propagrinda - 2008 Dead EP",
+        "pop": 8,
+        "valence": 15.2
+    },
+    "Psychopathologist": {
+        "artists": "Carcass",
+        "energy": 89.8,
+        "length": 78,
+        "name": "Psychopathologist",
+        "pop": 18,
+        "valence": 6.02
+    },
+    "Pulverising Hate Mongers": {
+        "artists": "Magrudergrind",
+        "energy": 96.4,
+        "length": 63,
+        "name": "Pulverising Hate Mongers",
+        "pop": 0,
+        "valence": 21.1
+    },
+    "Rapid Abortions of Ridiculous Proportions": {
+        "artists": "Wormrot",
+        "energy": 99.4,
+        "length": 54,
+        "name": "Rapid Abortions of Ridiculous Proportions",
+        "pop": 11,
+        "valence": 3.65
+    },
+    "Razor Blades Under the Dashboard": {
+        "artists": "Agoraphobic Nosebleed",
+        "energy": 99.9,
+        "length": 51,
+        "name": "Razor Blades Under the Dashboard",
+        "pop": 13,
+        "valence": 3.55
+    },
+    "Refuse - 2008 Diseptic Split": {
+        "artists": "Wormrot",
+        "energy": 99.2,
+        "length": 87,
+        "name": "Refuse - 2008 Diseptic Split",
+        "pop": 8,
+        "valence": 10.2
+    },
+    "Rejecting The Militant Promise": {
+        "artists": "Magrudergrind",
+        "energy": 95.5,
+        "length": 43,
+        "name": "Rejecting The Militant Promise",
+        "pop": 28,
+        "valence": 22.8
+    },
+    "Relics": {
+        "artists": "Nasum",
+        "energy": 98.8,
+        "length": 154,
+        "name": "Relics",
+        "pop": 19,
+        "valence": 36.5
+    },
+    "Repercussions In the Life of a Pseudo Intellectual Jackass": {
+        "artists": "Agoraphobic Nosebleed",
+        "energy": 98.8,
+        "length": 88,
+        "name": "Repercussions In the Life of a Pseudo Intellectual Jackass",
+        "pop": 10,
+        "valence": 3.51
+    },
+    "Repression Out Of Uniform": {
+        "artists": "Napalm Death",
+        "energy": 99.4,
+        "length": 173,
+        "name": "Repression Out Of Uniform",
+        "pop": 10,
+        "valence": 22.1
+    },
+    "Restraining Order Blues": {
+        "artists": "Pig Destroyer",
+        "energy": 99.9,
+        "length": 92,
+        "name": "Restraining Order Blues",
+        "pop": 24,
+        "valence": 3.48
+    },
+    "Sacrificed": {
+        "artists": "Napalm Death",
+        "energy": 96.8,
+        "length": 65,
+        "name": "Sacrificed",
+        "pop": 15,
+        "valence": 3.47
+    },
+    "Screwed": {
+        "artists": "Nasum",
+        "energy": 99.9,
+        "length": 41,
+        "name": "Screwed",
+        "pop": 14,
+        "valence": 3.57
+    },
+    "Scum Infestation and Last Song": {
+        "artists": "Wormrot",
+        "energy": 99.7,
+        "length": 136,
+        "name": "Scum Infestation and Last Song",
+        "pop": 14,
+        "valence": 3.83
+    },
+    "Self": {
+        "artists": "Rotten Sound",
+        "energy": 95.0,
+        "length": 83,
+        "name": "Self",
+        "pop": 0,
+        "valence": 15.9
+    },
+    "Sheet Metal Girl": {
+        "artists": "Pig Destroyer",
+        "energy": 99.9,
+        "length": 69,
+        "name": "Sheet Metal Girl",
+        "pop": 25,
+        "valence": 3.81
+    },
+    "Simple Math": {
+        "artists": "Brutal Truth",
+        "energy": 99.4,
+        "length": 86,
+        "name": "Simple Math",
+        "pop": 0,
+        "valence": 3.1
+    },
+    "Sometimes Dead Is Better": {
+        "artists": "Nasum",
+        "energy": 96.7,
+        "length": 178,
+        "name": "Sometimes Dead Is Better",
+        "pop": 10,
+        "valence": 17.3
+    },
+    "Steroids Guy": {
+        "artists": "Anal Cunt",
+        "energy": 99.5,
+        "length": 31,
+        "name": "Steroids Guy",
+        "pop": 0,
+        "valence": 3.73
+    },
+    "Stigmatyr": {
+        "artists": "Lock Up",
+        "energy": 99.5,
+        "length": 111,
+        "name": "Stigmatyr",
+        "pop": 0,
+        "valence": 3.94
+    },
+    "Strangled With a Halo": {
+        "artists": "Pig Destroyer",
+        "energy": 98.5,
+        "length": 85,
+        "name": "Strangled With a Halo",
+        "pop": 26,
+        "valence": 27.7
+    },
+    "Submission Hold": {
+        "artists": "Phobia",
+        "energy": 92.9,
+        "length": 66,
+        "name": "Submission Hold",
+        "pop": 20,
+        "valence": 43.1
+    },
+    "The Final Pollution": {
+        "artists": "Magrudergrind",
+        "energy": 99.4,
+        "length": 64,
+        "name": "The Final Pollution",
+        "pop": 0,
+        "valence": 3.68
+    },
+    "The New Firing-Squad": {
+        "artists": "Nasum",
+        "energy": 97.0,
+        "length": 59,
+        "name": "The New Firing-Squad",
+        "pop": 14,
+        "valence": 19.3
+    },
+    "The Solution": {
+        "artists": "Rotten Sound",
+        "energy": 93.0,
+        "length": 104,
+        "name": "The Solution",
+        "pop": 0,
+        "valence": 3.51
+    },
+    "Theme From Three's Company": {
+        "artists": "Anal Cunt",
+        "energy": 99.4,
+        "length": 35,
+        "name": "Theme From Three's Company",
+        "pop": 0,
+        "valence": 8.2
+    },
+    "Tooth Enamel And Concrete": {
+        "artists": "Cattle Decapitation",
+        "energy": 99.5,
+        "length": 177,
+        "name": "Tooth Enamel And Concrete",
+        "pop": 22,
+        "valence": 4.84
+    },
+    "Trend Bender": {
+        "artists": "Magrudergrind",
+        "energy": 99.3,
+        "length": 47,
+        "name": "Trend Bender",
+        "pop": 0,
+        "valence": 2.7
+    },
+    "Tristessens Fort": {
+        "artists": "Gadget",
+        "energy": 84.8,
+        "length": 109,
+        "name": "Tristessens Fort",
+        "pop": 8,
+        "valence": 16.3
+    },
+    "Unchallenged Hate": {
+        "artists": "Napalm Death",
+        "energy": 85.7,
+        "length": 128,
+        "name": "Unchallenged Hate",
+        "pop": 25,
+        "valence": 55.0
+    },
+    "V.S.A.": {
+        "artists": "Rotten Sound",
+        "energy": 98.6,
+        "length": 130,
+        "name": "V.S.A.",
+        "pop": 0,
+        "valence": 8.33
+    },
+    "Vision Conquest": {
+        "artists": "Napalm Death",
+        "energy": 97.2,
+        "length": 163,
+        "name": "Vision Conquest",
+        "pop": 16,
+        "valence": 36.5
+    },
+    "Wall of Shit - 2007 Demo": {
+        "artists": "Wormrot",
+        "energy": 95.7,
+        "length": 31,
+        "name": "Wall of Shit - 2007 Demo",
+        "pop": 6,
+        "valence": 6.83
+    },
+    "Who are You?": {
+        "artists": "Pig Destroyer",
+        "energy": 99.8,
+        "length": 142,
+        "name": "Who are You?",
+        "pop": 7,
+        "valence": 5.52
+    },
+    "Words To Die For": {
+        "artists": "Nasum",
+        "energy": 95.5,
+        "length": 123,
+        "name": "Words To Die For",
+        "pop": 11,
+        "valence": 27.5
+    },
+    "Worthless": {
+        "artists": "Weekend Nachos",
+        "energy": 33.8,
+        "length": 278,
+        "name": "Worthless",
+        "pop": 15,
+        "valence": 3.39
+    },
+    "You're Gay": {
+        "artists": "Anal Cunt",
+        "energy": 92.9,
+        "length": 38,
+        "name": "You're Gay",
+        "pop": 0,
+        "valence": 19.9
+    },
+    "Your Words Alone": {
+        "artists": "Nasum",
+        "energy": 86.0,
+        "length": 51,
+        "name": "Your Words Alone",
+        "pop": 12,
+        "valence": 12.4
+    }
+}

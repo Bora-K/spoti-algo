@@ -1,0 +1,802 @@
+{
+    "Adrenalin": {
+        "artists": "Scuba",
+        "energy": 76.2,
+        "length": 280,
+        "name": "Adrenalin",
+        "pop": 0,
+        "valence": 34.2
+    },
+    "Animaux": {
+        "artists": "Kidnap",
+        "energy": 50.5,
+        "length": 189,
+        "name": "Animaux",
+        "pop": 0,
+        "valence": 70.9
+    },
+    "Around - Solomun Vox": {
+        "artists": "Haze",
+        "energy": 33.2,
+        "length": 419,
+        "name": "Around - Solomun Vox",
+        "pop": 0,
+        "valence": 27.8
+    },
+    "Ayahuasca": {
+        "artists": "NTO",
+        "energy": 47.4,
+        "length": 419,
+        "name": "Ayahuasca",
+        "pop": 0,
+        "valence": 56.4
+    },
+    "Body Language": {
+        "artists": "M.A.N.D.Y.",
+        "energy": 74.5,
+        "length": 330,
+        "name": "Body Language",
+        "pop": 0,
+        "valence": 93.8
+    },
+    "Bongo Porn - Tale Of Us & Jay Haze Remix": {
+        "artists": "Fuckpony",
+        "energy": 72.8,
+        "length": 448,
+        "name": "Bongo Porn - Tale Of Us & Jay Haze Remix",
+        "pop": 20,
+        "valence": 35.6
+    },
+    "Come On Now (Set It Off)": {
+        "artists": "Tube & Berger",
+        "energy": 79.0,
+        "length": 185,
+        "name": "Come On Now (Set It Off)",
+        "pop": 30,
+        "valence": 62.7
+    },
+    "Come With Me - Radio Mix": {
+        "artists": "Nora En Pure",
+        "energy": 75.8,
+        "length": 174,
+        "name": "Come With Me - Radio Mix",
+        "pop": 67,
+        "valence": 30.8
+    },
+    "Control": {
+        "artists": "Disclosure",
+        "energy": 61.9,
+        "length": 290,
+        "name": "Control",
+        "pop": 0,
+        "valence": 84.2
+    },
+    "Dance with Me (feat. Dominique Young Unique)": {
+        "artists": "Le Youth",
+        "energy": 80.6,
+        "length": 179,
+        "name": "Dance with Me (feat. Dominique Young Unique)",
+        "pop": 35,
+        "valence": 92.7
+    },
+    "Daydreams - Original Mix": {
+        "artists": "Miguel Campbell",
+        "energy": 27.5,
+        "length": 245,
+        "name": "Daydreams - Original Mix",
+        "pop": 15,
+        "valence": 20.2
+    },
+    "Discochord": {
+        "artists": "Tale Of Us",
+        "energy": 69.4,
+        "length": 432,
+        "name": "Discochord",
+        "pop": 0,
+        "valence": 11.9
+    },
+    "Don't": {
+        "artists": "Bicep",
+        "energy": 60.0,
+        "length": 368,
+        "name": "Don't",
+        "pop": 0,
+        "valence": 17.9
+    },
+    "Dreamland": {
+        "artists": "Carl Craig",
+        "energy": 48.6,
+        "length": 498,
+        "name": "Dreamland",
+        "pop": 0,
+        "valence": 17.3
+    },
+    "Epikur": {
+        "artists": "DAVID AUGUST",
+        "energy": 59.8,
+        "length": 491,
+        "name": "Epikur",
+        "pop": 0,
+        "valence": 14.2
+    },
+    "Face Off": {
+        "artists": "Dualton",
+        "energy": 64.4,
+        "length": 462,
+        "name": "Face Off",
+        "pop": 7,
+        "valence": 96.7
+    },
+    "Finder": {
+        "artists": "Ninetoes",
+        "energy": 88.4,
+        "length": 206,
+        "name": "Finder",
+        "pop": 0,
+        "valence": 16.8
+    },
+    "Five Hours": {
+        "artists": "Deorro",
+        "energy": 82.1,
+        "length": 327,
+        "name": "Five Hours",
+        "pop": 0,
+        "valence": 57.5
+    },
+    "Friends": {
+        "artists": "Solomun",
+        "energy": 50.5,
+        "length": 547,
+        "name": "Friends",
+        "pop": 54,
+        "valence": 55.5
+    },
+    "Garden": {
+        "artists": "Totally Enormous Extinct Dinosaurs",
+        "energy": 56.0,
+        "length": 276,
+        "name": "Garden",
+        "pop": 0,
+        "valence": 65.9
+    },
+    "Gemini": {
+        "artists": "Marek Hemmann",
+        "energy": 67.4,
+        "length": 549,
+        "name": "Gemini",
+        "pop": 0,
+        "valence": 32.9
+    },
+    "Giant In My Heart": {
+        "artists": "Kiesza",
+        "energy": 58.6,
+        "length": 270,
+        "name": "Giant In My Heart",
+        "pop": 0,
+        "valence": 36.8
+    },
+    "Going Deeper": {
+        "artists": "Ganzfeld Effect",
+        "energy": 59.1,
+        "length": 472,
+        "name": "Going Deeper",
+        "pop": 0,
+        "valence": 50.4
+    },
+    "Going Home": {
+        "artists": "Kitano",
+        "energy": 49.4,
+        "length": 479,
+        "name": "Going Home",
+        "pop": 2,
+        "valence": 50.0
+    },
+    "Gold": {
+        "artists": "Bondax",
+        "energy": 54.9,
+        "length": 239,
+        "name": "Gold",
+        "pop": 32,
+        "valence": 29.1
+    },
+    "Got A Feeling - Bontan Remix": {
+        "artists": "Josh Butler",
+        "energy": 49.5,
+        "length": 435,
+        "name": "Got A Feeling - Bontan Remix",
+        "pop": 0,
+        "valence": 27.9
+    },
+    "Grow Up": {
+        "artists": "Turntablerocker",
+        "energy": 51.8,
+        "length": 472,
+        "name": "Grow Up",
+        "pop": 0,
+        "valence": 51.0
+    },
+    "Hausch - George Morel's Mainstream Mix Radio Edit": {
+        "artists": "andhim",
+        "energy": 80.5,
+        "length": 246,
+        "name": "Hausch - George Morel's Mainstream Mix Radio Edit",
+        "pop": 0,
+        "valence": 64.2
+    },
+    "I'm Not": {
+        "artists": "Oliver Schories",
+        "energy": 43.6,
+        "length": 348,
+        "name": "I'm Not",
+        "pop": 0,
+        "valence": 47.2
+    },
+    "If U Got It - Radio Edit": {
+        "artists": "Chris Malinchak",
+        "energy": 72.3,
+        "length": 202,
+        "name": "If U Got It - Radio Edit",
+        "pop": 52,
+        "valence": 37.7
+    },
+    "Imprint of Pleasure - Original Mix": {
+        "artists": "Tube & Berger",
+        "energy": 61.5,
+        "length": 443,
+        "name": "Imprint of Pleasure - Original Mix",
+        "pop": 0,
+        "valence": 49.9
+    },
+    "Inkwell": {
+        "artists": "Huxley",
+        "energy": 83.1,
+        "length": 368,
+        "name": "Inkwell",
+        "pop": 0,
+        "valence": 42.3
+    },
+    "Jeepah": {
+        "artists": "Westpark Unit",
+        "energy": 94.1,
+        "length": 461,
+        "name": "Jeepah",
+        "pop": 0,
+        "valence": 40.1
+    },
+    "Joy & Happiness - Original Mix": {
+        "artists": "Daniel Steinberg",
+        "energy": 44.2,
+        "length": 365,
+        "name": "Joy & Happiness - Original Mix",
+        "pop": 0,
+        "valence": 87.3
+    },
+    "Jubel - Original Mix": {
+        "artists": "Klingande",
+        "energy": 47.2,
+        "length": 284,
+        "name": "Jubel - Original Mix",
+        "pop": 49,
+        "valence": 19.4
+    },
+    "Juicy Fruit": {
+        "artists": "Doctor Dru & Adana Twins",
+        "energy": 59.6,
+        "length": 422,
+        "name": "Juicy Fruit",
+        "pop": 0,
+        "valence": 87.8
+    },
+    "Kackvogel - Original Mix": {
+        "artists": "Solomun",
+        "energy": 74.5,
+        "length": 448,
+        "name": "Kackvogel - Original Mix",
+        "pop": 0,
+        "valence": 36.5
+    },
+    "Kids - Oliver Nelson Remix": {
+        "artists": "Mikky Ekko",
+        "energy": 91.4,
+        "length": 305,
+        "name": "Kids - Oliver Nelson Remix",
+        "pop": 28,
+        "valence": 43.2
+    },
+    "La Fique": {
+        "artists": "Robosonic",
+        "energy": 79.4,
+        "length": 442,
+        "name": "La Fique",
+        "pop": 0,
+        "valence": 73.5
+    },
+    "Leave Me": {
+        "artists": "Hot Since 82",
+        "energy": 74.2,
+        "length": 369,
+        "name": "Leave Me",
+        "pop": 18,
+        "valence": 23.5
+    },
+    "Let It Ride": {
+        "artists": "Hot Since 82",
+        "energy": 79.8,
+        "length": 415,
+        "name": "Let It Ride",
+        "pop": 0,
+        "valence": 33.5
+    },
+    "Loud Minority": {
+        "artists": "Foster",
+        "energy": 72.6,
+        "length": 492,
+        "name": "Loud Minority",
+        "pop": 0,
+        "valence": 60.3
+    },
+    "Love Too Deep - Original Mix": {
+        "artists": "Ferreck Dawn",
+        "energy": 77.6,
+        "length": 411,
+        "name": "Love Too Deep - Original Mix",
+        "pop": 0,
+        "valence": 94.9
+    },
+    "Man Hands": {
+        "artists": "Mike Mago",
+        "energy": 89.7,
+        "length": 159,
+        "name": "Man Hands",
+        "pop": 0,
+        "valence": 55.4
+    },
+    "Manaus Madness (Marek Hemmann Remix)": {
+        "artists": "Gunnar Stiller",
+        "energy": 48.1,
+        "length": 399,
+        "name": "Manaus Madness (Marek Hemmann Remix)",
+        "pop": 25,
+        "valence": 53.3
+    },
+    "Melodica - Original Mix": {
+        "artists": "Stimming",
+        "energy": 45.1,
+        "length": 406,
+        "name": "Melodica - Original Mix",
+        "pop": 0,
+        "valence": 55.7
+    },
+    "Mountain Top - Radio Edit": {
+        "artists": "Kraak & Smaak",
+        "energy": 82.6,
+        "length": 176,
+        "name": "Mountain Top - Radio Edit",
+        "pop": 0,
+        "valence": 84.1
+    },
+    "Mushrooms (Justin Martin mix) - Justin Martin Mix": {
+        "artists": "Noosa Heads ft. Marshall Jefferson",
+        "energy": 62.0,
+        "length": 502,
+        "name": "Mushrooms (Justin Martin mix) - Justin Martin Mix",
+        "pop": 4,
+        "valence": 52.5
+    },
+    "My Intention Is War - Fig ii": {
+        "artists": "Disclosure",
+        "energy": 80.6,
+        "length": 407,
+        "name": "My Intention Is War - Fig ii",
+        "pop": 29,
+        "valence": 64.5
+    },
+    "Mystical Rhythm": {
+        "artists": "Vince Watson",
+        "energy": 69.6,
+        "length": 354,
+        "name": "Mystical Rhythm",
+        "pop": 12,
+        "valence": 61.0
+    },
+    "NE1BUTU": {
+        "artists": "Scuba",
+        "energy": 97.6,
+        "length": 281,
+        "name": "NE1BUTU",
+        "pop": 11,
+        "valence": 10.7
+    },
+    "Nightshift - Edit": {
+        "artists": "Finnebassen",
+        "energy": 62.4,
+        "length": 462,
+        "name": "Nightshift - Edit",
+        "pop": 0,
+        "valence": 69.0
+    },
+    "Nostalgia": {
+        "artists": "Two Armadillos",
+        "energy": 57.0,
+        "length": 450,
+        "name": "Nostalgia",
+        "pop": 0,
+        "valence": 75.6
+    },
+    "Nowhere - Original Mix": {
+        "artists": "Maya Jane Coles",
+        "energy": 80.6,
+        "length": 370,
+        "name": "Nowhere - Original Mix",
+        "pop": 0,
+        "valence": 45.4
+    },
+    "On My Mind": {
+        "artists": "DAVID AUGUST",
+        "energy": 26.7,
+        "length": 397,
+        "name": "On My Mind",
+        "pop": 0,
+        "valence": 54.0
+    },
+    "One Day / Reckoning Song - Club Mix": {
+        "artists": "Asaf Avidan & the Mojos",
+        "energy": 45.5,
+        "length": 439,
+        "name": "One Day / Reckoning Song - Club Mix",
+        "pop": 0,
+        "valence": 69.7
+    },
+    "Out Of Time - Finnebassen Remix": {
+        "artists": "Teenage Mutants",
+        "energy": 36.1,
+        "length": 477,
+        "name": "Out Of Time - Finnebassen Remix",
+        "pop": 20,
+        "valence": 41.1
+    },
+    "Prayer in C - Robin Schulz Radio Edit": {
+        "artists": "Lilly Wood and The Prick",
+        "energy": 87.5,
+        "length": 189,
+        "name": "Prayer in C - Robin Schulz Radio Edit",
+        "pop": 78,
+        "valence": 80.0
+    },
+    "Prescriptions": {
+        "artists": "Mujaba",
+        "energy": 59.9,
+        "length": 388,
+        "name": "Prescriptions",
+        "pop": 0,
+        "valence": 79.3
+    },
+    "Pushing On - Radio Edit": {
+        "artists": "Oliver Dollar",
+        "energy": 80.0,
+        "length": 163,
+        "name": "Pushing On - Radio Edit",
+        "pop": 48,
+        "valence": 73.4
+    },
+    "Reaction": {
+        "artists": "Adana Twins",
+        "energy": 64.8,
+        "length": 442,
+        "name": "Reaction",
+        "pop": 0,
+        "valence": 39.2
+    },
+    "Regenerate - Popof Remix": {
+        "artists": "Booka Shade",
+        "energy": 74.5,
+        "length": 461,
+        "name": "Regenerate - Popof Remix",
+        "pop": 17,
+        "valence": 6.09
+    },
+    "Remember": {
+        "artists": "Jaymo & Andy George",
+        "energy": 88.0,
+        "length": 383,
+        "name": "Remember",
+        "pop": 4,
+        "valence": 81.7
+    },
+    "Right Here": {
+        "artists": "Jess Glynne",
+        "energy": 80.0,
+        "length": 221,
+        "name": "Right Here",
+        "pop": 48,
+        "valence": 81.1
+    },
+    "Shapes I See": {
+        "artists": "Rodriguez Jr.",
+        "energy": 56.7,
+        "length": 288,
+        "name": "Shapes I See",
+        "pop": 0,
+        "valence": 17.7
+    },
+    "Sky and Sand": {
+        "artists": "Paul Kalkbrenner",
+        "energy": 32.9,
+        "length": 230,
+        "name": "Sky and Sand",
+        "pop": 0,
+        "valence": 52.6
+    },
+    "So Cliche": {
+        "artists": "Matt Lange",
+        "energy": 87.4,
+        "length": 182,
+        "name": "So Cliche",
+        "pop": 18,
+        "valence": 21.7
+    },
+    "So Far": {
+        "artists": "Miguel Migs",
+        "energy": 66.4,
+        "length": 279,
+        "name": "So Far",
+        "pop": 35,
+        "valence": 65.3
+    },
+    "Somebody to Love": {
+        "artists": "Kyrill & Redford",
+        "energy": 38.7,
+        "length": 344,
+        "name": "Somebody to Love",
+        "pop": 0,
+        "valence": 34.9
+    },
+    "Spectrum - Maya Jane Coles Remix": {
+        "artists": "Florence + The Machine",
+        "energy": 70.6,
+        "length": 301,
+        "name": "Spectrum - Maya Jane Coles Remix",
+        "pop": 0,
+        "valence": 19.9
+    },
+    "Stay - Justin Martin Remix": {
+        "artists": "Henry Krinkle",
+        "energy": 49.6,
+        "length": 406,
+        "name": "Stay - Justin Martin Remix",
+        "pop": 0,
+        "valence": 38.4
+    },
+    "Stay High - Habits Remix": {
+        "artists": "Tove Lo",
+        "energy": 67.7,
+        "length": 258,
+        "name": "Stay High - Habits Remix",
+        "pop": 46,
+        "valence": 7.47
+    },
+    "Step Back - Radio Edit": {
+        "artists": "Chocolate Puma",
+        "energy": 85.4,
+        "length": 173,
+        "name": "Step Back - Radio Edit",
+        "pop": 0,
+        "valence": 37.1
+    },
+    "Such a High": {
+        "artists": "Finnebassen",
+        "energy": 37.4,
+        "length": 342,
+        "name": "Such a High",
+        "pop": 0,
+        "valence": 58.2
+    },
+    "Sweet Dreams - Original Mix": {
+        "artists": "Stereo Express",
+        "energy": 71.1,
+        "length": 396,
+        "name": "Sweet Dreams - Original Mix",
+        "pop": 0,
+        "valence": 29.7
+    },
+    "Take Your Time": {
+        "artists": "Joris Delacroix",
+        "energy": 70.3,
+        "length": 265,
+        "name": "Take Your Time",
+        "pop": 39,
+        "valence": 23.3
+    },
+    "Tanquilla": {
+        "artists": "Boss Axis",
+        "energy": 72.9,
+        "length": 182,
+        "name": "Tanquilla",
+        "pop": 39,
+        "valence": 63.7
+    },
+    "The Edge - Original Mix": {
+        "artists": "Robosonic",
+        "energy": 63.4,
+        "length": 425,
+        "name": "The Edge - Original Mix",
+        "pop": 0,
+        "valence": 73.1
+    },
+    "The Guitar Man - Original Mix": {
+        "artists": "WEISS",
+        "energy": 59.4,
+        "length": 336,
+        "name": "The Guitar Man - Original Mix",
+        "pop": 22,
+        "valence": 49.4
+    },
+    "The High Life": {
+        "artists": "Maya Jane Coles",
+        "energy": 56.5,
+        "length": 324,
+        "name": "The High Life",
+        "pop": 0,
+        "valence": 32.4
+    },
+    "The Other Side": {
+        "artists": "Bas Amro",
+        "energy": 37.3,
+        "length": 400,
+        "name": "The Other Side",
+        "pop": 0,
+        "valence": 32.7
+    },
+    "The Ripper": {
+        "artists": "Terje Saether",
+        "energy": 56.5,
+        "length": 556,
+        "name": "The Ripper",
+        "pop": 0,
+        "valence": 6.29
+    },
+    "The Serve - Original Mix": {
+        "artists": "Morgan Avenue",
+        "energy": 79.4,
+        "length": 281,
+        "name": "The Serve - Original Mix",
+        "pop": 0,
+        "valence": 5.02
+    },
+    "Touch - Oxford Remix": {
+        "artists": "Shift K3Y",
+        "energy": 56.4,
+        "length": 223,
+        "name": "Touch - Oxford Remix",
+        "pop": 31,
+        "valence": 84.7
+    },
+    "Touch You Gently": {
+        "artists": "Art Department",
+        "energy": 33.0,
+        "length": 635,
+        "name": "Touch You Gently",
+        "pop": 0,
+        "valence": 71.9
+    },
+    "Trace": {
+        "artists": "Midland",
+        "energy": 48.4,
+        "length": 378,
+        "name": "Trace",
+        "pop": 0,
+        "valence": 59.0
+    },
+    "Underground": {
+        "artists": "Nick Curly",
+        "energy": 82.5,
+        "length": 362,
+        "name": "Underground",
+        "pop": 0,
+        "valence": 34.4
+    },
+    "Untrue": {
+        "artists": "Tchami",
+        "energy": 86.9,
+        "length": 250,
+        "name": "Untrue",
+        "pop": 0,
+        "valence": 40.3
+    },
+    "Virago": {
+        "artists": "Monitor 66",
+        "energy": 57.7,
+        "length": 484,
+        "name": "Virago",
+        "pop": 17,
+        "valence": 77.2
+    },
+    "Vogelvlucht": {
+        "artists": "De Hofnar",
+        "energy": 78.0,
+        "length": 401,
+        "name": "Vogelvlucht",
+        "pop": 45,
+        "valence": 23.4
+    },
+    "Voices": {
+        "artists": "Disclosure",
+        "energy": 73.5,
+        "length": 249,
+        "name": "Voices",
+        "pop": 0,
+        "valence": 70.4
+    },
+    "Wake Me Up - PANG! Slowing Things Down Remix": {
+        "artists": "Avicii",
+        "energy": 57.2,
+        "length": 372,
+        "name": "Wake Me Up - PANG! Slowing Things Down Remix",
+        "pop": 0,
+        "valence": 18.0
+    },
+    "We Are Facing The Sun": {
+        "artists": "Sascha Funke",
+        "energy": 48.9,
+        "length": 430,
+        "name": "We Are Facing The Sun",
+        "pop": 0,
+        "valence": 67.2
+    },
+    "We Call Love feat. Soul Clap & Osunlade": {
+        "artists": "Art Department",
+        "energy": 69.5,
+        "length": 379,
+        "name": "We Call Love feat. Soul Clap & Osunlade",
+        "pop": 0,
+        "valence": 61.0
+    },
+    "Wes": {
+        "artists": "Fritz Kalkbrenner",
+        "energy": 71.2,
+        "length": 436,
+        "name": "Wes",
+        "pop": 0,
+        "valence": 14.5
+    },
+    "Wicked Games": {
+        "artists": "Parra for Cuva",
+        "energy": 63.3,
+        "length": 358,
+        "name": "Wicked Games",
+        "pop": 0,
+        "valence": 68.0
+    },
+    "Wowshit": {
+        "artists": "Karmon",
+        "energy": 71.0,
+        "length": 422,
+        "name": "Wowshit",
+        "pop": 16,
+        "valence": 41.0
+    },
+    "You & Me": {
+        "artists": "Disclosure",
+        "energy": 88.3,
+        "length": 266,
+        "name": "You & Me",
+        "pop": 0,
+        "valence": 69.2
+    },
+    "You - Steffi Remix": {
+        "artists": "Bicep",
+        "energy": 81.7,
+        "length": 445,
+        "name": "You - Steffi Remix",
+        "pop": 0,
+        "valence": 48.0
+    },
+    "Younger - Kygo Remix": {
+        "artists": "Seinabo Sey",
+        "energy": 48.9,
+        "length": 352,
+        "name": "Younger - Kygo Remix",
+        "pop": 55,
+        "valence": 64.5
+    }
+}

@@ -1,0 +1,802 @@
+{
+    "2EZ (Autopilot's Lament)": {
+        "artists": "Space Dimension Controller",
+        "energy": 66.1,
+        "length": 192,
+        "name": "2EZ (Autopilot's Lament)",
+        "pop": 0,
+        "valence": 52.8
+    },
+    "A Time To Rebuild": {
+        "artists": "Robert Hood",
+        "energy": 71.0,
+        "length": 359,
+        "name": "A Time To Rebuild",
+        "pop": 2,
+        "valence": 7.78
+    },
+    "Act 2": {
+        "artists": "Carl Craig",
+        "energy": 96.2,
+        "length": 32,
+        "name": "Act 2",
+        "pop": 0,
+        "valence": 6.2
+    },
+    "After School Special": {
+        "artists": "Detroit Grand Pubahs",
+        "energy": 71.0,
+        "length": 300,
+        "name": "After School Special",
+        "pop": 0,
+        "valence": 57.3
+    },
+    "Alpha - James Ruskin Remix": {
+        "artists": "Robert Hood",
+        "energy": 63.7,
+        "length": 422,
+        "name": "Alpha - James Ruskin Remix",
+        "pop": 2,
+        "valence": 14.7
+    },
+    "Amazon": {
+        "artists": "Galaxy 2 Galaxy",
+        "energy": 79.0,
+        "length": 276,
+        "name": "Amazon",
+        "pop": 17,
+        "valence": 26.5
+    },
+    "Amnesia": {
+        "artists": "Mr. Fingers",
+        "energy": 73.3,
+        "length": 393,
+        "name": "Amnesia",
+        "pop": 0,
+        "valence": 56.1
+    },
+    "And I Do": {
+        "artists": "Inner City",
+        "energy": 51.9,
+        "length": 249,
+        "name": "And I Do",
+        "pop": 15,
+        "valence": 87.4
+    },
+    "Angel - Jerome S Vocal Dub": {
+        "artists": "Carl Craig",
+        "energy": 75.5,
+        "length": 538,
+        "name": "Angel - Jerome S Vocal Dub",
+        "pop": 0,
+        "valence": 33.4
+    },
+    "As Time Goes By (Sitting Under A Tree)": {
+        "artists": "Carl Craig",
+        "energy": 32.3,
+        "length": 315,
+        "name": "As Time Goes By (Sitting Under A Tree)",
+        "pop": 0,
+        "valence": 52.5
+    },
+    "Astralwerks": {
+        "artists": "Model 500",
+        "energy": 58.2,
+        "length": 330,
+        "name": "Astralwerks",
+        "pop": 0,
+        "valence": 58.1
+    },
+    "Autobahn - 2009 Remaster": {
+        "artists": "Kraftwerk",
+        "energy": 49.7,
+        "length": 1367,
+        "name": "Autobahn - 2009 Remaster",
+        "pop": 45,
+        "valence": 11.3
+    },
+    "Azimuth": {
+        "artists": "Kenny Larkin",
+        "energy": 81.1,
+        "length": 273,
+        "name": "Azimuth",
+        "pop": 0,
+        "valence": 76.3
+    },
+    "Aztec Mystic": {
+        "artists": "Aztec Mystic",
+        "energy": 74.7,
+        "length": 183,
+        "name": "Aztec Mystic",
+        "pop": 0,
+        "valence": 42.0
+    },
+    "Bata Pumps": {
+        "artists": "Drexciya",
+        "energy": 96.1,
+        "length": 228,
+        "name": "Bata Pumps",
+        "pop": 0,
+        "valence": 72.9
+    },
+    "Bells at Dusk": {
+        "artists": "Robert Hood",
+        "energy": 92.8,
+        "length": 640,
+        "name": "Bells at Dusk",
+        "pop": 6,
+        "valence": 7.02
+    },
+    "Big Fun": {
+        "artists": "Inner City",
+        "energy": 93.5,
+        "length": 206,
+        "name": "Big Fun",
+        "pop": 56,
+        "valence": 96.5
+    },
+    "Blackwater - Original Untold Mix": {
+        "artists": "Octave One",
+        "energy": 66.8,
+        "length": 345,
+        "name": "Blackwater - Original Untold Mix",
+        "pop": 0,
+        "valence": 96.6
+    },
+    "Booty Trap Music": {
+        "artists": "DJ Assault",
+        "energy": 76.8,
+        "length": 211,
+        "name": "Booty Trap Music",
+        "pop": 4,
+        "valence": 74.7
+    },
+    "Bounce Your Body To The Box": {
+        "artists": "Reese & Santonio",
+        "energy": 96.2,
+        "length": 321,
+        "name": "Bounce Your Body To The Box",
+        "pop": 0,
+        "valence": 65.3
+    },
+    "Can't Take It (Original) [feat. Dwele]": {
+        "artists": "Recloose",
+        "energy": 76.8,
+        "length": 474,
+        "name": "Can't Take It (Original) [feat. Dwele]",
+        "pop": 0,
+        "valence": 90.5
+    },
+    "Chicken Noodle Soup": {
+        "artists": "Psyche",
+        "energy": 73.3,
+        "length": 394,
+        "name": "Chicken Noodle Soup",
+        "pop": 0,
+        "valence": 18.5
+    },
+    "Clear & Present": {
+        "artists": "Paperclip People",
+        "energy": 25.9,
+        "length": 890,
+        "name": "Clear & Present",
+        "pop": 0,
+        "valence": 21.5
+    },
+    "Converge": {
+        "artists": "Plastikman",
+        "energy": 10.5,
+        "length": 264,
+        "name": "Converge",
+        "pop": 0,
+        "valence": 12.2
+    },
+    "Davey Jones Locker": {
+        "artists": "Drexciya",
+        "energy": 92.2,
+        "length": 195,
+        "name": "Davey Jones Locker",
+        "pop": 10,
+        "valence": 62.6
+    },
+    "Deliric": {
+        "artists": "Jonas Kopp",
+        "energy": 72.0,
+        "length": 470,
+        "name": "Deliric",
+        "pop": 4,
+        "valence": 57.7
+    },
+    "Drive (The Age Of Automation) - \u00d8 [Phase] Nocturnal Mix": {
+        "artists": "Robert Hood",
+        "energy": 76.1,
+        "length": 364,
+        "name": "Drive (The Age Of Automation) - \u00d8 [Phase] Nocturnal Mix",
+        "pop": 2,
+        "valence": 3.51
+    },
+    "Electric Alleycat": {
+        "artists": "Theo Parrish",
+        "energy": 60.7,
+        "length": 601,
+        "name": "Electric Alleycat",
+        "pop": 17,
+        "valence": 46.6
+    },
+    "Elements Of Tone - J's A Mix": {
+        "artists": "States Of Mind",
+        "energy": 72.6,
+        "length": 262,
+        "name": "Elements Of Tone - J's A Mix",
+        "pop": 0,
+        "valence": 87.6
+    },
+    "Endless Endless - 2009 Remaster": {
+        "artists": "Kraftwerk",
+        "energy": 20.7,
+        "length": 55,
+        "name": "Endless Endless - 2009 Remaster",
+        "pop": 34,
+        "valence": 68.8
+    },
+    "Full Clip - Original": {
+        "artists": "Martin Buttrich",
+        "energy": 70.4,
+        "length": 725,
+        "name": "Full Clip - Original",
+        "pop": 0,
+        "valence": 21.1
+    },
+    "Function Sampler 1": {
+        "artists": "Function",
+        "energy": 68.4,
+        "length": 590,
+        "name": "Function Sampler 1",
+        "pop": 0,
+        "valence": 4.3
+    },
+    "Glob - Claude VonStroke Remix": {
+        "artists": "Kenny Larkin",
+        "energy": 29.9,
+        "length": 550,
+        "name": "Glob - Claude VonStroke Remix",
+        "pop": 0,
+        "valence": 18.4
+    },
+    "Good Love - Luciano's Good Love Remix": {
+        "artists": "Kevin Saunderson",
+        "energy": 80.5,
+        "length": 594,
+        "name": "Good Love - Luciano's Good Love Remix",
+        "pop": 0,
+        "valence": 75.1
+    },
+    "Groovin' Without A Doubt": {
+        "artists": "Intercity",
+        "energy": 50.2,
+        "length": 295,
+        "name": "Groovin' Without A Doubt",
+        "pop": 0,
+        "valence": 43.9
+    },
+    "Hi Tech Jazz - Live Version": {
+        "artists": "Underground Resistance",
+        "energy": 65.3,
+        "length": 481,
+        "name": "Hi Tech Jazz - Live Version",
+        "pop": 0,
+        "valence": 60.1
+    },
+    "I Believe (Sandwell District Remix)": {
+        "artists": "Octave One",
+        "energy": 67.9,
+        "length": 384,
+        "name": "I Believe (Sandwell District Remix)",
+        "pop": 0,
+        "valence": 12.4
+    },
+    "I'm Doing Fine": {
+        "artists": "Moodymann",
+        "energy": 34.2,
+        "length": 556,
+        "name": "I'm Doing Fine",
+        "pop": 0,
+        "valence": 48.8
+    },
+    "Illuminator": {
+        "artists": "Underground Resistance",
+        "energy": 72.1,
+        "length": 700,
+        "name": "Illuminator",
+        "pop": 0,
+        "valence": 71.6
+    },
+    "Imagine - Blue Potential Version": {
+        "artists": "Jeff Mills",
+        "energy": 44.0,
+        "length": 340,
+        "name": "Imagine - Blue Potential Version",
+        "pop": 20,
+        "valence": 15.1
+    },
+    "In Side": {
+        "artists": "Plastikman",
+        "energy": 26.9,
+        "length": 758,
+        "name": "In Side",
+        "pop": 0,
+        "valence": 5.33
+    },
+    "Innerblaster": {
+        "artists": "Fabrice Lig",
+        "energy": 91.6,
+        "length": 406,
+        "name": "Innerblaster",
+        "pop": 0,
+        "valence": 81.0
+    },
+    "Inspiration": {
+        "artists": "Delano Smith",
+        "energy": 55.7,
+        "length": 469,
+        "name": "Inspiration",
+        "pop": 0,
+        "valence": 72.9
+    },
+    "Just A Dance - Technasia's Filter Dub": {
+        "artists": "Len Faki",
+        "energy": 87.5,
+        "length": 176,
+        "name": "Just A Dance - Technasia's Filter Dub",
+        "pop": 0,
+        "valence": 58.9
+    },
+    "Just Want Another Chance - John Tejada Remix": {
+        "artists": "Kevin Saunderson",
+        "energy": 61.4,
+        "length": 401,
+        "name": "Just Want Another Chance - John Tejada Remix",
+        "pop": 0,
+        "valence": 65.5
+    },
+    "Kevin Saunderson History Elevate - Continuous Mix": {
+        "artists": "Kevin Saunderson",
+        "energy": 90.0,
+        "length": 3677,
+        "name": "Kevin Saunderson History Elevate - Continuous Mix",
+        "pop": 0,
+        "valence": 32.7
+    },
+    "Learning": {
+        "artists": "Robert Hood",
+        "energy": 81.6,
+        "length": 250,
+        "name": "Learning",
+        "pop": 2,
+        "valence": 5.65
+    },
+    "Let Me Be Me": {
+        "artists": "The Other People Place",
+        "energy": 52.0,
+        "length": 466,
+        "name": "Let Me Be Me",
+        "pop": 0,
+        "valence": 31.9
+    },
+    "Liquid - Pan-Pot Remix": {
+        "artists": "Format:B",
+        "energy": 58.4,
+        "length": 465,
+        "name": "Liquid - Pan-Pot Remix",
+        "pop": 0,
+        "valence": 22.1
+    },
+    "Love's Got Me High - Jimpster Remix": {
+        "artists": "Terrence Parker",
+        "energy": 71.3,
+        "length": 394,
+        "name": "Love's Got Me High - Jimpster Remix",
+        "pop": 15,
+        "valence": 49.7
+    },
+    "Machine Funk": {
+        "artists": "Ben Sims",
+        "energy": 70.7,
+        "length": 396,
+        "name": "Machine Funk",
+        "pop": 0,
+        "valence": 15.0
+    },
+    "Mahogany Brown": {
+        "artists": "Moodymann",
+        "energy": 93.4,
+        "length": 335,
+        "name": "Mahogany Brown",
+        "pop": 0,
+        "valence": 86.7
+    },
+    "Mantis (Juan Atkins Remix)": {
+        "artists": "Psychic Ills",
+        "energy": 43.1,
+        "length": 608,
+        "name": "Mantis (Juan Atkins Remix)",
+        "pop": 0,
+        "valence": 39.4
+    },
+    "Maroon": {
+        "artists": "Underground Resistance",
+        "energy": 79.5,
+        "length": 302,
+        "name": "Maroon",
+        "pop": 0,
+        "valence": 46.7
+    },
+    "Meanwhile Back At Home": {
+        "artists": "Moodymann",
+        "energy": 81.4,
+        "length": 244,
+        "name": "Meanwhile Back At Home",
+        "pop": 24,
+        "valence": 34.3
+    },
+    "Mercurian Funk - Original Mix": {
+        "artists": "Larry Heard",
+        "energy": 64.0,
+        "length": 372,
+        "name": "Mercurian Funk - Original Mix",
+        "pop": 0,
+        "valence": 91.1
+    },
+    "Mind Of A Machine": {
+        "artists": "Carl Craig",
+        "energy": 71.1,
+        "length": 353,
+        "name": "Mind Of A Machine",
+        "pop": 0,
+        "valence": 27.9
+    },
+    "Moskaw": {
+        "artists": "Virgo Four",
+        "energy": 99.9,
+        "length": 305,
+        "name": "Moskaw",
+        "pop": 0,
+        "valence": 89.2
+    },
+    "Move Mix": {
+        "artists": "Juan Atkins",
+        "energy": 58.8,
+        "length": 376,
+        "name": "Move Mix",
+        "pop": 8,
+        "valence": 15.2
+    },
+    "Museum": {
+        "artists": "Robert Hood",
+        "energy": 69.6,
+        "length": 315,
+        "name": "Museum",
+        "pop": 28,
+        "valence": 96.6
+    },
+    "Nicolette": {
+        "artists": "Octave One",
+        "energy": 87.9,
+        "length": 274,
+        "name": "Nicolette",
+        "pop": 0,
+        "valence": 62.5
+    },
+    "Ninja": {
+        "artists": "Glenn Underground",
+        "energy": 86.5,
+        "length": 363,
+        "name": "Ninja",
+        "pop": 0,
+        "valence": 44.4
+    },
+    "No UFO's - D-Mix": {
+        "artists": "Model 500",
+        "energy": 84.7,
+        "length": 320,
+        "name": "No UFO's - D-Mix",
+        "pop": 0,
+        "valence": 84.7
+    },
+    "Numbers": {
+        "artists": "Kraftwerk",
+        "energy": 88.3,
+        "length": 281,
+        "name": "Numbers",
+        "pop": 0,
+        "valence": 56.3
+    },
+    "On & On": {
+        "artists": "Aril Brikha",
+        "energy": 84.1,
+        "length": 474,
+        "name": "On & On",
+        "pop": 0,
+        "valence": 37.3
+    },
+    "Orbit": {
+        "artists": "Model 500",
+        "energy": 53.3,
+        "length": 430,
+        "name": "Orbit",
+        "pop": 0,
+        "valence": 50.8
+    },
+    "Pentimento": {
+        "artists": "Yotam Avni",
+        "energy": 45.9,
+        "length": 423,
+        "name": "Pentimento",
+        "pop": 0,
+        "valence": 37.3
+    },
+    "Phylyps Trak II/II": {
+        "artists": "Basic Channel",
+        "energy": 70.7,
+        "length": 794,
+        "name": "Phylyps Trak II/II",
+        "pop": 0,
+        "valence": 14.7
+    },
+    "Pump The Move - Kenny Larkin Mix": {
+        "artists": "e-Dancer",
+        "energy": 78.7,
+        "length": 352,
+        "name": "Pump The Move - Kenny Larkin Mix",
+        "pop": 0,
+        "valence": 30.6
+    },
+    "Q1.1/I": {
+        "artists": "Basic Channel",
+        "energy": 74.2,
+        "length": 474,
+        "name": "Q1.1/I",
+        "pop": 0,
+        "valence": 15.9
+    },
+    "R-9": {
+        "artists": "Cybotron",
+        "energy": 87.0,
+        "length": 314,
+        "name": "R-9",
+        "pop": 0,
+        "valence": 64.0
+    },
+    "Rex Attitude": {
+        "artists": "Laurent Garnier",
+        "energy": 49.2,
+        "length": 418,
+        "name": "Rex Attitude",
+        "pop": 0,
+        "valence": 59.5
+    },
+    "Riley's Song": {
+        "artists": "Moodymann",
+        "energy": 35.3,
+        "length": 233,
+        "name": "Riley's Song",
+        "pop": 0,
+        "valence": 22.5
+    },
+    "Ringo - Original": {
+        "artists": "Joris Voorn",
+        "energy": 75.5,
+        "length": 411,
+        "name": "Ringo - Original",
+        "pop": 0,
+        "valence": 73.0
+    },
+    "Rock To The Beat": {
+        "artists": "Reese & Santonio",
+        "energy": 68.9,
+        "length": 176,
+        "name": "Rock To The Beat",
+        "pop": 0,
+        "valence": 50.8
+    },
+    "Rorschach's Game": {
+        "artists": "Redshape",
+        "energy": 85.2,
+        "length": 255,
+        "name": "Rorschach's Game",
+        "pop": 1,
+        "valence": 6.2
+    },
+    "Scram": {
+        "artists": "The Detroit Escalator Co.",
+        "energy": 32.1,
+        "length": 230,
+        "name": "Scram",
+        "pop": 5,
+        "valence": 10.4
+    },
+    "Seduce Me": {
+        "artists": "Redshape",
+        "energy": 75.2,
+        "length": 255,
+        "name": "Seduce Me",
+        "pop": 4,
+        "valence": 3.72
+    },
+    "Sex In Zero Gravity": {
+        "artists": "The Martian",
+        "energy": 96.7,
+        "length": 316,
+        "name": "Sex In Zero Gravity",
+        "pop": 0,
+        "valence": 15.3
+    },
+    "Sil Lum Tao": {
+        "artists": "The Detroit Escalator Co.",
+        "energy": 54.9,
+        "length": 337,
+        "name": "Sil Lum Tao",
+        "pop": 7,
+        "valence": 4.33
+    },
+    "Skizofrenik": {
+        "artists": "Plastikman",
+        "energy": 71.0,
+        "length": 299,
+        "name": "Skizofrenik",
+        "pop": 0,
+        "valence": 18.0
+    },
+    "Sofitel": {
+        "artists": "Deepchord",
+        "energy": 68.9,
+        "length": 468,
+        "name": "Sofitel",
+        "pop": 0,
+        "valence": 41.6
+    },
+    "Sometimes I Feel Like": {
+        "artists": "Galaxy 2 Galaxy",
+        "energy": 80.9,
+        "length": 374,
+        "name": "Sometimes I Feel Like",
+        "pop": 16,
+        "valence": 69.1
+    },
+    "Spastik": {
+        "artists": "Plastikman",
+        "energy": 97.3,
+        "length": 557,
+        "name": "Spastik",
+        "pop": 0,
+        "valence": 3.77
+    },
+    "Steam": {
+        "artists": "Paperclip People",
+        "energy": 88.1,
+        "length": 370,
+        "name": "Steam",
+        "pop": 0,
+        "valence": 55.7
+    },
+    "Superior Race": {
+        "artists": "Dopplereffekt",
+        "energy": 62.4,
+        "length": 190,
+        "name": "Superior Race",
+        "pop": 30,
+        "valence": 10.9
+    },
+    "Techno City": {
+        "artists": "Cybotron",
+        "energy": 55.1,
+        "length": 262,
+        "name": "Techno City",
+        "pop": 0,
+        "valence": 87.9
+    },
+    "The Family": {
+        "artists": "Robert Hood",
+        "energy": 95.7,
+        "length": 450,
+        "name": "The Family",
+        "pop": 2,
+        "valence": 28.8
+    },
+    "The Line": {
+        "artists": "Cybotron",
+        "energy": 86.6,
+        "length": 301,
+        "name": "The Line",
+        "pop": 0,
+        "valence": 83.9
+    },
+    "The- Stardancer": {
+        "artists": "The Martian",
+        "energy": 76.6,
+        "length": 437,
+        "name": "The- Stardancer",
+        "pop": 0,
+        "valence": 48.3
+    },
+    "Torque One": {
+        "artists": "Robert Hood",
+        "energy": 91.1,
+        "length": 377,
+        "name": "Torque One",
+        "pop": 4,
+        "valence": 39.2
+    },
+    "Track Ten (Re-work by Kirk Degiorgio)": {
+        "artists": "Juan Atkins",
+        "energy": 57.9,
+        "length": 399,
+        "name": "Track Ten (Re-work by Kirk Degiorgio)",
+        "pop": 13,
+        "valence": 25.3
+    },
+    "Troublemaker (I Swear You're Giving Me a Heart Attack)": {
+        "artists": "Jeff Mills",
+        "energy": 65.7,
+        "length": 187,
+        "name": "Troublemaker (I Swear You're Giving Me a Heart Attack)",
+        "pop": 0,
+        "valence": 89.4
+    },
+    "Tuff": {
+        "artists": "Aril Brikha",
+        "energy": 80.8,
+        "length": 265,
+        "name": "Tuff",
+        "pop": 0,
+        "valence": 90.2
+    },
+    "Turkish Delight": {
+        "artists": "Recloose",
+        "energy": 65.3,
+        "length": 353,
+        "name": "Turkish Delight",
+        "pop": 0,
+        "valence": 83.2
+    },
+    "Twin Stars (Lone Remix)": {
+        "artists": "Solar Bears",
+        "energy": 64.9,
+        "length": 295,
+        "name": "Twin Stars (Lone Remix)",
+        "pop": 0,
+        "valence": 30.4
+    },
+    "Ultraviolet Images": {
+        "artists": "The Martian",
+        "energy": 95.2,
+        "length": 225,
+        "name": "Ultraviolet Images",
+        "pop": 0,
+        "valence": 40.1
+    },
+    "Universe Dust - Original Mix": {
+        "artists": "Doomwork",
+        "energy": 72.3,
+        "length": 546,
+        "name": "Universe Dust - Original Mix",
+        "pop": 0,
+        "valence": 74.9
+    },
+    "World Of Deep - Jesse's Respect To Detroit Remix": {
+        "artists": "Kevin Saunderson",
+        "energy": 54.2,
+        "length": 321,
+        "name": "World Of Deep - Jesse's Respect To Detroit Remix",
+        "pop": 0,
+        "valence": 50.9
+    },
+    "You Belong - Kevin Saunderson Remix": {
+        "artists": "Hercules & Love Affair",
+        "energy": 77.9,
+        "length": 437,
+        "name": "You Belong - Kevin Saunderson Remix",
+        "pop": 3,
+        "valence": 58.1
+    }
+}

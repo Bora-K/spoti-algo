@@ -1,0 +1,802 @@
+{
+    "": {
+        "artists": "",
+        "energy": 90.9,
+        "length": 0,
+        "name": "",
+        "pop": 0,
+        "valence": 90.6
+    },
+    "1er Gaou - Version originale": {
+        "artists": "Magic System",
+        "energy": 86.0,
+        "length": 295,
+        "name": "1er Gaou - Version originale",
+        "pop": 0,
+        "valence": 94.3
+    },
+    "Agolo": {
+        "artists": "Angelique Kidjo",
+        "energy": 80.1,
+        "length": 288,
+        "name": "Agolo",
+        "pop": 0,
+        "valence": 83.9
+    },
+    "Ali's Here": {
+        "artists": "Ali Farka Tour\u00e9",
+        "energy": 88.4,
+        "length": 198,
+        "name": "Ali's Here",
+        "pop": 0,
+        "valence": 77.7
+    },
+    "Amandrai": {
+        "artists": "Ali Farka Tour\u00e9",
+        "energy": 37.4,
+        "length": 479,
+        "name": "Amandrai",
+        "pop": 0,
+        "valence": 57.8
+    },
+    "Anything": {
+        "artists": "P-Square",
+        "energy": 84.7,
+        "length": 224,
+        "name": "Anything",
+        "pop": 0,
+        "valence": 66.8
+    },
+    "Aon Aon": {
+        "artists": "Tabu Ley Rochereau",
+        "energy": 35.8,
+        "length": 277,
+        "name": "Aon Aon",
+        "pop": 0,
+        "valence": 71.4
+    },
+    "Ara": {
+        "artists": "Brymo",
+        "energy": 90.1,
+        "length": 255,
+        "name": "Ara",
+        "pop": 0,
+        "valence": 61.1
+    },
+    "Arawan": {
+        "artists": "Tinariwen",
+        "energy": 39.5,
+        "length": 247,
+        "name": "Arawan",
+        "pop": 15,
+        "valence": 21.6
+    },
+    "Azonto": {
+        "artists": "Wizkid",
+        "energy": 91.6,
+        "length": 171,
+        "name": "Azonto",
+        "pop": 0,
+        "valence": 66.6
+    },
+    "Azonto (feat. Tiffany)": {
+        "artists": "Fuse ODG",
+        "energy": 89.5,
+        "length": 230,
+        "name": "Azonto (feat. Tiffany)",
+        "pop": 0,
+        "valence": 96.1
+    },
+    "A\u00efcha": {
+        "artists": "Africando",
+        "energy": 73.7,
+        "length": 313,
+        "name": "A\u00efcha",
+        "pop": 0,
+        "valence": 66.3
+    },
+    "Baai": {
+        "artists": "Emmanuel Jal with Abdel Gadir Sallm",
+        "energy": 75.4,
+        "length": 278,
+        "name": "Baai",
+        "pop": 0,
+        "valence": 96.8
+    },
+    "Beto": {
+        "artists": "Ali Farka Tour\u00e9",
+        "energy": 51.8,
+        "length": 285,
+        "name": "Beto",
+        "pop": 0,
+        "valence": 46.6
+    },
+    "Bisso Baba (Always Together)": {
+        "artists": "Richard Bona",
+        "energy": 53.5,
+        "length": 287,
+        "name": "Bisso Baba (Always Together)",
+        "pop": 31,
+        "valence": 44.6
+    },
+    "Bomper to Bomper": {
+        "artists": "Wande Cool",
+        "energy": 70.1,
+        "length": 226,
+        "name": "Bomper to Bomper",
+        "pop": 0,
+        "valence": 36.0
+    },
+    "Bumpy Ride": {
+        "artists": "Mohombi",
+        "energy": 85.4,
+        "length": 224,
+        "name": "Bumpy Ride",
+        "pop": 0,
+        "valence": 82.6
+    },
+    "Bunieya Enu": {
+        "artists": "P-Square",
+        "energy": 81.1,
+        "length": 284,
+        "name": "Bunieya Enu",
+        "pop": 0,
+        "valence": 87.2
+    },
+    "Colonial Mentality": {
+        "artists": "Fela Kuti",
+        "energy": 73.6,
+        "length": 822,
+        "name": "Colonial Mentality",
+        "pop": 0,
+        "valence": 89.4
+    },
+    "Cono": {
+        "artists": "Salif Keita",
+        "energy": 57.9,
+        "length": 362,
+        "name": "Cono",
+        "pop": 14,
+        "valence": 83.6
+    },
+    "Dance for Me (feat. Wizkid)": {
+        "artists": "Empire Mates Entertainment",
+        "energy": 83.4,
+        "length": 172,
+        "name": "Dance for Me (feat. Wizkid)",
+        "pop": 0,
+        "valence": 39.9
+    },
+    "Debe": {
+        "artists": "Ali Farka Tour\u00e9",
+        "energy": 30.5,
+        "length": 296,
+        "name": "Debe",
+        "pop": 0,
+        "valence": 67.0
+    },
+    "Diarabi": {
+        "artists": "Boubacar Traor\u00e9",
+        "energy": 45.5,
+        "length": 194,
+        "name": "Diarabi",
+        "pop": 9,
+        "valence": 53.1
+    },
+    "Dieuf Dieul": {
+        "artists": "Cheikh L\u00f4",
+        "energy": 57.9,
+        "length": 304,
+        "name": "Dieuf Dieul",
+        "pop": 0,
+        "valence": 76.8
+    },
+    "Din Din Wo": {
+        "artists": "Habib Koit\u00e9",
+        "energy": 80.4,
+        "length": 286,
+        "name": "Din Din Wo",
+        "pop": 22,
+        "valence": 88.6
+    },
+    "Don't Stop Believin'": {
+        "artists": "Journey",
+        "energy": 80.2,
+        "length": 249,
+        "name": "Don't Stop Believin'",
+        "pop": 74,
+        "valence": 47.2
+    },
+    "Doo Be Doo": {
+        "artists": "Freshlyground",
+        "energy": 54.1,
+        "length": 312,
+        "name": "Doo Be Doo",
+        "pop": 38,
+        "valence": 68.0
+    },
+    "Ekuro": {
+        "artists": "Davido",
+        "energy": 82.5,
+        "length": 207,
+        "name": "Ekuro",
+        "pop": 0,
+        "valence": 49.6
+    },
+    "Erdi": {
+        "artists": "Ali Farka Tour\u00e9",
+        "energy": 70.3,
+        "length": 282,
+        "name": "Erdi",
+        "pop": 0,
+        "valence": 77.5
+    },
+    "Ginger (feat. Wizkid)": {
+        "artists": "L.A.X",
+        "energy": 89.7,
+        "length": 232,
+        "name": "Ginger (feat. Wizkid)",
+        "pop": 37,
+        "valence": 96.4
+    },
+    "Girl (feat. Wizkid)": {
+        "artists": "Bracket",
+        "energy": 85.1,
+        "length": 275,
+        "name": "Girl (feat. Wizkid)",
+        "pop": 0,
+        "valence": 71.8
+    },
+    "Good or Bad - Remix": {
+        "artists": "J. Martins",
+        "energy": 71.5,
+        "length": 242,
+        "name": "Good or Bad - Remix",
+        "pop": 0,
+        "valence": 89.9
+    },
+    "Got 2 Luv U (feat. Alexis Jordan)": {
+        "artists": "Sean Paul",
+        "energy": 79.3,
+        "length": 197,
+        "name": "Got 2 Luv U (feat. Alexis Jordan)",
+        "pop": 29,
+        "valence": 64.7
+    },
+    "He Lives In You": {
+        "artists": "Lebo M.",
+        "energy": 43.0,
+        "length": 188,
+        "name": "He Lives In You",
+        "pop": 0,
+        "valence": 44.2
+    },
+    "Hold the Line": {
+        "artists": "TOTO",
+        "energy": 89.8,
+        "length": 236,
+        "name": "Hold the Line",
+        "pop": 83,
+        "valence": 80.8
+    },
+    "Hommage a Tonton Ferrer": {
+        "artists": "Orchestra Baobab",
+        "energy": 48.1,
+        "length": 354,
+        "name": "Hommage a Tonton Ferrer",
+        "pop": 0,
+        "valence": 74.3
+    },
+    "Icole": {
+        "artists": "Oliver N'Goma",
+        "energy": 71.2,
+        "length": 341,
+        "name": "Icole",
+        "pop": 0,
+        "valence": 92.4
+    },
+    "If Love Is A Crime": {
+        "artists": "2Baba",
+        "energy": 70.0,
+        "length": 270,
+        "name": "If Love Is A Crime",
+        "pop": 45,
+        "valence": 75.0
+    },
+    "If to Say": {
+        "artists": "Timaya",
+        "energy": 81.0,
+        "length": 280,
+        "name": "If to Say",
+        "pop": 0,
+        "valence": 94.3
+    },
+    "Imidiwan Win Sahara": {
+        "artists": "Tinariwen",
+        "energy": 68.0,
+        "length": 224,
+        "name": "Imidiwan Win Sahara",
+        "pop": 0,
+        "valence": 82.6
+    },
+    "Je t'aime": {
+        "artists": "Staff Benda Bilili",
+        "energy": 86.2,
+        "length": 301,
+        "name": "Je t'aime",
+        "pop": 0,
+        "valence": 93.4
+    },
+    "Je'nwi Temi (Don't Gag Me)": {
+        "artists": "Fela Kuti",
+        "energy": 87.4,
+        "length": 795,
+        "name": "Je'nwi Temi (Don't Gag Me)",
+        "pop": 0,
+        "valence": 64.9
+    },
+    "Jeje (feat. Waje)": {
+        "artists": "P-Square",
+        "energy": 86.1,
+        "length": 290,
+        "name": "Jeje (feat. Waje)",
+        "pop": 0,
+        "valence": 84.4
+    },
+    "Jiin Ma Jiin Ma": {
+        "artists": "Orchestra Baobab",
+        "energy": 54.8,
+        "length": 366,
+        "name": "Jiin Ma Jiin Ma",
+        "pop": 0,
+        "valence": 71.4
+    },
+    "Kadi Kadi": {
+        "artists": "Ali Farka Tour\u00e9",
+        "energy": 47.9,
+        "length": 199,
+        "name": "Kadi Kadi",
+        "pop": 0,
+        "valence": 75.6
+    },
+    "Kala Djula": {
+        "artists": "Ali Farka Tour\u00e9",
+        "energy": 43.0,
+        "length": 207,
+        "name": "Kala Djula",
+        "pop": 0,
+        "valence": 78.6
+    },
+    "Kanou": {
+        "artists": "Ballak\u00e9 Sissoko",
+        "energy": 49.9,
+        "length": 310,
+        "name": "Kanou",
+        "pop": 16,
+        "valence": 72.6
+    },
+    "Khona": {
+        "artists": "Mafikizolo",
+        "energy": 65.5,
+        "length": 296,
+        "name": "Khona",
+        "pop": 37,
+        "valence": 44.8
+    },
+    "King of Kings": {
+        "artists": "Ladysmith Black Mambazo",
+        "energy": 5.22,
+        "length": 247,
+        "name": "King of Kings",
+        "pop": 32,
+        "valence": 39.2
+    },
+    "Lan mize": {
+        "artists": "Baron Black",
+        "energy": 82.8,
+        "length": 307,
+        "name": "Lan mize",
+        "pop": 1,
+        "valence": 62.3
+    },
+    "Love The Way You Lie": {
+        "artists": "Eminem",
+        "energy": 92.2,
+        "length": 263,
+        "name": "Love The Way You Lie",
+        "pop": 0,
+        "valence": 63.8
+    },
+    "Malembe": {
+        "artists": "Fally Ipupa",
+        "energy": 79.3,
+        "length": 296,
+        "name": "Malembe",
+        "pop": 0,
+        "valence": 72.1
+    },
+    "Mali Dje": {
+        "artists": "Ali Farka Tour\u00e9",
+        "energy": 28.6,
+        "length": 340,
+        "name": "Mali Dje",
+        "pop": 0,
+        "valence": 69.4
+    },
+    "Maphuthi": {
+        "artists": "The Mgababa Queens",
+        "energy": 71.9,
+        "length": 162,
+        "name": "Maphuthi",
+        "pop": 0,
+        "valence": 96.6
+    },
+    "Million Pound Girl (Badder Than Bad) - Edit": {
+        "artists": "Fuse ODG",
+        "energy": 93.8,
+        "length": 247,
+        "name": "Million Pound Girl (Badder Than Bad) - Edit",
+        "pop": 0,
+        "valence": 73.4
+    },
+    "Mulemba Xangola": {
+        "artists": "Bonga",
+        "energy": 82.8,
+        "length": 321,
+        "name": "Mulemba Xangola",
+        "pop": 30,
+        "valence": 91.5
+    },
+    "Muloma (Let Us Be United)": {
+        "artists": "Sierra Leone's Refugee All Stars",
+        "energy": 80.1,
+        "length": 293,
+        "name": "Muloma (Let Us Be United)",
+        "pop": 0,
+        "valence": 72.9
+    },
+    "Naweye Toro": {
+        "artists": "Ali Farka Tour\u00e9",
+        "energy": 41.9,
+        "length": 264,
+        "name": "Naweye Toro",
+        "pop": 0,
+        "valence": 58.1
+    },
+    "Neng Makassi": {
+        "artists": "Sam Fan Thomas",
+        "energy": 93.2,
+        "length": 462,
+        "name": "Neng Makassi",
+        "pop": 0,
+        "valence": 87.2
+    },
+    "Nibari": {
+        "artists": "Umalali",
+        "energy": 45.4,
+        "length": 222,
+        "name": "Nibari",
+        "pop": 0,
+        "valence": 45.0
+    },
+    "Nightwalk": {
+        "artists": "JuJu (Justin Adams & Juldeh Camara)",
+        "energy": 87.7,
+        "length": 393,
+        "name": "Nightwalk",
+        "pop": 0,
+        "valence": 66.5
+    },
+    "Oliver Twist": {
+        "artists": "D'banj",
+        "energy": 90.0,
+        "length": 235,
+        "name": "Oliver Twist",
+        "pop": 0,
+        "valence": 85.0
+    },
+    "Olufunmi": {
+        "artists": "Styl-Plus",
+        "energy": 67.6,
+        "length": 311,
+        "name": "Olufunmi",
+        "pop": 10,
+        "valence": 74.9
+    },
+    "Pakurumo": {
+        "artists": "Wizkid",
+        "energy": 73.7,
+        "length": 212,
+        "name": "Pakurumo",
+        "pop": 0,
+        "valence": 96.7
+    },
+    "Palea": {
+        "artists": "Dobet Gnahor\u00e9",
+        "energy": 45.3,
+        "length": 219,
+        "name": "Palea",
+        "pop": 0,
+        "valence": 60.3
+    },
+    "Pobre Diabla": {
+        "artists": "Don Omar",
+        "energy": 77.1,
+        "length": 223,
+        "name": "Pobre Diabla",
+        "pop": 0,
+        "valence": 84.1
+    },
+    "Pot Belly": {
+        "artists": "Freshlyground",
+        "energy": 46.0,
+        "length": 252,
+        "name": "Pot Belly",
+        "pop": 30,
+        "valence": 31.1
+    },
+    "P\u00e9p\u00e9 Kalle": {
+        "artists": "Wendo Kolosoy",
+        "energy": 47.2,
+        "length": 165,
+        "name": "P\u00e9p\u00e9 Kalle",
+        "pop": 33,
+        "valence": 86.6
+    },
+    "Queen Bee": {
+        "artists": "Toumani Diabat\u00e9",
+        "energy": 48.0,
+        "length": 305,
+        "name": "Queen Bee",
+        "pop": 0,
+        "valence": 68.7
+    },
+    "Sala Keba": {
+        "artists": "Staff Benda Bilili",
+        "energy": 59.0,
+        "length": 266,
+        "name": "Sala Keba",
+        "pop": 0,
+        "valence": 61.7
+    },
+    "Samahani": {
+        "artists": "Dobet Gnahor\u00e9",
+        "energy": 51.2,
+        "length": 206,
+        "name": "Samahani",
+        "pop": 34,
+        "valence": 43.4
+    },
+    "Sana": {
+        "artists": "Kanda Bongo Man",
+        "energy": 89.0,
+        "length": 239,
+        "name": "Sana",
+        "pop": 0,
+        "valence": 88.7
+    },
+    "Say You Love": {
+        "artists": "P-Square",
+        "energy": 58.6,
+        "length": 306,
+        "name": "Say You Love",
+        "pop": 0,
+        "valence": 49.0
+    },
+    "Screen Saver (Rmx) feat. R J Martins": {
+        "artists": "Wizboyy",
+        "energy": 94.1,
+        "length": 259,
+        "name": "Screen Saver (Rmx) feat. R J Martins",
+        "pop": 28,
+        "valence": 96.0
+    },
+    "See Me So": {
+        "artists": "2Baba",
+        "energy": 48.4,
+        "length": 281,
+        "name": "See Me So",
+        "pop": 43,
+        "valence": 85.3
+    },
+    "Sexy Dance (feat.Krys)": {
+        "artists": "Fally Ipupa feat.Krys",
+        "energy": 94.8,
+        "length": 202,
+        "name": "Sexy Dance (feat.Krys)",
+        "pop": 0,
+        "valence": 86.6
+    },
+    "Sexy Ladies": {
+        "artists": "Timaya",
+        "energy": 0,
+        "length": 3,
+        "name": "Sexy Ladies",
+        "pop": 0,
+        "valence": 0
+    },
+    "Shakara (Oloje)": {
+        "artists": "Fela Kuti",
+        "energy": 71.3,
+        "length": 806,
+        "name": "Shakara (Oloje)",
+        "pop": 0,
+        "valence": 59.9
+    },
+    "Sijuade": {
+        "artists": "King Sunny Ade",
+        "energy": 71.5,
+        "length": 247,
+        "name": "Sijuade",
+        "pop": 17,
+        "valence": 96.1
+    },
+    "Sina (Soumbouya)": {
+        "artists": "Salif Keita",
+        "energy": 80.0,
+        "length": 292,
+        "name": "Sina (Soumbouya)",
+        "pop": 0,
+        "valence": 77.9
+    },
+    "Slow Down (feat. Wizkid)": {
+        "artists": "R2Bees",
+        "energy": 72.8,
+        "length": 259,
+        "name": "Slow Down (feat. Wizkid)",
+        "pop": 0,
+        "valence": 67.3
+    },
+    "Soundway": {
+        "artists": "Wrinkar Experience",
+        "energy": 89.4,
+        "length": 182,
+        "name": "Soundway",
+        "pop": 0,
+        "valence": 80.5
+    },
+    "Stimela (Coal Train)": {
+        "artists": "Hugh Masekela",
+        "energy": 49.5,
+        "length": 326,
+        "name": "Stimela (Coal Train)",
+        "pop": 12,
+        "valence": 75.7
+    },
+    "Tameyawt": {
+        "artists": "Tinariwen",
+        "energy": 15.4,
+        "length": 276,
+        "name": "Tameyawt",
+        "pop": 0,
+        "valence": 65.9
+    },
+    "Tamiditin Tan Ufrawan": {
+        "artists": "Tinariwen",
+        "energy": 64.5,
+        "length": 183,
+        "name": "Tamiditin Tan Ufrawan",
+        "pop": 0,
+        "valence": 56.3
+    },
+    "Tchamantch\u00e9": {
+        "artists": "Rokia Traor\u00e9",
+        "energy": 35.5,
+        "length": 256,
+        "name": "Tchamantch\u00e9",
+        "pop": 14,
+        "valence": 93.3
+    },
+    "The Panther": {
+        "artists": "Manu Dibango",
+        "energy": 96.1,
+        "length": 149,
+        "name": "The Panther",
+        "pop": 0,
+        "valence": 80.6
+    },
+    "Three Little Birds": {
+        "artists": "Bob Marley & The Wailers",
+        "energy": 47.8,
+        "length": 181,
+        "name": "Three Little Birds",
+        "pop": 0,
+        "valence": 64.3
+    },
+    "Timbuktu": {
+        "artists": "Issa Bagayogo",
+        "energy": 57.6,
+        "length": 349,
+        "name": "Timbuktu",
+        "pop": 26,
+        "valence": 51.9
+    },
+    "Titanium (feat. Sia)": {
+        "artists": "David Guetta",
+        "energy": 78.7,
+        "length": 245,
+        "name": "Titanium (feat. Sia)",
+        "pop": 84,
+        "valence": 30.1
+    },
+    "Umhome": {
+        "artists": "Miriam Makeba",
+        "energy": 2.78,
+        "length": 82,
+        "name": "Umhome",
+        "pop": 0,
+        "valence": 56.1
+    },
+    "Umqombothi": {
+        "artists": "Yvonne Chaka Chaka",
+        "energy": 71.6,
+        "length": 296,
+        "name": "Umqombothi",
+        "pop": 38,
+        "valence": 96.1
+    },
+    "Unissons Nous - feat. Keziah Jones": {
+        "artists": "Amadou & Mariam",
+        "energy": 83.2,
+        "length": 257,
+        "name": "Unissons Nous - feat. Keziah Jones",
+        "pop": 0,
+        "valence": 61.9
+    },
+    "Utrus Horas": {
+        "artists": "Orchestra Baobab",
+        "energy": 26.6,
+        "length": 523,
+        "name": "Utrus Horas",
+        "pop": 0,
+        "valence": 61.7
+    },
+    "Wasuze Otya?": {
+        "artists": "Samite",
+        "energy": 25.0,
+        "length": 232,
+        "name": "Wasuze Otya?",
+        "pop": 30,
+        "valence": 66.0
+    },
+    "Wily Kataso - feat. Tunde & Kyp of TV On The Radio": {
+        "artists": "Amadou & Mariam",
+        "energy": 77.0,
+        "length": 264,
+        "name": "Wily Kataso - feat. Tunde & Kyp of TV On The Radio",
+        "pop": 0,
+        "valence": 88.2
+    },
+    "Windeck - Original Version": {
+        "artists": "Cabo Snoop",
+        "energy": 86.5,
+        "length": 210,
+        "name": "Windeck - Original Version",
+        "pop": 14,
+        "valence": 18.2
+    },
+    "Yay Boy": {
+        "artists": "Africando",
+        "energy": 76.1,
+        "length": 246,
+        "name": "Yay Boy",
+        "pop": 0,
+        "valence": 96.1
+    },
+    "Ye Te Oh": {
+        "artists": "Papa Wemba",
+        "energy": 74.7,
+        "length": 216,
+        "name": "Ye Te Oh",
+        "pop": 0,
+        "valence": 68.8
+    },
+    "Young, Wild & Free (feat. Bruno Mars)": {
+        "artists": "Snoop Dogg",
+        "energy": 65.5,
+        "length": 207,
+        "name": "Young, Wild & Free (feat. Bruno Mars)",
+        "pop": 80,
+        "valence": 53.1
+    }
+}

@@ -1,0 +1,802 @@
+{
+    "A Gentle Few": {
+        "artists": "Joe Pug",
+        "energy": 26.5,
+        "length": 233,
+        "name": "A Gentle Few",
+        "pop": 21,
+        "valence": 50.7
+    },
+    "A Rose For Epona": {
+        "artists": "Eluveitie",
+        "energy": 96.9,
+        "length": 266,
+        "name": "A Rose For Epona",
+        "pop": 0,
+        "valence": 15.7
+    },
+    "Against The Grain": {
+        "artists": "Hudson and Troop",
+        "energy": 61.4,
+        "length": 275,
+        "name": "Against The Grain",
+        "pop": 37,
+        "valence": 67.4
+    },
+    "All Wash Out": {
+        "artists": "Edward Sharpe & The Magnetic Zeros",
+        "energy": 28.0,
+        "length": 281,
+        "name": "All Wash Out",
+        "pop": 0,
+        "valence": 33.3
+    },
+    "And It Spread": {
+        "artists": "The Avett Brothers",
+        "energy": 51.0,
+        "length": 247,
+        "name": "And It Spread",
+        "pop": 39,
+        "valence": 30.4
+    },
+    "Angeles": {
+        "artists": "Elliott Smith",
+        "energy": 9.93,
+        "length": 177,
+        "name": "Angeles",
+        "pop": 0,
+        "valence": 58.8
+    },
+    "Angie": {
+        "artists": "Bert Jansch",
+        "energy": 23.9,
+        "length": 196,
+        "name": "Angie",
+        "pop": 0,
+        "valence": 38.1
+    },
+    "Being A Mockingbird - Live": {
+        "artists": "Bobby Long",
+        "energy": 34.6,
+        "length": 267,
+        "name": "Being A Mockingbird - Live",
+        "pop": 0,
+        "valence": 25.3
+    },
+    "Big Jet Plane": {
+        "artists": "Angus & Julia Stone",
+        "energy": 38.7,
+        "length": 239,
+        "name": "Big Jet Plane",
+        "pop": 13,
+        "valence": 27.3
+    },
+    "Blood To Gold": {
+        "artists": "Boy & Bear",
+        "energy": 72.1,
+        "length": 137,
+        "name": "Blood To Gold",
+        "pop": 26,
+        "valence": 16.1
+    },
+    "Blowin' in the Wind": {
+        "artists": "Bob Dylan",
+        "energy": 9.93,
+        "length": 165,
+        "name": "Blowin' in the Wind",
+        "pop": 71,
+        "valence": 44.0
+    },
+    "Calling The Rain": {
+        "artists": "Eluveitie",
+        "energy": 99.4,
+        "length": 306,
+        "name": "Calling The Rain",
+        "pop": 0,
+        "valence": 7.17
+    },
+    "Chicago": {
+        "artists": "Sufjan Stevens",
+        "energy": 46.3,
+        "length": 365,
+        "name": "Chicago",
+        "pop": 0,
+        "valence": 44.7
+    },
+    "Chico The American": {
+        "artists": "Field Report",
+        "energy": 57.0,
+        "length": 351,
+        "name": "Chico The American",
+        "pop": 4,
+        "valence": 33.3
+    },
+    "Chinese Translation": {
+        "artists": "M. Ward",
+        "energy": 72.6,
+        "length": 239,
+        "name": "Chinese Translation",
+        "pop": 0,
+        "valence": 50.3
+    },
+    "Come Talk to Me": {
+        "artists": "Bon Iver",
+        "energy": 70.8,
+        "length": 380,
+        "name": "Come Talk to Me",
+        "pop": 0,
+        "valence": 32.9
+    },
+    "Coney Island": {
+        "artists": "Good Old War",
+        "energy": 74.1,
+        "length": 164,
+        "name": "Coney Island",
+        "pop": 41,
+        "valence": 92.3
+    },
+    "Dance to Another Tune": {
+        "artists": "First Aid Kit",
+        "energy": 51.0,
+        "length": 290,
+        "name": "Dance to Another Tune",
+        "pop": 0,
+        "valence": 11.2
+    },
+    "Dark Autumn Hour": {
+        "artists": "Frontier Ruckus",
+        "energy": 39.2,
+        "length": 210,
+        "name": "Dark Autumn Hour",
+        "pop": 0,
+        "valence": 76.4
+    },
+    "Daughter's Lament": {
+        "artists": "Carolina Chocolate Drops",
+        "energy": 15.9,
+        "length": 167,
+        "name": "Daughter's Lament",
+        "pop": 30,
+        "valence": 37.6
+    },
+    "Demons": {
+        "artists": "Imagine Dragons",
+        "energy": 71.0,
+        "length": 175,
+        "name": "Demons",
+        "pop": 0,
+        "valence": 41.6
+    },
+    "Don't Carry It All": {
+        "artists": "The Decemberists",
+        "energy": 83.6,
+        "length": 257,
+        "name": "Don't Carry It All",
+        "pop": 54,
+        "valence": 62.7
+    },
+    "Down To The River To Pray - From \u201cO Brother, Where Art Thou\u201d Soundtrack": {
+        "artists": "Alison Krauss",
+        "energy": 16.6,
+        "length": 176,
+        "name": "Down To The River To Pray - From \u201cO Brother, Where Art Thou\u201d Soundtrack",
+        "pop": 0,
+        "valence": 54.9
+    },
+    "Drops In The River": {
+        "artists": "Fleet Foxes",
+        "energy": 31.2,
+        "length": 253,
+        "name": "Drops In The River",
+        "pop": 0,
+        "valence": 8.15
+    },
+    "Drunken Lullabies": {
+        "artists": "Flogging Molly",
+        "energy": 96.8,
+        "length": 231,
+        "name": "Drunken Lullabies",
+        "pop": 0,
+        "valence": 84.7
+    },
+    "Ends of the Earth": {
+        "artists": "Lord Huron",
+        "energy": 57.9,
+        "length": 284,
+        "name": "Ends of the Earth",
+        "pop": 0,
+        "valence": 43.2
+    },
+    "Feeding Line": {
+        "artists": "Boy & Bear",
+        "energy": 62.1,
+        "length": 270,
+        "name": "Feeding Line",
+        "pop": 0,
+        "valence": 27.9
+    },
+    "First Day Of My Life": {
+        "artists": "Bright Eyes",
+        "energy": 20.3,
+        "length": 183,
+        "name": "First Day Of My Life",
+        "pop": 0,
+        "valence": 40.0
+    },
+    "Flame On My Head": {
+        "artists": "Blaudzun",
+        "energy": 51.1,
+        "length": 255,
+        "name": "Flame On My Head",
+        "pop": 0,
+        "valence": 22.9
+    },
+    "Folsom Prison Blues - Live": {
+        "artists": "Johnny Cash",
+        "energy": 57.5,
+        "length": 163,
+        "name": "Folsom Prison Blues - Live",
+        "pop": 0,
+        "valence": 90.4
+    },
+    "For You": {
+        "artists": "Angus & Julia Stone",
+        "energy": 28.4,
+        "length": 320,
+        "name": "For You",
+        "pop": 0,
+        "valence": 11.9
+    },
+    "Ghost": {
+        "artists": "Yellow Ostrich",
+        "energy": 28.9,
+        "length": 220,
+        "name": "Ghost",
+        "pop": 0,
+        "valence": 22.1
+    },
+    "Ghost Woman Blues": {
+        "artists": "The Low Anthem",
+        "energy": 19.1,
+        "length": 256,
+        "name": "Ghost Woman Blues",
+        "pop": 11,
+        "valence": 21.5
+    },
+    "Give A Little Love": {
+        "artists": "Noah And The Whale",
+        "energy": 40.3,
+        "length": 255,
+        "name": "Give A Little Love",
+        "pop": 38,
+        "valence": 30.8
+    },
+    "Give Me Love": {
+        "artists": "Ed Sheeran",
+        "energy": 32.8,
+        "length": 526,
+        "name": "Give Me Love",
+        "pop": 73,
+        "valence": 11.0
+    },
+    "Golden Thread (feat. Matt Corby)": {
+        "artists": "Passenger",
+        "energy": 40.2,
+        "length": 241,
+        "name": "Golden Thread (feat. Matt Corby)",
+        "pop": 0,
+        "valence": 26.1
+    },
+    "Goshen": {
+        "artists": "Beirut",
+        "energy": 26.2,
+        "length": 200,
+        "name": "Goshen",
+        "pop": 0,
+        "valence": 10.7
+    },
+    "Green, Green Rocky Road": {
+        "artists": "Oscar Isaac",
+        "energy": 17.5,
+        "length": 197,
+        "name": "Green, Green Rocky Road",
+        "pop": 41,
+        "valence": 11.7
+    },
+    "Guaranteed": {
+        "artists": "Eddie Vedder",
+        "energy": 0.68,
+        "length": 443,
+        "name": "Guaranteed",
+        "pop": 0,
+        "valence": 12.7
+    },
+    "Heart of Gold": {
+        "artists": "Neil Young",
+        "energy": 48.0,
+        "length": 187,
+        "name": "Heart of Gold",
+        "pop": 0,
+        "valence": 83.4
+    },
+    "Hold On to What You Believe": {
+        "artists": "Mumford & Sons",
+        "energy": 67.1,
+        "length": 244,
+        "name": "Hold On to What You Believe",
+        "pop": 0,
+        "valence": 11.2
+    },
+    "Home": {
+        "artists": "Edward Sharpe & The Magnetic Zeros",
+        "energy": 59.0,
+        "length": 306,
+        "name": "Home",
+        "pop": 0,
+        "valence": 12.7
+    },
+    "I Am A Man Of Constant Sorrow - From \u201cO Brother, Where Art Thou\u201d Soundtrack / Radio Station Version": {
+        "artists": "The Soggy Bottom Boys",
+        "energy": 30.8,
+        "length": 190,
+        "name": "I Am A Man Of Constant Sorrow - From \u201cO Brother, Where Art Thou\u201d Soundtrack / Radio Station Version",
+        "pop": 0,
+        "valence": 72.1
+    },
+    "I See Fire - From \"The Hobbit - The Desolation Of Smaug\"": {
+        "artists": "Ed Sheeran",
+        "energy": 5.49,
+        "length": 301,
+        "name": "I See Fire - From \"The Hobbit - The Desolation Of Smaug\"",
+        "pop": 74,
+        "valence": 23.4
+    },
+    "I Still Care for You": {
+        "artists": "Ray LaMontagne",
+        "energy": 71.5,
+        "length": 247,
+        "name": "I Still Care for You",
+        "pop": 34,
+        "valence": 30.9
+    },
+    "I Will Wait - Live From Red Rocks": {
+        "artists": "Mumford & Sons",
+        "energy": 74.8,
+        "length": 286,
+        "name": "I Will Wait - Live From Red Rocks",
+        "pop": 0,
+        "valence": 23.6
+    },
+    "If I Go, I'm Goin": {
+        "artists": "Gregory Alan Isakov",
+        "energy": 6.48,
+        "length": 267,
+        "name": "If I Go, I'm Goin",
+        "pop": 65,
+        "valence": 19.2
+    },
+    "If I Had a Boat": {
+        "artists": "James Vincent McMorrow",
+        "energy": 29.5,
+        "length": 247,
+        "name": "If I Had a Boat",
+        "pop": 37,
+        "valence": 17.9
+    },
+    "If I Had a Hammer - 2004 Remaster": {
+        "artists": "Peter, Paul and Mary",
+        "energy": 42.3,
+        "length": 121,
+        "name": "If I Had a Hammer - 2004 Remaster",
+        "pop": 52,
+        "valence": 35.3
+    },
+    "If Time Was For Wasting": {
+        "artists": "Dylan LeBlanc",
+        "energy": 52.7,
+        "length": 284,
+        "name": "If Time Was For Wasting",
+        "pop": 0,
+        "valence": 60.9
+    },
+    "In the Hearts of Men": {
+        "artists": "First Aid Kit",
+        "energy": 33.9,
+        "length": 253,
+        "name": "In the Hearts of Men",
+        "pop": 0,
+        "valence": 14.4
+    },
+    "In the Yard": {
+        "artists": "Bowerbirds",
+        "energy": 49.6,
+        "length": 247,
+        "name": "In the Yard",
+        "pop": 0,
+        "valence": 23.9
+    },
+    "Islands": {
+        "artists": "Plankton Wat",
+        "energy": 33.5,
+        "length": 371,
+        "name": "Islands",
+        "pop": 0,
+        "valence": 19.3
+    },
+    "Ivy & Gold": {
+        "artists": "Bombay Bicycle Club",
+        "energy": 68.1,
+        "length": 176,
+        "name": "Ivy & Gold",
+        "pop": 0,
+        "valence": 88.8
+    },
+    "Lay Me Down": {
+        "artists": "The Oh Hellos",
+        "energy": 42.2,
+        "length": 183,
+        "name": "Lay Me Down",
+        "pop": 0,
+        "valence": 32.7
+    },
+    "Lay, Lady, Lay": {
+        "artists": "Bob Dylan",
+        "energy": 17.9,
+        "length": 197,
+        "name": "Lay, Lady, Lay",
+        "pop": 65,
+        "valence": 40.7
+    },
+    "Leading Me Now": {
+        "artists": "The Tallest Man On Earth",
+        "energy": 60.9,
+        "length": 205,
+        "name": "Leading Me Now",
+        "pop": 0,
+        "valence": 59.4
+    },
+    "Leaving, On a Jet Plane - \"Greatest Hits\" Version": {
+        "artists": "John Denver",
+        "energy": 21.3,
+        "length": 245,
+        "name": "Leaving, On a Jet Plane - \"Greatest Hits\" Version",
+        "pop": 0,
+        "valence": 66.6
+    },
+    "Let You Break (feat. Julia Stone)": {
+        "artists": "William Fitzsimmons",
+        "energy": 41.0,
+        "length": 203,
+        "name": "Let You Break (feat. Julia Stone)",
+        "pop": 0,
+        "valence": 48.6
+    },
+    "Light Flight": {
+        "artists": "Pentangle",
+        "energy": 49.4,
+        "length": 194,
+        "name": "Light Flight",
+        "pop": 0,
+        "valence": 81.4
+    },
+    "Long Nights": {
+        "artists": "Eddie Vedder",
+        "energy": 31.0,
+        "length": 152,
+        "name": "Long Nights",
+        "pop": 0,
+        "valence": 9.56
+    },
+    "Lorelai": {
+        "artists": "Fleet Foxes",
+        "energy": 83.5,
+        "length": 265,
+        "name": "Lorelai",
+        "pop": 0,
+        "valence": 67.8
+    },
+    "Love Thine Enemy": {
+        "artists": "Cass McCombs",
+        "energy": 71.2,
+        "length": 236,
+        "name": "Love Thine Enemy",
+        "pop": 0,
+        "valence": 71.1
+    },
+    "Married to the Movies": {
+        "artists": "Woodpecker!",
+        "energy": 43.9,
+        "length": 153,
+        "name": "Married to the Movies",
+        "pop": 2,
+        "valence": 39.2
+    },
+    "Mr. Tambourine Man": {
+        "artists": "Bob Dylan",
+        "energy": 31.0,
+        "length": 331,
+        "name": "Mr. Tambourine Man",
+        "pop": 65,
+        "valence": 58.4
+    },
+    "Night Terror": {
+        "artists": "Laura Marling",
+        "energy": 37.8,
+        "length": 189,
+        "name": "Night Terror",
+        "pop": 35,
+        "valence": 51.9
+    },
+    "Out on the Shield": {
+        "artists": "Said The Whale",
+        "energy": 92.7,
+        "length": 178,
+        "name": "Out on the Shield",
+        "pop": 0,
+        "valence": 54.1
+    },
+    "Perfectly Aligned": {
+        "artists": "Milo Greene",
+        "energy": 38.4,
+        "length": 181,
+        "name": "Perfectly Aligned",
+        "pop": 29,
+        "valence": 15.6
+    },
+    "Perth": {
+        "artists": "Bon Iver",
+        "energy": 45.7,
+        "length": 262,
+        "name": "Perth",
+        "pop": 0,
+        "valence": 8.06
+    },
+    "Promised Land": {
+        "artists": "St. Augustine",
+        "energy": 43.6,
+        "length": 215,
+        "name": "Promised Land",
+        "pop": 0,
+        "valence": 13.6
+    },
+    "Red Hands": {
+        "artists": "Walk off the Earth",
+        "energy": 84.6,
+        "length": 181,
+        "name": "Red Hands",
+        "pop": 51,
+        "valence": 67.2
+    },
+    "Resolution": {
+        "artists": "Matt Corby",
+        "energy": 57.4,
+        "length": 256,
+        "name": "Resolution",
+        "pop": 0,
+        "valence": 15.2
+    },
+    "Skinny Bones Jones": {
+        "artists": "Infantree",
+        "energy": 85.2,
+        "length": 254,
+        "name": "Skinny Bones Jones",
+        "pop": 0,
+        "valence": 24.4
+    },
+    "Slow And Steady": {
+        "artists": "Of Monsters and Men",
+        "energy": 80.3,
+        "length": 302,
+        "name": "Slow And Steady",
+        "pop": 40,
+        "valence": 30.8
+    },
+    "Sounds Like Hallelujah": {
+        "artists": "The Head And The Heart",
+        "energy": 39.5,
+        "length": 190,
+        "name": "Sounds Like Hallelujah",
+        "pop": 0,
+        "valence": 25.8
+    },
+    "Sparrow and the Wolf": {
+        "artists": "James Vincent McMorrow",
+        "energy": 60.4,
+        "length": 220,
+        "name": "Sparrow and the Wolf",
+        "pop": 35,
+        "valence": 44.1
+    },
+    "Such Great Heights": {
+        "artists": "Iron & Wine",
+        "energy": 27.5,
+        "length": 251,
+        "name": "Such Great Heights",
+        "pop": 0,
+        "valence": 55.2
+    },
+    "Teeth In The Grass": {
+        "artists": "Iron & Wine",
+        "energy": 36.8,
+        "length": 142,
+        "name": "Teeth In The Grass",
+        "pop": 0,
+        "valence": 90.2
+    },
+    "The Almond Tree": {
+        "artists": "Hannah Peel",
+        "energy": 38.0,
+        "length": 198,
+        "name": "The Almond Tree",
+        "pop": 19,
+        "valence": 47.8
+    },
+    "The Boxer": {
+        "artists": "Simon & Garfunkel",
+        "energy": 48.6,
+        "length": 308,
+        "name": "The Boxer",
+        "pop": 0,
+        "valence": 62.9
+    },
+    "The Cave": {
+        "artists": "Mumford & Sons",
+        "energy": 59.7,
+        "length": 240,
+        "name": "The Cave",
+        "pop": 0,
+        "valence": 40.9
+    },
+    "The John Wayne": {
+        "artists": "Little Green Cars",
+        "energy": 59.2,
+        "length": 292,
+        "name": "The John Wayne",
+        "pop": 0,
+        "valence": 18.5
+    },
+    "The Traveling Song": {
+        "artists": "The Avett Brothers",
+        "energy": 80.0,
+        "length": 208,
+        "name": "The Traveling Song",
+        "pop": 0,
+        "valence": 71.6
+    },
+    "The Wolves": {
+        "artists": "Ben Howard",
+        "energy": 53.1,
+        "length": 309,
+        "name": "The Wolves",
+        "pop": 0,
+        "valence": 50.7
+    },
+    "This Land is Your Land": {
+        "artists": "Woody Guthrie",
+        "energy": 9.19,
+        "length": 140,
+        "name": "This Land is Your Land",
+        "pop": 47,
+        "valence": 54.8
+    },
+    "Tickle Me Pink": {
+        "artists": "Johnny Flynn",
+        "energy": 63.4,
+        "length": 191,
+        "name": "Tickle Me Pink",
+        "pop": 0,
+        "valence": 48.8
+    },
+    "Towers": {
+        "artists": "Bon Iver",
+        "energy": 32.1,
+        "length": 188,
+        "name": "Towers",
+        "pop": 0,
+        "valence": 14.5
+    },
+    "Truth": {
+        "artists": "Amos Lee",
+        "energy": 66.8,
+        "length": 183,
+        "name": "Truth",
+        "pop": 25,
+        "valence": 75.4
+    },
+    "Two Matchsticks": {
+        "artists": "The Wooden Birds",
+        "energy": 67.4,
+        "length": 181,
+        "name": "Two Matchsticks",
+        "pop": 14,
+        "valence": 97.1
+    },
+    "Up From Below": {
+        "artists": "Edward Sharpe & The Magnetic Zeros",
+        "energy": 75.4,
+        "length": 249,
+        "name": "Up From Below",
+        "pop": 0,
+        "valence": 73.0
+    },
+    "Venice": {
+        "artists": "The Lighthouse And The Whaler",
+        "energy": 57.1,
+        "length": 200,
+        "name": "Venice",
+        "pop": 0,
+        "valence": 63.6
+    },
+    "Victory": {
+        "artists": "Trampled by Turtles",
+        "energy": 71.7,
+        "length": 235,
+        "name": "Victory",
+        "pop": 0,
+        "valence": 56.3
+    },
+    "Volunteers": {
+        "artists": "Megafaun",
+        "energy": 74.6,
+        "length": 178,
+        "name": "Volunteers",
+        "pop": 0,
+        "valence": 61.7
+    },
+    "We Are Nowhere And It's Now": {
+        "artists": "Bright Eyes",
+        "energy": 53.7,
+        "length": 253,
+        "name": "We Are Nowhere And It's Now",
+        "pop": 0,
+        "valence": 53.0
+    },
+    "White Blank Page": {
+        "artists": "Mumford & Sons",
+        "energy": 39.8,
+        "length": 253,
+        "name": "White Blank Page",
+        "pop": 0,
+        "valence": 29.9
+    },
+    "White Tooth Man": {
+        "artists": "Iron & Wine",
+        "energy": 73.3,
+        "length": 236,
+        "name": "White Tooth Man",
+        "pop": 0,
+        "valence": 55.1
+    },
+    "Wind And Walls": {
+        "artists": "The Tallest Man On Earth",
+        "energy": 58.9,
+        "length": 250,
+        "name": "Wind And Walls",
+        "pop": 0,
+        "valence": 43.0
+    },
+    "Your Bones": {
+        "artists": "Of Monsters and Men",
+        "energy": 72.5,
+        "length": 249,
+        "name": "Your Bones",
+        "pop": 41,
+        "valence": 32.7
+    },
+    "Your Heart Is a Twisted Vine": {
+        "artists": "Marissa Nadler",
+        "energy": 35.0,
+        "length": 323,
+        "name": "Your Heart Is a Twisted Vine",
+        "pop": 11,
+        "valence": 11.3
+    },
+    "Your Rocky Spine": {
+        "artists": "Great Lake Swimmers",
+        "energy": 42.1,
+        "length": 216,
+        "name": "Your Rocky Spine",
+        "pop": 0,
+        "valence": 53.5
+    }
+}

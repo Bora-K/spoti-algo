@@ -1,0 +1,802 @@
+{
+    "9 Crimes": {
+        "artists": "Damien Rice",
+        "energy": 13.9,
+        "length": 218,
+        "name": "9 Crimes",
+        "pop": 62,
+        "valence": 11.6
+    },
+    "A Girl, a Boy, and a Graveyard": {
+        "artists": "jeremy messersmith",
+        "energy": 13.6,
+        "length": 188,
+        "name": "A Girl, a Boy, and a Graveyard",
+        "pop": 0,
+        "valence": 45.7
+    },
+    "Ain't No Sunshine": {
+        "artists": "Bill Withers",
+        "energy": 48.4,
+        "length": 123,
+        "name": "Ain't No Sunshine",
+        "pop": 0,
+        "valence": 54.2
+    },
+    "Angel": {
+        "artists": "Sarah McLachlan",
+        "energy": 7.44,
+        "length": 270,
+        "name": "Angel",
+        "pop": 69,
+        "valence": 12.5
+    },
+    "Angeles": {
+        "artists": "Elliott Smith",
+        "energy": 9.93,
+        "length": 177,
+        "name": "Angeles",
+        "pop": 0,
+        "valence": 58.8
+    },
+    "Art of Motion": {
+        "artists": "Andy McKee",
+        "energy": 25.6,
+        "length": 207,
+        "name": "Art of Motion",
+        "pop": 0,
+        "valence": 60.9
+    },
+    "Baby": {
+        "artists": "Justin Bieber",
+        "energy": 85.4,
+        "length": 217,
+        "name": "Baby",
+        "pop": 0,
+        "valence": 56.7
+    },
+    "Beauty And A Beat": {
+        "artists": "Justin Bieber",
+        "energy": 84.5,
+        "length": 228,
+        "name": "Beauty And A Beat",
+        "pop": 0,
+        "valence": 66.2
+    },
+    "Below My Feet": {
+        "artists": "Mumford & Sons",
+        "energy": 45.2,
+        "length": 292,
+        "name": "Below My Feet",
+        "pop": 0,
+        "valence": 14.9
+    },
+    "Better Together": {
+        "artists": "Jack Johnson",
+        "energy": 34.6,
+        "length": 208,
+        "name": "Better Together",
+        "pop": 78,
+        "valence": 65.9
+    },
+    "Billie Jean - Live": {
+        "artists": "The Civil Wars",
+        "energy": 17.4,
+        "length": 249,
+        "name": "Billie Jean - Live",
+        "pop": 28,
+        "valence": 44.2
+    },
+    "Boulevard of Broken Dreams (feat. John Gallagher Jr., Rebecca Naomi Jones, Stark Sands, The American Idiot Broadway Company)": {
+        "artists": "Green Day",
+        "energy": 64.7,
+        "length": 262,
+        "name": "Boulevard of Broken Dreams (feat. John Gallagher Jr., Rebecca Naomi Jones, Stark Sands, The American Idiot Broadway Company)",
+        "pop": 58,
+        "valence": 33.9
+    },
+    "Boyfriend": {
+        "artists": "Tyler Ward",
+        "energy": 59.8,
+        "length": 188,
+        "name": "Boyfriend",
+        "pop": 12,
+        "valence": 84.5
+    },
+    "Bubbly": {
+        "artists": "Colbie Caillat",
+        "energy": 47.4,
+        "length": 196,
+        "name": "Bubbly",
+        "pop": 70,
+        "valence": 24.9
+    },
+    "Calgary": {
+        "artists": "Bon Iver",
+        "energy": 46.0,
+        "length": 250,
+        "name": "Calgary",
+        "pop": 0,
+        "valence": 7.68
+    },
+    "Clairvoyant": {
+        "artists": "The Story So Far",
+        "energy": 35.2,
+        "length": 181,
+        "name": "Clairvoyant",
+        "pop": 0,
+        "valence": 13.7
+    },
+    "Common Denominator - iTunes Bonus": {
+        "artists": "Justin Bieber",
+        "energy": 66.0,
+        "length": 249,
+        "name": "Common Denominator - iTunes Bonus",
+        "pop": 0,
+        "valence": 45.0
+    },
+    "Counting Stars / The Monster (feat. Carly Rose Sonenclar)": {
+        "artists": "Boyce Avenue",
+        "energy": 44.0,
+        "length": 223,
+        "name": "Counting Stars / The Monster (feat. Carly Rose Sonenclar)",
+        "pop": 0,
+        "valence": 44.0
+    },
+    "Cowboys and Angels - Edit": {
+        "artists": "George Michael",
+        "energy": 63.9,
+        "length": 274,
+        "name": "Cowboys and Angels - Edit",
+        "pop": 18,
+        "valence": 40.3
+    },
+    "Cradlesong": {
+        "artists": "Soap&Skin",
+        "energy": 16.0,
+        "length": 131,
+        "name": "Cradlesong",
+        "pop": 0,
+        "valence": 21.8
+    },
+    "Crazy in Love": {
+        "artists": "Daniela Andrade",
+        "energy": 32.6,
+        "length": 228,
+        "name": "Crazy in Love",
+        "pop": 56,
+        "valence": 48.9
+    },
+    "Dirty Old Town": {
+        "artists": "Craig Cardiff",
+        "energy": 41.8,
+        "length": 246,
+        "name": "Dirty Old Town",
+        "pop": 0,
+        "valence": 32.8
+    },
+    "Dirty Paws": {
+        "artists": "Of Monsters and Men",
+        "energy": 64.9,
+        "length": 278,
+        "name": "Dirty Paws",
+        "pop": 72,
+        "valence": 13.3
+    },
+    "Do You Remember": {
+        "artists": "Jack Johnson",
+        "energy": 28.9,
+        "length": 144,
+        "name": "Do You Remember",
+        "pop": 66,
+        "valence": 71.4
+    },
+    "Don't You Worry Child": {
+        "artists": "Beth",
+        "energy": 18.0,
+        "length": 155,
+        "name": "Don't You Worry Child",
+        "pop": 0,
+        "valence": 43.2
+    },
+    "Dreaming with a Broken Heart": {
+        "artists": "John Mayer",
+        "energy": 34.9,
+        "length": 246,
+        "name": "Dreaming with a Broken Heart",
+        "pop": 63,
+        "valence": 15.5
+    },
+    "Drops of Jupiter (Tell Me)": {
+        "artists": "Train",
+        "energy": 63.8,
+        "length": 260,
+        "name": "Drops of Jupiter (Tell Me)",
+        "pop": 81,
+        "valence": 49.7
+    },
+    "Dust in the Wind": {
+        "artists": "Kansas",
+        "energy": 25.1,
+        "length": 206,
+        "name": "Dust in the Wind",
+        "pop": 60,
+        "valence": 41.9
+    },
+    "Everything": {
+        "artists": "Ben Howard",
+        "energy": 26.1,
+        "length": 286,
+        "name": "Everything",
+        "pop": 0,
+        "valence": 34.1
+    },
+    "Everything'll Be Alright (Will's Lullaby)": {
+        "artists": "Joshua Radin",
+        "energy": 15.7,
+        "length": 160,
+        "name": "Everything'll Be Alright (Will's Lullaby)",
+        "pop": 39,
+        "valence": 39.5
+    },
+    "Feel the Same": {
+        "artists": "Joshua James",
+        "energy": 56.2,
+        "length": 232,
+        "name": "Feel the Same",
+        "pop": 0,
+        "valence": 26.1
+    },
+    "F\u00f6r k\u00e4rlekens skull": {
+        "artists": "Ted G\u00e4rdestad",
+        "energy": 37.5,
+        "length": 243,
+        "name": "F\u00f6r k\u00e4rlekens skull",
+        "pop": 0,
+        "valence": 22.9
+    },
+    "Give Me Love": {
+        "artists": "Ed Sheeran",
+        "energy": 32.8,
+        "length": 526,
+        "name": "Give Me Love",
+        "pop": 73,
+        "valence": 11.0
+    },
+    "Gravity": {
+        "artists": "John Mayer",
+        "energy": 32.6,
+        "length": 246,
+        "name": "Gravity",
+        "pop": 74,
+        "valence": 23.7
+    },
+    "Have A Heart": {
+        "artists": "Anna Bergendahl",
+        "energy": 39.9,
+        "length": 254,
+        "name": "Have A Heart",
+        "pop": 25,
+        "valence": 38.3
+    },
+    "Heartbeats": {
+        "artists": "Jos\u00e9 Gonz\u00e1lez",
+        "energy": 15.0,
+        "length": 160,
+        "name": "Heartbeats",
+        "pop": 0,
+        "valence": 31.6
+    },
+    "Hello, I'm In Delaware": {
+        "artists": "City and Colour",
+        "energy": 45.8,
+        "length": 345,
+        "name": "Hello, I'm In Delaware",
+        "pop": 50,
+        "valence": 38.8
+    },
+    "Hey There Delilah": {
+        "artists": "Plain White T's",
+        "energy": 37.3,
+        "length": 234,
+        "name": "Hey There Delilah",
+        "pop": 0,
+        "valence": 30.4
+    },
+    "Hey, Soul Sister": {
+        "artists": "Train",
+        "energy": 88.5,
+        "length": 217,
+        "name": "Hey, Soul Sister",
+        "pop": 0,
+        "valence": 76.8
+    },
+    "High and Dry": {
+        "artists": "Radiohead",
+        "energy": 38.3,
+        "length": 257,
+        "name": "High and Dry",
+        "pop": 0,
+        "valence": 35.2
+    },
+    "Home": {
+        "artists": "Gabrielle Aplin",
+        "energy": 26.4,
+        "length": 247,
+        "name": "Home",
+        "pop": 0,
+        "valence": 38.7
+    },
+    "Hurt": {
+        "artists": "Johnny Cash",
+        "energy": 29.2,
+        "length": 219,
+        "name": "Hurt",
+        "pop": 0,
+        "valence": 15.7
+    },
+    "I Will Wait": {
+        "artists": "Mumford & Sons",
+        "energy": 77.6,
+        "length": 277,
+        "name": "I Will Wait",
+        "pop": 0,
+        "valence": 42.9
+    },
+    "I'm Yours - Live on HSN Live": {
+        "artists": "Jason Mraz",
+        "energy": 69.4,
+        "length": 244,
+        "name": "I'm Yours - Live on HSN Live",
+        "pop": 57,
+        "valence": 57.4
+    },
+    "Just Breathe": {
+        "artists": "Pearl Jam",
+        "energy": 34.9,
+        "length": 216,
+        "name": "Just Breathe",
+        "pop": 0,
+        "valence": 30.2
+    },
+    "King Of Spain": {
+        "artists": "The Tallest Man On Earth",
+        "energy": 49.6,
+        "length": 206,
+        "name": "King Of Spain",
+        "pop": 0,
+        "valence": 37.1
+    },
+    "Kiss Me": {
+        "artists": "Jason Walker",
+        "energy": 18.4,
+        "length": 233,
+        "name": "Kiss Me",
+        "pop": 0,
+        "valence": 33.0
+    },
+    "Live High - From the Avocado Salad Sessions": {
+        "artists": "Jason Mraz",
+        "energy": 31.4,
+        "length": 242,
+        "name": "Live High - From the Avocado Salad Sessions",
+        "pop": 31,
+        "valence": 83.6
+    },
+    "Love The Way You Lie - Part III (Original Demo)": {
+        "artists": "Skylar Grey",
+        "energy": 24.8,
+        "length": 250,
+        "name": "Love The Way You Lie - Part III (Original Demo)",
+        "pop": 0,
+        "valence": 23.2
+    },
+    "Love Vigilantes": {
+        "artists": "Iron & Wine",
+        "energy": 29.5,
+        "length": 207,
+        "name": "Love Vigilantes",
+        "pop": 0,
+        "valence": 65.4
+    },
+    "Lucky - Live from Spotify Sessions": {
+        "artists": "Jason Mraz",
+        "energy": 62.0,
+        "length": 391,
+        "name": "Lucky - Live from Spotify Sessions",
+        "pop": 41,
+        "valence": 28.5
+    },
+    "Luka": {
+        "artists": "Suzanne Vega",
+        "energy": 22.9,
+        "length": 193,
+        "name": "Luka",
+        "pop": 0,
+        "valence": 72.2
+    },
+    "Lullaby": {
+        "artists": "Loudon Wainwright III",
+        "energy": 16.8,
+        "length": 178,
+        "name": "Lullaby",
+        "pop": 40,
+        "valence": 28.2
+    },
+    "Mirrors (feat. Fifth Harmony)": {
+        "artists": "Boyce Avenue",
+        "energy": 65.8,
+        "length": 293,
+        "name": "Mirrors (feat. Fifth Harmony)",
+        "pop": 0,
+        "valence": 70.2
+    },
+    "Mr. Jones": {
+        "artists": "Counting Crows",
+        "energy": 83.6,
+        "length": 273,
+        "name": "Mr. Jones",
+        "pop": 54,
+        "valence": 73.0
+    },
+    "Never Let You Go": {
+        "artists": "Justin Bieber",
+        "energy": 80.2,
+        "length": 264,
+        "name": "Never Let You Go",
+        "pop": 0,
+        "valence": 62.0
+    },
+    "New Soul": {
+        "artists": "Yael Naim",
+        "energy": 37.1,
+        "length": 225,
+        "name": "New Soul",
+        "pop": 0,
+        "valence": 60.4
+    },
+    "Next To Me - Live From Spotify NYC, USA/2012": {
+        "artists": "Emeli Sand\u00e9",
+        "energy": 39.7,
+        "length": 221,
+        "name": "Next To Me - Live From Spotify NYC, USA/2012",
+        "pop": 33,
+        "valence": 29.4
+    },
+    "No Aphrodisiac - Original": {
+        "artists": "The Whitlams",
+        "energy": 60.7,
+        "length": 259,
+        "name": "No Aphrodisiac - Original",
+        "pop": 0,
+        "valence": 63.6
+    },
+    "No Light, No Light - MTV Unplugged, 2012": {
+        "artists": "Florence + The Machine",
+        "energy": 23.1,
+        "length": 253,
+        "name": "No Light, No Light - MTV Unplugged, 2012",
+        "pop": 42,
+        "valence": 15.6
+    },
+    "Northern Wind": {
+        "artists": "City and Colour",
+        "energy": 17.7,
+        "length": 255,
+        "name": "Northern Wind",
+        "pop": 0,
+        "valence": 26.8
+    },
+    "Old Pine": {
+        "artists": "Ben Howard",
+        "energy": 35.8,
+        "length": 329,
+        "name": "Old Pine",
+        "pop": 0,
+        "valence": 22.6
+    },
+    "Old Pine - EP Version": {
+        "artists": "Ben Howard",
+        "energy": 35.4,
+        "length": 258,
+        "name": "Old Pine - EP Version",
+        "pop": 0,
+        "valence": 27.8
+    },
+    "Old Pine - Spotify - Rockfeedback Session": {
+        "artists": "Ben Howard",
+        "energy": 33.4,
+        "length": 337,
+        "name": "Old Pine - Spotify - Rockfeedback Session",
+        "pop": 0,
+        "valence": 30.0
+    },
+    "One Less Lonely Girl": {
+        "artists": "Justin Bieber",
+        "energy": 75.0,
+        "length": 229,
+        "name": "One Less Lonely Girl",
+        "pop": 0,
+        "valence": 72.8
+    },
+    "Only You": {
+        "artists": "Joshua Radin",
+        "energy": 25.5,
+        "length": 149,
+        "name": "Only You",
+        "pop": 55,
+        "valence": 83.1
+    },
+    "Over The Rainbow/What A Wonderful World": {
+        "artists": "Israel \"IZ\" Kamakawiwo\u0091ole",
+        "energy": 16.0,
+        "length": 304,
+        "name": "Over The Rainbow/What A Wonderful World",
+        "pop": 49,
+        "valence": 66.1
+    },
+    "Perfect Day - Live": {
+        "artists": "Lou Reed",
+        "energy": 32.1,
+        "length": 234,
+        "name": "Perfect Day - Live",
+        "pop": 24,
+        "valence": 14.6
+    },
+    "Pompeii": {
+        "artists": "Jasmine Thompson",
+        "energy": 22.9,
+        "length": 180,
+        "name": "Pompeii",
+        "pop": 0,
+        "valence": 42.8
+    },
+    "Private Investigations - Edit": {
+        "artists": "Dire Straits",
+        "energy": 16.3,
+        "length": 357,
+        "name": "Private Investigations - Edit",
+        "pop": 0,
+        "valence": 6.96
+    },
+    "Radioactive - Live London Sessions / 2013": {
+        "artists": "Imagine Dragons",
+        "energy": 55.0,
+        "length": 270,
+        "name": "Radioactive - Live London Sessions / 2013",
+        "pop": 0,
+        "valence": 39.9
+    },
+    "Redemption Song": {
+        "artists": "Bob Marley & The Wailers",
+        "energy": 25.9,
+        "length": 228,
+        "name": "Redemption Song",
+        "pop": 0,
+        "valence": 69.8
+    },
+    "Rude": {
+        "artists": "MAGIC!",
+        "energy": 80.7,
+        "length": 225,
+        "name": "Rude",
+        "pop": 68,
+        "valence": 89.9
+    },
+    "Say Something": {
+        "artists": "A Great Big World",
+        "energy": 14.7,
+        "length": 229,
+        "name": "Say Something",
+        "pop": 76,
+        "valence": 7.65
+    },
+    "Say Yes": {
+        "artists": "Elliott Smith",
+        "energy": 8.75,
+        "length": 139,
+        "name": "Say Yes",
+        "pop": 0,
+        "valence": 41.8
+    },
+    "Slow It Down": {
+        "artists": "The Lumineers",
+        "energy": 6.4,
+        "length": 307,
+        "name": "Slow It Down",
+        "pop": 0,
+        "valence": 10.8
+    },
+    "Somebody That I Used To Know - A Cappella": {
+        "artists": "Sam Tsui",
+        "energy": 57.1,
+        "length": 210,
+        "name": "Somebody That I Used To Know - A Cappella",
+        "pop": 13,
+        "valence": 67.5
+    },
+    "Someone Like You": {
+        "artists": "Adele",
+        "energy": 32.1,
+        "length": 285,
+        "name": "Someone Like You",
+        "pop": 2,
+        "valence": 28.8
+    },
+    "Sometimes (I Wish)": {
+        "artists": "City and Colour",
+        "energy": 46.7,
+        "length": 361,
+        "name": "Sometimes (I Wish)",
+        "pop": 39,
+        "valence": 13.5
+    },
+    "Sunburn - Deluxe Edition": {
+        "artists": "Ed Sheeran",
+        "energy": 9.8,
+        "length": 276,
+        "name": "Sunburn - Deluxe Edition",
+        "pop": 50,
+        "valence": 23.4
+    },
+    "Tainted Love": {
+        "artists": "Hannah Peel",
+        "energy": 19.2,
+        "length": 153,
+        "name": "Tainted Love",
+        "pop": 0,
+        "valence": 43.7
+    },
+    "The Funeral": {
+        "artists": "Band of Horses",
+        "energy": 76.9,
+        "length": 321,
+        "name": "The Funeral",
+        "pop": 0,
+        "valence": 12.7
+    },
+    "The Kill - Live": {
+        "artists": "Thirty Seconds To Mars",
+        "energy": 30.7,
+        "length": 235,
+        "name": "The Kill - Live",
+        "pop": 0,
+        "valence": 21.4
+    },
+    "The Look Of Love": {
+        "artists": "Diana Krall",
+        "energy": 26.6,
+        "length": 281,
+        "name": "The Look Of Love",
+        "pop": 0,
+        "valence": 36.6
+    },
+    "The Violet Hour": {
+        "artists": "The Civil Wars",
+        "energy": 18.0,
+        "length": 205,
+        "name": "The Violet Hour",
+        "pop": 0,
+        "valence": 16.6
+    },
+    "Through Glass": {
+        "artists": "Stone Sour",
+        "energy": 75.3,
+        "length": 283,
+        "name": "Through Glass",
+        "pop": 52,
+        "valence": 43.4
+    },
+    "U.N.I.": {
+        "artists": "Ed Sheeran",
+        "energy": 40.5,
+        "length": 229,
+        "name": "U.N.I.",
+        "pop": 56,
+        "valence": 57.8
+    },
+    "Umbrella": {
+        "artists": "Train",
+        "energy": 84.9,
+        "length": 260,
+        "name": "Umbrella",
+        "pop": 0,
+        "valence": 62.7
+    },
+    "Utan dina andetag": {
+        "artists": "Carolina Wallin P\u00e9rez",
+        "energy": 23.8,
+        "length": 261,
+        "name": "Utan dina andetag",
+        "pop": 44,
+        "valence": 15.3
+    },
+    "Walking in Memphis": {
+        "artists": "Calle Kristiansson",
+        "energy": 54.1,
+        "length": 259,
+        "name": "Walking in Memphis",
+        "pop": 40,
+        "valence": 64.5
+    },
+    "Waterfalls": {
+        "artists": "ortoPilot",
+        "energy": 53.2,
+        "length": 212,
+        "name": "Waterfalls",
+        "pop": 34,
+        "valence": 83.7
+    },
+    "We Can't Stop (feat. Bea Miller)": {
+        "artists": "Boyce Avenue",
+        "energy": 34.7,
+        "length": 222,
+        "name": "We Can't Stop (feat. Bea Miller)",
+        "pop": 0,
+        "valence": 36.0
+    },
+    "What Are Words": {
+        "artists": "Chris Medina",
+        "energy": 25.2,
+        "length": 187,
+        "name": "What Are Words",
+        "pop": 0,
+        "valence": 38.0
+    },
+    "When the Lights Die": {
+        "artists": "Boyce Avenue",
+        "energy": 74.9,
+        "length": 264,
+        "name": "When the Lights Die",
+        "pop": 21,
+        "valence": 26.4
+    },
+    "White Winter Hymnal": {
+        "artists": "Fleet Foxes",
+        "energy": 53.4,
+        "length": 147,
+        "name": "White Winter Hymnal",
+        "pop": 0,
+        "valence": 64.9
+    },
+    "Why Am I Crying": {
+        "artists": "Molly Sand\u00e9n",
+        "energy": 34.6,
+        "length": 182,
+        "name": "Why Am I Crying",
+        "pop": 32,
+        "valence": 19.8
+    },
+    "With Or Without You (feat. Kina Grannis)": {
+        "artists": "Kina Grannis",
+        "energy": 28.8,
+        "length": 243,
+        "name": "With Or Without You (feat. Kina Grannis)",
+        "pop": 0,
+        "valence": 11.4
+    },
+    "Wonderful World": {
+        "artists": "James Morrison",
+        "energy": 67.9,
+        "length": 212,
+        "name": "Wonderful World",
+        "pop": 20,
+        "valence": 59.6
+    },
+    "You and I": {
+        "artists": "Ingrid Michaelson",
+        "energy": 29.8,
+        "length": 149,
+        "name": "You and I",
+        "pop": 0,
+        "valence": 50.9
+    },
+    "Your Song": {
+        "artists": "Calle Kristiansson",
+        "energy": 35.5,
+        "length": 246,
+        "name": "Your Song",
+        "pop": 25,
+        "valence": 20.8
+    }
+}

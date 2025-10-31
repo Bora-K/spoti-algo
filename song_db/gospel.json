@@ -1,0 +1,1418 @@
+{
+    "Above All - Live": {
+        "artists": "Michael W. Smith",
+        "energy": 32.9,
+        "length": 264,
+        "name": "Above All - Live",
+        "pop": 52,
+        "valence": 16.8
+    },
+    "Abundantly": {
+        "artists": "J Moss",
+        "energy": 47.1,
+        "length": 219,
+        "name": "Abundantly",
+        "pop": 27,
+        "valence": 31.2
+    },
+    "Addictive Love": {
+        "artists": "Bebe & Cece Winans",
+        "energy": 86.0,
+        "length": 325,
+        "name": "Addictive Love",
+        "pop": 35,
+        "valence": 59.3
+    },
+    "Again": {
+        "artists": "Donnie McClurkin",
+        "energy": 72.5,
+        "length": 258,
+        "name": "Again",
+        "pop": 31,
+        "valence": 56.1
+    },
+    "All I Am": {
+        "artists": "Kierra Sheard",
+        "energy": 71.2,
+        "length": 172,
+        "name": "All I Am",
+        "pop": 7,
+        "valence": 43.5
+    },
+    "All I have to Give": {
+        "artists": "Mali Music",
+        "energy": 29.0,
+        "length": 235,
+        "name": "All I have to Give",
+        "pop": 35,
+        "valence": 18.2
+    },
+    "All To Thee": {
+        "artists": "Tamela Mann",
+        "energy": 58.6,
+        "length": 323,
+        "name": "All To Thee",
+        "pop": 0,
+        "valence": 18.7
+    },
+    "Another Breakthrough": {
+        "artists": "Israel & New Breed",
+        "energy": 67.2,
+        "length": 434,
+        "name": "Another Breakthrough",
+        "pop": 0,
+        "valence": 5.8
+    },
+    "Awesome": {
+        "artists": "Charles Jenkins & Fellowship Chicago",
+        "energy": 77.1,
+        "length": 349,
+        "name": "Awesome",
+        "pop": 0,
+        "valence": 25.5
+    },
+    "Because Of Who You Are": {
+        "artists": "Vicki Yohe",
+        "energy": 48.4,
+        "length": 319,
+        "name": "Because Of Who You Are",
+        "pop": 57,
+        "valence": 14.3
+    },
+    "Because of Who You Are": {
+        "artists": "Martha Munizzi",
+        "energy": 63.3,
+        "length": 517,
+        "name": "Because of Who You Are",
+        "pop": 0,
+        "valence": 24.3
+    },
+    "Before I Tell Them": {
+        "artists": "Yolanda Adams",
+        "energy": 25.2,
+        "length": 209,
+        "name": "Before I Tell Them",
+        "pop": 2,
+        "valence": 8.0
+    },
+    "Better - Live": {
+        "artists": "Tye Tribbett",
+        "energy": 71.9,
+        "length": 376,
+        "name": "Better - Live",
+        "pop": 0,
+        "valence": 32.1
+    },
+    "Bless The Lord (Son Of Man)": {
+        "artists": "Tye Tribbett & G.A.",
+        "energy": 71.6,
+        "length": 324,
+        "name": "Bless The Lord (Son Of Man)",
+        "pop": 17,
+        "valence": 38.6
+    },
+    "Blessed, Broken, & Given": {
+        "artists": "CeCe Winans",
+        "energy": 17.1,
+        "length": 294,
+        "name": "Blessed, Broken, & Given",
+        "pop": 28,
+        "valence": 13.6
+    },
+    "Boom": {
+        "artists": "Mary Mary",
+        "energy": 75.3,
+        "length": 222,
+        "name": "Boom",
+        "pop": 28,
+        "valence": 21.1
+    },
+    "Break Every Chain - Radio Version": {
+        "artists": "Tasha Cobbs Leonard",
+        "energy": 69.2,
+        "length": 255,
+        "name": "Break Every Chain - Radio Version",
+        "pop": 0,
+        "valence": 13.7
+    },
+    "Broken But I'm Healed": {
+        "artists": "Byron Cage",
+        "energy": 58.2,
+        "length": 416,
+        "name": "Broken But I'm Healed",
+        "pop": 43,
+        "valence": 34.6
+    },
+    "Caribbean Medley": {
+        "artists": "Donnie McClurkin",
+        "energy": 78.4,
+        "length": 451,
+        "name": "Caribbean Medley",
+        "pop": 40,
+        "valence": 56.5
+    },
+    "Center of My Joy": {
+        "artists": "Richard Smallwood",
+        "energy": 75.1,
+        "length": 275,
+        "name": "Center of My Joy",
+        "pop": 37,
+        "valence": 34.4
+    },
+    "Continual Praise": {
+        "artists": "Yolanda Adams",
+        "energy": 85.4,
+        "length": 269,
+        "name": "Continual Praise",
+        "pop": 14,
+        "valence": 82.4
+    },
+    "Could've Been (with J Moss & Tye Tribbett)": {
+        "artists": "Kirk Franklin",
+        "energy": 93.6,
+        "length": 407,
+        "name": "Could've Been (with J Moss & Tye Tribbett)",
+        "pop": 48,
+        "valence": 79.5
+    },
+    "Create In Me a Clean Heart": {
+        "artists": "Donnie McClurkin",
+        "energy": 64.3,
+        "length": 248,
+        "name": "Create In Me a Clean Heart",
+        "pop": 41,
+        "valence": 30.2
+    },
+    "Dirt": {
+        "artists": "Mary Mary",
+        "energy": 62.8,
+        "length": 260,
+        "name": "Dirt",
+        "pop": 26,
+        "valence": 73.7
+    },
+    "Down To The River To Pray - From \u201cO Brother, Where Art Thou\u201d Soundtrack": {
+        "artists": "Alison Krauss",
+        "energy": 16.6,
+        "length": 176,
+        "name": "Down To The River To Pray - From \u201cO Brother, Where Art Thou\u201d Soundtrack",
+        "pop": 0,
+        "valence": 54.9
+    },
+    "Encore": {
+        "artists": "James Fortune",
+        "energy": 40.9,
+        "length": 287,
+        "name": "Encore",
+        "pop": 0,
+        "valence": 32.2
+    },
+    "Every Praise - (album edit)": {
+        "artists": "Hezekiah Walker",
+        "energy": 74.6,
+        "length": 442,
+        "name": "Every Praise - (album edit)",
+        "pop": 42,
+        "valence": 32.7
+    },
+    "Excellent": {
+        "artists": "Martha Munizzi",
+        "energy": 53.8,
+        "length": 350,
+        "name": "Excellent",
+        "pop": 0,
+        "valence": 52.5
+    },
+    "Faith": {
+        "artists": "Gods Property",
+        "energy": 72.1,
+        "length": 345,
+        "name": "Faith",
+        "pop": 31,
+        "valence": 66.5
+    },
+    "Faithful To Believe": {
+        "artists": "Byron Cage",
+        "energy": 88.4,
+        "length": 358,
+        "name": "Faithful To Believe",
+        "pop": 27,
+        "valence": 74.7
+    },
+    "Falling In Love With Jesus - Falling In Love With Jesus Album Version": {
+        "artists": "Jonathan Butler",
+        "energy": 57.7,
+        "length": 299,
+        "name": "Falling In Love With Jesus - Falling In Love With Jesus Album Version",
+        "pop": 38,
+        "valence": 26.1
+    },
+    "First Love": {
+        "artists": "Kirk Franklin",
+        "energy": 47.9,
+        "length": 353,
+        "name": "First Love",
+        "pop": 30,
+        "valence": 43.4
+    },
+    "For Your Glory - Live": {
+        "artists": "Tasha Cobbs Leonard",
+        "energy": 59.6,
+        "length": 406,
+        "name": "For Your Glory - Live",
+        "pop": 57,
+        "valence": 26.4
+    },
+    "Fragile Heart": {
+        "artists": "Yolanda Adams",
+        "energy": 49.9,
+        "length": 278,
+        "name": "Fragile Heart",
+        "pop": 23,
+        "valence": 37.6
+    },
+    "Glorious": {
+        "artists": "Martha Munizzi",
+        "energy": 93.8,
+        "length": 359,
+        "name": "Glorious",
+        "pop": 0,
+        "valence": 46.5
+    },
+    "Glory To Glory To Glory": {
+        "artists": "Fred Hammond",
+        "energy": 80.2,
+        "length": 427,
+        "name": "Glory To Glory To Glory",
+        "pop": 34,
+        "valence": 35.6
+    },
+    "Go Get It": {
+        "artists": "Mary Mary",
+        "energy": 77.0,
+        "length": 191,
+        "name": "Go Get It",
+        "pop": 50,
+        "valence": 78.5
+    },
+    "God Is": {
+        "artists": "James Cleveland",
+        "energy": 17.4,
+        "length": 408,
+        "name": "God Is",
+        "pop": 0,
+        "valence": 11.3
+    },
+    "God Is A Healer (featuring Kurt Carr & Faith Howard)": {
+        "artists": "Kurt Carr & The Kurt Carr Singers",
+        "energy": 53.8,
+        "length": 338,
+        "name": "God Is A Healer (featuring Kurt Carr & Faith Howard)",
+        "pop": 21,
+        "valence": 39.4
+    },
+    "God Is Able": {
+        "artists": "Smokie Norful",
+        "energy": 33.8,
+        "length": 253,
+        "name": "God Is Able",
+        "pop": 25,
+        "valence": 35.2
+    },
+    "God Is Great": {
+        "artists": "Ricky Dillard",
+        "energy": 93.9,
+        "length": 357,
+        "name": "God Is Great",
+        "pop": 0,
+        "valence": 47.3
+    },
+    "God Of This City - Live": {
+        "artists": "Passion",
+        "energy": 59.6,
+        "length": 306,
+        "name": "God Of This City - Live",
+        "pop": 36,
+        "valence": 16.6
+    },
+    "God in Me (feat. Kierra Sheard)": {
+        "artists": "Mary Mary",
+        "energy": 67.3,
+        "length": 193,
+        "name": "God in Me (feat. Kierra Sheard)",
+        "pop": 51,
+        "valence": 42.8
+    },
+    "Good": {
+        "artists": "Tye Tribbett",
+        "energy": 88.7,
+        "length": 245,
+        "name": "Good",
+        "pop": 23,
+        "valence": 81.4
+    },
+    "Good Day (feat. Kierra Sheard & Karen Clark Sheard)": {
+        "artists": "J Moss",
+        "energy": 91.5,
+        "length": 239,
+        "name": "Good Day (feat. Kierra Sheard & Karen Clark Sheard)",
+        "pop": 27,
+        "valence": 70.2
+    },
+    "Gravity": {
+        "artists": "Deitrick Haddon",
+        "energy": 81.7,
+        "length": 252,
+        "name": "Gravity",
+        "pop": 23,
+        "valence": 77.0
+    },
+    "Greater - Live": {
+        "artists": "Tasha Cobbs Leonard",
+        "energy": 94.4,
+        "length": 321,
+        "name": "Greater - Live",
+        "pop": 29,
+        "valence": 48.3
+    },
+    "Hallelujah - Live Meet the Brown's Soundtrack Version": {
+        "artists": "Tamela Mann",
+        "energy": 60.6,
+        "length": 296,
+        "name": "Hallelujah - Live Meet the Brown's Soundtrack Version",
+        "pop": 16,
+        "valence": 33.6
+    },
+    "He Reigns / Awesome God - Live at Lakewood Church, Houston, TX - June 16, 2000": {
+        "artists": "Kirk Franklin",
+        "energy": 87.9,
+        "length": 266,
+        "name": "He Reigns / Awesome God - Live at Lakewood Church, Houston, TX - June 16, 2000",
+        "pop": 47,
+        "valence": 60.2
+    },
+    "He Said": {
+        "artists": "Mary Mary",
+        "energy": 75.8,
+        "length": 266,
+        "name": "He Said",
+        "pop": 21,
+        "valence": 62.4
+    },
+    "He'll Take The Pain Away": {
+        "artists": "Gods Property",
+        "energy": 43.3,
+        "length": 519,
+        "name": "He'll Take The Pain Away",
+        "pop": 34,
+        "valence": 18.9
+    },
+    "He's Working It Out For You - Ult Version": {
+        "artists": "Shirley Caesar",
+        "energy": 68.2,
+        "length": 332,
+        "name": "He's Working It Out For You - Ult Version",
+        "pop": 0,
+        "valence": 31.2
+    },
+    "Hear This": {
+        "artists": "Kierra Sheard",
+        "energy": 74.4,
+        "length": 289,
+        "name": "Hear This",
+        "pop": 12,
+        "valence": 53.1
+    },
+    "Here I Am": {
+        "artists": "Marvin Sapp",
+        "energy": 61.5,
+        "length": 348,
+        "name": "Here I Am",
+        "pop": 36,
+        "valence": 22.0
+    },
+    "Here I Am To Worship": {
+        "artists": "William McDowell",
+        "energy": 36.6,
+        "length": 222,
+        "name": "Here I Am To Worship",
+        "pop": 0,
+        "valence": 12.0
+    },
+    "His Eye Is On The Sparrow": {
+        "artists": "Whitney Houston",
+        "energy": 29.6,
+        "length": 212,
+        "name": "His Eye Is On The Sparrow",
+        "pop": 0,
+        "valence": 28.5
+    },
+    "His Strength Is Perfect": {
+        "artists": "CeCe Winans",
+        "energy": 28.8,
+        "length": 279,
+        "name": "His Strength Is Perfect",
+        "pop": 35,
+        "valence": 10.2
+    },
+    "Hold My Mule - feat.Albertina Walker and Milton Brunson [Ult Version]": {
+        "artists": "Shirley Caesar",
+        "energy": 79.8,
+        "length": 522,
+        "name": "Hold My Mule - feat.Albertina Walker and Milton Brunson [Ult Version]",
+        "pop": 0,
+        "valence": 31.8
+    },
+    "Holy Is Our God": {
+        "artists": "James Fortune",
+        "energy": 72.2,
+        "length": 249,
+        "name": "Holy Is Our God",
+        "pop": 0,
+        "valence": 59.9
+    },
+    "Holy Is The Lord - Arriving Album Version": {
+        "artists": "Chris Tomlin",
+        "energy": 70.8,
+        "length": 253,
+        "name": "Holy Is The Lord - Arriving Album Version",
+        "pop": 47,
+        "valence": 42.2
+    },
+    "How Much We Can Bear": {
+        "artists": "Hezekiah Walker & The Love Fellowship Crusade Choir",
+        "energy": 88.9,
+        "length": 245,
+        "name": "How Much We Can Bear",
+        "pop": 25,
+        "valence": 50.2
+    },
+    "I Almost Let Go": {
+        "artists": "Kurt Carr & The Kurt Carr Singers",
+        "energy": 50.4,
+        "length": 340,
+        "name": "I Almost Let Go",
+        "pop": 50,
+        "valence": 38.2
+    },
+    "I Am God (feat. tobymac)": {
+        "artists": "Kirk Franklin",
+        "energy": 77.5,
+        "length": 306,
+        "name": "I Am God (feat. tobymac)",
+        "pop": 36,
+        "valence": 48.2
+    },
+    "I Am The One (Luke 17:11) (featuring Nikki Potts & Pastor Destry Bell)": {
+        "artists": "Kurt Carr & The Kurt Carr Singers",
+        "energy": 56.5,
+        "length": 519,
+        "name": "I Am The One (Luke 17:11) (featuring Nikki Potts & Pastor Destry Bell)",
+        "pop": 29,
+        "valence": 29.2
+    },
+    "I Can": {
+        "artists": "Kirk Franklin",
+        "energy": 17.4,
+        "length": 83,
+        "name": "I Can",
+        "pop": 36,
+        "valence": 9.25
+    },
+    "I Feel Good": {
+        "artists": "Fred Hammond",
+        "energy": 81.3,
+        "length": 253,
+        "name": "I Feel Good",
+        "pop": 18,
+        "valence": 88.3
+    },
+    "I Found Love (Cindy's Song)": {
+        "artists": "Bebe & Cece Winans",
+        "energy": 50.0,
+        "length": 239,
+        "name": "I Found Love (Cindy's Song)",
+        "pop": 0,
+        "valence": 18.2
+    },
+    "I Go To The Rock (with Georgia Mass Choir)": {
+        "artists": "Whitney Houston",
+        "energy": 75.8,
+        "length": 245,
+        "name": "I Go To The Rock (with Georgia Mass Choir)",
+        "pop": 36,
+        "valence": 63.6
+    },
+    "I Hear The Sound (Of Victory)": {
+        "artists": "Maurette Brown Clark",
+        "energy": 76.6,
+        "length": 315,
+        "name": "I Hear The Sound (Of Victory)",
+        "pop": 0,
+        "valence": 63.6
+    },
+    "I Lift My Hands": {
+        "artists": "Chris Tomlin",
+        "energy": 54.2,
+        "length": 278,
+        "name": "I Lift My Hands",
+        "pop": 50,
+        "valence": 15.8
+    },
+    "I Love To Praise Him": {
+        "artists": "Donnie McClurkin",
+        "energy": 94.3,
+        "length": 366,
+        "name": "I Love To Praise Him",
+        "pop": 25,
+        "valence": 57.3
+    },
+    "I Speak Life (feat. Donnie McClurkin)": {
+        "artists": "Donald Lawrence",
+        "energy": 30.4,
+        "length": 317,
+        "name": "I Speak Life (feat. Donnie McClurkin)",
+        "pop": 23,
+        "valence": 23.3
+    },
+    "I Think I'm In Love": {
+        "artists": "Spiritualized",
+        "energy": 81.3,
+        "length": 490,
+        "name": "I Think I'm In Love",
+        "pop": 0,
+        "valence": 16.4
+    },
+    "I Trust You": {
+        "artists": "James Fortune",
+        "energy": 68.6,
+        "length": 343,
+        "name": "I Trust You",
+        "pop": 28,
+        "valence": 21.3
+    },
+    "I Want It All Back - Live": {
+        "artists": "Tye Tribbett",
+        "energy": 95.9,
+        "length": 329,
+        "name": "I Want It All Back - Live",
+        "pop": 37,
+        "valence": 49.4
+    },
+    "I Will Bless The Lord - Live": {
+        "artists": "Smokie Norful",
+        "energy": 96.2,
+        "length": 368,
+        "name": "I Will Bless The Lord - Live",
+        "pop": 18,
+        "valence": 70.1
+    },
+    "I Will Lift Him Up": {
+        "artists": "Fred Hammond",
+        "energy": 94.1,
+        "length": 319,
+        "name": "I Will Lift Him Up",
+        "pop": 18,
+        "valence": 50.7
+    },
+    "I Won't Complain - Ext. Version": {
+        "artists": "Rev. Paul Jones",
+        "energy": 54.1,
+        "length": 694,
+        "name": "I Won't Complain - Ext. Version",
+        "pop": 0,
+        "valence": 39.8
+    },
+    "I Won't Go Back": {
+        "artists": "William McDowell",
+        "energy": 71.5,
+        "length": 368,
+        "name": "I Won't Go Back",
+        "pop": 0,
+        "valence": 15.2
+    },
+    "I'll Fly Away": {
+        "artists": "Hezekiah Walker & The Love Fellowship Crusade Choir",
+        "energy": 79.9,
+        "length": 260,
+        "name": "I'll Fly Away",
+        "pop": 35,
+        "valence": 48.1
+    },
+    "I'll Make It (feat. John P. Kee)": {
+        "artists": "Hezekiah Walker",
+        "energy": 83.8,
+        "length": 216,
+        "name": "I'll Make It (feat. John P. Kee)",
+        "pop": 30,
+        "valence": 70.0
+    },
+    "I'm Alive": {
+        "artists": "Deitrick Haddon",
+        "energy": 63.5,
+        "length": 235,
+        "name": "I'm Alive",
+        "pop": 0,
+        "valence": 32.0
+    },
+    "I'm Running": {
+        "artists": "Mary Mary",
+        "energy": 85.5,
+        "length": 215,
+        "name": "I'm Running",
+        "pop": 22,
+        "valence": 72.9
+    },
+    "I'm Still Here (feat. Soul Seekers)": {
+        "artists": "Jessica Reedy",
+        "energy": 53.3,
+        "length": 247,
+        "name": "I'm Still Here (feat. Soul Seekers)",
+        "pop": 0,
+        "valence": 59.8
+    },
+    "I.O.U. Me": {
+        "artists": "Bebe & Cece Winans",
+        "energy": 39.1,
+        "length": 283,
+        "name": "I.O.U. Me",
+        "pop": 28,
+        "valence": 68.3
+    },
+    "If He Did It Before....Same God - Live": {
+        "artists": "Tye Tribbett",
+        "energy": 79.0,
+        "length": 245,
+        "name": "If He Did It Before....Same God - Live",
+        "pop": 0,
+        "valence": 68.0
+    },
+    "Imagine Me": {
+        "artists": "Kirk Franklin",
+        "energy": 71.7,
+        "length": 319,
+        "name": "Imagine Me",
+        "pop": 56,
+        "valence": 77.0
+    },
+    "In Christ Alone": {
+        "artists": "Newsboys",
+        "energy": 47.6,
+        "length": 256,
+        "name": "In Christ Alone",
+        "pop": 34,
+        "valence": 21.8
+    },
+    "In Return": {
+        "artists": "Bebe & Cece Winans",
+        "energy": 15.3,
+        "length": 233,
+        "name": "In Return",
+        "pop": 23,
+        "valence": 20.8
+    },
+    "In Your Will": {
+        "artists": "Men Of Standard",
+        "energy": 45.5,
+        "length": 293,
+        "name": "In Your Will",
+        "pop": 0,
+        "valence": 45.2
+    },
+    "In the Sanctuary - Live": {
+        "artists": "Kurt Carr & The Kurt Carr Singers",
+        "energy": 95.1,
+        "length": 369,
+        "name": "In the Sanctuary - Live",
+        "pop": 44,
+        "valence": 74.3
+    },
+    "Interlude #2": {
+        "artists": "Kirk Franklin",
+        "energy": 41.5,
+        "length": 30,
+        "name": "Interlude #2",
+        "pop": 17,
+        "valence": 24.9
+    },
+    "Invisible": {
+        "artists": "Kierra Sheard",
+        "energy": 72.7,
+        "length": 222,
+        "name": "Invisible",
+        "pop": 17,
+        "valence": 24.2
+    },
+    "It Is To You": {
+        "artists": "Byron Cage",
+        "energy": 62.2,
+        "length": 182,
+        "name": "It Is To You",
+        "pop": 11,
+        "valence": 34.5
+    },
+    "It's Working": {
+        "artists": "William Murphy",
+        "energy": 38.9,
+        "length": 292,
+        "name": "It's Working",
+        "pop": 53,
+        "valence": 35.3
+    },
+    "Jesus": {
+        "artists": "Kirk Franklin",
+        "energy": 67.9,
+        "length": 223,
+        "name": "Jesus",
+        "pop": 41,
+        "valence": 47.0
+    },
+    "Jesus Is Love": {
+        "artists": "Commodores",
+        "energy": 50.8,
+        "length": 366,
+        "name": "Jesus Is Love",
+        "pop": 41,
+        "valence": 37.9
+    },
+    "Jesus Will": {
+        "artists": "Anita Wilson",
+        "energy": 87.3,
+        "length": 557,
+        "name": "Jesus Will",
+        "pop": 0,
+        "valence": 44.4
+    },
+    "Jesus, I Love Calling Your Name - Remastered Version": {
+        "artists": "Shirley Caesar",
+        "energy": 58.0,
+        "length": 221,
+        "name": "Jesus, I Love Calling Your Name - Remastered Version",
+        "pop": 0,
+        "valence": 53.7
+    },
+    "Joy (with Georgia Mass Choir)": {
+        "artists": "Whitney Houston",
+        "energy": 69.7,
+        "length": 195,
+        "name": "Joy (with Georgia Mass Choir)",
+        "pop": 39,
+        "valence": 57.2
+    },
+    "Just To Be Close To You": {
+        "artists": "Fred Hammond",
+        "energy": 23.4,
+        "length": 163,
+        "name": "Just To Be Close To You",
+        "pop": 25,
+        "valence": 13.9
+    },
+    "Justified - Live": {
+        "artists": "Smokie Norful",
+        "energy": 78.7,
+        "length": 523,
+        "name": "Justified - Live",
+        "pop": 31,
+        "valence": 39.7
+    },
+    "Lean On Me": {
+        "artists": "Kirk Franklin",
+        "energy": 46.4,
+        "length": 309,
+        "name": "Lean On Me",
+        "pop": 46,
+        "valence": 16.2
+    },
+    "Let Go": {
+        "artists": "DeWayne Woods",
+        "energy": 74.3,
+        "length": 293,
+        "name": "Let Go",
+        "pop": 29,
+        "valence": 36.3
+    },
+    "Let The Church Say Amen": {
+        "artists": "Andrae Crouch",
+        "energy": 48.3,
+        "length": 468,
+        "name": "Let The Church Say Amen",
+        "pop": 39,
+        "valence": 14.7
+    },
+    "Let The Church Say Amen - Radio Edit": {
+        "artists": "Andrae Crouch",
+        "energy": 53.6,
+        "length": 295,
+        "name": "Let The Church Say Amen - Radio Edit",
+        "pop": 50,
+        "valence": 26.5
+    },
+    "Let The Praise Begin": {
+        "artists": "Fred Hammond",
+        "energy": 83.5,
+        "length": 322,
+        "name": "Let The Praise Begin",
+        "pop": 31,
+        "valence": 65.4
+    },
+    "Let Us Worship Him": {
+        "artists": "Yolanda Adams",
+        "energy": 33.1,
+        "length": 215,
+        "name": "Let Us Worship Him",
+        "pop": 26,
+        "valence": 10.6
+    },
+    "Life & Favor (You Don't Know My Story)": {
+        "artists": "John P Kee & New Life",
+        "energy": 70.7,
+        "length": 379,
+        "name": "Life & Favor (You Don't Know My Story)",
+        "pop": 37,
+        "valence": 33.5
+    },
+    "Lift Him Up": {
+        "artists": "Hezekiah Walker",
+        "energy": 90.4,
+        "length": 381,
+        "name": "Lift Him Up",
+        "pop": 28,
+        "valence": 36.4
+    },
+    "Live Through It": {
+        "artists": "Fiya",
+        "energy": 56.5,
+        "length": 323,
+        "name": "Live Through It",
+        "pop": 0,
+        "valence": 40.0
+    },
+    "Love Him Like I Do": {
+        "artists": "Deitrick Haddon",
+        "energy": 84.1,
+        "length": 198,
+        "name": "Love Him Like I Do",
+        "pop": 0,
+        "valence": 74.7
+    },
+    "Love Said Not So": {
+        "artists": "Bebe & Cece Winans",
+        "energy": 37.1,
+        "length": 277,
+        "name": "Love Said Not So",
+        "pop": 29,
+        "valence": 51.6
+    },
+    "Medley:": {
+        "artists": "Byron Cage",
+        "energy": 83.9,
+        "length": 483,
+        "name": "Medley:",
+        "pop": 9,
+        "valence": 61.1
+    },
+    "Melodies From Heaven": {
+        "artists": "Kirk Franklin",
+        "energy": 83.5,
+        "length": 275,
+        "name": "Melodies From Heaven",
+        "pop": 38,
+        "valence": 47.3
+    },
+    "Mighty God": {
+        "artists": "Deitrick Haddon",
+        "energy": 75.2,
+        "length": 255,
+        "name": "Mighty God",
+        "pop": 32,
+        "valence": 33.7
+    },
+    "More": {
+        "artists": "Lawrence Flowers & Intercession",
+        "energy": 57.7,
+        "length": 385,
+        "name": "More",
+        "pop": 37,
+        "valence": 48.8
+    },
+    "My Mind Is Made Up": {
+        "artists": "John P. Kee",
+        "energy": 90.1,
+        "length": 271,
+        "name": "My Mind Is Made Up",
+        "pop": 31,
+        "valence": 90.0
+    },
+    "Never Be the Same (Live) [feat. Tasha Cobbs]": {
+        "artists": "Shana Wilson",
+        "energy": 47.0,
+        "length": 402,
+        "name": "Never Be the Same (Live) [feat. Tasha Cobbs]",
+        "pop": 0,
+        "valence": 20.1
+    },
+    "Never Give Up": {
+        "artists": "Yolanda Adams",
+        "energy": 53.9,
+        "length": 320,
+        "name": "Never Give Up",
+        "pop": 23,
+        "valence": 14.4
+    },
+    "No Greater Love": {
+        "artists": "Smokie Norful",
+        "energy": 49.8,
+        "length": 313,
+        "name": "No Greater Love",
+        "pop": 12,
+        "valence": 19.4
+    },
+    "Not Forgotten - Live": {
+        "artists": "Israel & New Breed",
+        "energy": 93.2,
+        "length": 358,
+        "name": "Not Forgotten - Live",
+        "pop": 0,
+        "valence": 51.2
+    },
+    "Oh Happy Day": {
+        "artists": "The Edwin Hawkins Singers",
+        "energy": 46.2,
+        "length": 309,
+        "name": "Oh Happy Day",
+        "pop": 50,
+        "valence": 45.7
+    },
+    "Open The Eyes Of My Heart - Live": {
+        "artists": "Michael W. Smith",
+        "energy": 56.8,
+        "length": 322,
+        "name": "Open The Eyes Of My Heart - Live",
+        "pop": 57,
+        "valence": 20.7
+    },
+    "Operator": {
+        "artists": "J Moss",
+        "energy": 91.0,
+        "length": 252,
+        "name": "Operator",
+        "pop": 22,
+        "valence": 78.5
+    },
+    "Our God": {
+        "artists": "Chris Tomlin",
+        "energy": 77.8,
+        "length": 285,
+        "name": "Our God",
+        "pop": 66,
+        "valence": 21.6
+    },
+    "Please Don't Pass Me By": {
+        "artists": "Fred Hammond",
+        "energy": 32.1,
+        "length": 306,
+        "name": "Please Don't Pass Me By",
+        "pop": 34,
+        "valence": 39.7
+    },
+    "Praise Is What I Do": {
+        "artists": "Shekinah Glory Ministry",
+        "energy": 46.9,
+        "length": 553,
+        "name": "Praise Is What I Do",
+        "pop": 43,
+        "valence": 15.8
+    },
+    "Praise Joint (Remix)": {
+        "artists": "Kirk Franklin",
+        "energy": 85.0,
+        "length": 262,
+        "name": "Praise Joint (Remix)",
+        "pop": 32,
+        "valence": 51.9
+    },
+    "Praise Medley": {
+        "artists": "Tamela Mann",
+        "energy": 38.5,
+        "length": 261,
+        "name": "Praise Medley",
+        "pop": 0,
+        "valence": 14.8
+    },
+    "Shout Unto God": {
+        "artists": "Marvin Sapp",
+        "energy": 78.1,
+        "length": 302,
+        "name": "Shout Unto God",
+        "pop": 28,
+        "valence": 24.5
+    },
+    "Show Me Your Face": {
+        "artists": "Fred Hammond",
+        "energy": 60.9,
+        "length": 320,
+        "name": "Show Me Your Face",
+        "pop": 26,
+        "valence": 29.0
+    },
+    "So In Love": {
+        "artists": "Donnie McClurkin",
+        "energy": 43.6,
+        "length": 267,
+        "name": "So In Love",
+        "pop": 22,
+        "valence": 24.8
+    },
+    "Spiritual": {
+        "artists": "Donald Lawrence & Company",
+        "energy": 50.2,
+        "length": 396,
+        "name": "Spiritual",
+        "pop": 34,
+        "valence": 59.0
+    },
+    "Stand! (feat. John P. Kee) - Live": {
+        "artists": "VIP Mass Choir",
+        "energy": 57.5,
+        "length": 247,
+        "name": "Stand! (feat. John P. Kee) - Live",
+        "pop": 28,
+        "valence": 51.4
+    },
+    "Standing In The Need (feat. John P. Kee)": {
+        "artists": "The New Life Community Choir",
+        "energy": 78.8,
+        "length": 344,
+        "name": "Standing In The Need (feat. John P. Kee)",
+        "pop": 35,
+        "valence": 55.4
+    },
+    "Standing On The Rock": {
+        "artists": "Marvin Sapp",
+        "energy": 94.7,
+        "length": 291,
+        "name": "Standing On The Rock",
+        "pop": 11,
+        "valence": 71.1
+    },
+    "Sunday Kinda Love (feat. Aaron Lindsey, PJ Morton & Nikki Ross)": {
+        "artists": "Israel Houghton",
+        "energy": 67.6,
+        "length": 268,
+        "name": "Sunday Kinda Love (feat. Aaron Lindsey, PJ Morton & Nikki Ross)",
+        "pop": 23,
+        "valence": 55.4
+    },
+    "Tell the World (feat. Mali Music)": {
+        "artists": "Lecrae",
+        "energy": 86.0,
+        "length": 217,
+        "name": "Tell the World (feat. Mali Music)",
+        "pop": 0,
+        "valence": 37.8
+    },
+    "Thankful": {
+        "artists": "Mary Mary",
+        "energy": 82.1,
+        "length": 204,
+        "name": "Thankful",
+        "pop": 38,
+        "valence": 57.3
+    },
+    "The Appeal": {
+        "artists": "Kirk Franklin",
+        "energy": 12.8,
+        "length": 441,
+        "name": "The Appeal",
+        "pop": 26,
+        "valence": 20.8
+    },
+    "The Blessing Of Abraham - Live": {
+        "artists": "The Tri-City Singers",
+        "energy": 92.7,
+        "length": 375,
+        "name": "The Blessing Of Abraham - Live",
+        "pop": 21,
+        "valence": 74.6
+    },
+    "The Gift (Radio Edit)": {
+        "artists": "Donald Lawrence & Company",
+        "energy": 84.0,
+        "length": 243,
+        "name": "The Gift (Radio Edit)",
+        "pop": 0,
+        "valence": 81.0
+    },
+    "The Great I Am": {
+        "artists": "Donnie McClurkin",
+        "energy": 95.7,
+        "length": 336,
+        "name": "The Great I Am",
+        "pop": 19,
+        "valence": 50.3
+    },
+    "The Greatest": {
+        "artists": "James Fortune",
+        "energy": 80.9,
+        "length": 382,
+        "name": "The Greatest",
+        "pop": 0,
+        "valence": 26.7
+    },
+    "The Least I Can Do": {
+        "artists": "Smokie Norful",
+        "energy": 53.4,
+        "length": 360,
+        "name": "The Least I Can Do",
+        "pop": 2,
+        "valence": 20.7
+    },
+    "The Power Of One (Change The World)": {
+        "artists": "Israel Houghton",
+        "energy": 60.8,
+        "length": 349,
+        "name": "The Power Of One (Change The World)",
+        "pop": 0,
+        "valence": 35.4
+    },
+    "The Storm Is Over Now": {
+        "artists": "Kirk Franklin",
+        "energy": 45.7,
+        "length": 347,
+        "name": "The Storm Is Over Now",
+        "pop": 38,
+        "valence": 18.9
+    },
+    "There Is A King In You": {
+        "artists": "Donald Lawrence & Company",
+        "energy": 62.8,
+        "length": 467,
+        "name": "There Is A King In You",
+        "pop": 32,
+        "valence": 32.6
+    },
+    "Thirsty (Reprise)": {
+        "artists": "Marvin Sapp",
+        "energy": 55.2,
+        "length": 323,
+        "name": "Thirsty (Reprise)",
+        "pop": 37,
+        "valence": 21.2
+    },
+    "This Is Me": {
+        "artists": "Kierra Sheard",
+        "energy": 39.1,
+        "length": 263,
+        "name": "This Is Me",
+        "pop": 7,
+        "valence": 33.9
+    },
+    "Trust Him": {
+        "artists": "Tamela Mann",
+        "energy": 46.0,
+        "length": 332,
+        "name": "Trust Him",
+        "pop": 0,
+        "valence": 32.8
+    },
+    "Trust Me (with Vision)": {
+        "artists": "Richard Smallwood",
+        "energy": 46.0,
+        "length": 303,
+        "name": "Trust Me (with Vision)",
+        "pop": 36,
+        "valence": 22.5
+    },
+    "Turning Around For Me - Live": {
+        "artists": "VaShawn Mitchell",
+        "energy": 46.5,
+        "length": 481,
+        "name": "Turning Around For Me - Live",
+        "pop": 0,
+        "valence": 25.5
+    },
+    "U Saved Me": {
+        "artists": "R. Kelly",
+        "energy": 56.0,
+        "length": 374,
+        "name": "U Saved Me",
+        "pop": 42,
+        "valence": 29.7
+    },
+    "Up Above My Head": {
+        "artists": "Gods Property",
+        "energy": 83.1,
+        "length": 252,
+        "name": "Up Above My Head",
+        "pop": 38,
+        "valence": 67.8
+    },
+    "Wash Me (feat. John P. Kee) - Live": {
+        "artists": "The New Life Community Choir",
+        "energy": 93.3,
+        "length": 285,
+        "name": "Wash Me (feat. John P. Kee) - Live",
+        "pop": 24,
+        "valence": 77.1
+    },
+    "We Love You (The LIVE Remix) (feat. Marvin L. Winans & Byron Cage)": {
+        "artists": "J Moss",
+        "energy": 94.8,
+        "length": 295,
+        "name": "We Love You (The LIVE Remix) (feat. Marvin L. Winans & Byron Cage)",
+        "pop": 22,
+        "valence": 42.7
+    },
+    "We Worship You": {
+        "artists": "Deitrick Haddon Presents Voices of Unity",
+        "energy": 77.5,
+        "length": 368,
+        "name": "We Worship You",
+        "pop": 10,
+        "valence": 24.1
+    },
+    "We're Blessed/Shout Unto God (Live)": {
+        "artists": "Fred Hammond",
+        "energy": 94.0,
+        "length": 330,
+        "name": "We're Blessed/Shout Unto God (Live)",
+        "pop": 36,
+        "valence": 85.5
+    },
+    "What About You": {
+        "artists": "CeCe Winans",
+        "energy": 51.7,
+        "length": 258,
+        "name": "What About You",
+        "pop": 16,
+        "valence": 45.9
+    },
+    "What About the Children": {
+        "artists": "Yolanda Adams",
+        "energy": 28.3,
+        "length": 318,
+        "name": "What About the Children",
+        "pop": 16,
+        "valence": 15.8
+    },
+    "When The Spirit Of The Lord": {
+        "artists": "Fred Hammond",
+        "energy": 85.3,
+        "length": 292,
+        "name": "When The Spirit Of The Lord",
+        "pop": 19,
+        "valence": 66.1
+    },
+    "Who Am I": {
+        "artists": "Casting Crowns",
+        "energy": 47.2,
+        "length": 336,
+        "name": "Who Am I",
+        "pop": 68,
+        "valence": 19.3
+    },
+    "Who Is Like Our God?": {
+        "artists": "Deitrick Haddon",
+        "energy": 61.8,
+        "length": 292,
+        "name": "Who Is Like Our God?",
+        "pop": 11,
+        "valence": 55.1
+    },
+    "Whom Shall I Fear (God Of Angel Armies)": {
+        "artists": "Chris Tomlin",
+        "energy": 77.8,
+        "length": 268,
+        "name": "Whom Shall I Fear (God Of Angel Armies)",
+        "pop": 62,
+        "valence": 42.0
+    },
+    "With Long Life (featuring T-Bone)": {
+        "artists": "Israel & New Breed",
+        "energy": 84.7,
+        "length": 366,
+        "name": "With Long Life (featuring T-Bone)",
+        "pop": 0,
+        "valence": 44.0
+    },
+    "Wonderful Is Your Name": {
+        "artists": "Hezekiah Walker & The Love Fellowship Crusade Choir",
+        "energy": 93.4,
+        "length": 351,
+        "name": "Wonderful Is Your Name",
+        "pop": 21,
+        "valence": 59.6
+    },
+    "Worshipper In Me": {
+        "artists": "Marvin Sapp",
+        "energy": 32.7,
+        "length": 504,
+        "name": "Worshipper In Me",
+        "pop": 35,
+        "valence": 20.4
+    },
+    "Yes You Can": {
+        "artists": "Donnie McClurkin",
+        "energy": 81.4,
+        "length": 280,
+        "name": "Yes You Can",
+        "pop": 26,
+        "valence": 86.4
+    },
+    "You Are - Live": {
+        "artists": "Kierra Sheard",
+        "energy": 88.7,
+        "length": 377,
+        "name": "You Are - Live",
+        "pop": 25,
+        "valence": 28.7
+    },
+    "You Are Great": {
+        "artists": "Juanita Bynum",
+        "energy": 57.7,
+        "length": 246,
+        "name": "You Are Great",
+        "pop": 0,
+        "valence": 26.8
+    },
+    "You Are Loved": {
+        "artists": "CeCe Winans",
+        "energy": 56.6,
+        "length": 363,
+        "name": "You Are Loved",
+        "pop": 36,
+        "valence": 35.1
+    },
+    "You Are The Only One": {
+        "artists": "Gods Property",
+        "energy": 91.1,
+        "length": 407,
+        "name": "You Are The Only One",
+        "pop": 31,
+        "valence": 74.7
+    },
+    "You Brought Me - Ult Version": {
+        "artists": "Marvin Sapp",
+        "energy": 64.5,
+        "length": 282,
+        "name": "You Brought Me - Ult Version",
+        "pop": 0,
+        "valence": 52.7
+    },
+    "You Deserve My Praise": {
+        "artists": "Tamela Mann",
+        "energy": 45.3,
+        "length": 285,
+        "name": "You Deserve My Praise",
+        "pop": 0,
+        "valence": 30.8
+    },
+    "Your Presence Is Heaven - Studio Version": {
+        "artists": "Israel & New Breed",
+        "energy": 65.9,
+        "length": 298,
+        "name": "Your Presence Is Heaven - Studio Version",
+        "pop": 0,
+        "valence": 13.6
+    }
+}

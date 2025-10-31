@@ -1,0 +1,802 @@
+{
+    "All Day and All of the Night": {
+        "artists": "The Kinks",
+        "energy": 91.5,
+        "length": 142,
+        "name": "All Day and All of the Night",
+        "pop": 0,
+        "valence": 71.0
+    },
+    "All The Right Friends": {
+        "artists": "R.E.M.",
+        "energy": 90.4,
+        "length": 162,
+        "name": "All The Right Friends",
+        "pop": 0,
+        "valence": 67.9
+    },
+    "Archangel": {
+        "artists": "Burial",
+        "energy": 84.9,
+        "length": 242,
+        "name": "Archangel",
+        "pop": 0,
+        "valence": 52.1
+    },
+    "Attitude": {
+        "artists": "MJ Cole",
+        "energy": 52.0,
+        "length": 310,
+        "name": "Attitude",
+        "pop": 0,
+        "valence": 89.9
+    },
+    "Be Brave": {
+        "artists": "The Strange Boys",
+        "energy": 91.2,
+        "length": 179,
+        "name": "Be Brave",
+        "pop": 0,
+        "valence": 96.2
+    },
+    "Blazin' - CD album version": {
+        "artists": "Ed Case",
+        "energy": 88.0,
+        "length": 272,
+        "name": "Blazin' - CD album version",
+        "pop": 19,
+        "valence": 86.8
+    },
+    "Blood Visions": {
+        "artists": "Jay Reatard",
+        "energy": 95.9,
+        "length": 94,
+        "name": "Blood Visions",
+        "pop": 0,
+        "valence": 62.2
+    },
+    "Blue Blood Blues": {
+        "artists": "The Dead Weather",
+        "energy": 94.3,
+        "length": 202,
+        "name": "Blue Blood Blues",
+        "pop": 45,
+        "valence": 51.5
+    },
+    "Bootie Call - Dreem Teem Vocal": {
+        "artists": "All Saints",
+        "energy": 59.4,
+        "length": 346,
+        "name": "Bootie Call - Dreem Teem Vocal",
+        "pop": 8,
+        "valence": 95.6
+    },
+    "Can't Stand It": {
+        "artists": "The Greenhornes",
+        "energy": 85.0,
+        "length": 201,
+        "name": "Can't Stand It",
+        "pop": 0,
+        "valence": 83.8
+    },
+    "Check Dis (feat. Asher D)": {
+        "artists": "Oxide & Neutrino",
+        "energy": 91.6,
+        "length": 318,
+        "name": "Check Dis (feat. Asher D)",
+        "pop": 12,
+        "valence": 67.8
+    },
+    "Chelsea Dagger": {
+        "artists": "The Fratellis",
+        "energy": 81.7,
+        "length": 215,
+        "name": "Chelsea Dagger",
+        "pop": 65,
+        "valence": 55.2
+    },
+    "Chicken Fried": {
+        "artists": "Zac Brown Band",
+        "energy": 71.3,
+        "length": 238,
+        "name": "Chicken Fried",
+        "pop": 1,
+        "valence": 80.7
+    },
+    "Closer Than Close": {
+        "artists": "Ibiza Dance Party",
+        "energy": 66.1,
+        "length": 225,
+        "name": "Closer Than Close",
+        "pop": 2,
+        "valence": 86.0
+    },
+    "Crack In Your Eye": {
+        "artists": "Thee Oh Sees",
+        "energy": 92.6,
+        "length": 221,
+        "name": "Crack In Your Eye",
+        "pop": 27,
+        "valence": 46.0
+    },
+    "Creeping Death": {
+        "artists": "Metallica",
+        "energy": 95.1,
+        "length": 395,
+        "name": "Creeping Death",
+        "pop": 0,
+        "valence": 19.8
+    },
+    "Cruise": {
+        "artists": "Florida Georgia Line",
+        "energy": 94.8,
+        "length": 209,
+        "name": "Cruise",
+        "pop": 76,
+        "valence": 87.8
+    },
+    "DJ Play - Radio Edit": {
+        "artists": "Perempay & Dee",
+        "energy": 58.1,
+        "length": 182,
+        "name": "DJ Play - Radio Edit",
+        "pop": 0,
+        "valence": 92.9
+    },
+    "Deep in the Valley - Radio Mix": {
+        "artists": "Rudimental",
+        "energy": 88.9,
+        "length": 215,
+        "name": "Deep in the Valley - Radio Mix",
+        "pop": 0,
+        "valence": 96.9
+    },
+    "Defeated No More": {
+        "artists": "Disclosure",
+        "energy": 76.8,
+        "length": 368,
+        "name": "Defeated No More",
+        "pop": 0,
+        "valence": 67.1
+    },
+    "Die, Die My Darling": {
+        "artists": "Misfits",
+        "energy": 86.2,
+        "length": 190,
+        "name": "Die, Die My Darling",
+        "pop": 47,
+        "valence": 58.9
+    },
+    "Do Me Right - Sunship Mix": {
+        "artists": "Doublestar",
+        "energy": 88.1,
+        "length": 273,
+        "name": "Do Me Right - Sunship Mix",
+        "pop": 0,
+        "valence": 95.5
+    },
+    "Do You Really Like It?": {
+        "artists": "DJ Pied Piper",
+        "energy": 88.1,
+        "length": 218,
+        "name": "Do You Really Like It?",
+        "pop": 0,
+        "valence": 80.9
+    },
+    "Don't Bring Me Down": {
+        "artists": "The Pretty Things",
+        "energy": 67.5,
+        "length": 130,
+        "name": "Don't Bring Me Down",
+        "pop": 0,
+        "valence": 83.4
+    },
+    "Drugs": {
+        "artists": "Black Lips",
+        "energy": 80.9,
+        "length": 151,
+        "name": "Drugs",
+        "pop": 0,
+        "valence": 74.2
+    },
+    "Dy-Na-Mi-Tee - Yoruba Soul Mix": {
+        "artists": "Ms. Dynamite",
+        "energy": 45.9,
+        "length": 382,
+        "name": "Dy-Na-Mi-Tee - Yoruba Soul Mix",
+        "pop": 0,
+        "valence": 82.1
+    },
+    "Enter Sandman": {
+        "artists": "Metallica",
+        "energy": 82.4,
+        "length": 332,
+        "name": "Enter Sandman",
+        "pop": 0,
+        "valence": 63.5
+    },
+    "Etched Headplate": {
+        "artists": "Burial",
+        "energy": 51.0,
+        "length": 364,
+        "name": "Etched Headplate",
+        "pop": 0,
+        "valence": 15.1
+    },
+    "Everlong": {
+        "artists": "Foo Fighters",
+        "energy": 86.7,
+        "length": 250,
+        "name": "Everlong",
+        "pop": 60,
+        "valence": 36.0
+    },
+    "Everyone Knows": {
+        "artists": "Joan Jett & the Blackhearts",
+        "energy": 95.2,
+        "length": 190,
+        "name": "Everyone Knows",
+        "pop": 0,
+        "valence": 54.2
+    },
+    "Execute": {
+        "artists": "Oxide & Neutrino",
+        "energy": 47.5,
+        "length": 315,
+        "name": "Execute",
+        "pop": 20,
+        "valence": 39.5
+    },
+    "Form A Straight Line": {
+        "artists": "Sugar Shack",
+        "energy": 98.6,
+        "length": 144,
+        "name": "Form A Straight Line",
+        "pop": 0,
+        "valence": 76.3
+    },
+    "Fortunate Son": {
+        "artists": "Creedence Clearwater Revival",
+        "energy": 52.9,
+        "length": 138,
+        "name": "Fortunate Son",
+        "pop": 0,
+        "valence": 60.3
+    },
+    "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]": {
+        "artists": "Daft Punk",
+        "energy": 81.1,
+        "length": 248,
+        "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
+        "pop": 84,
+        "valence": 86.2
+    },
+    "Girl, You Have No Faith In Medicine": {
+        "artists": "The White Stripes",
+        "energy": 98.0,
+        "length": 198,
+        "name": "Girl, You Have No Faith In Medicine",
+        "pop": 0,
+        "valence": 27.1
+    },
+    "Girlfriend": {
+        "artists": "Ty Segall",
+        "energy": 92.5,
+        "length": 133,
+        "name": "Girlfriend",
+        "pop": 44,
+        "valence": 37.8
+    },
+    "Goodies (feat. Petey Pablo)": {
+        "artists": "Ciara",
+        "energy": 64.7,
+        "length": 223,
+        "name": "Goodies (feat. Petey Pablo)",
+        "pop": 71,
+        "valence": 87.2
+    },
+    "Gotta Have It - Radio Mix": {
+        "artists": "MJ Cole",
+        "energy": 65.5,
+        "length": 175,
+        "name": "Gotta Have It - Radio Mix",
+        "pop": 17,
+        "valence": 96.1
+    },
+    "Hello Operator": {
+        "artists": "The White Stripes",
+        "energy": 83.2,
+        "length": 157,
+        "name": "Hello Operator",
+        "pop": 0,
+        "valence": 72.1
+    },
+    "Here's To You": {
+        "artists": "Skyy",
+        "energy": 67.4,
+        "length": 310,
+        "name": "Here's To You",
+        "pop": 0,
+        "valence": 89.9
+    },
+    "I Could Never Be Your Man": {
+        "artists": "Bass Drum of Death",
+        "energy": 99.4,
+        "length": 190,
+        "name": "I Could Never Be Your Man",
+        "pop": 0,
+        "valence": 16.7
+    },
+    "I Wanna Meet Dave Grohl": {
+        "artists": "Wavves",
+        "energy": 96.1,
+        "length": 302,
+        "name": "I Wanna Meet Dave Grohl",
+        "pop": 25,
+        "valence": 32.3
+    },
+    "In My Way - Original Mix": {
+        "artists": "Tough Love",
+        "energy": 55.5,
+        "length": 431,
+        "name": "In My Way - Original Mix",
+        "pop": 0,
+        "valence": 78.7
+    },
+    "It": {
+        "artists": "Ty Segall",
+        "energy": 95.0,
+        "length": 117,
+        "name": "It",
+        "pop": 14,
+        "valence": 23.9
+    },
+    "January": {
+        "artists": "Disclosure",
+        "energy": 62.6,
+        "length": 355,
+        "name": "January",
+        "pop": 0,
+        "valence": 64.2
+    },
+    "Juicebox": {
+        "artists": "The Strokes",
+        "energy": 98.1,
+        "length": 195,
+        "name": "Juicebox",
+        "pop": 63,
+        "valence": 54.7
+    },
+    "LK": {
+        "artists": "DJ Marky",
+        "energy": 93.6,
+        "length": 330,
+        "name": "LK",
+        "pop": 0,
+        "valence": 96.5
+    },
+    "La La Land": {
+        "artists": "The Go-Go's",
+        "energy": 93.4,
+        "length": 182,
+        "name": "La La Land",
+        "pop": 0,
+        "valence": 59.2
+    },
+    "Leper Messiah": {
+        "artists": "Metallica",
+        "energy": 85.1,
+        "length": 341,
+        "name": "Leper Messiah",
+        "pop": 0,
+        "valence": 54.0
+    },
+    "Let's Dance - 1999 Remaster": {
+        "artists": "David Bowie",
+        "energy": 70.3,
+        "length": 457,
+        "name": "Let's Dance - 1999 Remaster",
+        "pop": 0,
+        "valence": 70.9
+    },
+    "Longshot": {
+        "artists": "John Fogerty",
+        "energy": 94.3,
+        "length": 210,
+        "name": "Longshot",
+        "pop": 0,
+        "valence": 59.8
+    },
+    "Loverman": {
+        "artists": "Nick Cave & The Bad Seeds",
+        "energy": 49.0,
+        "length": 381,
+        "name": "Loverman",
+        "pop": 0,
+        "valence": 38.9
+    },
+    "Melted": {
+        "artists": "Ty Segall",
+        "energy": 70.4,
+        "length": 133,
+        "name": "Melted",
+        "pop": 29,
+        "valence": 41.2
+    },
+    "My Destiny - Wideboys Remix": {
+        "artists": "Delinquent",
+        "energy": 89.2,
+        "length": 423,
+        "name": "My Destiny - Wideboys Remix",
+        "pop": 0,
+        "valence": 42.4
+    },
+    "My Shadow": {
+        "artists": "Jay Reatard",
+        "energy": 93.9,
+        "length": 200,
+        "name": "My Shadow",
+        "pop": 0,
+        "valence": 30.3
+    },
+    "Navajo": {
+        "artists": "Black Lips",
+        "energy": 89.1,
+        "length": 161,
+        "name": "Navajo",
+        "pop": 0,
+        "valence": 58.6
+    },
+    "Never Again": {
+        "artists": "Submerse",
+        "energy": 70.2,
+        "length": 316,
+        "name": "Never Again",
+        "pop": 0,
+        "valence": 27.2
+    },
+    "Of Wolf And Man": {
+        "artists": "Metallica",
+        "energy": 75.2,
+        "length": 257,
+        "name": "Of Wolf And Man",
+        "pop": 0,
+        "valence": 47.2
+    },
+    "On The Airwaves": {
+        "artists": "The Shazam",
+        "energy": 91.4,
+        "length": 206,
+        "name": "On The Airwaves",
+        "pop": 0,
+        "valence": 34.8
+    },
+    "Open Eyes": {
+        "artists": "The Apples In Stereo",
+        "energy": 75.7,
+        "length": 194,
+        "name": "Open Eyes",
+        "pop": 0,
+        "valence": 36.7
+    },
+    "Out Of My Mind (Into My Head)": {
+        "artists": "The Romantics",
+        "energy": 84.6,
+        "length": 211,
+        "name": "Out Of My Mind (Into My Head)",
+        "pop": 0,
+        "valence": 35.9
+    },
+    "Paradise": {
+        "artists": "Coldplay",
+        "energy": 58.5,
+        "length": 279,
+        "name": "Paradise",
+        "pop": 87,
+        "valence": 21.2
+    },
+    "Porno Movies": {
+        "artists": "The Saints",
+        "energy": 95.6,
+        "length": 188,
+        "name": "Porno Movies",
+        "pop": 0,
+        "valence": 45.6
+    },
+    "Pow (Forward)": {
+        "artists": "Lethal Bizzle",
+        "energy": 77.1,
+        "length": 182,
+        "name": "Pow (Forward)",
+        "pop": 47,
+        "valence": 48.7
+    },
+    "Psycho": {
+        "artists": "The Sonics",
+        "energy": 64.3,
+        "length": 141,
+        "name": "Psycho",
+        "pop": 43,
+        "valence": 71.7
+    },
+    "Push the Feeling On - 2007 Remixes (Belocca's Radio Edit)": {
+        "artists": "Nightcrawlers",
+        "energy": 89.6,
+        "length": 190,
+        "name": "Push the Feeling On - 2007 Remixes (Belocca's Radio Edit)",
+        "pop": 0,
+        "valence": 66.5
+    },
+    "Re-Rewind (feat. Craig David) - Radio Edit": {
+        "artists": "Artful Dodger",
+        "energy": 74.9,
+        "length": 242,
+        "name": "Re-Rewind (feat. Craig David) - Radio Edit",
+        "pop": 0,
+        "valence": 84.4
+    },
+    "Reptilia": {
+        "artists": "The Strokes",
+        "energy": 64.9,
+        "length": 220,
+        "name": "Reptilia",
+        "pop": 79,
+        "valence": 77.0
+    },
+    "Ride The Lightning": {
+        "artists": "Metallica",
+        "energy": 96.2,
+        "length": 396,
+        "name": "Ride The Lightning",
+        "pop": 0,
+        "valence": 24.1
+    },
+    "Roller Coaster - Original": {
+        "artists": "13th Floor Elevators",
+        "energy": 73.6,
+        "length": 308,
+        "name": "Roller Coaster - Original",
+        "pop": 0,
+        "valence": 64.6
+    },
+    "Rudy Cholo": {
+        "artists": "Manic Hispanic",
+        "energy": 71.2,
+        "length": 167,
+        "name": "Rudy Cholo",
+        "pop": 0,
+        "valence": 73.8
+    },
+    "Rumours - Ed Case & Karl H Vocal": {
+        "artists": "Damage",
+        "energy": 73.2,
+        "length": 279,
+        "name": "Rumours - Ed Case & Karl H Vocal",
+        "pop": 3,
+        "valence": 92.5
+    },
+    "Sad But True": {
+        "artists": "Metallica",
+        "energy": 84.5,
+        "length": 325,
+        "name": "Sad But True",
+        "pop": 0,
+        "valence": 43.3
+    },
+    "Shake Ur Body (feat. Di) - Sunship Dub Mix": {
+        "artists": "SHY FX",
+        "energy": 51.7,
+        "length": 291,
+        "name": "Shake Ur Body (feat. Di) - Sunship Dub Mix",
+        "pop": 17,
+        "valence": 64.8
+    },
+    "Sheena Is a Punk Rocker - 2009 Remaster": {
+        "artists": "Ramones",
+        "energy": 92.8,
+        "length": 166,
+        "name": "Sheena Is a Punk Rocker - 2009 Remaster",
+        "pop": 31,
+        "valence": 82.3
+    },
+    "Sincere - Wookie Remix": {
+        "artists": "MJ Cole",
+        "energy": 61.1,
+        "length": 329,
+        "name": "Sincere - Wookie Remix",
+        "pop": 0,
+        "valence": 34.4
+    },
+    "Someday": {
+        "artists": "The Strokes",
+        "energy": 52.1,
+        "length": 183,
+        "name": "Someday",
+        "pop": 71,
+        "valence": 67.9
+    },
+    "Spare Room": {
+        "artists": "Bass Drum of Death",
+        "energy": 86.7,
+        "length": 176,
+        "name": "Spare Room",
+        "pop": 0,
+        "valence": 55.5
+    },
+    "Speeding - Dodge & Fuski Mix": {
+        "artists": "Rudimental",
+        "energy": 84.1,
+        "length": 288,
+        "name": "Speeding - Dodge & Fuski Mix",
+        "pop": 0,
+        "valence": 32.9
+    },
+    "Stimulation": {
+        "artists": "Disclosure",
+        "energy": 85.9,
+        "length": 320,
+        "name": "Stimulation",
+        "pop": 0,
+        "valence": 73.4
+    },
+    "Stone Dead Forever": {
+        "artists": "Mot\u00f6rhead",
+        "energy": 95.9,
+        "length": 292,
+        "name": "Stone Dead Forever",
+        "pop": 0,
+        "valence": 38.2
+    },
+    "Stranger": {
+        "artists": "King Tuff",
+        "energy": 97.5,
+        "length": 176,
+        "name": "Stranger",
+        "pop": 0,
+        "valence": 4.78
+    },
+    "Sugar Is Sweeter - Armand Van Helden's Drum 'n' Bass Mix": {
+        "artists": "CJ Bolland",
+        "energy": 63.3,
+        "length": 386,
+        "name": "Sugar Is Sweeter - Armand Van Helden's Drum 'n' Bass Mix",
+        "pop": 0,
+        "valence": 31.8
+    },
+    "Terminal Boredom": {
+        "artists": "The Cute Lepers",
+        "energy": 95.9,
+        "length": 126,
+        "name": "Terminal Boredom",
+        "pop": 0,
+        "valence": 90.2
+    },
+    "The Monster": {
+        "artists": "Eminem",
+        "energy": 85.0,
+        "length": 250,
+        "name": "The Monster",
+        "pop": 0,
+        "valence": 56.7
+    },
+    "The Only One": {
+        "artists": "The Black Keys",
+        "energy": 65.3,
+        "length": 300,
+        "name": "The Only One",
+        "pop": 49,
+        "valence": 62.5
+    },
+    "The Pretender": {
+        "artists": "Foo Fighters",
+        "energy": 95.5,
+        "length": 267,
+        "name": "The Pretender",
+        "pop": 58,
+        "valence": 36.6
+    },
+    "Through The Never": {
+        "artists": "Metallica",
+        "energy": 92.9,
+        "length": 244,
+        "name": "Through The Never",
+        "pop": 0,
+        "valence": 52.4
+    },
+    "Timber (feat. Ke$ha)": {
+        "artists": "Pitbull",
+        "energy": 96.5,
+        "length": 204,
+        "name": "Timber (feat. Ke$ha)",
+        "pop": 59,
+        "valence": 82.5
+    },
+    "Titanium (feat. Sia)": {
+        "artists": "David Guetta",
+        "energy": 78.7,
+        "length": 245,
+        "name": "Titanium (feat. Sia)",
+        "pop": 84,
+        "valence": 30.1
+    },
+    "U Know What's Up": {
+        "artists": "Donell Jones",
+        "energy": 48.2,
+        "length": 241,
+        "name": "U Know What's Up",
+        "pop": 48,
+        "valence": 86.8
+    },
+    "Voices": {
+        "artists": "Disclosure",
+        "energy": 73.5,
+        "length": 249,
+        "name": "Voices",
+        "pop": 0,
+        "valence": 70.4
+    },
+    "We Come 1 - Wookie Remix": {
+        "artists": "Faithless",
+        "energy": 79.4,
+        "length": 349,
+        "name": "We Come 1 - Wookie Remix",
+        "pop": 1,
+        "valence": 37.3
+    },
+    "We Found Love": {
+        "artists": "Rihanna",
+        "energy": 74.0,
+        "length": 216,
+        "name": "We Found Love",
+        "pop": 1,
+        "valence": 60.9
+    },
+    "Why Do They Know": {
+        "artists": "The Satelliters",
+        "energy": 94.1,
+        "length": 184,
+        "name": "Why Do They Know",
+        "pop": 0,
+        "valence": 67.1
+    },
+    "Why?": {
+        "artists": "Mis-Teeq",
+        "energy": 69.3,
+        "length": 201,
+        "name": "Why?",
+        "pop": 0,
+        "valence": 97.3
+    },
+    "Yeah! (feat. Lil Jon & Ludacris)": {
+        "artists": "Usher",
+        "energy": 79.1,
+        "length": 250,
+        "name": "Yeah! (feat. Lil Jon & Ludacris)",
+        "pop": 85,
+        "valence": 58.3
+    },
+    "You & Me": {
+        "artists": "Disclosure",
+        "energy": 88.3,
+        "length": 266,
+        "name": "You & Me",
+        "pop": 0,
+        "valence": 69.2
+    },
+    "You Can't Be Trusted": {
+        "artists": "The Seeds",
+        "energy": 57.1,
+        "length": 132,
+        "name": "You Can't Be Trusted",
+        "pop": 15,
+        "valence": 97.5
+    },
+    "Young Pros": {
+        "artists": "Bass Drum of Death",
+        "energy": 94.1,
+        "length": 160,
+        "name": "Young Pros",
+        "pop": 0,
+        "valence": 30.9
+    }
+}

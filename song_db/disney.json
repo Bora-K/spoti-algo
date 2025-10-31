@@ -1,0 +1,802 @@
+{
+    "2 Stars": {
+        "artists": "Meaghan Martin",
+        "energy": 81.5,
+        "length": 175,
+        "name": "2 Stars",
+        "pop": 44,
+        "valence": 94.0
+    },
+    "52 Chachki Pickup": {
+        "artists": "Michael Giacchino",
+        "energy": 56.1,
+        "length": 74,
+        "name": "52 Chachki Pickup",
+        "pop": 35,
+        "valence": 31.7
+    },
+    "A Girl Worth Fighting For (Redux) - From \"Mulan II\"/Soundtrack Version": {
+        "artists": "Randy Crenshaw",
+        "energy": 52.9,
+        "length": 92,
+        "name": "A Girl Worth Fighting For (Redux) - From \"Mulan II\"/Soundtrack Version",
+        "pop": 35,
+        "valence": 78.3
+    },
+    "After Today": {
+        "artists": "Aaron Lohr",
+        "energy": 62.0,
+        "length": 141,
+        "name": "After Today",
+        "pop": 51,
+        "valence": 57.2
+    },
+    "An Unusual Prince / Once Upon A Dream - From \"Sleeping Beauty\"/Soundtrack Version": {
+        "artists": "Mary Costa",
+        "energy": 24.7,
+        "length": 210,
+        "name": "An Unusual Prince / Once Upon A Dream - From \"Sleeping Beauty\"/Soundtrack Version",
+        "pop": 41,
+        "valence": 20.8
+    },
+    "And He Shall Smite the Wicked": {
+        "artists": "Alan Menken",
+        "energy": 7.86,
+        "length": 211,
+        "name": "And He Shall Smite the Wicked",
+        "pop": 28,
+        "valence": 4.16
+    },
+    "Angry Cricket": {
+        "artists": "Leigh Harline",
+        "energy": 2.47,
+        "length": 80,
+        "name": "Angry Cricket",
+        "pop": 19,
+        "valence": 6.8
+    },
+    "Attack At The Wall": {
+        "artists": "Jerry Goldsmith",
+        "energy": 17.1,
+        "length": 299,
+        "name": "Attack At The Wall",
+        "pop": 38,
+        "valence": 7.9
+    },
+    "Awakes as a Bear - From \"Brother Bear\"/Score": {
+        "artists": "Phil Collins",
+        "energy": 8.12,
+        "length": 408,
+        "name": "Awakes as a Bear - From \"Brother Bear\"/Score",
+        "pop": 30,
+        "valence": 3.61
+    },
+    "Baloo's Blues": {
+        "artists": "Phil Harris",
+        "energy": 29.2,
+        "length": 183,
+        "name": "Baloo's Blues",
+        "pop": 31,
+        "valence": 66.7
+    },
+    "Belle": {
+        "artists": "Chorus - Beauty And the Beast",
+        "energy": 28.0,
+        "length": 309,
+        "name": "Belle",
+        "pop": 0,
+        "valence": 44.7
+    },
+    "Boo's Adventures in Monstropolis - From \"Monsters, Inc.\"/Score": {
+        "artists": "Randy Newman",
+        "energy": 24.2,
+        "length": 382,
+        "name": "Boo's Adventures in Monstropolis - From \"Monsters, Inc.\"/Score",
+        "pop": 0,
+        "valence": 12.9
+    },
+    "Brand New Day": {
+        "artists": "Demi Lovato",
+        "energy": 88.2,
+        "length": 201,
+        "name": "Brand New Day",
+        "pop": 41,
+        "valence": 42.7
+    },
+    "Can You Leave Tonight? / Arduous Trek / Any News, Colonel? / I Want the Job Done - From \"101 Dalmatians\"/Score Version": {
+        "artists": "George Bruns",
+        "energy": 29.1,
+        "length": 236,
+        "name": "Can You Leave Tonight? / Arduous Trek / Any News, Colonel? / I Want the Job Done - From \"101 Dalmatians\"/Score Version",
+        "pop": 17,
+        "valence": 3.69
+    },
+    "Circle of Life - From \"The Lion King\" Soundtrack": {
+        "artists": "Carmen Twillie",
+        "energy": 39.1,
+        "length": 239,
+        "name": "Circle of Life - From \"The Lion King\" Soundtrack",
+        "pop": 42,
+        "valence": 55.3
+    },
+    "Comme un homme": {
+        "artists": "Patrick Fiori",
+        "energy": 65.5,
+        "length": 202,
+        "name": "Comme un homme",
+        "pop": 0,
+        "valence": 38.9
+    },
+    "Conceal, Don't Feel - From \"Frozen\"/Score": {
+        "artists": "Christophe Beck",
+        "energy": 11.6,
+        "length": 67,
+        "name": "Conceal, Don't Feel - From \"Frozen\"/Score",
+        "pop": 45,
+        "valence": 3.45
+    },
+    "Countdown To B-Day - From \"Lady and the Tramp\"/Score": {
+        "artists": "Oliver Wallace",
+        "energy": 20.4,
+        "length": 125,
+        "name": "Countdown To B-Day - From \"Lady and the Tramp\"/Score",
+        "pop": 20,
+        "valence": 12.6
+    },
+    "Dalmatian Plantation / Finale - From \"101 Dalmatians\"/Soundtrack Version": {
+        "artists": "Bill Lee",
+        "energy": 56.9,
+        "length": 57,
+        "name": "Dalmatian Plantation / Finale - From \"101 Dalmatians\"/Soundtrack Version",
+        "pop": 34,
+        "valence": 41.4
+    },
+    "Down in New Orleans - From \"The Princess and the Frog\"/Soundtrack Version": {
+        "artists": "Dr. John",
+        "energy": 67.6,
+        "length": 145,
+        "name": "Down in New Orleans - From \"The Princess and the Frog\"/Soundtrack Version",
+        "pop": 0,
+        "valence": 70.5
+    },
+    "El Ciclo de la Vida": {
+        "artists": "Tata Vega",
+        "energy": 49.0,
+        "length": 240,
+        "name": "El Ciclo de la Vida",
+        "pop": 0,
+        "valence": 52.1
+    },
+    "En Mi Coraz\u00f3n Estar\u00e1s": {
+        "artists": "Merche Macaria",
+        "energy": 10.6,
+        "length": 99,
+        "name": "En Mi Coraz\u00f3n Estar\u00e1s",
+        "pop": 0,
+        "valence": 30.0
+    },
+    "Enchanted Suite - From \"Enchanted\"/Score": {
+        "artists": "Alan Menken",
+        "energy": 40.2,
+        "length": 272,
+        "name": "Enchanted Suite - From \"Enchanted\"/Score",
+        "pop": 46,
+        "valence": 18.0
+    },
+    "Enter The Heroes - From \"Monsters, Inc.\"/Score": {
+        "artists": "Randy Newman",
+        "energy": 29.6,
+        "length": 63,
+        "name": "Enter The Heroes - From \"Monsters, Inc.\"/Score",
+        "pop": 0,
+        "valence": 42.9
+    },
+    "Falling for Ya": {
+        "artists": "Grace Phipps",
+        "energy": 88.2,
+        "length": 193,
+        "name": "Falling for Ya",
+        "pop": 69,
+        "valence": 96.4
+    },
+    "Farewell - From \"Pocahontas\"/Score": {
+        "artists": "Alan Menken",
+        "energy": 5.87,
+        "length": 288,
+        "name": "Farewell - From \"Pocahontas\"/Score",
+        "pop": 46,
+        "valence": 8.49
+    },
+    "Friend Like Me": {
+        "artists": "Robin Williams",
+        "energy": 48.6,
+        "length": 146,
+        "name": "Friend Like Me",
+        "pop": 0,
+        "valence": 66.6
+    },
+    "Garbage?": {
+        "artists": "Randy Newman",
+        "energy": 9.94,
+        "length": 161,
+        "name": "Garbage?",
+        "pop": 3,
+        "valence": 13.5
+    },
+    "Happy": {
+        "artists": "Pharrell Williams",
+        "energy": 75.7,
+        "length": 233,
+        "name": "Happy",
+        "pop": 3,
+        "valence": 96.2
+    },
+    "Hasta La Vista": {
+        "artists": "Jordan Francis",
+        "energy": 88.7,
+        "length": 156,
+        "name": "Hasta La Vista",
+        "pop": 52,
+        "valence": 78.1
+    },
+    "Honor To Us All": {
+        "artists": "Lea Salonga",
+        "energy": 24.2,
+        "length": 183,
+        "name": "Honor To Us All",
+        "pop": 63,
+        "valence": 65.2
+    },
+    "Hooray! She Stays - Score": {
+        "artists": "Paul J. Smith",
+        "energy": 9.05,
+        "length": 169,
+        "name": "Hooray! She Stays - Score",
+        "pop": 0,
+        "valence": 25.9
+    },
+    "I Won't Say (I'm In Love) - From \"Hercules\" / Soundtrack Version": {
+        "artists": "Susan Egan",
+        "energy": 47.1,
+        "length": 140,
+        "name": "I Won't Say (I'm In Love) - From \"Hercules\" / Soundtrack Version",
+        "pop": 55,
+        "valence": 45.3
+    },
+    "I'll Try": {
+        "artists": "Jesse McCartney",
+        "energy": 59.0,
+        "length": 230,
+        "name": "I'll Try",
+        "pop": 8,
+        "valence": 16.1
+    },
+    "I'm Late": {
+        "artists": "Bill Thompson",
+        "energy": 41.3,
+        "length": 43,
+        "name": "I'm Late",
+        "pop": 38,
+        "valence": 86.4
+    },
+    "If I Didn't Have You - From \"Monsters, Inc.\"": {
+        "artists": "Billy Crystal",
+        "energy": 48.2,
+        "length": 220,
+        "name": "If I Didn't Have You - From \"Monsters, Inc.\"",
+        "pop": 32,
+        "valence": 61.0
+    },
+    "It Had to Be Snow - Score Demo": {
+        "artists": "Christophe Beck",
+        "energy": 1.89,
+        "length": 78,
+        "name": "It Had to Be Snow - Score Demo",
+        "pop": 37,
+        "valence": 3.09
+    },
+    "It's A Girl - Score": {
+        "artists": "Paul J. Smith",
+        "energy": 4.38,
+        "length": 267,
+        "name": "It's A Girl - Score",
+        "pop": 0,
+        "valence": 20.4
+    },
+    "Jessie's In Trouble": {
+        "artists": "Randy Newman",
+        "energy": 14.9,
+        "length": 135,
+        "name": "Jessie's In Trouble",
+        "pop": 26,
+        "valence": 7.07
+    },
+    "Just Around the Riverbend - From \"Pocahontas\" / Soundtrack Version": {
+        "artists": "Judy Kuhn",
+        "energy": 21.7,
+        "length": 150,
+        "name": "Just Around the Riverbend - From \"Pocahontas\" / Soundtrack Version",
+        "pop": 42,
+        "valence": 26.2
+    },
+    "Kevin Beak'n": {
+        "artists": "Michael Giacchino",
+        "energy": 6.11,
+        "length": 74,
+        "name": "Kevin Beak'n",
+        "pop": 36,
+        "valence": 37.6
+    },
+    "Kitten Theme": {
+        "artists": "Leigh Harline",
+        "energy": 15.6,
+        "length": 40,
+        "name": "Kitten Theme",
+        "pop": 22,
+        "valence": 40.2
+    },
+    "Kitty - From \"Monsters, Inc.\"/Score": {
+        "artists": "Randy Newman",
+        "energy": 7.88,
+        "length": 79,
+        "name": "Kitty - From \"Monsters, Inc.\"/Score",
+        "pop": 0,
+        "valence": 4.41
+    },
+    "L' air Du Vent": {
+        "artists": "Laura Mayne",
+        "energy": 26.6,
+        "length": 215,
+        "name": "L' air Du Vent",
+        "pop": 0,
+        "valence": 31.2
+    },
+    "Let's Do This": {
+        "artists": "Hannah Montana",
+        "energy": 89.8,
+        "length": 213,
+        "name": "Let's Do This",
+        "pop": 19,
+        "valence": 84.8
+    },
+    "Life Is A Highway": {
+        "artists": "Rascal Flatts",
+        "energy": 93.3,
+        "length": 277,
+        "name": "Life Is A Highway",
+        "pop": 0,
+        "valence": 58.1
+    },
+    "Like Me": {
+        "artists": "Maia Mitchell",
+        "energy": 87.4,
+        "length": 199,
+        "name": "Like Me",
+        "pop": 58,
+        "valence": 71.5
+    },
+    "Little Dressmakers / The Work Song / Scavenger Hunt /A Dream Is A Wish Your Heart Makes / The Dress / My Beads / Escape To The Garden": {
+        "artists": "Mice Chorus",
+        "energy": 21.1,
+        "length": 564,
+        "name": "Little Dressmakers / The Work Song / Scavenger Hunt /A Dream Is A Wish Your Heart Makes / The Dress / My Beads / Escape To The Garden",
+        "pop": 31,
+        "valence": 21.3
+    },
+    "Look Through My Eyes - From \"Brother Bear\"/Soundtrack Version": {
+        "artists": "Phil Collins",
+        "energy": 70.4,
+        "length": 240,
+        "name": "Look Through My Eyes - From \"Brother Bear\"/Soundtrack Version",
+        "pop": 53,
+        "valence": 38.9
+    },
+    "Love Is an Open Door - Instrumental Karaoke": {
+        "artists": "Kristen Anderson-Lopez",
+        "energy": 46.4,
+        "length": 127,
+        "name": "Love Is an Open Door - Instrumental Karaoke",
+        "pop": 39,
+        "valence": 77.4
+    },
+    "Main Title (Love Is a Song) - Soundtrack": {
+        "artists": "Donald Novis",
+        "energy": 18.4,
+        "length": 175,
+        "name": "Main Title (Love Is a Song) - Soundtrack",
+        "pop": 34,
+        "valence": 9.36
+    },
+    "Makin' Pies - Score": {
+        "artists": "Paul J. Smith",
+        "energy": 22.8,
+        "length": 184,
+        "name": "Makin' Pies - Score",
+        "pop": 0,
+        "valence": 10.7
+    },
+    "Meet Olaf - Score Demo": {
+        "artists": "Christophe Beck",
+        "energy": 1.63,
+        "length": 121,
+        "name": "Meet Olaf - Score Demo",
+        "pop": 37,
+        "valence": 15.7
+    },
+    "Monkey Chase": {
+        "artists": "George Bruns",
+        "energy": 61.3,
+        "length": 67,
+        "name": "Monkey Chase",
+        "pop": 0,
+        "valence": 60.6
+    },
+    "Mother Knows Best - From \"Tangled\"/Soundtrack Version": {
+        "artists": "Donna Murphy",
+        "energy": 25.9,
+        "length": 190,
+        "name": "Mother Knows Best - From \"Tangled\"/Soundtrack Version",
+        "pop": 66,
+        "valence": 47.3
+    },
+    "My Lullaby": {
+        "artists": "Suzanne Pleshette",
+        "energy": 41.4,
+        "length": 174,
+        "name": "My Lullaby",
+        "pop": 0,
+        "valence": 30.4
+    },
+    "Never Smile at a Crocodile": {
+        "artists": "Frank Churchill",
+        "energy": 19.2,
+        "length": 104,
+        "name": "Never Smile at a Crocodile",
+        "pop": 42,
+        "valence": 81.3
+    },
+    "News Travels": {
+        "artists": "Thomas Newman",
+        "energy": 17.6,
+        "length": 72,
+        "name": "News Travels",
+        "pop": 42,
+        "valence": 7.79
+    },
+    "No Longer An Elephant / Dumbo's Sadness / A Visit In The Night / Baby Mine - From \"Dumbo\"/Soundtrack Version": {
+        "artists": "Betty Noyes",
+        "energy": 11.4,
+        "length": 215,
+        "name": "No Longer An Elephant / Dumbo's Sadness / A Visit In The Night / Baby Mine - From \"Dumbo\"/Soundtrack Version",
+        "pop": 34,
+        "valence": 7.69
+    },
+    "Ol' Thunder Always Wins - From \"101 Dalmatians\"/Score Version": {
+        "artists": "George Bruns",
+        "energy": 37.0,
+        "length": 167,
+        "name": "Ol' Thunder Always Wins - From \"101 Dalmatians\"/Score Version",
+        "pop": 19,
+        "valence": 10.7
+    },
+    "Onward and Upward - From \"Frozen\"/Score": {
+        "artists": "Christophe Beck",
+        "energy": 11.0,
+        "length": 114,
+        "name": "Onward and Upward - From \"Frozen\"/Score",
+        "pop": 45,
+        "valence": 8.13
+    },
+    "Overture - Jungle Book": {
+        "artists": "George Bruns",
+        "energy": 16.0,
+        "length": 165,
+        "name": "Overture - Jungle Book",
+        "pop": 0,
+        "valence": 15.1
+    },
+    "Pavement Artist - From \"Mary Poppins\"/Soundtrack Version": {
+        "artists": "Dick Van Dyke",
+        "energy": 5.85,
+        "length": 120,
+        "name": "Pavement Artist - From \"Mary Poppins\"/Soundtrack Version",
+        "pop": 34,
+        "valence": 25.1
+    },
+    "Phil's Island": {
+        "artists": "Alan Menken",
+        "energy": 10.8,
+        "length": 145,
+        "name": "Phil's Island",
+        "pop": 0,
+        "valence": 4.68
+    },
+    "Poor Unfortunate Souls - From \"The Little Mermaid\" / Soundtrack Version": {
+        "artists": "Pat Carroll",
+        "energy": 17.1,
+        "length": 292,
+        "name": "Poor Unfortunate Souls - From \"The Little Mermaid\" / Soundtrack Version",
+        "pop": 55,
+        "valence": 36.2
+    },
+    "Presents - From \"Toy Story\"/Score": {
+        "artists": "Randy Newman",
+        "energy": 18.8,
+        "length": 69,
+        "name": "Presents - From \"Toy Story\"/Score",
+        "pop": 38,
+        "valence": 33.3
+    },
+    "Real Gone": {
+        "artists": "Sheryl Crow",
+        "energy": 78.8,
+        "length": 202,
+        "name": "Real Gone",
+        "pop": 0,
+        "valence": 80.6
+    },
+    "Right Here, Right Now": {
+        "artists": "High School Musical Cast",
+        "energy": 79.7,
+        "length": 238,
+        "name": "Right Here, Right Now",
+        "pop": 26,
+        "valence": 29.6
+    },
+    "Sally's Song": {
+        "artists": "Catherine O'Hara",
+        "energy": 11.3,
+        "length": 108,
+        "name": "Sally's Song",
+        "pop": 51,
+        "valence": 11.3
+    },
+    "School - From \"Monsters, Inc.\"/Score": {
+        "artists": "Randy Newman",
+        "energy": 34.2,
+        "length": 98,
+        "name": "School - From \"Monsters, Inc.\"/Score",
+        "pop": 0,
+        "valence": 12.5
+    },
+    "See You Again": {
+        "artists": "Miley Cyrus",
+        "energy": 91.1,
+        "length": 190,
+        "name": "See You Again",
+        "pop": 0,
+        "valence": 80.1
+    },
+    "Somebody": {
+        "artists": "Bridgit Mendler",
+        "energy": 73.8,
+        "length": 209,
+        "name": "Somebody",
+        "pop": 28,
+        "valence": 30.2
+    },
+    "Son of Man": {
+        "artists": "Phil Collins",
+        "energy": 86.3,
+        "length": 165,
+        "name": "Son of Man",
+        "pop": 0,
+        "valence": 67.7
+    },
+    "Stay Awake": {
+        "artists": "Thomas Newman",
+        "energy": 9.93,
+        "length": 107,
+        "name": "Stay Awake",
+        "pop": 28,
+        "valence": 3.67
+    },
+    "Steady as the Beating Drum - From \"Pocahontas\"/Soundtrack Version": {
+        "artists": "Chorus - Pocahontas",
+        "energy": 23.9,
+        "length": 107,
+        "name": "Steady as the Beating Drum - From \"Pocahontas\"/Soundtrack Version",
+        "pop": 48,
+        "valence": 30.8
+    },
+    "Sunnyside": {
+        "artists": "Randy Newman",
+        "energy": 10.2,
+        "length": 140,
+        "name": "Sunnyside",
+        "pop": 13,
+        "valence": 21.2
+    },
+    "Surf\u2019s Up": {
+        "artists": "Austin Moon",
+        "energy": 88.7,
+        "length": 181,
+        "name": "Surf\u2019s Up",
+        "pop": 0,
+        "valence": 53.7
+    },
+    "Talk To Jessie": {
+        "artists": "Randy Newman",
+        "energy": 10.9,
+        "length": 43,
+        "name": "Talk To Jessie",
+        "pop": 24,
+        "valence": 3.58
+    },
+    "That's How You Know - From \"Enchanted\"/Soundtrack Version": {
+        "artists": "Amy Adams",
+        "energy": 66.7,
+        "length": 229,
+        "name": "That's How You Know - From \"Enchanted\"/Soundtrack Version",
+        "pop": 66,
+        "valence": 52.0
+    },
+    "The Little Clownfish From The Reef": {
+        "artists": "Thomas Newman",
+        "energy": 33.8,
+        "length": 74,
+        "name": "The Little Clownfish From The Reef",
+        "pop": 35,
+        "valence": 4.47
+    },
+    "The Party's Just Begun": {
+        "artists": "The Cheetah Girls",
+        "energy": 84.5,
+        "length": 190,
+        "name": "The Party's Just Begun",
+        "pop": 52,
+        "valence": 92.7
+    },
+    "The Prophecy": {
+        "artists": "Alan Menken",
+        "energy": 39.8,
+        "length": 54,
+        "name": "The Prophecy",
+        "pop": 0,
+        "valence": 3.8
+    },
+    "The Silly Song (The Dwarfs' Yodel Song) - Soundtrack": {
+        "artists": "Adriana Caselotti",
+        "energy": 48.5,
+        "length": 275,
+        "name": "The Silly Song (The Dwarfs' Yodel Song) - Soundtrack",
+        "pop": 0,
+        "valence": 81.0
+    },
+    "Thin Air - Score Demo": {
+        "artists": "Christophe Beck",
+        "energy": 3.27,
+        "length": 140,
+        "name": "Thin Air - Score Demo",
+        "pop": 36,
+        "valence": 3.74
+    },
+    "Tiana\u2019s Bad Dream - From \"The Princess and the Frog\"/Score": {
+        "artists": "Randy Newman",
+        "energy": 10.3,
+        "length": 382,
+        "name": "Tiana\u2019s Bad Dream - From \"The Princess and the Frog\"/Score",
+        "pop": 0,
+        "valence": 3.83
+    },
+    "Topsy Turvy": {
+        "artists": "Paul Kandel",
+        "energy": 49.3,
+        "length": 336,
+        "name": "Topsy Turvy",
+        "pop": 39,
+        "valence": 35.1
+    },
+    "Touch The Sky - From \"Brave\"/Soundtrack": {
+        "artists": "Julie Fowlis",
+        "energy": 64.1,
+        "length": 151,
+        "name": "Touch The Sky - From \"Brave\"/Soundtrack",
+        "pop": 67,
+        "valence": 33.0
+    },
+    "Transformation - From \"Brother Bear\"/Soundtrack Version": {
+        "artists": "Bulgarian Women's Choir",
+        "energy": 67.3,
+        "length": 149,
+        "name": "Transformation - From \"Brother Bear\"/Soundtrack Version",
+        "pop": 48,
+        "valence": 25.4
+    },
+    "Treason - From \"Frozen\"/Score": {
+        "artists": "Christophe Beck",
+        "energy": 10.8,
+        "length": 95,
+        "name": "Treason - From \"Frozen\"/Score",
+        "pop": 42,
+        "valence": 3.54
+    },
+    "Treasure Planet: I'm Still Here (Jim's Theme)": {
+        "artists": "Animation Soundtrack Ensemble",
+        "energy": 64.4,
+        "length": 247,
+        "name": "Treasure Planet: I'm Still Here (Jim's Theme)",
+        "pop": 12,
+        "valence": 72.3
+    },
+    "True Love's Kiss - From \"Enchanted\"/ Soundtrack Version": {
+        "artists": "Amy Adams",
+        "energy": 35.0,
+        "length": 193,
+        "name": "True Love's Kiss - From \"Enchanted\"/ Soundtrack Version",
+        "pop": 50,
+        "valence": 35.9
+    },
+    "Under the Sea": {
+        "artists": "Raven-Symon\u00e9",
+        "energy": 87.7,
+        "length": 195,
+        "name": "Under the Sea",
+        "pop": 27,
+        "valence": 81.0
+    },
+    "Up A Tree / The Fall / Timothy's Theory - From \"Dumbo\"/Score": {
+        "artists": "Oliver Wallace",
+        "energy": 3.24,
+        "length": 92,
+        "name": "Up A Tree / The Fall / Timothy's Theory - From \"Dumbo\"/Score",
+        "pop": 19,
+        "valence": 12.9
+    },
+    "Voy A Ser el Rey Le\u00f3n": {
+        "artists": "Marc Pociello",
+        "energy": 73.0,
+        "length": 171,
+        "name": "Voy A Ser el Rey Le\u00f3n",
+        "pop": 0,
+        "valence": 85.3
+    },
+    "Voy a Hacer Todo un Hombre de T\u00ed": {
+        "artists": "Pablo Perea",
+        "energy": 50.4,
+        "length": 203,
+        "name": "Voy a Hacer Todo un Hombre de T\u00ed",
+        "pop": 0,
+        "valence": 46.0
+    },
+    "Whale Chase": {
+        "artists": "Leigh Harline",
+        "energy": 37.2,
+        "length": 198,
+        "name": "Whale Chase",
+        "pop": 17,
+        "valence": 19.8
+    },
+    "What Time Is It": {
+        "artists": "Zac Efron",
+        "energy": 92.4,
+        "length": 201,
+        "name": "What Time Is It",
+        "pop": 51,
+        "valence": 65.2
+    },
+    "Whom Did You Expect": {
+        "artists": "Oliver Wallace",
+        "energy": 2.69,
+        "length": 53,
+        "name": "Whom Did You Expect",
+        "pop": 26,
+        "valence": 20.2
+    },
+    "You Poor Kid/He's Not My Dog - From \"Lady and the Tramp\"/Score": {
+        "artists": "Oliver Wallace",
+        "energy": 6.16,
+        "length": 84,
+        "name": "You Poor Kid/He's Not My Dog - From \"Lady and the Tramp\"/Score",
+        "pop": 24,
+        "valence": 54.4
+    },
+    "You'll Always Find Your Way Back Home": {
+        "artists": "Hannah Montana",
+        "energy": 90.3,
+        "length": 226,
+        "name": "You'll Always Find Your Way Back Home",
+        "pop": 39,
+        "valence": 71.5
+    }
+}

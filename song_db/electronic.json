@@ -1,0 +1,802 @@
+{
+    "A Drowning": {
+        "artists": "How To Destroy Angels",
+        "energy": 46.9,
+        "length": 424,
+        "name": "A Drowning",
+        "pop": 30,
+        "valence": 35.5
+    },
+    "Addicted To You": {
+        "artists": "Avicii",
+        "energy": 78.5,
+        "length": 148,
+        "name": "Addicted To You",
+        "pop": 0,
+        "valence": 30.3
+    },
+    "Aerodynamic Beats / Gabrielle , Forget About the World": {
+        "artists": "Daft Punk",
+        "energy": 78.9,
+        "length": 212,
+        "name": "Aerodynamic Beats / Gabrielle , Forget About the World",
+        "pop": 47,
+        "valence": 39.6
+    },
+    "After the Hour": {
+        "artists": "Nico Stojan",
+        "energy": 84.2,
+        "length": 438,
+        "name": "After the Hour",
+        "pop": 22,
+        "valence": 68.7
+    },
+    "All You Need Is Love": {
+        "artists": "Avicii",
+        "energy": 42.5,
+        "length": 381,
+        "name": "All You Need Is Love",
+        "pop": 0,
+        "valence": 44.5
+    },
+    "Amor Fati": {
+        "artists": "Washed Out",
+        "energy": 86.1,
+        "length": 266,
+        "name": "Amor Fati",
+        "pop": 0,
+        "valence": 50.4
+    },
+    "Animal Rights": {
+        "artists": "deadmau5",
+        "energy": 40.6,
+        "length": 375,
+        "name": "Animal Rights",
+        "pop": 0,
+        "valence": 38.7
+    },
+    "Apollo - Radio Edit": {
+        "artists": "Hardwell",
+        "energy": 74.2,
+        "length": 210,
+        "name": "Apollo - Radio Edit",
+        "pop": 0,
+        "valence": 27.5
+    },
+    "At The End Of The Day": {
+        "artists": "Amon Tobin",
+        "energy": 78.0,
+        "length": 192,
+        "name": "At The End Of The Day",
+        "pop": 51,
+        "valence": 32.9
+    },
+    "Barbra Streisand": {
+        "artists": "Duck Sauce",
+        "energy": 92.7,
+        "length": 300,
+        "name": "Barbra Streisand",
+        "pop": 0,
+        "valence": 40.6
+    },
+    "Blue Cassette": {
+        "artists": "Friendly Fires",
+        "energy": 93.7,
+        "length": 211,
+        "name": "Blue Cassette",
+        "pop": 0,
+        "valence": 53.8
+    },
+    "Boom": {
+        "artists": "Anjulie",
+        "energy": 68.8,
+        "length": 195,
+        "name": "Boom",
+        "pop": 0,
+        "valence": 47.2
+    },
+    "Centipede": {
+        "artists": "Knife Party",
+        "energy": 95.1,
+        "length": 247,
+        "name": "Centipede",
+        "pop": 55,
+        "valence": 6.28
+    },
+    "Channel 42": {
+        "artists": "deadmau5",
+        "energy": 72.4,
+        "length": 292,
+        "name": "Channel 42",
+        "pop": 35,
+        "valence": 41.4
+    },
+    "Chin": {
+        "artists": "Sleep Party People",
+        "energy": 61.0,
+        "length": 276,
+        "name": "Chin",
+        "pop": 15,
+        "valence": 82.8
+    },
+    "City of Light": {
+        "artists": "Clubfeet",
+        "energy": 89.1,
+        "length": 222,
+        "name": "City of Light",
+        "pop": 0,
+        "valence": 49.5
+    },
+    "Cocktail Queen - Original Mix": {
+        "artists": "deadmau5",
+        "energy": 75.7,
+        "length": 325,
+        "name": "Cocktail Queen - Original Mix",
+        "pop": 0,
+        "valence": 88.0
+    },
+    "Control": {
+        "artists": "Disclosure",
+        "energy": 61.9,
+        "length": 290,
+        "name": "Control",
+        "pop": 0,
+        "valence": 84.2
+    },
+    "Courtship Dating": {
+        "artists": "Crystal Castles",
+        "energy": 57.5,
+        "length": 211,
+        "name": "Courtship Dating",
+        "pop": 0,
+        "valence": 70.8
+    },
+    "Crystal Caverns 1991": {
+        "artists": "Lone",
+        "energy": 95.7,
+        "length": 291,
+        "name": "Crystal Caverns 1991",
+        "pop": 0,
+        "valence": 66.2
+    },
+    "Cthulhu Sleeps": {
+        "artists": "deadmau5",
+        "energy": 56.4,
+        "length": 635,
+        "name": "Cthulhu Sleeps",
+        "pop": 0,
+        "valence": 27.0
+    },
+    "Dance Yrself Clean": {
+        "artists": "LCD Soundsystem",
+        "energy": 61.1,
+        "length": 536,
+        "name": "Dance Yrself Clean",
+        "pop": 64,
+        "valence": 79.4
+    },
+    "Do The Astral Plane": {
+        "artists": "Flying Lotus",
+        "energy": 82.8,
+        "length": 238,
+        "name": "Do The Astral Plane",
+        "pop": 5,
+        "valence": 27.5
+    },
+    "Don't Move": {
+        "artists": "Phantogram",
+        "energy": 64.2,
+        "length": 258,
+        "name": "Don't Move",
+        "pop": 0,
+        "valence": 48.2
+    },
+    "EDM Death Machine": {
+        "artists": "Knife Party",
+        "energy": 95.0,
+        "length": 263,
+        "name": "EDM Death Machine",
+        "pop": 41,
+        "valence": 30.1
+    },
+    "Electric Feel": {
+        "artists": "MGMT",
+        "energy": 80.3,
+        "length": 230,
+        "name": "Electric Feel",
+        "pop": 80,
+        "valence": 56.1
+    },
+    "Eyesdown": {
+        "artists": "Bonobo",
+        "energy": 45.5,
+        "length": 326,
+        "name": "Eyesdown",
+        "pop": 50,
+        "valence": 18.3
+    },
+    "Feed The Dada - Radio Edit": {
+        "artists": "Dada Life",
+        "energy": 90.2,
+        "length": 184,
+        "name": "Feed The Dada - Radio Edit",
+        "pop": 25,
+        "valence": 44.1
+    },
+    "Feel So Close - Radio Edit": {
+        "artists": "Calvin Harris",
+        "energy": 92.4,
+        "length": 206,
+        "name": "Feel So Close - Radio Edit",
+        "pop": 84,
+        "valence": 91.9
+    },
+    "Fistful Of Silence": {
+        "artists": "The Glitch Mob",
+        "energy": 73.9,
+        "length": 311,
+        "name": "Fistful Of Silence",
+        "pop": 36,
+        "valence": 44.0
+    },
+    "Flashback": {
+        "artists": "Calvin Harris",
+        "energy": 95.0,
+        "length": 228,
+        "name": "Flashback",
+        "pop": 43,
+        "valence": 15.8
+    },
+    "Freak": {
+        "artists": "Steve Aoki",
+        "energy": 95.7,
+        "length": 281,
+        "name": "Freak",
+        "pop": 0,
+        "valence": 26.3
+    },
+    "Get A Move On!": {
+        "artists": "Mr. Scruff",
+        "energy": 76.7,
+        "length": 455,
+        "name": "Get A Move On!",
+        "pop": 53,
+        "valence": 81.6
+    },
+    "Get Up (Rattle) - Vocal Edit": {
+        "artists": "Bingo Players",
+        "energy": 98.5,
+        "length": 167,
+        "name": "Get Up (Rattle) - Vocal Edit",
+        "pop": 0,
+        "valence": 72.2
+    },
+    "Ghostwriter": {
+        "artists": "RJD2",
+        "energy": 68.0,
+        "length": 318,
+        "name": "Ghostwriter",
+        "pop": 64,
+        "valence": 59.4
+    },
+    "Gimme Back the Night": {
+        "artists": "Brodinski",
+        "energy": 67.5,
+        "length": 252,
+        "name": "Gimme Back the Night",
+        "pop": 20,
+        "valence": 40.0
+    },
+    "Gold Skies": {
+        "artists": "Sander van Doorn",
+        "energy": 81.5,
+        "length": 328,
+        "name": "Gold Skies",
+        "pop": 47,
+        "valence": 20.9
+    },
+    "Guardian": {
+        "artists": "Stay+",
+        "energy": 65.8,
+        "length": 284,
+        "name": "Guardian",
+        "pop": 0,
+        "valence": 10.4
+    },
+    "Hey Boy Hey Girl": {
+        "artists": "The Chemical Brothers",
+        "energy": 92.0,
+        "length": 290,
+        "name": "Hey Boy Hey Girl",
+        "pop": 69,
+        "valence": 36.3
+    },
+    "I Know the Truth": {
+        "artists": "Pretty Lights",
+        "energy": 93.9,
+        "length": 288,
+        "name": "I Know the Truth",
+        "pop": 40,
+        "valence": 29.6
+    },
+    "I.D.G.A.F.O.S.": {
+        "artists": "Dillon Francis",
+        "energy": 93.0,
+        "length": 249,
+        "name": "I.D.G.A.F.O.S.",
+        "pop": 0,
+        "valence": 13.0
+    },
+    "Icarus": {
+        "artists": "Madeon",
+        "energy": 84.1,
+        "length": 214,
+        "name": "Icarus",
+        "pop": 39,
+        "valence": 14.3
+    },
+    "Iceni Strings": {
+        "artists": "Nathan Fake",
+        "energy": 85.3,
+        "length": 330,
+        "name": "Iceni Strings",
+        "pop": 0,
+        "valence": 54.5
+    },
+    "Ich & Du": {
+        "artists": "Philipp Poisel",
+        "energy": 84.0,
+        "length": 222,
+        "name": "Ich & Du",
+        "pop": 0,
+        "valence": 92.3
+    },
+    "In My Mind (feat. Georgi Kay) - Axwell Radio Edit": {
+        "artists": "Ivan Gough",
+        "energy": 83.1,
+        "length": 186,
+        "name": "In My Mind (feat. Georgi Kay) - Axwell Radio Edit",
+        "pop": 1,
+        "valence": 37.6
+    },
+    "In My Mind (feat. Georgi Kay) - Axwell Remix": {
+        "artists": "Ivan Gough",
+        "energy": 89.6,
+        "length": 400,
+        "name": "In My Mind (feat. Georgi Kay) - Axwell Remix",
+        "pop": 0,
+        "valence": 30.2
+    },
+    "Instant Crush (feat. Julian Casablancas)": {
+        "artists": "Daft Punk",
+        "energy": 58.5,
+        "length": 338,
+        "name": "Instant Crush (feat. Julian Casablancas)",
+        "pop": 79,
+        "valence": 51.8
+    },
+    "It's All in Sound": {
+        "artists": "Bullion",
+        "energy": 62.1,
+        "length": 211,
+        "name": "It's All in Sound",
+        "pop": 0,
+        "valence": 64.5
+    },
+    "King Night": {
+        "artists": "SALEM",
+        "energy": 83.7,
+        "length": 230,
+        "name": "King Night",
+        "pop": 0,
+        "valence": 15.1
+    },
+    "Kyoto (feat. Sirah)": {
+        "artists": "Skrillex",
+        "energy": 92.0,
+        "length": 201,
+        "name": "Kyoto (feat. Sirah)",
+        "pop": 62,
+        "valence": 21.9
+    },
+    "Latch": {
+        "artists": "Disclosure",
+        "energy": 72.7,
+        "length": 256,
+        "name": "Latch",
+        "pop": 2,
+        "valence": 52.1
+    },
+    "Lay In A Shimmer": {
+        "artists": "Pantha Du Prince",
+        "energy": 63.9,
+        "length": 398,
+        "name": "Lay In A Shimmer",
+        "pop": 0,
+        "valence": 6.7
+    },
+    "Lemonade": {
+        "artists": "Boys Noize & Erol Alkan",
+        "energy": 61.9,
+        "length": 283,
+        "name": "Lemonade",
+        "pop": 0,
+        "valence": 96.8
+    },
+    "Let it Go": {
+        "artists": "Dragonette",
+        "energy": 95.1,
+        "length": 212,
+        "name": "Let it Go",
+        "pop": 20,
+        "valence": 70.6
+    },
+    "Libella Swing": {
+        "artists": "Parov Stelar",
+        "energy": 73.7,
+        "length": 244,
+        "name": "Libella Swing",
+        "pop": 0,
+        "valence": 53.7
+    },
+    "Lies - Otto Knows Remix": {
+        "artists": "BURNS",
+        "energy": 72.0,
+        "length": 379,
+        "name": "Lies - Otto Knows Remix",
+        "pop": 0,
+        "valence": 38.5
+    },
+    "Live for the Night": {
+        "artists": "Krewella",
+        "energy": 84.3,
+        "length": 206,
+        "name": "Live for the Night",
+        "pop": 52,
+        "valence": 53.3
+    },
+    "Love Is All I Got": {
+        "artists": "Feed Me",
+        "energy": 77.6,
+        "length": 186,
+        "name": "Love Is All I Got",
+        "pop": 0,
+        "valence": 40.7
+    },
+    "Miracle": {
+        "artists": "Blackmill",
+        "energy": 58.6,
+        "length": 356,
+        "name": "Miracle",
+        "pop": 49,
+        "valence": 19.8
+    },
+    "Nandaya [Mix Cut] - Original Mix": {
+        "artists": "Romain Curtis",
+        "energy": 93.5,
+        "length": 120,
+        "name": "Nandaya [Mix Cut] - Original Mix",
+        "pop": 32,
+        "valence": 58.3
+    },
+    "Ocoras": {
+        "artists": "Four Tet",
+        "energy": 82.4,
+        "length": 324,
+        "name": "Ocoras",
+        "pop": 0,
+        "valence": 32.1
+    },
+    "Odessa": {
+        "artists": "Caribou",
+        "energy": 91.3,
+        "length": 316,
+        "name": "Odessa",
+        "pop": 0,
+        "valence": 62.2
+    },
+    "Paradise Circus": {
+        "artists": "Massive Attack",
+        "energy": 59.1,
+        "length": 298,
+        "name": "Paradise Circus",
+        "pop": 66,
+        "valence": 29.7
+    },
+    "Polish Girl": {
+        "artists": "Neon Indian",
+        "energy": 88.4,
+        "length": 264,
+        "name": "Polish Girl",
+        "pop": 0,
+        "valence": 44.8
+    },
+    "Praise You": {
+        "artists": "Fatboy Slim",
+        "energy": 88.5,
+        "length": 228,
+        "name": "Praise You",
+        "pop": 0,
+        "valence": 55.8
+    },
+    "Prayer in C - Robin Schulz Radio Edit": {
+        "artists": "Lilly Wood and The Prick",
+        "energy": 87.5,
+        "length": 189,
+        "name": "Prayer in C - Robin Schulz Radio Edit",
+        "pop": 78,
+        "valence": 80.0
+    },
+    "Prime Time of Your Life / Brainwasher / Rollin' & Scratchin' / Alive": {
+        "artists": "Daft Punk",
+        "energy": 84.6,
+        "length": 622,
+        "name": "Prime Time of Your Life / Brainwasher / Rollin' & Scratchin' / Alive",
+        "pop": 47,
+        "valence": 5.5
+    },
+    "Pursuit Of Happiness - Extended Steve Aoki Remix (Explicit)": {
+        "artists": "Kid Cudi",
+        "energy": 69.5,
+        "length": 374,
+        "name": "Pursuit Of Happiness - Extended Steve Aoki Remix (Explicit)",
+        "pop": 0,
+        "valence": 60.4
+    },
+    "Rattle - Original Mix": {
+        "artists": "Bingo Players",
+        "energy": 95.6,
+        "length": 287,
+        "name": "Rattle - Original Mix",
+        "pop": 0,
+        "valence": 54.2
+    },
+    "Reunion": {
+        "artists": "M83",
+        "energy": 82.0,
+        "length": 235,
+        "name": "Reunion",
+        "pop": 0,
+        "valence": 31.5
+    },
+    "Rusty Nails": {
+        "artists": "Moderat",
+        "energy": 86.8,
+        "length": 272,
+        "name": "Rusty Nails",
+        "pop": 0,
+        "valence": 92.3
+    },
+    "Saratoga": {
+        "artists": "The Soft Pack",
+        "energy": 93.3,
+        "length": 157,
+        "name": "Saratoga",
+        "pop": 0,
+        "valence": 66.8
+    },
+    "Scary Monsters and Nice Sprites": {
+        "artists": "Skrillex",
+        "energy": 94.4,
+        "length": 243,
+        "name": "Scary Monsters and Nice Sprites",
+        "pop": 62,
+        "valence": 32.4
+    },
+    "Scary Monsters and Nice Sprites - Noisia Remix": {
+        "artists": "Skrillex",
+        "energy": 87.1,
+        "length": 204,
+        "name": "Scary Monsters and Nice Sprites - Noisia Remix",
+        "pop": 36,
+        "valence": 63.9
+    },
+    "Scatta (feat. Foreign Beggars & Bare Noize)": {
+        "artists": "Skrillex",
+        "energy": 92.8,
+        "length": 235,
+        "name": "Scatta (feat. Foreign Beggars & Bare Noize)",
+        "pop": 46,
+        "valence": 37.0
+    },
+    "Scream & Shout": {
+        "artists": "will.i.am",
+        "energy": 61.6,
+        "length": 284,
+        "name": "Scream & Shout",
+        "pop": 0,
+        "valence": 47.3
+    },
+    "Sinnerman - Felix Da Housecat's Heavenly House Mix": {
+        "artists": "Nina Simone",
+        "energy": 76.0,
+        "length": 275,
+        "name": "Sinnerman - Felix Da Housecat's Heavenly House Mix",
+        "pop": 0,
+        "valence": 58.0
+    },
+    "Sofi Needs A Ladder": {
+        "artists": "deadmau5",
+        "energy": 70.7,
+        "length": 403,
+        "name": "Sofi Needs A Ladder",
+        "pop": 0,
+        "valence": 34.1
+    },
+    "Starry Eyed": {
+        "artists": "Ellie Goulding",
+        "energy": 83.1,
+        "length": 177,
+        "name": "Starry Eyed",
+        "pop": 40,
+        "valence": 65.0
+    },
+    "Stays Four the Same": {
+        "artists": "The Ready Set",
+        "energy": 81.4,
+        "length": 197,
+        "name": "Stays Four the Same",
+        "pop": 26,
+        "valence": 53.5
+    },
+    "Summertime Sadness [Lana Del Rey vs. Cedric Gervais] - Cedric Gervais Remix": {
+        "artists": "Lana Del Rey",
+        "energy": 81.3,
+        "length": 215,
+        "name": "Summertime Sadness [Lana Del Rey vs. Cedric Gervais] - Cedric Gervais Remix",
+        "pop": 0,
+        "valence": 11.4
+    },
+    "That's Alright": {
+        "artists": "Kindness",
+        "energy": 89.5,
+        "length": 287,
+        "name": "That's Alright",
+        "pop": 0,
+        "valence": 18.5
+    },
+    "The City": {
+        "artists": "Madeon",
+        "energy": 81.0,
+        "length": 234,
+        "name": "The City",
+        "pop": 42,
+        "valence": 29.5
+    },
+    "The Fall": {
+        "artists": "Rhye",
+        "energy": 62.1,
+        "length": 225,
+        "name": "The Fall",
+        "pop": 0,
+        "valence": 75.0
+    },
+    "The Feeling": {
+        "artists": "The Knocks",
+        "energy": 76.4,
+        "length": 217,
+        "name": "The Feeling",
+        "pop": 26,
+        "valence": 74.4
+    },
+    "The Flower Lane": {
+        "artists": "Ducktails",
+        "energy": 54.9,
+        "length": 268,
+        "name": "The Flower Lane",
+        "pop": 0,
+        "valence": 49.5
+    },
+    "The Light": {
+        "artists": "Le Castle Vania",
+        "energy": 87.6,
+        "length": 292,
+        "name": "The Light",
+        "pop": 0,
+        "valence": 92.0
+    },
+    "Thrown": {
+        "artists": "Kiasmos",
+        "energy": 38.9,
+        "length": 501,
+        "name": "Thrown",
+        "pop": 0,
+        "valence": 29.7
+    },
+    "Unluck": {
+        "artists": "James Blake",
+        "energy": 48.3,
+        "length": 180,
+        "name": "Unluck",
+        "pop": 36,
+        "valence": 21.7
+    },
+    "Vietnam": {
+        "artists": "Crystal Castles",
+        "energy": 96.1,
+        "length": 306,
+        "name": "Vietnam",
+        "pop": 35,
+        "valence": 16.8
+    },
+    "Waiting All Night (feat. Ella Eyre)": {
+        "artists": "Rudimental",
+        "energy": 72.8,
+        "length": 293,
+        "name": "Waiting All Night (feat. Ella Eyre)",
+        "pop": 53,
+        "valence": 28.1
+    },
+    "Waves At Night": {
+        "artists": "Moons",
+        "energy": 46.1,
+        "length": 310,
+        "name": "Waves At Night",
+        "pop": 7,
+        "valence": 22.1
+    },
+    "We Swarm": {
+        "artists": "The Glitch Mob",
+        "energy": 78.3,
+        "length": 354,
+        "name": "We Swarm",
+        "pop": 37,
+        "valence": 39.5
+    },
+    "We'll Be Coming Back (feat. Example)": {
+        "artists": "Calvin Harris",
+        "energy": 95.2,
+        "length": 234,
+        "name": "We'll Be Coming Back (feat. Example)",
+        "pop": 66,
+        "valence": 57.1
+    },
+    "When Love Takes Over (feat. Kelly Rowland)": {
+        "artists": "David Guetta",
+        "energy": 86.3,
+        "length": 189,
+        "name": "When Love Takes Over (feat. Kelly Rowland)",
+        "pop": 64,
+        "valence": 49.6
+    },
+    "Why You Wanna": {
+        "artists": "Poolside",
+        "energy": 86.4,
+        "length": 299,
+        "name": "Why You Wanna",
+        "pop": 0,
+        "valence": 79.6
+    },
+    "With You, Friends (Long Drive)": {
+        "artists": "Skrillex",
+        "energy": 57.2,
+        "length": 389,
+        "name": "With You, Friends (Long Drive)",
+        "pop": 45,
+        "valence": 35.6
+    },
+    "Wolves Running Through the Desert": {
+        "artists": "HOTEL MEXICO",
+        "energy": 85.0,
+        "length": 279,
+        "name": "Wolves Running Through the Desert",
+        "pop": 0,
+        "valence": 42.0
+    },
+    "Wouh": {
+        "artists": "Nicolas Jaar",
+        "energy": 36.0,
+        "length": 446,
+        "name": "Wouh",
+        "pop": 0,
+        "valence": 13.3
+    },
+    "XTC": {
+        "artists": "Boys Noize",
+        "energy": 80.7,
+        "length": 278,
+        "name": "XTC",
+        "pop": 22,
+        "valence": 35.3
+    }
+}

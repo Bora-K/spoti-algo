@@ -1,0 +1,802 @@
+{
+    "180db_ [130]": {
+        "artists": "Aphex Twin",
+        "energy": 61.0,
+        "length": 191,
+        "name": "180db_ [130]",
+        "pop": 11,
+        "valence": 56.4
+    },
+    "212": {
+        "artists": "Azealia Banks",
+        "energy": 78.9,
+        "length": 203,
+        "name": "212",
+        "pop": 0,
+        "valence": 66.7
+    },
+    "A New Error": {
+        "artists": "Moderat",
+        "energy": 46.1,
+        "length": 367,
+        "name": "A New Error",
+        "pop": 0,
+        "valence": 10.4
+    },
+    "Addicted To You": {
+        "artists": "Avicii",
+        "energy": 78.5,
+        "length": 148,
+        "name": "Addicted To You",
+        "pop": 10,
+        "valence": 30.3
+    },
+    "Alive": {
+        "artists": "Krewella",
+        "energy": 82.8,
+        "length": 289,
+        "name": "Alive",
+        "pop": 55,
+        "valence": 57.0
+    },
+    "Animals - Extended": {
+        "artists": "Martin Garrix",
+        "energy": 86.6,
+        "length": 304,
+        "name": "Animals - Extended",
+        "pop": 63,
+        "valence": 3.86
+    },
+    "Baby I'm Yours": {
+        "artists": "Breakbot",
+        "energy": 80.7,
+        "length": 220,
+        "name": "Baby I'm Yours",
+        "pop": 0,
+        "valence": 81.9
+    },
+    "Bangarang (feat. Sirah)": {
+        "artists": "Skrillex",
+        "energy": 97.2,
+        "length": 215,
+        "name": "Bangarang (feat. Sirah)",
+        "pop": 73,
+        "valence": 57.6
+    },
+    "Barbra Streisand": {
+        "artists": "Duck Sauce",
+        "energy": 92.7,
+        "length": 300,
+        "name": "Barbra Streisand",
+        "pop": 0,
+        "valence": 40.6
+    },
+    "Begin Again": {
+        "artists": "Knife Party",
+        "energy": 96.8,
+        "length": 355,
+        "name": "Begin Again",
+        "pop": 0,
+        "valence": 55.3
+    },
+    "Blame (feat. John Newman)": {
+        "artists": "Calvin Harris",
+        "energy": 85.9,
+        "length": 214,
+        "name": "Blame (feat. John Newman)",
+        "pop": 9,
+        "valence": 36.7
+    },
+    "Boneless": {
+        "artists": "Steve Aoki",
+        "energy": 96.2,
+        "length": 270,
+        "name": "Boneless",
+        "pop": 0,
+        "valence": 64.3
+    },
+    "Bonfire": {
+        "artists": "Knife Party",
+        "energy": 94.4,
+        "length": 272,
+        "name": "Bonfire",
+        "pop": 63,
+        "valence": 58.9
+    },
+    "Boss Mode": {
+        "artists": "Knife Party",
+        "energy": 97.8,
+        "length": 227,
+        "name": "Boss Mode",
+        "pop": 0,
+        "valence": 31.3
+    },
+    "Breathe": {
+        "artists": "The Prodigy",
+        "energy": 82.2,
+        "length": 335,
+        "name": "Breathe",
+        "pop": 0,
+        "valence": 32.0
+    },
+    "Bubble Butt (feat. Bruno Mars, Tyga & Mystic)": {
+        "artists": "Major Lazer",
+        "energy": 60.3,
+        "length": 208,
+        "name": "Bubble Butt (feat. Bruno Mars, Tyga & Mystic)",
+        "pop": 0,
+        "valence": 36.9
+    },
+    "Changed The Way You Kiss Me": {
+        "artists": "Example",
+        "energy": 84.2,
+        "length": 193,
+        "name": "Changed The Way You Kiss Me",
+        "pop": 0,
+        "valence": 28.4
+    },
+    "Chasing Time": {
+        "artists": "Azealia Banks",
+        "energy": 88.4,
+        "length": 211,
+        "name": "Chasing Time",
+        "pop": 0,
+        "valence": 47.3
+    },
+    "Cinema (feat. Gary Go) - Skrillex Remix": {
+        "artists": "Benny Benassi",
+        "energy": 98.3,
+        "length": 308,
+        "name": "Cinema (feat. Gary Go) - Skrillex Remix",
+        "pop": 0,
+        "valence": 43.4
+    },
+    "Clarity": {
+        "artists": "Zedd",
+        "energy": 78.1,
+        "length": 271,
+        "name": "Clarity",
+        "pop": 39,
+        "valence": 17.6
+    },
+    "Come Alive (feat. Toro y Moi)": {
+        "artists": "Chromeo",
+        "energy": 75.7,
+        "length": 238,
+        "name": "Come Alive (feat. Toro y Moi)",
+        "pop": 16,
+        "valence": 94.6
+    },
+    "Come On To Me": {
+        "artists": "Major Lazer",
+        "energy": 91.3,
+        "length": 214,
+        "name": "Come On To Me",
+        "pop": 0,
+        "valence": 36.0
+    },
+    "Compl\u00e8tement fou": {
+        "artists": "Yelle",
+        "energy": 50.6,
+        "length": 230,
+        "name": "Compl\u00e8tement fou",
+        "pop": 11,
+        "valence": 51.2
+    },
+    "Crying for No Reason": {
+        "artists": "Katy B",
+        "energy": 71.2,
+        "length": 243,
+        "name": "Crying for No Reason",
+        "pop": 33,
+        "valence": 22.1
+    },
+    "D.A.N.C.E": {
+        "artists": "Justice",
+        "energy": 89.3,
+        "length": 164,
+        "name": "D.A.N.C.E",
+        "pop": 0,
+        "valence": 7.39
+    },
+    "Dangerous (feat. Sam Martin)": {
+        "artists": "David Guetta",
+        "energy": 74.7,
+        "length": 204,
+        "name": "Dangerous (feat. Sam Martin)",
+        "pop": 0,
+        "valence": 43.0
+    },
+    "Delirious (Boneless) (feat. Kid Ink)": {
+        "artists": "Steve Aoki",
+        "energy": 90.8,
+        "length": 224,
+        "name": "Delirious (Boneless) (feat. Kid Ink)",
+        "pop": 25,
+        "valence": 91.7
+    },
+    "Don't You Worry Child": {
+        "artists": "Swedish House Mafia",
+        "energy": 77.2,
+        "length": 213,
+        "name": "Don't You Worry Child",
+        "pop": 0,
+        "valence": 43.3
+    },
+    "Ecstasy": {
+        "artists": "ATB",
+        "energy": 87.8,
+        "length": 261,
+        "name": "Ecstasy",
+        "pop": 56,
+        "valence": 90.7
+    },
+    "Enjoy the Ride": {
+        "artists": "Krewella",
+        "energy": 87.3,
+        "length": 212,
+        "name": "Enjoy the Ride",
+        "pop": 50,
+        "valence": 48.5
+    },
+    "Faded": {
+        "artists": "ZHU",
+        "energy": 47.7,
+        "length": 223,
+        "name": "Faded",
+        "pop": 63,
+        "valence": 61.4
+    },
+    "Find You": {
+        "artists": "Zedd",
+        "energy": 75.9,
+        "length": 203,
+        "name": "Find You",
+        "pop": 54,
+        "valence": 37.7
+    },
+    "Firestarter": {
+        "artists": "The Prodigy",
+        "energy": 94.8,
+        "length": 280,
+        "name": "Firestarter",
+        "pop": 0,
+        "valence": 35.7
+    },
+    "First of the Year (Equinox)": {
+        "artists": "Skrillex",
+        "energy": 94.8,
+        "length": 262,
+        "name": "First of the Year (Equinox)",
+        "pop": 67,
+        "valence": 55.0
+    },
+    "Five Hours": {
+        "artists": "Deorro",
+        "energy": 82.1,
+        "length": 327,
+        "name": "Five Hours",
+        "pop": 0,
+        "valence": 57.5
+    },
+    "Flicker": {
+        "artists": "Porter Robinson",
+        "energy": 71.3,
+        "length": 279,
+        "name": "Flicker",
+        "pop": 50,
+        "valence": 54.7
+    },
+    "Formidable": {
+        "artists": "Stromae",
+        "energy": 62.8,
+        "length": 214,
+        "name": "Formidable",
+        "pop": 48,
+        "valence": 50.1
+    },
+    "Galvanize - Edit": {
+        "artists": "The Chemical Brothers",
+        "energy": 67.4,
+        "length": 269,
+        "name": "Galvanize - Edit",
+        "pop": 22,
+        "valence": 35.4
+    },
+    "Gecko (Overdrive) - Radio Edit": {
+        "artists": "Oliver Heldens",
+        "energy": 88.5,
+        "length": 165,
+        "name": "Gecko (Overdrive) - Radio Edit",
+        "pop": 71,
+        "valence": 76.0
+    },
+    "Genesis": {
+        "artists": "Justice",
+        "energy": 78.8,
+        "length": 235,
+        "name": "Genesis",
+        "pop": 0,
+        "valence": 28.9
+    },
+    "Get Free (feat. Amber of Dirty Projectors)": {
+        "artists": "Major Lazer",
+        "energy": 53.8,
+        "length": 291,
+        "name": "Get Free (feat. Amber of Dirty Projectors)",
+        "pop": 0,
+        "valence": 80.2
+    },
+    "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]": {
+        "artists": "Daft Punk",
+        "energy": 81.1,
+        "length": 248,
+        "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
+        "pop": 84,
+        "valence": 86.2
+    },
+    "Ghosts 'n' Stuff (feat. Rob Swire)": {
+        "artists": "deadmau5",
+        "energy": 61.3,
+        "length": 329,
+        "name": "Ghosts 'n' Stuff (feat. Rob Swire)",
+        "pop": 63,
+        "valence": 49.1
+    },
+    "Greyhound": {
+        "artists": "Swedish House Mafia",
+        "energy": 80.6,
+        "length": 410,
+        "name": "Greyhound",
+        "pop": 65,
+        "valence": 53.9
+    },
+    "Groove Is in the Heart": {
+        "artists": "Deee-Lite",
+        "energy": 88.1,
+        "length": 232,
+        "name": "Groove Is in the Heart",
+        "pop": 73,
+        "valence": 92.4
+    },
+    "Heroes (we could be)": {
+        "artists": "Alesso",
+        "energy": 75.4,
+        "length": 210,
+        "name": "Heroes (we could be)",
+        "pop": 55,
+        "valence": 35.2
+    },
+    "Hey Boy Hey Girl": {
+        "artists": "The Chemical Brothers",
+        "energy": 92.0,
+        "length": 290,
+        "name": "Hey Boy Hey Girl",
+        "pop": 69,
+        "valence": 36.3
+    },
+    "Hey Brother": {
+        "artists": "Avicii",
+        "energy": 78.0,
+        "length": 255,
+        "name": "Hey Brother",
+        "pop": 11,
+        "valence": 45.8
+    },
+    "I Can't Stop": {
+        "artists": "Flux Pavilion",
+        "energy": 60.1,
+        "length": 306,
+        "name": "I Can't Stop",
+        "pop": 57,
+        "valence": 31.4
+    },
+    "I Got U": {
+        "artists": "Duke Dumont",
+        "energy": 76.1,
+        "length": 286,
+        "name": "I Got U",
+        "pop": 63,
+        "valence": 46.3
+    },
+    "Inspector Norse": {
+        "artists": "Todd Terje",
+        "energy": 77.3,
+        "length": 401,
+        "name": "Inspector Norse",
+        "pop": 0,
+        "valence": 88.2
+    },
+    "Jealous (I Ain't With It)": {
+        "artists": "Chromeo",
+        "energy": 82.0,
+        "length": 228,
+        "name": "Jealous (I Ain't With It)",
+        "pop": 36,
+        "valence": 77.5
+    },
+    "Knock You Out": {
+        "artists": "Bingo Players",
+        "energy": 75.7,
+        "length": 170,
+        "name": "Knock You Out",
+        "pop": 39,
+        "valence": 44.1
+    },
+    "Liberate": {
+        "artists": "Eric Prydz",
+        "energy": 88.0,
+        "length": 313,
+        "name": "Liberate",
+        "pop": 51,
+        "valence": 45.9
+    },
+    "Lionhearted": {
+        "artists": "Porter Robinson",
+        "energy": 74.0,
+        "length": 266,
+        "name": "Lionhearted",
+        "pop": 51,
+        "valence": 34.9
+    },
+    "Live for the Night": {
+        "artists": "Krewella",
+        "energy": 84.3,
+        "length": 206,
+        "name": "Live for the Night",
+        "pop": 52,
+        "valence": 53.3
+    },
+    "Lose Yourself to Dance (feat. Pharrell Williams)": {
+        "artists": "Daft Punk",
+        "energy": 65.9,
+        "length": 354,
+        "name": "Lose Yourself to Dance (feat. Pharrell Williams)",
+        "pop": 72,
+        "valence": 67.4
+    },
+    "Love Generation": {
+        "artists": "Gary Pine Participa\u00e7\u00e3o Super Drag\u00f5es",
+        "energy": 83.6,
+        "length": 252,
+        "name": "Love Generation",
+        "pop": 28,
+        "valence": 51.0
+    },
+    "Lovers on the Sun (feat. Sam Martin)": {
+        "artists": "David Guetta",
+        "energy": 89.1,
+        "length": 204,
+        "name": "Lovers on the Sun (feat. Sam Martin)",
+        "pop": 29,
+        "valence": 56.8
+    },
+    "Netzwerk (Falls Like Rain)": {
+        "artists": "Klangkarussell",
+        "energy": 71.0,
+        "length": 232,
+        "name": "Netzwerk (Falls Like Rain)",
+        "pop": 0,
+        "valence": 26.5
+    },
+    "Never Say Never": {
+        "artists": "Basement Jaxx",
+        "energy": 78.9,
+        "length": 263,
+        "name": "Never Say Never",
+        "pop": 0,
+        "valence": 65.0
+    },
+    "Nightcall": {
+        "artists": "Kavinsky",
+        "energy": 87.4,
+        "length": 258,
+        "name": "Nightcall",
+        "pop": 75,
+        "valence": 36.1
+    },
+    "Not In Love - Radio Version": {
+        "artists": "Crystal Castles",
+        "energy": 98.0,
+        "length": 227,
+        "name": "Not In Love - Radio Version",
+        "pop": 49,
+        "valence": 19.9
+    },
+    "Old 45's": {
+        "artists": "Chromeo",
+        "energy": 65.4,
+        "length": 228,
+        "name": "Old 45's",
+        "pop": 45,
+        "valence": 59.7
+    },
+    "One Day (Vandaag) - Radio Edit": {
+        "artists": "Bakermat",
+        "energy": 59.4,
+        "length": 219,
+        "name": "One Day (Vandaag) - Radio Edit",
+        "pop": 68,
+        "valence": 57.0
+    },
+    "One More Time": {
+        "artists": "Daft Punk",
+        "energy": 69.7,
+        "length": 320,
+        "name": "One More Time",
+        "pop": 80,
+        "valence": 47.6
+    },
+    "Papaoutai": {
+        "artists": "Stromae",
+        "energy": 82.5,
+        "length": 232,
+        "name": "Papaoutai",
+        "pop": 41,
+        "valence": 26.2
+    },
+    "Party Rock Anthem": {
+        "artists": "LMFAO",
+        "energy": 73.6,
+        "length": 262,
+        "name": "Party Rock Anthem",
+        "pop": 31,
+        "valence": 35.2
+    },
+    "Promises": {
+        "artists": "NERO",
+        "energy": 95.2,
+        "length": 257,
+        "name": "Promises",
+        "pop": 0,
+        "valence": 29.3
+    },
+    "Pursuit": {
+        "artists": "Gesaffelstein",
+        "energy": 93.4,
+        "length": 248,
+        "name": "Pursuit",
+        "pop": 0,
+        "valence": 7.08
+    },
+    "Red Lights": {
+        "artists": "Ti\u00ebsto",
+        "energy": 81.1,
+        "length": 264,
+        "name": "Red Lights",
+        "pop": 0,
+        "valence": 56.2
+    },
+    "Revolution (feat. Faustix & Imanos and Kai)": {
+        "artists": "Diplo",
+        "energy": 72.4,
+        "length": 264,
+        "name": "Revolution (feat. Faustix & Imanos and Kai)",
+        "pop": 0,
+        "valence": 30.9
+    },
+    "Runaway (U & I)": {
+        "artists": "Galantis",
+        "energy": 80.5,
+        "length": 227,
+        "name": "Runaway (U & I)",
+        "pop": 56,
+        "valence": 38.3
+    },
+    "Sad Machine": {
+        "artists": "Porter Robinson",
+        "energy": 70.6,
+        "length": 351,
+        "name": "Sad Machine",
+        "pop": 61,
+        "valence": 32.7
+    },
+    "Scary Monsters and Nice Sprites": {
+        "artists": "Skrillex",
+        "energy": 94.4,
+        "length": 243,
+        "name": "Scary Monsters and Nice Sprites",
+        "pop": 62,
+        "valence": 32.4
+    },
+    "Sexy And I Know It": {
+        "artists": "LMFAO",
+        "energy": 85.1,
+        "length": 199,
+        "name": "Sexy And I Know It",
+        "pop": 45,
+        "valence": 82.2
+    },
+    "She Moves": {
+        "artists": "Alle Farben",
+        "energy": 50.7,
+        "length": 193,
+        "name": "She Moves",
+        "pop": 41,
+        "valence": 65.2
+    },
+    "Shooting Stars": {
+        "artists": "Bag Raiders",
+        "energy": 72.0,
+        "length": 236,
+        "name": "Shooting Stars",
+        "pop": 68,
+        "valence": 42.5
+    },
+    "Shots": {
+        "artists": "LMFAO",
+        "energy": 85.6,
+        "length": 222,
+        "name": "Shots",
+        "pop": 71,
+        "valence": 20.7
+    },
+    "Show Me Love": {
+        "artists": "Robin S",
+        "energy": 83.3,
+        "length": 252,
+        "name": "Show Me Love",
+        "pop": 73,
+        "valence": 56.7
+    },
+    "Si No Te Quisiera": {
+        "artists": "Juan Mag\u00e1n",
+        "energy": 86.9,
+        "length": 185,
+        "name": "Si No Te Quisiera",
+        "pop": 62,
+        "valence": 77.4
+    },
+    "Slow Acid": {
+        "artists": "Calvin Harris",
+        "energy": 94.9,
+        "length": 220,
+        "name": "Slow Acid",
+        "pop": 0,
+        "valence": 9.26
+    },
+    "Smack My Bitch Up": {
+        "artists": "The Prodigy",
+        "energy": 99.3,
+        "length": 343,
+        "name": "Smack My Bitch Up",
+        "pop": 0,
+        "valence": 27.5
+    },
+    "Stay The Night - Featuring Hayley Williams Of Paramore": {
+        "artists": "Zedd",
+        "energy": 73.8,
+        "length": 217,
+        "name": "Stay The Night - Featuring Hayley Williams Of Paramore",
+        "pop": 67,
+        "valence": 46.1
+    },
+    "Summer": {
+        "artists": "Calvin Harris",
+        "energy": 86.1,
+        "length": 225,
+        "name": "Summer",
+        "pop": 24,
+        "valence": 72.0
+    },
+    "Sun Goes Down (feat. Jasmine Thompson) - Radio Mix": {
+        "artists": "Robin Schulz",
+        "energy": 72.3,
+        "length": 180,
+        "name": "Sun Goes Down (feat. Jasmine Thompson) - Radio Mix",
+        "pop": 26,
+        "valence": 49.9
+    },
+    "The Spark": {
+        "artists": "AFROJACK",
+        "energy": 93.0,
+        "length": 244,
+        "name": "The Spark",
+        "pop": 0,
+        "valence": 51.3
+    },
+    "This Is What It Feels Like": {
+        "artists": "Armin van Buuren",
+        "energy": 83.3,
+        "length": 204,
+        "name": "This Is What It Feels Like",
+        "pop": 73,
+        "valence": 14.5
+    },
+    "Tidal Wave": {
+        "artists": "Sub Focus",
+        "energy": 86.8,
+        "length": 229,
+        "name": "Tidal Wave",
+        "pop": 32,
+        "valence": 51.4
+    },
+    "Titanium (feat. Sia)": {
+        "artists": "David Guetta",
+        "energy": 78.8,
+        "length": 245,
+        "name": "Titanium (feat. Sia)",
+        "pop": 62,
+        "valence": 30.1
+    },
+    "Tous les m\u00eames": {
+        "artists": "Stromae",
+        "energy": 63.7,
+        "length": 211,
+        "name": "Tous les m\u00eames",
+        "pop": 58,
+        "valence": 64.7
+    },
+    "Vanished": {
+        "artists": "Crystal Castles",
+        "energy": 87.0,
+        "length": 243,
+        "name": "Vanished",
+        "pop": 0,
+        "valence": 51.9
+    },
+    "Wake Me Up": {
+        "artists": "Avicii",
+        "energy": 78.3,
+        "length": 247,
+        "name": "Wake Me Up",
+        "pop": 16,
+        "valence": 64.3
+    },
+    "Wasted": {
+        "artists": "Ti\u00ebsto",
+        "energy": 81.6,
+        "length": 190,
+        "name": "Wasted",
+        "pop": 65,
+        "valence": 38.6
+    },
+    "Wasted Love (feat. Dougy)": {
+        "artists": "Steve Angello",
+        "energy": 93.6,
+        "length": 210,
+        "name": "Wasted Love (feat. Dougy)",
+        "pop": 0,
+        "valence": 22.5
+    },
+    "What Is Love": {
+        "artists": "Haddaway",
+        "energy": 77.0,
+        "length": 269,
+        "name": "What Is Love",
+        "pop": 0,
+        "valence": 74.1
+    },
+    "Won't Look Back - Radio Edit": {
+        "artists": "Duke Dumont",
+        "energy": 86.3,
+        "length": 203,
+        "name": "Won't Look Back - Radio Edit",
+        "pop": 47,
+        "valence": 45.8
+    },
+    "You": {
+        "artists": "Gold Panda",
+        "energy": 95.5,
+        "length": 216,
+        "name": "You",
+        "pop": 0,
+        "valence": 65.5
+    },
+    "minipops 67 [120.2][source field mix]": {
+        "artists": "Aphex Twin",
+        "energy": 83.0,
+        "length": 288,
+        "name": "minipops 67 [120.2][source field mix]",
+        "pop": 4,
+        "valence": 12.6
+    },
+    "produk 29 [101]": {
+        "artists": "Aphex Twin",
+        "energy": 56.4,
+        "length": 304,
+        "name": "produk 29 [101]",
+        "pop": 3,
+        "valence": 31.3
+    }
+}

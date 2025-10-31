@@ -1,0 +1,802 @@
+{
+    "#thatPOWER": {
+        "artists": "will.i.am",
+        "energy": 60.4,
+        "length": 280,
+        "name": "#thatPOWER",
+        "pop": 0,
+        "valence": 39.8
+    },
+    "...Baby One More Time": {
+        "artists": "Britney Spears",
+        "energy": 69.9,
+        "length": 211,
+        "name": "...Baby One More Time",
+        "pop": 82,
+        "valence": 90.7
+    },
+    "212": {
+        "artists": "Azealia Banks",
+        "energy": 76.3,
+        "length": 203,
+        "name": "212",
+        "pop": 0,
+        "valence": 66.3
+    },
+    "Acceptable in the 80's": {
+        "artists": "Calvin Harris",
+        "energy": 80.7,
+        "length": 333,
+        "name": "Acceptable in the 80's",
+        "pop": 44,
+        "valence": 93.1
+    },
+    "Aerodynamic": {
+        "artists": "Daft Punk",
+        "energy": 91.1,
+        "length": 213,
+        "name": "Aerodynamic",
+        "pop": 64,
+        "valence": 13.5
+    },
+    "Ain't a Party (feat. Harrison) - Radio Edit": {
+        "artists": "David Guetta",
+        "energy": 97.1,
+        "length": 194,
+        "name": "Ain't a Party (feat. Harrison) - Radio Edit",
+        "pop": 40,
+        "valence": 70.8
+    },
+    "All Is Fair in Love and Brostep (with Ragga Twins)": {
+        "artists": "Skrillex",
+        "energy": 92.5,
+        "length": 249,
+        "name": "All Is Fair in Love and Brostep (with Ragga Twins)",
+        "pop": 54,
+        "valence": 26.9
+    },
+    "Animals - Radio Edit": {
+        "artists": "Martin Garrix",
+        "energy": 92.3,
+        "length": 176,
+        "name": "Animals - Radio Edit",
+        "pop": 5,
+        "valence": 3.78
+    },
+    "Around the World / Harder, Better, Faster, Stronger": {
+        "artists": "Daft Punk",
+        "energy": 78.7,
+        "length": 343,
+        "name": "Around the World / Harder, Better, Faster, Stronger",
+        "pop": 58,
+        "valence": 58.1
+    },
+    "As Your Friend": {
+        "artists": "AFROJACK",
+        "energy": 76.9,
+        "length": 240,
+        "name": "As Your Friend",
+        "pop": 0,
+        "valence": 81.2
+    },
+    "Avaritia": {
+        "artists": "deadmau5",
+        "energy": 73.8,
+        "length": 403,
+        "name": "Avaritia",
+        "pop": 0,
+        "valence": 3.19
+    },
+    "Bad (feat. Vassy) - Radio Edit": {
+        "artists": "David Guetta",
+        "energy": 97.2,
+        "length": 171,
+        "name": "Bad (feat. Vassy) - Radio Edit",
+        "pop": 67,
+        "valence": 41.1
+    },
+    "Bass Head": {
+        "artists": "Bassnectar",
+        "energy": 67.8,
+        "length": 397,
+        "name": "Bass Head",
+        "pop": 0,
+        "valence": 6.05
+    },
+    "Beatophone": {
+        "artists": "Caravan Palace",
+        "energy": 90.5,
+        "length": 234,
+        "name": "Beatophone",
+        "pop": 39,
+        "valence": 96.7
+    },
+    "Beyond": {
+        "artists": "Daft Punk",
+        "energy": 64.8,
+        "length": 290,
+        "name": "Beyond",
+        "pop": 58,
+        "valence": 78.9
+    },
+    "Bigfoot - Original Mix": {
+        "artists": "W&W",
+        "energy": 88.7,
+        "length": 270,
+        "name": "Bigfoot - Original Mix",
+        "pop": 43,
+        "valence": 15.9
+    },
+    "Blessed - Avicii Mix": {
+        "artists": "Tom Hangs",
+        "energy": 93.8,
+        "length": 407,
+        "name": "Blessed - Avicii Mix",
+        "pop": 27,
+        "valence": 69.5
+    },
+    "Body Language - Interpretation": {
+        "artists": "Booka Shade",
+        "energy": 76.0,
+        "length": 300,
+        "name": "Body Language - Interpretation",
+        "pop": 0,
+        "valence": 61.5
+    },
+    "Bootie in Your Face - No Rock Drop": {
+        "artists": "Deorro",
+        "energy": 93.8,
+        "length": 221,
+        "name": "Bootie in Your Face - No Rock Drop",
+        "pop": 43,
+        "valence": 40.7
+    },
+    "Bulletproof": {
+        "artists": "La Roux",
+        "energy": 88.2,
+        "length": 206,
+        "name": "Bulletproof",
+        "pop": 0,
+        "valence": 68.2
+    },
+    "Cobra - Official Energy Anthem 2012": {
+        "artists": "Hardwell",
+        "energy": 92.3,
+        "length": 407,
+        "name": "Cobra - Official Energy Anthem 2012",
+        "pop": 0,
+        "valence": 29.3
+    },
+    "Cotton Heads": {
+        "artists": "Caravan Palace",
+        "energy": 69.3,
+        "length": 218,
+        "name": "Cotton Heads",
+        "pop": 27,
+        "valence": 77.3
+    },
+    "Da Funk": {
+        "artists": "Daft Punk",
+        "energy": 70.0,
+        "length": 329,
+        "name": "Da Funk",
+        "pop": 66,
+        "valence": 89.2
+    },
+    "Dragons": {
+        "artists": "Caravan Palace",
+        "energy": 90.6,
+        "length": 246,
+        "name": "Dragons",
+        "pop": 39,
+        "valence": 67.4
+    },
+    "Electric Feel": {
+        "artists": "MGMT",
+        "energy": 80.3,
+        "length": 230,
+        "name": "Electric Feel",
+        "pop": 80,
+        "valence": 56.1
+    },
+    "Emerge": {
+        "artists": "Fischerspooner",
+        "energy": 73.4,
+        "length": 288,
+        "name": "Emerge",
+        "pop": 52,
+        "valence": 56.9
+    },
+    "Facing The Sun": {
+        "artists": "Fritz Kalkbrenner",
+        "energy": 55.2,
+        "length": 313,
+        "name": "Facing The Sun",
+        "pop": 0,
+        "valence": 42.1
+    },
+    "Feel So Close - Radio Edit": {
+        "artists": "Calvin Harris",
+        "energy": 92.4,
+        "length": 206,
+        "name": "Feel So Close - Radio Edit",
+        "pop": 84,
+        "valence": 91.9
+    },
+    "Feel This Moment (feat. Christina Aguilera)": {
+        "artists": "Pitbull",
+        "energy": 75.8,
+        "length": 230,
+        "name": "Feel This Moment (feat. Christina Aguilera)",
+        "pop": 55,
+        "valence": 53.1
+    },
+    "Five Hours": {
+        "artists": "Deorro",
+        "energy": 82.1,
+        "length": 327,
+        "name": "Five Hours",
+        "pop": 0,
+        "valence": 57.5
+    },
+    "Fort Knox": {
+        "artists": "GoldFish",
+        "energy": 69.7,
+        "length": 199,
+        "name": "Fort Knox",
+        "pop": 0,
+        "valence": 70.8
+    },
+    "Fortune Days": {
+        "artists": "The Glitch Mob",
+        "energy": 67.0,
+        "length": 383,
+        "name": "Fortune Days",
+        "pop": 54,
+        "valence": 18.9
+    },
+    "Freak": {
+        "artists": "Steve Aoki",
+        "energy": 95.7,
+        "length": 281,
+        "name": "Freak",
+        "pop": 0,
+        "valence": 26.3
+    },
+    "Galvanize": {
+        "artists": "The Chemical Brothers",
+        "energy": 71.4,
+        "length": 394,
+        "name": "Galvanize",
+        "pop": 67,
+        "valence": 36.5
+    },
+    "Get A Move On!": {
+        "artists": "Mr. Scruff",
+        "energy": 76.7,
+        "length": 455,
+        "name": "Get A Move On!",
+        "pop": 53,
+        "valence": 81.6
+    },
+    "Giorgio by Moroder": {
+        "artists": "Daft Punk",
+        "energy": 68.2,
+        "length": 545,
+        "name": "Giorgio by Moroder",
+        "pop": 67,
+        "valence": 41.0
+    },
+    "Guilt": {
+        "artists": "NERO",
+        "energy": 84.9,
+        "length": 284,
+        "name": "Guilt",
+        "pop": 0,
+        "valence": 15.4
+    },
+    "Harder, Better, Faster, Stronger": {
+        "artists": "Daft Punk",
+        "energy": 73.0,
+        "length": 226,
+        "name": "Harder, Better, Faster, Stronger",
+        "pop": 46,
+        "valence": 64.6
+    },
+    "Heartbeats": {
+        "artists": "The Knife",
+        "energy": 75.1,
+        "length": 232,
+        "name": "Heartbeats",
+        "pop": 0,
+        "valence": 44.7
+    },
+    "Here We Go": {
+        "artists": "Hard Rock Sofa",
+        "energy": 96.5,
+        "length": 362,
+        "name": "Here We Go",
+        "pop": 39,
+        "valence": 18.2
+    },
+    "Heroes (We Could Be)": {
+        "artists": "Alesso",
+        "energy": 74.6,
+        "length": 210,
+        "name": "Heroes (We Could Be)",
+        "pop": 4,
+        "valence": 38.0
+    },
+    "Hurt": {
+        "artists": "Parov Stelar",
+        "energy": 65.6,
+        "length": 181,
+        "name": "Hurt",
+        "pop": 0,
+        "valence": 62.8
+    },
+    "HyperParadise - Flume Remix": {
+        "artists": "Hermitude",
+        "energy": 82.7,
+        "length": 268,
+        "name": "HyperParadise - Flume Remix",
+        "pop": 0,
+        "valence": 31.2
+    },
+    "I Can't Stop": {
+        "artists": "Flux Pavilion",
+        "energy": 77.5,
+        "length": 304,
+        "name": "I Can't Stop",
+        "pop": 58,
+        "valence": 20.5
+    },
+    "I Know the Truth": {
+        "artists": "Pretty Lights",
+        "energy": 93.9,
+        "length": 288,
+        "name": "I Know the Truth",
+        "pop": 40,
+        "valence": 29.6
+    },
+    "I Love It - Ti\u00ebsto's Club Life Remix": {
+        "artists": "Icona Pop",
+        "energy": 94.9,
+        "length": 240,
+        "name": "I Love It - Ti\u00ebsto's Club Life Remix",
+        "pop": 0,
+        "valence": 18.2
+    },
+    "I Remember": {
+        "artists": "deadmau5",
+        "energy": 51.3,
+        "length": 547,
+        "name": "I Remember",
+        "pop": 0,
+        "valence": 60.2
+    },
+    "I've got that tune": {
+        "artists": "Chinese Man",
+        "energy": 78.5,
+        "length": 270,
+        "name": "I've got that tune",
+        "pop": 55,
+        "valence": 81.0
+    },
+    "Imprint of Pleasure - Original Mix": {
+        "artists": "Tube & Berger",
+        "energy": 61.5,
+        "length": 443,
+        "name": "Imprint of Pleasure - Original Mix",
+        "pop": 0,
+        "valence": 49.9
+    },
+    "Incredible - Original Mix": {
+        "artists": "Carnage",
+        "energy": 82.7,
+        "length": 376,
+        "name": "Incredible - Original Mix",
+        "pop": 0,
+        "valence": 5.44
+    },
+    "Infinity 2008": {
+        "artists": "Guru Josh Project",
+        "energy": 84.9,
+        "length": 190,
+        "name": "Infinity 2008",
+        "pop": 0,
+        "valence": 48.3
+    },
+    "Kong": {
+        "artists": "Bonobo",
+        "energy": 74.9,
+        "length": 238,
+        "name": "Kong",
+        "pop": 64,
+        "valence": 67.4
+    },
+    "Kyoto (feat. Sirah)": {
+        "artists": "Skrillex",
+        "energy": 92.0,
+        "length": 201,
+        "name": "Kyoto (feat. Sirah)",
+        "pop": 62,
+        "valence": 21.9
+    },
+    "Le Sexe Au Telephone (Do Me Do Mix)": {
+        "artists": "11 Acorn Lane",
+        "energy": 84.1,
+        "length": 179,
+        "name": "Le Sexe Au Telephone (Do Me Do Mix)",
+        "pop": 29,
+        "valence": 87.0
+    },
+    "Levels - Original Version": {
+        "artists": "Avicii",
+        "energy": 83.7,
+        "length": 339,
+        "name": "Levels - Original Version",
+        "pop": 0,
+        "valence": 37.6
+    },
+    "Liar Liar": {
+        "artists": "Avicii",
+        "energy": 78.9,
+        "length": 239,
+        "name": "Liar Liar",
+        "pop": 0,
+        "valence": 39.2
+    },
+    "Lies - Otto Knows Remix": {
+        "artists": "BURNS",
+        "energy": 72.0,
+        "length": 379,
+        "name": "Lies - Otto Knows Remix",
+        "pop": 0,
+        "valence": 38.5
+    },
+    "Like A G6": {
+        "artists": "Far East Movement",
+        "energy": 86.9,
+        "length": 218,
+        "name": "Like A G6",
+        "pop": 0,
+        "valence": 71.5
+    },
+    "Love Is All I Got": {
+        "artists": "Feed Me",
+        "energy": 77.6,
+        "length": 186,
+        "name": "Love Is All I Got",
+        "pop": 0,
+        "valence": 40.7
+    },
+    "Madame Coquette": {
+        "artists": "Tape Five",
+        "energy": 95.2,
+        "length": 222,
+        "name": "Madame Coquette",
+        "pop": 0,
+        "valence": 85.8
+    },
+    "Madness (feat. Lil Jon)": {
+        "artists": "Dimitri Vegas & Like Mike",
+        "energy": 99.4,
+        "length": 390,
+        "name": "Madness (feat. Lil Jon)",
+        "pop": 0,
+        "valence": 21.1
+    },
+    "Miami Showdown": {
+        "artists": "Digitalism",
+        "energy": 85.1,
+        "length": 208,
+        "name": "Miami Showdown",
+        "pop": 0,
+        "valence": 14.3
+    },
+    "Must Be The Feeling": {
+        "artists": "NERO",
+        "energy": 79.4,
+        "length": 243,
+        "name": "Must Be The Feeling",
+        "pop": 0,
+        "valence": 54.8
+    },
+    "Night by Night": {
+        "artists": "Chromeo",
+        "energy": 89.6,
+        "length": 225,
+        "name": "Night by Night",
+        "pop": 45,
+        "valence": 57.3
+    },
+    "No Beef - Radio Edit": {
+        "artists": "AFROJACK",
+        "energy": 72.6,
+        "length": 210,
+        "name": "No Beef - Radio Edit",
+        "pop": 0,
+        "valence": 47.4
+    },
+    "On'n'On": {
+        "artists": "Justice",
+        "energy": 60.1,
+        "length": 271,
+        "name": "On'n'On",
+        "pop": 0,
+        "valence": 54.2
+    },
+    "Paris (Aeroplane Remix)": {
+        "artists": "Friendly Fires",
+        "energy": 70.0,
+        "length": 465,
+        "name": "Paris (Aeroplane Remix)",
+        "pop": 0,
+        "valence": 46.1
+    },
+    "Payback": {
+        "artists": "Dimitri Vangelis & Wyman",
+        "energy": 83.0,
+        "length": 350,
+        "name": "Payback",
+        "pop": 0,
+        "valence": 31.9
+    },
+    "Porcelain": {
+        "artists": "Moby",
+        "energy": 63.7,
+        "length": 241,
+        "name": "Porcelain",
+        "pop": 2,
+        "valence": 33.2
+    },
+    "Project T - Original Mix": {
+        "artists": "Dimitri Vegas & Like Mike",
+        "energy": 92.6,
+        "length": 309,
+        "name": "Project T - Original Mix",
+        "pop": 0,
+        "valence": 13.5
+    },
+    "Punga": {
+        "artists": "Klingande",
+        "energy": 40.0,
+        "length": 309,
+        "name": "Punga",
+        "pop": 0,
+        "valence": 31.1
+    },
+    "Que Sera": {
+        "artists": "Wax Tailor",
+        "energy": 72.1,
+        "length": 164,
+        "name": "Que Sera",
+        "pop": 0,
+        "valence": 40.1
+    },
+    "Rage Valley": {
+        "artists": "Knife Party",
+        "energy": 96.2,
+        "length": 299,
+        "name": "Rage Valley",
+        "pop": 47,
+        "valence": 22.6
+    },
+    "Ragga Bomb (with Ragga Twins)": {
+        "artists": "Skrillex",
+        "energy": 96.1,
+        "length": 259,
+        "name": "Ragga Bomb (with Ragga Twins)",
+        "pop": 57,
+        "valence": 61.0
+    },
+    "Reunion": {
+        "artists": "M83",
+        "energy": 82.0,
+        "length": 235,
+        "name": "Reunion",
+        "pop": 0,
+        "valence": 31.5
+    },
+    "Revolution - Vocal Edit": {
+        "artists": "R3HAB",
+        "energy": 86.0,
+        "length": 203,
+        "name": "Revolution - Vocal Edit",
+        "pop": 9,
+        "valence": 4.66
+    },
+    "Rolling Stones T-Shirt - Radio Edit": {
+        "artists": "Dada Life",
+        "energy": 66.2,
+        "length": 203,
+        "name": "Rolling Stones T-Shirt - Radio Edit",
+        "pop": 18,
+        "valence": 28.4
+    },
+    "Sally\u00b4s Dance feat. Cleo Panther": {
+        "artists": "Parov Stelar",
+        "energy": 68.2,
+        "length": 225,
+        "name": "Sally\u00b4s Dance feat. Cleo Panther",
+        "pop": 0,
+        "valence": 61.6
+    },
+    "Sandstorm": {
+        "artists": "Darude",
+        "energy": 96.5,
+        "length": 225,
+        "name": "Sandstorm",
+        "pop": 73,
+        "valence": 58.7
+    },
+    "Serenity": {
+        "artists": "Popof",
+        "energy": 87.4,
+        "length": 429,
+        "name": "Serenity",
+        "pop": 42,
+        "valence": 6.11
+    },
+    "Seventeen Years": {
+        "artists": "Ratatat",
+        "energy": 54.7,
+        "length": 266,
+        "name": "Seventeen Years",
+        "pop": 0,
+        "valence": 61.4
+    },
+    "Silent Shout": {
+        "artists": "The Knife",
+        "energy": 70.1,
+        "length": 294,
+        "name": "Silent Shout",
+        "pop": 0,
+        "valence": 38.8
+    },
+    "Sleepless": {
+        "artists": "Flume",
+        "energy": 68.8,
+        "length": 209,
+        "name": "Sleepless",
+        "pop": 0,
+        "valence": 38.9
+    },
+    "Sunshine": {
+        "artists": "David Guetta",
+        "energy": 80.0,
+        "length": 361,
+        "name": "Sunshine",
+        "pop": 54,
+        "valence": 21.9
+    },
+    "Superhero - Original Mix": {
+        "artists": "Kormac",
+        "energy": 81.4,
+        "length": 328,
+        "name": "Superhero - Original Mix",
+        "pop": 0,
+        "valence": 84.4
+    },
+    "Tapes & Money": {
+        "artists": "Totally Enormous Extinct Dinosaurs",
+        "energy": 85.2,
+        "length": 220,
+        "name": "Tapes & Money",
+        "pop": 0,
+        "valence": 69.6
+    },
+    "Technologic": {
+        "artists": "Daft Punk",
+        "energy": 51.6,
+        "length": 284,
+        "name": "Technologic",
+        "pop": 58,
+        "valence": 63.3
+    },
+    "The Alphabeat": {
+        "artists": "David Guetta",
+        "energy": 80.9,
+        "length": 269,
+        "name": "The Alphabeat",
+        "pop": 28,
+        "valence": 14.7
+    },
+    "The Cell": {
+        "artists": "C2C",
+        "energy": 89.1,
+        "length": 299,
+        "name": "The Cell",
+        "pop": 0,
+        "valence": 40.9
+    },
+    "The Son of Flynn - From \"TRON: Legacy\"/Score": {
+        "artists": "Daft Punk",
+        "energy": 77.5,
+        "length": 95,
+        "name": "The Son of Flynn - From \"TRON: Legacy\"/Score",
+        "pop": 57,
+        "valence": 2.22
+    },
+    "Thunder - Radio Mix": {
+        "artists": "W&W",
+        "energy": 87.9,
+        "length": 171,
+        "name": "Thunder - Radio Mix",
+        "pop": 0,
+        "valence": 16.1
+    },
+    "Titanium (feat. Sia)": {
+        "artists": "David Guetta",
+        "energy": 78.7,
+        "length": 245,
+        "name": "Titanium (feat. Sia)",
+        "pop": 84,
+        "valence": 30.1
+    },
+    "Unison - Knife Party Remix": {
+        "artists": "Porter Robinson",
+        "energy": 83.6,
+        "length": 298,
+        "name": "Unison - Knife Party Remix",
+        "pop": 0,
+        "valence": 16.5
+    },
+    "Viol - Original Mix": {
+        "artists": "Gesaffelstein",
+        "energy": 83.9,
+        "length": 344,
+        "name": "Viol - Original Mix",
+        "pop": 0,
+        "valence": 20.2
+    },
+    "Vision One": {
+        "artists": "R\u00f6yksopp",
+        "energy": 95.0,
+        "length": 300,
+        "name": "Vision One",
+        "pop": 41,
+        "valence": 68.0
+    },
+    "Warp 1.9": {
+        "artists": "The Bloody Beetroots",
+        "energy": 61.2,
+        "length": 203,
+        "name": "Warp 1.9",
+        "pop": 0,
+        "valence": 34.9
+    },
+    "We Like To Party": {
+        "artists": "Showtek",
+        "energy": 90.5,
+        "length": 281,
+        "name": "We Like To Party",
+        "pop": 0,
+        "valence": 18.7
+    },
+    "We No Speak Americano - Original": {
+        "artists": "Yolanda Be Cool",
+        "energy": 69.3,
+        "length": 270,
+        "name": "We No Speak Americano - Original",
+        "pop": 0,
+        "valence": 47.4
+    },
+    "Work Hard, Play Hard (Radio Mix)": {
+        "artists": "Ti\u00ebsto",
+        "energy": 80.6,
+        "length": 237,
+        "name": "Work Hard, Play Hard (Radio Mix)",
+        "pop": 0,
+        "valence": 77.1
+    },
+    "Yvette": {
+        "artists": "Marek Hemmann",
+        "energy": 52.7,
+        "length": 359,
+        "name": "Yvette",
+        "pop": 0,
+        "valence": 26.4
+    }
+}

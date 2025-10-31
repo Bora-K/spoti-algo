@@ -1,0 +1,802 @@
+{
+    "11 Vidas": {
+        "artists": "Lucas Lucco",
+        "energy": 62.2,
+        "length": 190,
+        "name": "11 Vidas",
+        "pop": 5,
+        "valence": 45.7
+    },
+    "A Menina Dan\u00e7a": {
+        "artists": "Novos Baianos",
+        "energy": 67.7,
+        "length": 232,
+        "name": "A Menina Dan\u00e7a",
+        "pop": 57,
+        "valence": 91.0
+    },
+    "Admir\u00e1vel Chip Novo": {
+        "artists": "Pitty",
+        "energy": 77.0,
+        "length": 192,
+        "name": "Admir\u00e1vel Chip Novo",
+        "pop": 0,
+        "valence": 43.7
+    },
+    "Agua De Beber": {
+        "artists": "Astrud Gilberto",
+        "energy": 35.1,
+        "length": 139,
+        "name": "Agua De Beber",
+        "pop": 0,
+        "valence": 81.5
+    },
+    "Ai Se Eu Te Pego - Spanish Version": {
+        "artists": "Michel Tel\u00f3",
+        "energy": 93.3,
+        "length": 164,
+        "name": "Ai Se Eu Te Pego - Spanish Version",
+        "pop": 0,
+        "valence": 87.7
+    },
+    "Ai, Ai, Ai...": {
+        "artists": "Vanessa Da Mata",
+        "energy": 71.8,
+        "length": 253,
+        "name": "Ai, Ai, Ai...",
+        "pop": 54,
+        "valence": 92.0
+    },
+    "Alforria": {
+        "artists": "Forfun",
+        "energy": 84.9,
+        "length": 222,
+        "name": "Alforria",
+        "pop": 0,
+        "valence": 91.7
+    },
+    "All Star": {
+        "artists": "Nando Reis",
+        "energy": 51.0,
+        "length": 183,
+        "name": "All Star",
+        "pop": 11,
+        "valence": 53.3
+    },
+    "Amiga Da Minha Mulher": {
+        "artists": "Seu Jorge",
+        "energy": 92.8,
+        "length": 248,
+        "name": "Amiga Da Minha Mulher",
+        "pop": 0,
+        "valence": 78.2
+    },
+    "Amor, Amor": {
+        "artists": "Wanessa Camargo",
+        "energy": 86.3,
+        "length": 184,
+        "name": "Amor, Amor",
+        "pop": 18,
+        "valence": 52.5
+    },
+    "Andei S\u00f3": {
+        "artists": "Natiruts",
+        "energy": 51.8,
+        "length": 272,
+        "name": "Andei S\u00f3",
+        "pop": 0,
+        "valence": 80.2
+    },
+    "Anna J\u00falia": {
+        "artists": "Los Hermanos",
+        "energy": 80.9,
+        "length": 212,
+        "name": "Anna J\u00falia",
+        "pop": 6,
+        "valence": 44.9
+    },
+    "Apenas Mais uma de Amor": {
+        "artists": "Lulu Santos",
+        "energy": 35.7,
+        "length": 218,
+        "name": "Apenas Mais uma de Amor",
+        "pop": 0,
+        "valence": 30.3
+    },
+    "Balada (Tch\u00ea Tcherere Tch\u00ea Tch\u00ea)": {
+        "artists": "Gusttavo Lima",
+        "energy": 94.9,
+        "length": 202,
+        "name": "Balada (Tch\u00ea Tcherere Tch\u00ea Tch\u00ea)",
+        "pop": 0,
+        "valence": 85.7
+    },
+    "Beijinho no Ombro": {
+        "artists": "Valesca Popozuda",
+        "energy": 73.4,
+        "length": 165,
+        "name": "Beijinho no Ombro",
+        "pop": 54,
+        "valence": 80.7
+    },
+    "Boa Sorte / Good Luck (feat. Ben Harper)": {
+        "artists": "Vanessa Da Mata",
+        "energy": 48.7,
+        "length": 236,
+        "name": "Boa Sorte / Good Luck (feat. Ben Harper)",
+        "pop": 50,
+        "valence": 31.1
+    },
+    "Brand New Start": {
+        "artists": "Little Joy",
+        "energy": 62.5,
+        "length": 187,
+        "name": "Brand New Start",
+        "pop": 0,
+        "valence": 78.6
+    },
+    "Cara valente": {
+        "artists": "Maria Rita",
+        "energy": 56.0,
+        "length": 282,
+        "name": "Cara valente",
+        "pop": 58,
+        "valence": 64.5
+    },
+    "Carolina": {
+        "artists": "Seu Jorge",
+        "energy": 75.2,
+        "length": 354,
+        "name": "Carolina",
+        "pop": 44,
+        "valence": 48.0
+    },
+    "Chega de Saudade": {
+        "artists": "Jo\u00e3o Gilberto",
+        "energy": 24.2,
+        "length": 122,
+        "name": "Chega de Saudade",
+        "pop": 0,
+        "valence": 64.7
+    },
+    "Ch\u00e3o de Giz": {
+        "artists": "Z\u00e9 Ramalho",
+        "energy": 40.1,
+        "length": 286,
+        "name": "Ch\u00e3o de Giz",
+        "pop": 0,
+        "valence": 48.7
+    },
+    "Codinome Beija-Flor": {
+        "artists": "Cazuza",
+        "energy": 25.5,
+        "length": 151,
+        "name": "Codinome Beija-Flor",
+        "pop": 63,
+        "valence": 30.1
+    },
+    "Coisas Que Eu Sei": {
+        "artists": "Danni Carlos",
+        "energy": 35.2,
+        "length": 232,
+        "name": "Coisas Que Eu Sei",
+        "pop": 58,
+        "valence": 40.1
+    },
+    "Como Nossos Pais": {
+        "artists": "Elis Regina",
+        "energy": 37.9,
+        "length": 262,
+        "name": "Como Nossos Pais",
+        "pop": 0,
+        "valence": 49.1
+    },
+    "C\u00ea Que Sabe": {
+        "artists": "Cristiano Ara\u00fajo",
+        "energy": 79.6,
+        "length": 149,
+        "name": "C\u00ea Que Sabe",
+        "pop": 0,
+        "valence": 75.6
+    },
+    "De Todos os Loucos do Mundo": {
+        "artists": "Clarice Falc\u00e3o",
+        "energy": 33.9,
+        "length": 144,
+        "name": "De Todos os Loucos do Mundo",
+        "pop": 0,
+        "valence": 80.9
+    },
+    "Deixa A Vida Me Levar": {
+        "artists": "Zeca Pagodinho",
+        "energy": 77.4,
+        "length": 277,
+        "name": "Deixa A Vida Me Levar",
+        "pop": 0,
+        "valence": 89.3
+    },
+    "Depois": {
+        "artists": "Marisa Monte",
+        "energy": 56.4,
+        "length": 174,
+        "name": "Depois",
+        "pop": 0,
+        "valence": 43.5
+    },
+    "Dois Rios": {
+        "artists": "Skank",
+        "energy": 62.1,
+        "length": 281,
+        "name": "Dois Rios",
+        "pop": 29,
+        "valence": 38.1
+    },
+    "Domingo de Manh\u00e3": {
+        "artists": "Marcos & Belutti",
+        "energy": 75.7,
+        "length": 249,
+        "name": "Domingo de Manh\u00e3",
+        "pop": 0,
+        "valence": 39.3
+    },
+    "Eu Sei": {
+        "artists": "Papas Da L\u00edngua",
+        "energy": 61.3,
+        "length": 232,
+        "name": "Eu Sei",
+        "pop": 62,
+        "valence": 39.7
+    },
+    "Exagerado": {
+        "artists": "Cazuza",
+        "energy": 66.3,
+        "length": 223,
+        "name": "Exagerado",
+        "pop": 70,
+        "valence": 82.2
+    },
+    "Faroeste Caboclo": {
+        "artists": "Legi\u00e3o Urbana",
+        "energy": 54.9,
+        "length": 547,
+        "name": "Faroeste Caboclo",
+        "pop": 63,
+        "valence": 44.4
+    },
+    "Flor de Lis": {
+        "artists": "Djavan",
+        "energy": 50.2,
+        "length": 225,
+        "name": "Flor de Lis",
+        "pop": 64,
+        "valence": 78.1
+    },
+    "Fui Fiel": {
+        "artists": "Gusttavo Lima",
+        "energy": 80.8,
+        "length": 183,
+        "name": "Fui Fiel",
+        "pop": 0,
+        "valence": 77.0
+    },
+    "Geni E O Zepelim": {
+        "artists": "Chico Buarque",
+        "energy": 52.4,
+        "length": 337,
+        "name": "Geni E O Zepelim",
+        "pop": 0,
+        "valence": 46.2
+    },
+    "Gostava Tanto De Voc\u00ea": {
+        "artists": "Tim Maia",
+        "energy": 94.5,
+        "length": 254,
+        "name": "Gostava Tanto De Voc\u00ea",
+        "pop": 32,
+        "valence": 86.2
+    },
+    "Hoje Eu Quero Sair S\u00f3": {
+        "artists": "Lenine",
+        "energy": 59.7,
+        "length": 339,
+        "name": "Hoje Eu Quero Sair S\u00f3",
+        "pop": 3,
+        "valence": 69.9
+    },
+    "Hourglass": {
+        "artists": "Rodrigo Amarante",
+        "energy": 74.6,
+        "length": 212,
+        "name": "Hourglass",
+        "pop": 0,
+        "valence": 54.1
+    },
+    "Infinita Highway": {
+        "artists": "Engenheiros Do Hawaii",
+        "energy": 79.8,
+        "length": 372,
+        "name": "Infinita Highway",
+        "pop": 60,
+        "valence": 81.2
+    },
+    "J\u00e1 Sei Namorar": {
+        "artists": "Tribalistas",
+        "energy": 82.2,
+        "length": 197,
+        "name": "J\u00e1 Sei Namorar",
+        "pop": 0,
+        "valence": 83.3
+    },
+    "Keep Me In Mind": {
+        "artists": "Little Joy",
+        "energy": 70.9,
+        "length": 145,
+        "name": "Keep Me In Mind",
+        "pop": 0,
+        "valence": 96.3
+    },
+    "Life On Mars?": {
+        "artists": "Seu Jorge",
+        "energy": 13.3,
+        "length": 205,
+        "name": "Life On Mars?",
+        "pop": 0,
+        "valence": 43.7
+    },
+    "Linha de Frente": {
+        "artists": "Criolo",
+        "energy": 49.6,
+        "length": 269,
+        "name": "Linha de Frente",
+        "pop": 0,
+        "valence": 67.5
+    },
+    "Magalenha": {
+        "artists": "S\u00e9rgio Mendes",
+        "energy": 87.0,
+        "length": 235,
+        "name": "Magalenha",
+        "pop": 8,
+        "valence": 59.7
+    },
+    "Malandragem": {
+        "artists": "C\u00e1ssia Eller",
+        "energy": 52.3,
+        "length": 250,
+        "name": "Malandragem",
+        "pop": 0,
+        "valence": 36.2
+    },
+    "Mas Que Nada": {
+        "artists": "S\u00e9rgio Mendes",
+        "energy": 88.0,
+        "length": 263,
+        "name": "Mas Que Nada",
+        "pop": 22,
+        "valence": 88.2
+    },
+    "Maus Bocados": {
+        "artists": "Cristiano Ara\u00fajo",
+        "energy": 83.7,
+        "length": 194,
+        "name": "Maus Bocados",
+        "pop": 66,
+        "valence": 85.4
+    },
+    "Me deixa": {
+        "artists": "O Rappa",
+        "energy": 83.6,
+        "length": 248,
+        "name": "Me deixa",
+        "pop": 62,
+        "valence": 33.6
+    },
+    "Me encontra": {
+        "artists": "Charlie Brown Jr.",
+        "energy": 95.4,
+        "length": 211,
+        "name": "Me encontra",
+        "pop": 13,
+        "valence": 68.6
+    },
+    "Melhor do Que Ontem": {
+        "artists": "Capital Inicial",
+        "energy": 79.9,
+        "length": 240,
+        "name": "Melhor do Que Ontem",
+        "pop": 31,
+        "valence": 56.1
+    },
+    "Metamorfose ambulante": {
+        "artists": "Raul Seixas",
+        "energy": 55.3,
+        "length": 228,
+        "name": "Metamorfose ambulante",
+        "pop": 0,
+        "valence": 60.0
+    },
+    "Mist\u00e9rio do Planeta": {
+        "artists": "Novos Baianos",
+        "energy": 49.5,
+        "length": 218,
+        "name": "Mist\u00e9rio do Planeta",
+        "pop": 61,
+        "valence": 68.3
+    },
+    "Monomania": {
+        "artists": "Clarice Falc\u00e3o",
+        "energy": 34.7,
+        "length": 167,
+        "name": "Monomania",
+        "pop": 0,
+        "valence": 58.3
+    },
+    "My Girl": {
+        "artists": "TIAGO IORC",
+        "energy": 9.29,
+        "length": 210,
+        "name": "My Girl",
+        "pop": 60,
+        "valence": 31.1
+    },
+    "M\u00e1scara": {
+        "artists": "Pitty",
+        "energy": 69.5,
+        "length": 289,
+        "name": "M\u00e1scara",
+        "pop": 0,
+        "valence": 41.9
+    },
+    "Na Sua Estante": {
+        "artists": "Pitty",
+        "energy": 49.9,
+        "length": 222,
+        "name": "Na Sua Estante",
+        "pop": 0,
+        "valence": 36.4
+    },
+    "Ne Me Quitte Pas": {
+        "artists": "Maria Gad\u00fa",
+        "energy": 52.0,
+        "length": 242,
+        "name": "Ne Me Quitte Pas",
+        "pop": 46,
+        "valence": 44.0
+    },
+    "N\u00e3o Existe Amor Em SP": {
+        "artists": "Criolo",
+        "energy": 41.0,
+        "length": 281,
+        "name": "N\u00e3o Existe Amor Em SP",
+        "pop": 0,
+        "valence": 34.9
+    },
+    "N\u00e3o Me Deixe S\u00f3": {
+        "artists": "Vanessa Da Mata",
+        "energy": 46.9,
+        "length": 190,
+        "name": "N\u00e3o Me Deixe S\u00f3",
+        "pop": 9,
+        "valence": 64.1
+    },
+    "N\u00e3o Quero Dinheiro (S\u00f3 Quero Amar)": {
+        "artists": "Tim Maia",
+        "energy": 88.5,
+        "length": 150,
+        "name": "N\u00e3o Quero Dinheiro (S\u00f3 Quero Amar)",
+        "pop": 0,
+        "valence": 96.5
+    },
+    "O Segundo Sol": {
+        "artists": "C\u00e1ssia Eller",
+        "energy": 70.3,
+        "length": 252,
+        "name": "O Segundo Sol",
+        "pop": 0,
+        "valence": 50.7
+    },
+    "O Vento": {
+        "artists": "Los Hermanos",
+        "energy": 68.5,
+        "length": 214,
+        "name": "O Vento",
+        "pop": 1,
+        "valence": 83.9
+    },
+    "Oitavo Andar": {
+        "artists": "Clarice Falc\u00e3o",
+        "energy": 28.6,
+        "length": 133,
+        "name": "Oitavo Andar",
+        "pop": 0,
+        "valence": 70.3
+    },
+    "Olha S\u00f3, Moreno": {
+        "artists": "Mallu Magalh\u00e3es",
+        "energy": 22.2,
+        "length": 193,
+        "name": "Olha S\u00f3, Moreno",
+        "pop": 0,
+        "valence": 59.3
+    },
+    "Ouro De Tolo": {
+        "artists": "Raul Seixas",
+        "energy": 54.9,
+        "length": 172,
+        "name": "Ouro De Tolo",
+        "pop": 60,
+        "valence": 82.6
+    },
+    "Por Enquanto": {
+        "artists": "C\u00e1ssia Eller",
+        "energy": 32.7,
+        "length": 144,
+        "name": "Por Enquanto",
+        "pop": 0,
+        "valence": 27.9
+    },
+    "Pra Ser Sincero": {
+        "artists": "Engenheiros Do Hawaii",
+        "energy": 33.4,
+        "length": 192,
+        "name": "Pra Ser Sincero",
+        "pop": 57,
+        "valence": 14.9
+    },
+    "Preciso me encontrar": {
+        "artists": "Cartola",
+        "energy": 51.6,
+        "length": 177,
+        "name": "Preciso me encontrar",
+        "pop": 0,
+        "valence": 68.8
+    },
+    "Preta Pretinha": {
+        "artists": "Novos Baianos",
+        "energy": 56.1,
+        "length": 397,
+        "name": "Preta Pretinha",
+        "pop": 48,
+        "valence": 77.3
+    },
+    "Quem de n\u00f3s Dois (La Mia Storia Tra Le Dita)": {
+        "artists": "Ana Carolina",
+        "energy": 59.1,
+        "length": 306,
+        "name": "Quem de n\u00f3s Dois (La Mia Storia Tra Le Dita)",
+        "pop": 62,
+        "valence": 50.8
+    },
+    "Robocop Gay": {
+        "artists": "Mamonas Assassinas",
+        "energy": 79.0,
+        "length": 179,
+        "name": "Robocop Gay",
+        "pop": 59,
+        "valence": 92.1
+    },
+    "Samba Da Bencao": {
+        "artists": "Bebel Gilberto",
+        "energy": 49.6,
+        "length": 287,
+        "name": "Samba Da Bencao",
+        "pop": 42,
+        "valence": 56.9
+    },
+    "Sambinha Bom": {
+        "artists": "Mallu Magalh\u00e3es",
+        "energy": 40.6,
+        "length": 175,
+        "name": "Sambinha Bom",
+        "pop": 0,
+        "valence": 57.9
+    },
+    "Se...": {
+        "artists": "Djavan",
+        "energy": 39.2,
+        "length": 292,
+        "name": "Se...",
+        "pop": 70,
+        "valence": 49.8
+    },
+    "Shimbalai\u00ea": {
+        "artists": "Maria Gad\u00fa",
+        "energy": 48.5,
+        "length": 197,
+        "name": "Shimbalai\u00ea",
+        "pop": 58,
+        "valence": 51.2
+    },
+    "Show das Poderosas": {
+        "artists": "Anitta",
+        "energy": 69.4,
+        "length": 151,
+        "name": "Show das Poderosas",
+        "pop": 56,
+        "valence": 66.1
+    },
+    "Sina": {
+        "artists": "Djavan",
+        "energy": 55.5,
+        "length": 332,
+        "name": "Sina",
+        "pop": 58,
+        "valence": 90.9
+    },
+    "Subirusdoistiozin": {
+        "artists": "Criolo",
+        "energy": 50.3,
+        "length": 214,
+        "name": "Subirusdoistiozin",
+        "pop": 0,
+        "valence": 55.8
+    },
+    "Sutilmente": {
+        "artists": "Skank",
+        "energy": 63.2,
+        "length": 243,
+        "name": "Sutilmente",
+        "pop": 70,
+        "valence": 45.9
+    },
+    "S\u00f3 Por Uma Noite": {
+        "artists": "Charlie Brown Jr.",
+        "energy": 96.4,
+        "length": 203,
+        "name": "S\u00f3 Por Uma Noite",
+        "pop": 67,
+        "valence": 64.4
+    },
+    "S\u00f3 os Loucos Sabem": {
+        "artists": "Charlie Brown Jr.",
+        "energy": 39.6,
+        "length": 210,
+        "name": "S\u00f3 os Loucos Sabem",
+        "pop": 19,
+        "valence": 57.0
+    },
+    "Tardei": {
+        "artists": "Rodrigo Amarante",
+        "energy": 18.7,
+        "length": 214,
+        "name": "Tardei",
+        "pop": 0,
+        "valence": 29.9
+    },
+    "Te Ver": {
+        "artists": "Skank",
+        "energy": 69.7,
+        "length": 276,
+        "name": "Te Ver",
+        "pop": 30,
+        "valence": 76.4
+    },
+    "Telegrama": {
+        "artists": "Zeca Baleiro",
+        "energy": 50.1,
+        "length": 266,
+        "name": "Telegrama",
+        "pop": 41,
+        "valence": 39.4
+    },
+    "Tempo Perdido": {
+        "artists": "Legi\u00e3o Urbana",
+        "energy": 66.2,
+        "length": 302,
+        "name": "Tempo Perdido",
+        "pop": 73,
+        "valence": 22.1
+    },
+    "Tempos modernos - Remasterizado em 2001": {
+        "artists": "Lulu Santos",
+        "energy": 45.5,
+        "length": 258,
+        "name": "Tempos modernos - Remasterizado em 2001",
+        "pop": 31,
+        "valence": 76.8
+    },
+    "Tente outra vez": {
+        "artists": "Raul Seixas",
+        "energy": 52.6,
+        "length": 145,
+        "name": "Tente outra vez",
+        "pop": 24,
+        "valence": 33.7
+    },
+    "The Girl From Ipanema": {
+        "artists": "Astrud Gilberto",
+        "energy": 60.6,
+        "length": 195,
+        "name": "The Girl From Ipanema",
+        "pop": 0,
+        "valence": 74.6
+    },
+    "Toda Forma De Poder": {
+        "artists": "Engenheiros Do Hawaii",
+        "energy": 94.7,
+        "length": 195,
+        "name": "Toda Forma De Poder",
+        "pop": 55,
+        "valence": 59.3
+    },
+    "Toda Forma de Amor": {
+        "artists": "Lulu Santos",
+        "energy": 83.3,
+        "length": 226,
+        "name": "Toda Forma de Amor",
+        "pop": 64,
+        "valence": 82.7
+    },
+    "Um Minuto Para O Fim Do Mundo": {
+        "artists": "CPM 22",
+        "energy": 97.3,
+        "length": 198,
+        "name": "Um Minuto Para O Fim Do Mundo",
+        "pop": 69,
+        "valence": 67.0
+    },
+    "Velha Infancia - 2004 Digital Remaster;": {
+        "artists": "Tribalistas",
+        "energy": 59.6,
+        "length": 250,
+        "name": "Velha Infancia - 2004 Digital Remaster;",
+        "pop": 0,
+        "valence": 57.4
+    },
+    "Velha e Louca": {
+        "artists": "Mallu Magalh\u00e3es",
+        "energy": 42.4,
+        "length": 166,
+        "name": "Velha e Louca",
+        "pop": 0,
+        "valence": 71.9
+    },
+    "Voc\u00ea": {
+        "artists": "Tim Maia",
+        "energy": 70.9,
+        "length": 249,
+        "name": "Voc\u00ea",
+        "pop": 0,
+        "valence": 71.2
+    },
+    "Voc\u00ea de Mim N\u00e3o Sai - Ao Vivo": {
+        "artists": "Luan Santana",
+        "energy": 91.7,
+        "length": 180,
+        "name": "Voc\u00ea de Mim N\u00e3o Sai - Ao Vivo",
+        "pop": 50,
+        "valence": 51.6
+    },
+    "Zen": {
+        "artists": "Anitta",
+        "energy": 59.0,
+        "length": 165,
+        "name": "Zen",
+        "pop": 54,
+        "valence": 90.8
+    },
+    "\u00c1guas De Marco": {
+        "artists": "Elis Regina",
+        "energy": 22.5,
+        "length": 181,
+        "name": "\u00c1guas De Marco",
+        "pop": 0,
+        "valence": 79.0
+    },
+    "\u00cdndios": {
+        "artists": "Legi\u00e3o Urbana",
+        "energy": 58.7,
+        "length": 258,
+        "name": "\u00cdndios",
+        "pop": 39,
+        "valence": 67.8
+    },
+    "\u00daltimo Romance - Ao Vivo": {
+        "artists": "Los Hermanos",
+        "energy": 77.5,
+        "length": 264,
+        "name": "\u00daltimo Romance - Ao Vivo",
+        "pop": 33,
+        "valence": 60.2
+    }
+}

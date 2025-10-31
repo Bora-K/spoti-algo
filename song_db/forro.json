@@ -1,0 +1,802 @@
+{
+    "Abertura": {
+        "artists": "Banda Garota Safada",
+        "energy": 88.8,
+        "length": 100,
+        "name": "Abertura",
+        "pop": 0,
+        "valence": 5.49
+    },
+    "Agora Estou Sofrendo": {
+        "artists": "Calcinha Preta",
+        "energy": 47.2,
+        "length": 238,
+        "name": "Agora Estou Sofrendo",
+        "pop": 41,
+        "valence": 23.8
+    },
+    "Agora Quem N\u00e3o Quer Sou Eu": {
+        "artists": "Forr\u00f3 do Muido",
+        "energy": 80.6,
+        "length": 158,
+        "name": "Agora Quem N\u00e3o Quer Sou Eu",
+        "pop": 10,
+        "valence": 56.2
+    },
+    "Ai Se Eu Te Pego": {
+        "artists": "Banda Garota Safada",
+        "energy": 95.7,
+        "length": 197,
+        "name": "Ai Se Eu Te Pego",
+        "pop": 0,
+        "valence": 78.2
+    },
+    "Al\u00e9m do Kamasutra": {
+        "artists": "Tuta Guedes",
+        "energy": 91.0,
+        "length": 160,
+        "name": "Al\u00e9m do Kamasutra",
+        "pop": 0,
+        "valence": 96.1
+    },
+    "Amanhecer": {
+        "artists": "Calcinha Preta",
+        "energy": 75.6,
+        "length": 238,
+        "name": "Amanhecer",
+        "pop": 26,
+        "valence": 61.2
+    },
+    "Amor Dos Amantes": {
+        "artists": "Raiz Do Sana",
+        "energy": 37.3,
+        "length": 207,
+        "name": "Amor Dos Amantes",
+        "pop": 0,
+        "valence": 58.1
+    },
+    "Ardendo de Amor (Ao Vivo)": {
+        "artists": "Banda Calypso",
+        "energy": 85.2,
+        "length": 192,
+        "name": "Ardendo de Amor (Ao Vivo)",
+        "pop": 0,
+        "valence": 89.7
+    },
+    "Asas": {
+        "artists": "Falamansa",
+        "energy": 57.1,
+        "length": 232,
+        "name": "Asas",
+        "pop": 0,
+        "valence": 89.4
+    },
+    "Baby Doll": {
+        "artists": "Calcinha Preta",
+        "energy": 47.7,
+        "length": 212,
+        "name": "Baby Doll",
+        "pop": 16,
+        "valence": 59.4
+    },
+    "Balada": {
+        "artists": "Leo Estakazero",
+        "energy": 87.9,
+        "length": 236,
+        "name": "Balada",
+        "pop": 8,
+        "valence": 85.6
+    },
+    "Balan\u00e7o do Bus\u00e3o": {
+        "artists": "Miltinho Edilberto",
+        "energy": 71.3,
+        "length": 223,
+        "name": "Balan\u00e7o do Bus\u00e3o",
+        "pop": 0,
+        "valence": 96.5
+    },
+    "Blind Faith": {
+        "artists": "Gilberto Gil",
+        "energy": 29.9,
+        "length": 357,
+        "name": "Blind Faith",
+        "pop": 0,
+        "valence": 20.7
+    },
+    "Boiadeiro": {
+        "artists": "Forro In The Dark",
+        "energy": 56.6,
+        "length": 330,
+        "name": "Boiadeiro",
+        "pop": 4,
+        "valence": 96.1
+    },
+    "Bola de Meia, Bola de Gude": {
+        "artists": "Menina do C\u00e9u",
+        "energy": 81.3,
+        "length": 206,
+        "name": "Bola de Meia, Bola de Gude",
+        "pop": 0,
+        "valence": 80.4
+    },
+    "Bota Severina Pra Moer": {
+        "artists": "Dominguinhos",
+        "energy": 94.5,
+        "length": 174,
+        "name": "Bota Severina Pra Moer",
+        "pop": 1,
+        "valence": 96.8
+    },
+    "Buli com Tu": {
+        "artists": "Trio Forroz\u00e3o",
+        "energy": 80.2,
+        "length": 126,
+        "name": "Buli com Tu",
+        "pop": 0,
+        "valence": 96.6
+    },
+    "Casa das Primas": {
+        "artists": "Avi\u00f5es do Forr\u00f3",
+        "energy": 95.2,
+        "length": 182,
+        "name": "Casa das Primas",
+        "pop": 0,
+        "valence": 93.1
+    },
+    "Casaca de Couro": {
+        "artists": "Jackson Do Pandeiro",
+        "energy": 61.7,
+        "length": 156,
+        "name": "Casaca de Couro",
+        "pop": 0,
+        "valence": 97.3
+    },
+    "Chama O Batman Pra Mim": {
+        "artists": "Bonde do Forr\u00f3",
+        "energy": 88.3,
+        "length": 170,
+        "name": "Chama O Batman Pra Mim",
+        "pop": 0,
+        "valence": 90.3
+    },
+    "Chorando por Ela": {
+        "artists": "Trio Virgulino",
+        "energy": 61.2,
+        "length": 214,
+        "name": "Chorando por Ela",
+        "pop": 0,
+        "valence": 93.7
+    },
+    "Ch\u00e3o Ch\u00e3o Ch\u00e3o": {
+        "artists": "Avi\u00f5es do Forr\u00f3",
+        "energy": 94.6,
+        "length": 162,
+        "name": "Ch\u00e3o Ch\u00e3o Ch\u00e3o",
+        "pop": 0,
+        "valence": 94.7
+    },
+    "Cintura Fina (feat. Marines)": {
+        "artists": "Dominguinhos",
+        "energy": 78.7,
+        "length": 165,
+        "name": "Cintura Fina (feat. Marines)",
+        "pop": 0,
+        "valence": 97.7
+    },
+    "Colo de Menina": {
+        "artists": "Rastap\u00e9",
+        "energy": 45.8,
+        "length": 205,
+        "name": "Colo de Menina",
+        "pop": 0,
+        "valence": 70.9
+    },
+    "Cora\u00e7\u00e3o Virado": {
+        "artists": "Bai\u00e3o D4 / Rastap\u00e9",
+        "energy": 80.0,
+        "length": 234,
+        "name": "Cora\u00e7\u00e3o Virado",
+        "pop": 0,
+        "valence": 96.2
+    },
+    "Cora\u00e7\u00e3o sem No\u00e7\u00e3o": {
+        "artists": "Banda Garota Safada",
+        "energy": 96.7,
+        "length": 188,
+        "name": "Cora\u00e7\u00e3o sem No\u00e7\u00e3o",
+        "pop": 0,
+        "valence": 75.6
+    },
+    "Corre Batu\u00edra": {
+        "artists": "P\u00e9 de Mulambo",
+        "energy": 64.7,
+        "length": 252,
+        "name": "Corre Batu\u00edra",
+        "pop": 12,
+        "valence": 9.92
+    },
+    "Correndo Atr\u00e1s de Mim": {
+        "artists": "Avi\u00f5es do Forr",
+        "energy": 93.9,
+        "length": 188,
+        "name": "Correndo Atr\u00e1s de Mim",
+        "pop": 0,
+        "valence": 96.5
+    },
+    "De Joelhos (Ao Vivo)": {
+        "artists": "Banda Calypso",
+        "energy": 45.0,
+        "length": 236,
+        "name": "De Joelhos (Ao Vivo)",
+        "pop": 0,
+        "valence": 29.3
+    },
+    "Declara\u00e7\u00e3o de Amor": {
+        "artists": "Calcinha Preta",
+        "energy": 60.8,
+        "length": 196,
+        "name": "Declara\u00e7\u00e3o de Amor",
+        "pop": 36,
+        "valence": 60.3
+    },
+    "Diga a Ela - 1\u00aa Vers\u00e3o": {
+        "artists": "Gilberto Gil",
+        "energy": 22.7,
+        "length": 443,
+        "name": "Diga a Ela - 1\u00aa Vers\u00e3o",
+        "pop": 0,
+        "valence": 33.6
+    },
+    "Espiral": {
+        "artists": "Raiz Do Sana",
+        "energy": 59.8,
+        "length": 175,
+        "name": "Espiral",
+        "pop": 0,
+        "valence": 95.4
+    },
+    "Esverdear": {
+        "artists": "Forro\u00e7acana",
+        "energy": 86.1,
+        "length": 200,
+        "name": "Esverdear",
+        "pop": 39,
+        "valence": 88.4
+    },
+    "Eu Era Feio": {
+        "artists": "Banda Garota Safada",
+        "energy": 95.6,
+        "length": 144,
+        "name": "Eu Era Feio",
+        "pop": 0,
+        "valence": 49.6
+    },
+    "Eu Era Feio - Live": {
+        "artists": "Cavaleiros do Forr\u00f3",
+        "energy": 86.8,
+        "length": 144,
+        "name": "Eu Era Feio - Live",
+        "pop": 0,
+        "valence": 77.5
+    },
+    "Eu S\u00f3 Quero Um Xod\u00f3/ \u00c9 Proibido Cochilar/ Vem, Morena": {
+        "artists": "Bai\u00e3o D4 / Rastap\u00e9",
+        "energy": 72.0,
+        "length": 294,
+        "name": "Eu S\u00f3 Quero Um Xod\u00f3/ \u00c9 Proibido Cochilar/ Vem, Morena",
+        "pop": 0,
+        "valence": 72.3
+    },
+    "Falamansa Song": {
+        "artists": "Falamansa",
+        "energy": 57.8,
+        "length": 237,
+        "name": "Falamansa Song",
+        "pop": 0,
+        "valence": 85.1
+    },
+    "Fede Mas \u00c9 Gostoso": {
+        "artists": "Trio Forroz\u00e3o",
+        "energy": 79.2,
+        "length": 197,
+        "name": "Fede Mas \u00c9 Gostoso",
+        "pop": 0,
+        "valence": 95.9
+    },
+    "Feira De Mangaio": {
+        "artists": "Forro In The Dark",
+        "energy": 81.2,
+        "length": 88,
+        "name": "Feira De Mangaio",
+        "pop": 14,
+        "valence": 96.0
+    },
+    "Forr\u00f3 Ar\u00e9ngueiro": {
+        "artists": "Airto Moreira",
+        "energy": 81.7,
+        "length": 225,
+        "name": "Forr\u00f3 Ar\u00e9ngueiro",
+        "pop": 0,
+        "valence": 52.6
+    },
+    "Forr\u00f3 Brecado": {
+        "artists": "Airto Moreira",
+        "energy": 90.5,
+        "length": 170,
+        "name": "Forr\u00f3 Brecado",
+        "pop": 0,
+        "valence": 96.0
+    },
+    "Forr\u00f3 Da Lourinha": {
+        "artists": "Airto Moreira",
+        "energy": 81.5,
+        "length": 267,
+        "name": "Forr\u00f3 Da Lourinha",
+        "pop": 0,
+        "valence": 64.9
+    },
+    "Forr\u00f3 Lunar": {
+        "artists": "Alceu Valen\u00e7a",
+        "energy": 71.7,
+        "length": 207,
+        "name": "Forr\u00f3 Lunar",
+        "pop": 25,
+        "valence": 67.0
+    },
+    "Forr\u00f3 de Sangue Novo": {
+        "artists": "Falamansa / Trio Virgulino",
+        "energy": 92.2,
+        "length": 262,
+        "name": "Forr\u00f3 de Sangue Novo",
+        "pop": 0,
+        "valence": 95.0
+    },
+    "Forr\u00f3 de Surubim": {
+        "artists": "Jackson Do Pandeiro",
+        "energy": 65.1,
+        "length": 175,
+        "name": "Forr\u00f3 de Surubim",
+        "pop": 0,
+        "valence": 97.3
+    },
+    "Forr\u00f3 do Rei": {
+        "artists": "Trio Virgulino",
+        "energy": 88.1,
+        "length": 227,
+        "name": "Forr\u00f3 do Rei",
+        "pop": 0,
+        "valence": 96.5
+    },
+    "GPS no Cora\u00e7\u00e3o": {
+        "artists": "Avi\u00f5es do Forr\u00f3",
+        "energy": 88.3,
+        "length": 200,
+        "name": "GPS no Cora\u00e7\u00e3o",
+        "pop": 0,
+        "valence": 91.1
+    },
+    "Hoje \u00e9 Dia de Forr\u00f3": {
+        "artists": "Dominguinhos",
+        "energy": 66.7,
+        "length": 149,
+        "name": "Hoje \u00e9 Dia de Forr\u00f3",
+        "pop": 0,
+        "valence": 95.1
+    },
+    "Homem Perfeito (El Hombre Perfecto) (Ao Vivo)": {
+        "artists": "Banda Calypso",
+        "energy": 83.0,
+        "length": 267,
+        "name": "Homem Perfeito (El Hombre Perfecto) (Ao Vivo)",
+        "pop": 0,
+        "valence": 74.0
+    },
+    "Hora do Adeus": {
+        "artists": "Falamansa, Luiz Gonzaga",
+        "energy": 67.0,
+        "length": 198,
+        "name": "Hora do Adeus",
+        "pop": 0,
+        "valence": 68.3
+    },
+    "Jogo de Palavra": {
+        "artists": "Banda Magn\u00edficos",
+        "energy": 67.0,
+        "length": 195,
+        "name": "Jogo de Palavra",
+        "pop": 9,
+        "valence": 94.6
+    },
+    "Lelezinha (Ao Vivo)": {
+        "artists": "Banda Calypso",
+        "energy": 92.0,
+        "length": 193,
+        "name": "Lelezinha (Ao Vivo)",
+        "pop": 0,
+        "valence": 94.1
+    },
+    "Levitar": {
+        "artists": "Circulad\u00f4 de Ful\u00f4",
+        "energy": 96.0,
+        "length": 223,
+        "name": "Levitar",
+        "pop": 36,
+        "valence": 72.3
+    },
+    "Liga Pra Mim": {
+        "artists": "Banda Magn\u00edficos",
+        "energy": 78.3,
+        "length": 235,
+        "name": "Liga Pra Mim",
+        "pop": 9,
+        "valence": 78.5
+    },
+    "Lilith": {
+        "artists": "Menina do C\u00e9u",
+        "energy": 63.6,
+        "length": 195,
+        "name": "Lilith",
+        "pop": 0,
+        "valence": 71.5
+    },
+    "Me D\u00e1 Meu Cora\u00e7\u00e3o": {
+        "artists": "Trio Nordestino",
+        "energy": 66.8,
+        "length": 256,
+        "name": "Me D\u00e1 Meu Cora\u00e7\u00e3o",
+        "pop": 0,
+        "valence": 80.5
+    },
+    "Menino Angola": {
+        "artists": "Arleno Farias",
+        "energy": 77.9,
+        "length": 231,
+        "name": "Menino Angola",
+        "pop": 0,
+        "valence": 92.4
+    },
+    "Meu Encanto (Ao Vivo)": {
+        "artists": "Banda Calypso",
+        "energy": 89.1,
+        "length": 231,
+        "name": "Meu Encanto (Ao Vivo)",
+        "pop": 0,
+        "valence": 63.4
+    },
+    "Meu Grito de Amor": {
+        "artists": "Bonde do Forr\u00f3",
+        "energy": 62.0,
+        "length": 235,
+        "name": "Meu Grito de Amor",
+        "pop": 0,
+        "valence": 43.4
+    },
+    "Meu Segredo \u00c9 A Pegada": {
+        "artists": "Leo Estakazero",
+        "energy": 95.2,
+        "length": 173,
+        "name": "Meu Segredo \u00c9 A Pegada",
+        "pop": 5,
+        "valence": 89.8
+    },
+    "Morena Bela": {
+        "artists": "Jackson Do Pandeiro",
+        "energy": 66.4,
+        "length": 160,
+        "name": "Morena Bela",
+        "pop": 0,
+        "valence": 96.4
+    },
+    "Muito Pra Te Dar": {
+        "artists": "Banda Magn\u00edficos",
+        "energy": 72.5,
+        "length": 197,
+        "name": "Muito Pra Te Dar",
+        "pop": 45,
+        "valence": 95.6
+    },
+    "Nosso Amor e o Mar": {
+        "artists": "Lim\u00e3o Com Mel",
+        "energy": 83.8,
+        "length": 178,
+        "name": "Nosso Amor e o Mar",
+        "pop": 6,
+        "valence": 54.2
+    },
+    "Nosso Xote": {
+        "artists": "Bicho de P\u00e9",
+        "energy": 46.4,
+        "length": 217,
+        "name": "Nosso Xote",
+        "pop": 0,
+        "valence": 70.4
+    },
+    "Obsess\u00e3o": {
+        "artists": "Tony Guerra & Forr\u00f3 Sacode",
+        "energy": 94.5,
+        "length": 215,
+        "name": "Obsess\u00e3o",
+        "pop": 0,
+        "valence": 92.5
+    },
+    "Pagode Russo": {
+        "artists": "Forro In The Dark",
+        "energy": 68.4,
+        "length": 285,
+        "name": "Pagode Russo",
+        "pop": 11,
+        "valence": 84.3
+    },
+    "Pau De Arara": {
+        "artists": "Forro In The Dark",
+        "energy": 58.3,
+        "length": 171,
+        "name": "Pau De Arara",
+        "pop": 10,
+        "valence": 83.6
+    },
+    "Pedras Que Cantam / Isso Aqui T\u00e1 Bom Demais - Medley": {
+        "artists": "Forro\u00e7acana",
+        "energy": 55.7,
+        "length": 254,
+        "name": "Pedras Que Cantam / Isso Aqui T\u00e1 Bom Demais - Medley",
+        "pop": 0,
+        "valence": 88.7
+    },
+    "Pedro Mila": {
+        "artists": "Raiz Do Sana",
+        "energy": 70.6,
+        "length": 378,
+        "name": "Pedro Mila",
+        "pop": 0,
+        "valence": 87.5
+    },
+    "Perdeu O Cio - Live": {
+        "artists": "Alceu Valen\u00e7a",
+        "energy": 77.7,
+        "length": 203,
+        "name": "Perdeu O Cio - Live",
+        "pop": 0,
+        "valence": 46.2
+    },
+    "Perdoa-me": {
+        "artists": "Tony Guerra & Forr\u00f3 Sacode",
+        "energy": 97.1,
+        "length": 207,
+        "name": "Perdoa-me",
+        "pop": 0,
+        "valence": 96.0
+    },
+    "Petrolina-Juazeiro/ Lembran\u00e7a de um Beijo": {
+        "artists": "Bai\u00e3o D4 / Rastap\u00e9",
+        "energy": 59.4,
+        "length": 298,
+        "name": "Petrolina-Juazeiro/ Lembran\u00e7a de um Beijo",
+        "pop": 0,
+        "valence": 83.5
+    },
+    "Preciso do Teu Sorriso": {
+        "artists": "Trio Virgulino",
+        "energy": 61.7,
+        "length": 246,
+        "name": "Preciso do Teu Sorriso",
+        "pop": 0,
+        "valence": 84.3
+    },
+    "Quando Bate o Cora\u00e7\u00e3o/ Caboclo Sonhador/ Espumas ao Vento": {
+        "artists": "Bai\u00e3o D4 / Rastap\u00e9",
+        "energy": 62.9,
+        "length": 290,
+        "name": "Quando Bate o Cora\u00e7\u00e3o/ Caboclo Sonhador/ Espumas ao Vento",
+        "pop": 0,
+        "valence": 81.7
+    },
+    "Quando Eu Te Vejo Eu Choro": {
+        "artists": "Avi\u00f5es do Forr\u00f3",
+        "energy": 70.7,
+        "length": 181,
+        "name": "Quando Eu Te Vejo Eu Choro",
+        "pop": 0,
+        "valence": 93.0
+    },
+    "Querer Bem": {
+        "artists": "Trio Virgulino",
+        "energy": 63.6,
+        "length": 213,
+        "name": "Querer Bem",
+        "pop": 0,
+        "valence": 84.5
+    },
+    "Retrato Da Bahia": {
+        "artists": "Cacau Com Leite",
+        "energy": 78.7,
+        "length": 166,
+        "name": "Retrato Da Bahia",
+        "pop": 9,
+        "valence": 88.6
+    },
+    "Rindo \u00e0 T\u00f4a": {
+        "artists": "Falamansa",
+        "energy": 56.2,
+        "length": 222,
+        "name": "Rindo \u00e0 T\u00f4a",
+        "pop": 0,
+        "valence": 85.5
+    },
+    "Sabi\u00e1": {
+        "artists": "Forro In The Dark",
+        "energy": 32.2,
+        "length": 177,
+        "name": "Sabi\u00e1",
+        "pop": 17,
+        "valence": 82.2
+    },
+    "Se Eu Pudesse - Live": {
+        "artists": "Cavaleiros do Forr\u00f3",
+        "energy": 84.1,
+        "length": 267,
+        "name": "Se Eu Pudesse - Live",
+        "pop": 0,
+        "valence": 86.0
+    },
+    "Sem Voc\u00ea Eu Nada Sou": {
+        "artists": "Trio Nordestino",
+        "energy": 55.0,
+        "length": 219,
+        "name": "Sem Voc\u00ea Eu Nada Sou",
+        "pop": 0,
+        "valence": 74.6
+    },
+    "Sete Meninas": {
+        "artists": "Dominguinhos",
+        "energy": 81.0,
+        "length": 128,
+        "name": "Sete Meninas",
+        "pop": 1,
+        "valence": 96.7
+    },
+    "Sonho De Papel / Cai, Cai Bal\u00e3o - Medley": {
+        "artists": "Forro\u00e7acana",
+        "energy": 62.5,
+        "length": 183,
+        "name": "Sonho De Papel / Cai, Cai Bal\u00e3o - Medley",
+        "pop": 0,
+        "valence": 96.3
+    },
+    "Tem Mulher T\u00f4 L\u00e1": {
+        "artists": "Jackson Do Pandeiro",
+        "energy": 61.5,
+        "length": 148,
+        "name": "Tem Mulher T\u00f4 L\u00e1",
+        "pop": 0,
+        "valence": 97.0
+    },
+    "Tema Predileto": {
+        "artists": "Bicho de P\u00e9",
+        "energy": 52.0,
+        "length": 213,
+        "name": "Tema Predileto",
+        "pop": 9,
+        "valence": 80.9
+    },
+    "Tomorrow Vai Ser Bacana": {
+        "artists": "Gilberto Gil",
+        "energy": 57.0,
+        "length": 474,
+        "name": "Tomorrow Vai Ser Bacana",
+        "pop": 0,
+        "valence": 53.7
+    },
+    "Tr\u00eas Horas da Manh\u00e3": {
+        "artists": "Avi\u00f5es do Forr\u00f3",
+        "energy": 89.7,
+        "length": 190,
+        "name": "Tr\u00eas Horas da Manh\u00e3",
+        "pop": 0,
+        "valence": 82.7
+    },
+    "T\u00e1 Nevosinha - Live": {
+        "artists": "Cavaleiros do Forr\u00f3",
+        "energy": 91.3,
+        "length": 207,
+        "name": "T\u00e1 Nevosinha - Live",
+        "pop": 0,
+        "valence": 94.1
+    },
+    "Vai Pegar Fogo (Ao Vivo)": {
+        "artists": "Banda Calypso",
+        "energy": 90.9,
+        "length": 207,
+        "name": "Vai Pegar Fogo (Ao Vivo)",
+        "pop": 0,
+        "valence": 91.7
+    },
+    "Vem Dan\u00e7ar": {
+        "artists": "Bicho de P\u00e9",
+        "energy": 59.1,
+        "length": 199,
+        "name": "Vem Dan\u00e7ar",
+        "pop": 23,
+        "valence": 90.8
+    },
+    "Vem Morena": {
+        "artists": "Dominguinhos",
+        "energy": 90.4,
+        "length": 195,
+        "name": "Vem Morena",
+        "pop": 5,
+        "valence": 84.9
+    },
+    "Vento Ventania": {
+        "artists": "Bruno Gouveia",
+        "energy": 74.0,
+        "length": 213,
+        "name": "Vento Ventania",
+        "pop": 0,
+        "valence": 92.6
+    },
+    "Versos Sinceros": {
+        "artists": "Rastap\u00e9",
+        "energy": 61.7,
+        "length": 225,
+        "name": "Versos Sinceros",
+        "pop": 0,
+        "valence": 80.6
+    },
+    "Vira e Mexe": {
+        "artists": "Bonde do Forr\u00f3",
+        "energy": 90.0,
+        "length": 188,
+        "name": "Vira e Mexe",
+        "pop": 0,
+        "valence": 89.5
+    },
+    "Voc\u00ea Est\u00e1 Sumindo": {
+        "artists": "Rita Ribeiro",
+        "energy": 51.8,
+        "length": 242,
+        "name": "Voc\u00ea Est\u00e1 Sumindo",
+        "pop": 0,
+        "valence": 96.3
+    },
+    "Voc\u00ea N\u00e3o Vale Nada": {
+        "artists": "Solteir\u00f5es do Forr\u00f3",
+        "energy": 97.7,
+        "length": 211,
+        "name": "Voc\u00ea N\u00e3o Vale Nada",
+        "pop": 0,
+        "valence": 96.8
+    },
+    "Xiquexique": {
+        "artists": "Tom Z\u00e9",
+        "energy": 89.8,
+        "length": 326,
+        "name": "Xiquexique",
+        "pop": 42,
+        "valence": 82.5
+    },
+    "Xote dos Milagres": {
+        "artists": "Falamansa",
+        "energy": 47.4,
+        "length": 270,
+        "name": "Xote dos Milagres",
+        "pop": 0,
+        "valence": 77.0
+    },
+    "Zeca Violeiro": {
+        "artists": "Falamansa",
+        "energy": 55.6,
+        "length": 144,
+        "name": "Zeca Violeiro",
+        "pop": 0,
+        "valence": 89.4
+    },
+    "\u00c9 o Pente": {
+        "artists": "Solteir\u00f5es do forr\u00f3 e Forr\u00f3 dos Plays",
+        "energy": 96.2,
+        "length": 216,
+        "name": "\u00c9 o Pente",
+        "pop": 0,
+        "valence": 70.7
+    }
+}

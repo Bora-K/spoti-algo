@@ -1,0 +1,802 @@
+{
+    "Acid Rain": {
+        "artists": "DJ Fresh",
+        "energy": 94.4,
+        "length": 345,
+        "name": "Acid Rain",
+        "pop": 0,
+        "valence": 3.96
+    },
+    "Afterlife - BCee Remix": {
+        "artists": "Camo & Krooked",
+        "energy": 92.8,
+        "length": 269,
+        "name": "Afterlife - BCee Remix",
+        "pop": 0,
+        "valence": 15.8
+    },
+    "Alone": {
+        "artists": "The Upbeats",
+        "energy": 51.1,
+        "length": 368,
+        "name": "Alone",
+        "pop": 0,
+        "valence": 3.95
+    },
+    "Angels Fell": {
+        "artists": "Dillinja",
+        "energy": 92.3,
+        "length": 354,
+        "name": "Angels Fell",
+        "pop": 0,
+        "valence": 36.6
+    },
+    "Anticipate (feat. Sam Frank) - Netsky Remix": {
+        "artists": "Skream",
+        "energy": 80.9,
+        "length": 251,
+        "name": "Anticipate (feat. Sam Frank) - Netsky Remix",
+        "pop": 0,
+        "valence": 45.4
+    },
+    "Arcade": {
+        "artists": "Dimension and Skankandbass",
+        "energy": 95.9,
+        "length": 311,
+        "name": "Arcade",
+        "pop": 0,
+        "valence": 16.2
+    },
+    "Bambaata - Break remix": {
+        "artists": "SHY FX",
+        "energy": 99.3,
+        "length": 389,
+        "name": "Bambaata - Break remix",
+        "pop": 0,
+        "valence": 43.5
+    },
+    "Bang Bang - Sub Zero Remix": {
+        "artists": "Benny Page",
+        "energy": 96.7,
+        "length": 264,
+        "name": "Bang Bang - Sub Zero Remix",
+        "pop": 0,
+        "valence": 37.9
+    },
+    "Beautiful": {
+        "artists": "Brookes Brothers ft Robert Owens",
+        "energy": 97.4,
+        "length": 342,
+        "name": "Beautiful",
+        "pop": 0,
+        "valence": 35.1
+    },
+    "Below Us - Smooth Remix": {
+        "artists": "Seven Lions",
+        "energy": 92.7,
+        "length": 326,
+        "name": "Below Us - Smooth Remix",
+        "pop": 0,
+        "valence": 44.5
+    },
+    "Bittersweet": {
+        "artists": "Lenzman ft. Riya",
+        "energy": 99.8,
+        "length": 339,
+        "name": "Bittersweet",
+        "pop": 0,
+        "valence": 50.3
+    },
+    "Black Dragon": {
+        "artists": "Future Prophecies",
+        "energy": 90.1,
+        "length": 379,
+        "name": "Black Dragon",
+        "pop": 0,
+        "valence": 8.29
+    },
+    "Breakn' a Sweat": {
+        "artists": "Skrillex",
+        "energy": 92.1,
+        "length": 302,
+        "name": "Breakn' a Sweat",
+        "pop": 58,
+        "valence": 23.2
+    },
+    "Calcutta": {
+        "artists": "Aphrodite",
+        "energy": 81.2,
+        "length": 332,
+        "name": "Calcutta",
+        "pop": 0,
+        "valence": 39.3
+    },
+    "Consumed - Logistics Remix": {
+        "artists": "BCee",
+        "energy": 91.4,
+        "length": 317,
+        "name": "Consumed - Logistics Remix",
+        "pop": 0,
+        "valence": 25.5
+    },
+    "Desert Orgy": {
+        "artists": "Phace",
+        "energy": 69.9,
+        "length": 406,
+        "name": "Desert Orgy",
+        "pop": 0,
+        "valence": 4.82
+    },
+    "Die For You \u2013 Shockone Rmx": {
+        "artists": "Cutline",
+        "energy": 87.3,
+        "length": 318,
+        "name": "Die For You \u2013 Shockone Rmx",
+        "pop": 0,
+        "valence": 7.53
+    },
+    "Dirty Beats": {
+        "artists": "Roni Size",
+        "energy": 93.7,
+        "length": 242,
+        "name": "Dirty Beats",
+        "pop": 0,
+        "valence": 68.6
+    },
+    "Don't Look Down (feat. Calyx & Teebee)": {
+        "artists": "Break feat. Calyx & Teebee",
+        "energy": 93.7,
+        "length": 342,
+        "name": "Don't Look Down (feat. Calyx & Teebee)",
+        "pop": 0,
+        "valence": 10.8
+    },
+    "Everyday - Netsky Remix": {
+        "artists": "Rusko",
+        "energy": 93.3,
+        "length": 252,
+        "name": "Everyday - Netsky Remix",
+        "pop": 0,
+        "valence": 10.2
+    },
+    "Everything's Different - Calibre Remix": {
+        "artists": "High Contrast",
+        "energy": 79.5,
+        "length": 322,
+        "name": "Everything's Different - Calibre Remix",
+        "pop": 0,
+        "valence": 54.9
+    },
+    "Fighter": {
+        "artists": "Dr Meaker",
+        "energy": 94.5,
+        "length": 297,
+        "name": "Fighter",
+        "pop": 0,
+        "valence": 18.9
+    },
+    "Get Dirty": {
+        "artists": "Camo & Krooked",
+        "energy": 85.9,
+        "length": 291,
+        "name": "Get Dirty",
+        "pop": 0,
+        "valence": 6.77
+    },
+    "Get Dirty - Smooth Remix": {
+        "artists": "Camo & Krooked",
+        "energy": 95.1,
+        "length": 291,
+        "name": "Get Dirty - Smooth Remix",
+        "pop": 0,
+        "valence": 7.18
+    },
+    "Good Enough": {
+        "artists": "Serial Killaz",
+        "energy": 95.6,
+        "length": 291,
+        "name": "Good Enough",
+        "pop": 0,
+        "valence": 61.0
+    },
+    "Guilt - Radio Edit": {
+        "artists": "NERO",
+        "energy": 85.2,
+        "length": 177,
+        "name": "Guilt - Radio Edit",
+        "pop": 39,
+        "valence": 17.5
+    },
+    "Hitz - Delta Heavy Remix": {
+        "artists": "Chase & Status",
+        "energy": 80.1,
+        "length": 276,
+        "name": "Hitz - Delta Heavy Remix",
+        "pop": 0,
+        "valence": 25.8
+    },
+    "Hold On - Original Mix": {
+        "artists": "Sub Sonik",
+        "energy": 94.8,
+        "length": 317,
+        "name": "Hold On - Original Mix",
+        "pop": 0,
+        "valence": 26.9
+    },
+    "Hot Right Now (feat. RITA ORA)": {
+        "artists": "DJ Fresh",
+        "energy": 96.1,
+        "length": 182,
+        "name": "Hot Right Now (feat. RITA ORA)",
+        "pop": 0,
+        "valence": 41.0
+    },
+    "I Can Feel": {
+        "artists": "Memro",
+        "energy": 87.8,
+        "length": 358,
+        "name": "I Can Feel",
+        "pop": 0,
+        "valence": 3.94
+    },
+    "I Know": {
+        "artists": "DJ Marky",
+        "energy": 91.3,
+        "length": 320,
+        "name": "I Know",
+        "pop": 0,
+        "valence": 42.5
+    },
+    "I Need Air (feat. Angela Hunte)": {
+        "artists": "Magnetic Man",
+        "energy": 82.9,
+        "length": 258,
+        "name": "I Need Air (feat. Angela Hunte)",
+        "pop": 31,
+        "valence": 39.1
+    },
+    "Ignition": {
+        "artists": "Optiv",
+        "energy": 96.7,
+        "length": 313,
+        "name": "Ignition",
+        "pop": 0,
+        "valence": 31.2
+    },
+    "Ill Behaviour": {
+        "artists": "Danny Byrd",
+        "energy": 96.0,
+        "length": 294,
+        "name": "Ill Behaviour",
+        "pop": 0,
+        "valence": 34.7
+    },
+    "In The Summer - Brookes Brothers Remix": {
+        "artists": "Crystal Fighters",
+        "energy": 92.6,
+        "length": 316,
+        "name": "In The Summer - Brookes Brothers Remix",
+        "pop": 0,
+        "valence": 40.2
+    },
+    "Innocence": {
+        "artists": "NERO",
+        "energy": 73.4,
+        "length": 308,
+        "name": "Innocence",
+        "pop": 0,
+        "valence": 6.78
+    },
+    "Innocence - Original Mix": {
+        "artists": "NERO",
+        "energy": 73.2,
+        "length": 317,
+        "name": "Innocence - Original Mix",
+        "pop": 0,
+        "valence": 6.22
+    },
+    "Irresistable - Original Mix": {
+        "artists": "Indivision",
+        "energy": 89.3,
+        "length": 340,
+        "name": "Irresistable - Original Mix",
+        "pop": 0,
+        "valence": 11.1
+    },
+    "Just Hold On": {
+        "artists": "Camo",
+        "energy": 99.2,
+        "length": 317,
+        "name": "Just Hold On",
+        "pop": 0,
+        "valence": 29.1
+    },
+    "Lazerbeam": {
+        "artists": "ShockOne",
+        "energy": 92.7,
+        "length": 263,
+        "name": "Lazerbeam",
+        "pop": 0,
+        "valence": 21.7
+    },
+    "Levels - Skrillex Remix": {
+        "artists": "Avicii",
+        "energy": 91.0,
+        "length": 281,
+        "name": "Levels - Skrillex Remix",
+        "pop": 59,
+        "valence": 34.6
+    },
+    "Mellow": {
+        "artists": "Netsky",
+        "energy": 76.1,
+        "length": 281,
+        "name": "Mellow",
+        "pop": 0,
+        "valence": 5.26
+    },
+    "Memories - Original Mix": {
+        "artists": "Moleman",
+        "energy": 67.6,
+        "length": 373,
+        "name": "Memories - Original Mix",
+        "pop": 0,
+        "valence": 22.2
+    },
+    "Messy": {
+        "artists": "Levela",
+        "energy": 94.8,
+        "length": 267,
+        "name": "Messy",
+        "pop": 0,
+        "valence": 53.6
+    },
+    "Midnight Express": {
+        "artists": "Dieselboy + Evol Intent + Ewun",
+        "energy": 93.1,
+        "length": 335,
+        "name": "Midnight Express",
+        "pop": 8,
+        "valence": 21.1
+    },
+    "Moonwalker": {
+        "artists": "Danny Byrd",
+        "energy": 96.9,
+        "length": 319,
+        "name": "Moonwalker",
+        "pop": 0,
+        "valence": 69.2
+    },
+    "Murderation": {
+        "artists": "Logistics",
+        "energy": 96.2,
+        "length": 314,
+        "name": "Murderation",
+        "pop": 0,
+        "valence": 42.2
+    },
+    "My Sunset - Original Mix": {
+        "artists": "Feint",
+        "energy": 97.5,
+        "length": 326,
+        "name": "My Sunset - Original Mix",
+        "pop": 45,
+        "valence": 32.3
+    },
+    "My World - Original Mix": {
+        "artists": "Noisia",
+        "energy": 89.6,
+        "length": 293,
+        "name": "My World - Original Mix",
+        "pop": 0,
+        "valence": 51.6
+    },
+    "Night Shift": {
+        "artists": "Grafix",
+        "energy": 95.5,
+        "length": 323,
+        "name": "Night Shift",
+        "pop": 0,
+        "valence": 67.5
+    },
+    "No Good - Chase & Status & Beni G Remix": {
+        "artists": "Plan B",
+        "energy": 99.4,
+        "length": 379,
+        "name": "No Good - Chase & Status & Beni G Remix",
+        "pop": 29,
+        "valence": 31.3
+    },
+    "Not Giving In (feat. John Newman & Alex Clare)": {
+        "artists": "Rudimental",
+        "energy": 63.9,
+        "length": 240,
+        "name": "Not Giving In (feat. John Newman & Alex Clare)",
+        "pop": 50,
+        "valence": 13.6
+    },
+    "Nowhere": {
+        "artists": "High Maintenence",
+        "energy": 97.7,
+        "length": 317,
+        "name": "Nowhere",
+        "pop": 0,
+        "valence": 6.28
+    },
+    "Omen": {
+        "artists": "The Prodigy",
+        "energy": 95.4,
+        "length": 216,
+        "name": "Omen",
+        "pop": 0,
+        "valence": 52.9
+    },
+    "One Condition": {
+        "artists": "Grafix",
+        "energy": 96.3,
+        "length": 313,
+        "name": "One Condition",
+        "pop": 0,
+        "valence": 74.7
+    },
+    "Paperchase": {
+        "artists": "Brookes Brothers ft Danny Byrd",
+        "energy": 91.1,
+        "length": 352,
+        "name": "Paperchase",
+        "pop": 0,
+        "valence": 65.7
+    },
+    "Pass Out - DC Breaks Remix": {
+        "artists": "Tinie Tempah",
+        "energy": 95.8,
+        "length": 272,
+        "name": "Pass Out - DC Breaks Remix",
+        "pop": 30,
+        "valence": 73.4
+    },
+    "Pay Your Own Way": {
+        "artists": "Tantrum Desire",
+        "energy": 93.0,
+        "length": 298,
+        "name": "Pay Your Own Way",
+        "pop": 0,
+        "valence": 14.7
+    },
+    "Pieces": {
+        "artists": "Chase & Status",
+        "energy": 83.8,
+        "length": 289,
+        "name": "Pieces",
+        "pop": 0,
+        "valence": 16.7
+    },
+    "Play Tonight": {
+        "artists": "Tantrum Desire",
+        "energy": 97.2,
+        "length": 301,
+        "name": "Play Tonight",
+        "pop": 0,
+        "valence": 23.5
+    },
+    "Prism": {
+        "artists": "Phetsta",
+        "energy": 95.3,
+        "length": 341,
+        "name": "Prism",
+        "pop": 0,
+        "valence": 18.0
+    },
+    "Quest": {
+        "artists": "Shimon",
+        "energy": 47.8,
+        "length": 370,
+        "name": "Quest",
+        "pop": 0,
+        "valence": 60.2
+    },
+    "Raver": {
+        "artists": "Shy FX feat. Kano, Donae\u2019o & Roses Gabor",
+        "energy": 93.8,
+        "length": 278,
+        "name": "Raver",
+        "pop": 0,
+        "valence": 36.0
+    },
+    "Rising Up": {
+        "artists": "Mattix",
+        "energy": 88.8,
+        "length": 354,
+        "name": "Rising Up",
+        "pop": 0,
+        "valence": 10.1
+    },
+    "Room to Breathe": {
+        "artists": "Fred V & Grafix",
+        "energy": 90.6,
+        "length": 358,
+        "name": "Room to Breathe",
+        "pop": 23,
+        "valence": 8.66
+    },
+    "Save My Life - J Majik & Wickaman D&B Mix": {
+        "artists": "BYOB",
+        "energy": 93.2,
+        "length": 292,
+        "name": "Save My Life - J Majik & Wickaman D&B Mix",
+        "pop": 0,
+        "valence": 54.3
+    },
+    "Save The World - Futurebound & Metrik Remix": {
+        "artists": "Swedish House Mafia",
+        "energy": 87.2,
+        "length": 263,
+        "name": "Save The World - Futurebound & Metrik Remix",
+        "pop": 32,
+        "valence": 3.82
+    },
+    "Sea of Tears": {
+        "artists": "Goldie",
+        "energy": 89.3,
+        "length": 721,
+        "name": "Sea of Tears",
+        "pop": 0,
+        "valence": 14.0
+    },
+    "September (Rmx for Future Prophecies)": {
+        "artists": "Krooked",
+        "energy": 95.5,
+        "length": 304,
+        "name": "September (Rmx for Future Prophecies)",
+        "pop": 0,
+        "valence": 62.3
+    },
+    "Square Feet - Original Mix": {
+        "artists": "Noisia",
+        "energy": 43.9,
+        "length": 208,
+        "name": "Square Feet - Original Mix",
+        "pop": 0,
+        "valence": 11.1
+    },
+    "Stalker": {
+        "artists": "Aphrodite",
+        "energy": 84.3,
+        "length": 331,
+        "name": "Stalker",
+        "pop": 0,
+        "valence": 78.6
+    },
+    "Star (Part 1)": {
+        "artists": "Blame",
+        "energy": 90.5,
+        "length": 301,
+        "name": "Star (Part 1)",
+        "pop": 16,
+        "valence": 32.5
+    },
+    "Starting Over": {
+        "artists": "Blu Mar Ten",
+        "energy": 90.7,
+        "length": 406,
+        "name": "Starting Over",
+        "pop": 0,
+        "valence": 63.5
+    },
+    "Stompbox (Spor Remix)": {
+        "artists": "The Qemists",
+        "energy": 99.5,
+        "length": 110,
+        "name": "Stompbox (Spor Remix)",
+        "pop": 23,
+        "valence": 37.0
+    },
+    "Stronger": {
+        "artists": "Sigma",
+        "energy": 83.0,
+        "length": 324,
+        "name": "Stronger",
+        "pop": 0,
+        "valence": 55.1
+    },
+    "Sunlight": {
+        "artists": "Modestep",
+        "energy": 82.2,
+        "length": 230,
+        "name": "Sunlight",
+        "pop": 0,
+        "valence": 39.5
+    },
+    "Sunlight - Torqux & Twist Remix": {
+        "artists": "Modestep",
+        "energy": 90.0,
+        "length": 318,
+        "name": "Sunlight - Torqux & Twist Remix",
+        "pop": 28,
+        "valence": 11.5
+    },
+    "System Error": {
+        "artists": "Hedj",
+        "energy": 76.1,
+        "length": 384,
+        "name": "System Error",
+        "pop": 0,
+        "valence": 30.4
+    },
+    "Taking Me Higher": {
+        "artists": "L Plus",
+        "energy": 81.5,
+        "length": 314,
+        "name": "Taking Me Higher",
+        "pop": 0,
+        "valence": 38.0
+    },
+    "Tear You Down": {
+        "artists": "Brookes Brothers",
+        "energy": 90.6,
+        "length": 352,
+        "name": "Tear You Down",
+        "pop": 0,
+        "valence": 43.0
+    },
+    "Tell Me Tonight": {
+        "artists": "Fred V",
+        "energy": 79.8,
+        "length": 335,
+        "name": "Tell Me Tonight",
+        "pop": 0,
+        "valence": 14.0
+    },
+    "The Gift": {
+        "artists": "SpectraSoul",
+        "energy": 84.0,
+        "length": 392,
+        "name": "The Gift",
+        "pop": 0,
+        "valence": 68.8
+    },
+    "The Ice Dance": {
+        "artists": "Bachelors of Science",
+        "energy": 93.9,
+        "length": 318,
+        "name": "The Ice Dance",
+        "pop": 20,
+        "valence": 30.6
+    },
+    "The Ice Dance - Lenzman Remix": {
+        "artists": "Bachelors of Science",
+        "energy": 87.6,
+        "length": 339,
+        "name": "The Ice Dance - Lenzman Remix",
+        "pop": 12,
+        "valence": 12.9
+    },
+    "The Magic Russian Bottle": {
+        "artists": "Netsky",
+        "energy": 83.5,
+        "length": 287,
+        "name": "The Magic Russian Bottle",
+        "pop": 0,
+        "valence": 15.5
+    },
+    "The Plan That Cannot Fail - Logistics Remix": {
+        "artists": "London Elektricity",
+        "energy": 96.1,
+        "length": 301,
+        "name": "The Plan That Cannot Fail - Logistics Remix",
+        "pop": 0,
+        "valence": 9.19
+    },
+    "The Trip": {
+        "artists": "Logistics",
+        "energy": 98.0,
+        "length": 336,
+        "name": "The Trip",
+        "pop": 0,
+        "valence": 18.2
+    },
+    "The Whistle Song": {
+        "artists": "Netsky",
+        "energy": 94.7,
+        "length": 279,
+        "name": "The Whistle Song",
+        "pop": 0,
+        "valence": 60.3
+    },
+    "There For Me - Original Mix": {
+        "artists": "InContext",
+        "energy": 90.5,
+        "length": 382,
+        "name": "There For Me - Original Mix",
+        "pop": 0,
+        "valence": 30.8
+    },
+    "Through The Night - Radio Edit": {
+        "artists": "Drumsound & Bassline Smith",
+        "energy": 89.2,
+        "length": 173,
+        "name": "Through The Night - Radio Edit",
+        "pop": 30,
+        "valence": 28.6
+    },
+    "Time - Radio Edit": {
+        "artists": "Chase & Status",
+        "energy": 90.0,
+        "length": 218,
+        "name": "Time - Radio Edit",
+        "pop": 0,
+        "valence": 38.6
+    },
+    "Tommy's Theme - Loadstar Remix": {
+        "artists": "Noisia",
+        "energy": 80.5,
+        "length": 246,
+        "name": "Tommy's Theme - Loadstar Remix",
+        "pop": 0,
+        "valence": 6.22
+    },
+    "U Gotta B Crazy - Enei Remix": {
+        "artists": "London Elektricity",
+        "energy": 89.2,
+        "length": 325,
+        "name": "U Gotta B Crazy - Enei Remix",
+        "pop": 0,
+        "valence": 58.1
+    },
+    "Vampires - Phetsta Remix": {
+        "artists": "Krooked",
+        "energy": 97.9,
+        "length": 278,
+        "name": "Vampires - Phetsta Remix",
+        "pop": 0,
+        "valence": 28.3
+    },
+    "Welcome To The Jungle - Tantrum Desire Remix": {
+        "artists": "Drumsound",
+        "energy": 98.3,
+        "length": 346,
+        "name": "Welcome To The Jungle - Tantrum Desire Remix",
+        "pop": 0,
+        "valence": 30.2
+    },
+    "Wishing Well (Danny Byrd Remix)": {
+        "artists": "London Elektricity",
+        "energy": 86.1,
+        "length": 450,
+        "name": "Wishing Well (Danny Byrd Remix)",
+        "pop": 0,
+        "valence": 37.9
+    },
+    "Witchcraft": {
+        "artists": "Pendulum",
+        "energy": 96.9,
+        "length": 253,
+        "name": "Witchcraft",
+        "pop": 38,
+        "valence": 21.8
+    },
+    "You": {
+        "artists": "S.P.Y",
+        "energy": 87.3,
+        "length": 451,
+        "name": "You",
+        "pop": 0,
+        "valence": 8.93
+    },
+    "You Had It": {
+        "artists": "Hamilton",
+        "energy": 92.7,
+        "length": 276,
+        "name": "You Had It",
+        "pop": 0,
+        "valence": 6.86
+    },
+    "Your Flex": {
+        "artists": "Sub Zero",
+        "energy": 93.9,
+        "length": 272,
+        "name": "Your Flex",
+        "pop": 0,
+        "valence": 67.5
+    }
+}
